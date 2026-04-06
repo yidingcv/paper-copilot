@@ -1,8 +1,9 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
+import SearchOverlay from '@/components/SearchOverlay'
 
 const CONFERENCES = [
   { id: 'arxiv', name: 'arXiv', desc: 'Preprints in AI, ML, Computer Vision, NLP' },
@@ -26,6 +27,31 @@ export default function Home() {
   const [papers, setPapers] = useState<Paper[]>([])
   const [loading, setLoading] = useState(false)
   const [hasSearched, setHasSearched] = useState(false)
+  const [expandedAbstracts, setExpandedAbstracts] = useState<Set<string>>(new Set())
+  const [searchMode, setSearchMode] = useState<'arxiv' | 'all'>('arxiv')
+
+  // Check for URL params on mount
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search)
+      const author = params.get('author')
+      if (author) {
+        setSearchQuery(author)
+        setSearchMode('all')
+        setHasSearched(true)
+      }
+    }
+  }, [])
+
+  const toggleAbstract = (paperId: string) => {
+    const newExpanded = new Set(expandedAbstracts)
+    if (newExpanded.has(paperId)) {
+      newExpanded.delete(paperId)
+    } else {
+      newExpanded.add(paperId)
+    }
+    setExpandedAbstracts(newExpanded)
+  }
 
   const searchArxiv = async (query: string) => {
     if (!query.trim()) return
@@ -51,6 +77,10 @@ export default function Home() {
         const id = entry.querySelector('id')?.textContent || ''
         const published = entry.querySelector('published')?.textContent || ''
         const arxivId = id.split('/').pop() || ''
+        const categories = Array.from(entry.querySelectorAll('category'))
+          .map(c => c.getAttribute('term') || '')
+          .filter(Boolean)
+        const primaryCategory = categories[0] || ''
 
         results.push({
           id: `arxiv-${arxivId}`,
@@ -60,6 +90,8 @@ export default function Home() {
           authors,
           abstract: summary,
           arxivId,
+          tags: categories,
+          category: primaryCategory,
         })
       })
 
@@ -74,7 +106,10 @@ export default function Home() {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()
-    searchArxiv(searchQuery)
+    if (searchMode === 'arxiv') {
+      searchArxiv(searchQuery)
+    }
+    // 'all' mode is handled by SearchOverlay component
   }
 
   return (
@@ -92,6 +127,27 @@ export default function Home() {
           />
           <button type="submit">Search</button>
         </form>
+        <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', marginTop: '0.75rem' }}>
+          <label style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer' }}>
+            <input
+              type="radio"
+              name="searchMode"
+              checked={searchMode === 'arxiv'}
+              onChange={() => setSearchMode('arxiv')}
+            />
+            <span style={{ fontSize: '0.9em' }}>arXiv only</span>
+          </label>
+          <label style={{ display: 'flex', alignItems: 'center', gap: '0.25rem', cursor: 'pointer' }}>
+            <input
+              type="radio"
+              name="searchMode"
+              checked={searchMode === 'all'}
+              onChange={() => setSearchMode('all')}
+            />
+            <span style={{ fontSize: '0.9em' }}>All venues</span>
+          </label>
+        </div>
+        {searchMode === 'all' && <SearchOverlay />}
       </section>
 
       {/* Main Content */}
@@ -161,19 +217,56 @@ export default function Home() {
                       {paper.authors?.slice(0, 3).join(', ')}
                       {paper.authors && paper.authors.length > 3 ? ' et al.' : ''}
                     </p>
-                    <p className="abstract">{paper.abstract}</p>
                     <div className="paper-meta">
                       <span className="paper-tag">arXiv</span>
                       {paper.year && <span className="paper-tag">{paper.year}</span>}
+                      {paper.category && <span className="paper-tag" style={{ background: 'var(--primary)', color: 'white' }}>{paper.category}</span>}
+                    </div>
+                    <p className="abstract" style={{ marginTop: '0.75em' }}>
+                      {paper.abstract && paper.abstract.length > 300 ? (
+                        expandedAbstracts.has(paper.id) ? (
+                          paper.abstract
+                        ) : (
+                          <>
+                            {paper.abstract.slice(0, 300)}...
+                            <button
+                              onClick={() => toggleAbstract(paper.id)}
+                              style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.9em', padding: 0, marginLeft: '0.25em' }}
+                            >
+                              Show more
+                            </button>
+                          </>
+                        )
+                      ) : paper.abstract}
+                    </p>
+                    {paper.abstract && paper.abstract.length > 300 && expandedAbstracts.has(paper.id) && (
+                      <button
+                        onClick={() => toggleAbstract(paper.id)}
+                        style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.9em', padding: 0, marginTop: '0.25em' }}
+                      >
+                        Show less
+                      </button>
+                    )}
+                    <div className="paper-links" style={{ marginTop: '0.75em', display: 'flex', gap: '1rem' }}>
                       {paper.arxivId && (
-                        <a
-                          href={`https://arxiv.org/abs/${paper.arxivId}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="paper-link"
-                        >
-                          View on arXiv →
-                        </a>
+                        <>
+                          <a
+                            href={`https://arxiv.org/abs/${paper.arxivId}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="paper-link"
+                          >
+                            arXiv Abstract →
+                          </a>
+                          <a
+                            href={`https://arxiv.org/pdf/${paper.arxivId}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="paper-link"
+                          >
+                            PDF ↓
+                          </a>
+                        </>
                       )}
                     </div>
                   </article>

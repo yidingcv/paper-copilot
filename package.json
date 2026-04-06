@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build-search-index.js && next build",
+    "build:index": "node scripts/build-search-index.js",
     "start": "next start"
   },
   "dependencies": {

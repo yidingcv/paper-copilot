@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
+import { downloadBibtex } from '@/lib/bibtex'
 
 const VENUE_INFO: Record<string, { name: string; desc: string }> = {
   arxiv: { name: 'arXiv', desc: 'Preprints in cs.AI, cs.LG, cs.CV, cs.CL' },
@@ -42,6 +43,32 @@ export default function VenueClient({ venue }: VenueClientProps) {
   const [availableYears, setAvailableYears] = useState<string[]>([])
   const [currentPage, setCurrentPage] = useState(1)
   const [pageSize, setPageSize] = useState(50)
+  const [selectedPapers, setSelectedPapers] = useState<Set<string>>(new Set())
+
+  const togglePaperSelection = (paperId: string) => {
+    const newSelected = new Set(selectedPapers)
+    if (newSelected.has(paperId)) {
+      newSelected.delete(paperId)
+    } else {
+      newSelected.add(paperId)
+    }
+    setSelectedPapers(newSelected)
+  }
+
+  const toggleSelectAll = () => {
+    if (selectedPapers.size === displayedPapers.length) {
+      setSelectedPapers(new Set())
+    } else {
+      setSelectedPapers(new Set(displayedPapers.map(p => p.id)))
+    }
+  }
+
+  const handleExportBibtex = () => {
+    const papersToExport = papers.filter(p => selectedPapers.has(p.id))
+    if (papersToExport.length > 0) {
+      downloadBibtex(papersToExport, `${venue}-papers.bib`)
+    }
+  }
 
   const venueInfo = VENUE_INFO[venue] || { name: venue, desc: '' }
 
@@ -56,6 +83,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
 
   useEffect(() => {
     setCurrentPage(1)
+    setSelectedPapers(new Set())
   }, [startYear, endYear])
 
   useEffect(() => {
@@ -163,12 +191,41 @@ export default function VenueClient({ venue }: VenueClientProps) {
         ) : papers.length > 0 ? (
           <>
             <div className="papers-controls" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '1rem' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                <input
+                  type="checkbox"
+                  checked={selectedPapers.size === displayedPapers.length && displayedPapers.length > 0}
+                  onChange={toggleSelectAll}
+                  style={{ width: '16px', height: '16px', cursor: 'pointer' }}
+                  title="Select all on this page"
+                />
                 <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>
                   Showing {startIndex + 1}-{Math.min(endIndex, papers.length)} of {papers.length} papers
                 </span>
+                {selectedPapers.size > 0 && (
+                  <span style={{ color: 'var(--primary)', fontSize: '0.9em', fontWeight: 500 }}>
+                    ({selectedPapers.size} selected)
+                  </span>
+                )}
               </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                {selectedPapers.size > 0 && (
+                  <button
+                    onClick={handleExportBibtex}
+                    style={{
+                      padding: '0.4em 1em',
+                      borderRadius: '6px',
+                      border: '1px solid var(--primary)',
+                      background: 'var(--primary)',
+                      color: 'white',
+                      cursor: 'pointer',
+                      fontWeight: 500,
+                      fontSize: '0.9em',
+                    }}
+                  >
+                    Export BibTeX ({selectedPapers.size})
+                  </button>
+                )}
                 <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>Per page:</span>
                 <select
                   value={pageSize}
@@ -184,22 +241,42 @@ export default function VenueClient({ venue }: VenueClientProps) {
 
             <div className="papers-list">
               {displayedPapers.map((paper) => (
-                <article key={paper.id} className="paper-item">
-                  <h3 className="paper-title">{paper.title}</h3>
+                <article key={paper.id} className="paper-item" style={{ paddingLeft: selectedPapers.has(paper.id) ? '0.5rem' : '1rem', borderLeft: selectedPapers.has(paper.id) ? '3px solid var(--primary)' : '3px solid transparent', transition: 'border-color 0.2s' }}>
+                  <div style={{ display: 'flex', alignItems: 'flex-start', gap: '0.75rem' }}>
+                    <input
+                      type="checkbox"
+                      checked={selectedPapers.has(paper.id)}
+                      onChange={() => togglePaperSelection(paper.id)}
+                      style={{ width: '16px', height: '16px', marginTop: '0.25rem', cursor: 'pointer', flexShrink: 0 }}
+                    />
+                    <div style={{ flex: 1 }}>
+                      <h3 className="paper-title">{paper.title}</h3>
                   <p className="paper-authors">
-                    {paper.authors?.join(', ')}
+                    {paper.authors?.map((author, idx) => (
+                      <span key={idx}>
+                        <Link
+                          href={`/?author=${encodeURIComponent(author)}`}
+                          style={{ color: 'var(--primary)', textDecoration: 'none' }}
+                        >
+                          {author}
+                        </Link>
+                        {idx < (paper.authors?.length || 0) - 1 ? ', ' : ''}
+                      </span>
+                    ))}
                   </p>
                   <div className="paper-meta">
-                    {paper.url && (
-                      <a
-                        href={paper.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="paper-link"
-                      >
-                        View Paper →
-                      </a>
-                    )}
+                        {paper.url && (
+                          <a
+                            href={paper.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="paper-link"
+                          >
+                            View Paper →
+                          </a>
+                        )}
+                      </div>
+                    </div>
                   </div>
                 </article>
               ))}
