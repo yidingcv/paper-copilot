@@ -76,7 +76,7 @@ export default function Home() {
       <header className="header">
         <div className="header-inner">
           <Link href="/" className="logo">
-            Paper Copilot<span className="logo-dot"></span>
+            Paper CC<span className="logo-dot"></span>
           </Link>
           <nav>
             <ul className="nav">

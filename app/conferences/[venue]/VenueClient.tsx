@@ -4,14 +4,14 @@ import { useState } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
 
-const VENUE_INFO: Record<string, { name: string; desc: string; icon: string }> = {
-  arxiv: { name: 'arXiv', desc: 'Preprints in cs.AI, cs.LG, cs.CV, cs.CL', icon: '📚' },
-  neurips: { name: 'NeurIPS', desc: 'Neural Information Processing Systems', icon: '🧠' },
-  iclr: { name: 'ICLR', desc: 'International Conference on Learning Representations', icon: '🔬' },
-  icml: { name: 'ICML', desc: 'International Conference on Machine Learning', icon: '📊' },
-  cvpr: { name: 'CVPR', desc: 'Computer Vision and Pattern Recognition', icon: '👁️' },
-  iccv: { name: 'ICCV', desc: 'International Conference on Computer Vision', icon: '📷' },
-  eccv: { name: 'ECCV', desc: 'European Conference on Computer Vision', icon: '🎯' },
+const VENUE_INFO: Record<string, { name: string; desc: string }> = {
+  arxiv: { name: 'arXiv', desc: 'Preprints in cs.AI, cs.LG, cs.CV, cs.CL' },
+  neurips: { name: 'NeurIPS', desc: 'Neural Information Processing Systems' },
+  iclr: { name: 'ICLR', desc: 'International Conference on Learning Representations' },
+  icml: { name: 'ICML', desc: 'International Conference on Machine Learning' },
+  cvpr: { name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
+  iccv: { name: 'ICCV', desc: 'International Conference on Computer Vision' },
+  eccv: { name: 'ECCV', desc: 'European Conference on Computer Vision' },
 }
 
 interface VenueClientProps {
@@ -75,7 +75,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
         <Link href="/conferences" className="back-link">← Back to Conferences</Link>
 
         <div className="venue-header">
-          <h1>{venueInfo.icon} {venueInfo.name}</h1>
+          <h1>{venueInfo.name}</h1>
           <p>{venueInfo.desc}</p>
         </div>
 

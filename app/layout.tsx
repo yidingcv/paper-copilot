@@ -3,7 +3,7 @@ import Link from 'next/link'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Paper Copilot',
+  title: 'Paper CC',
   description: 'Track research papers from top AI/ML conferences and arXiv',
 }
 
@@ -12,8 +12,7 @@ function Header() {
     <header className="header">
       <div className="header-inner">
         <Link href="/" className="logo">
-          <div className="logo-icon">📚</div>
-          Paper Copilot
+          Paper CC<span className="logo-dot"></span>
         </Link>
         <nav className="nav">
           <Link href="/">Home</Link>
@@ -28,7 +27,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-inner">
-        <p>© 2024 Paper Copilot. Powered by <a href="https://arxiv.org" target="_blank" rel="noopener">arXiv</a> & <a href="https://openreview.net" target="_blank" rel="noopener">OpenReview</a></p>
+        <p>© 2024 Paper CC. Powered by <a href="https://arxiv.org" target="_blank" rel="noopener">arXiv</a> & <a href="https://openreview.net" target="_blank" rel="noopener">OpenReview</a></p>
         <p>Daily auto-update via GitHub Actions</p>
       </div>
     </footer>

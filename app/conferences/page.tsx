@@ -1,13 +1,13 @@
 import Link from 'next/link'
 
 const VENUES = [
-  { id: 'arxiv', name: 'arXiv', desc: 'cs.AI, cs.LG, cs.CV, cs.CL', icon: '📚' },
-  { id: 'neurips', name: 'NeurIPS', desc: '2024, 2023', icon: '🧠' },
-  { id: 'iclr', name: 'ICLR', desc: '2025, 2024, 2023', icon: '🔬' },
-  { id: 'icml', name: 'ICML', desc: '2024, 2023', icon: '📊' },
-  { id: 'cvpr', name: 'CVPR', desc: '2024, 2023', icon: '👁️' },
-  { id: 'iccv', name: 'ICCV', desc: '2023, 2021', icon: '📷' },
-  { id: 'eccv', name: 'ECCV', desc: '2024, 2022', icon: '🎯' },
+  { id: 'arxiv', name: 'arXiv', desc: 'Preprints in AI, ML, Computer Vision, NLP' },
+  { id: 'neurips', name: 'NeurIPS', desc: 'Neural Information Processing Systems' },
+  { id: 'iclr', name: 'ICLR', desc: 'International Conference on Learning Representations' },
+  { id: 'icml', name: 'ICML', desc: 'International Conference on Machine Learning' },
+  { id: 'cvpr', name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
+  { id: 'iccv', name: 'ICCV', desc: 'International Conference on Computer Vision' },
+  { id: 'eccv', name: 'ECCV', desc: 'European Conference on Computer Vision' },
 ]
 
 export default function ConferencesPage() {
@@ -30,7 +30,7 @@ export default function ConferencesPage() {
               href={`/conferences/${venue.id}`}
               className="card"
             >
-              <div className={`card-icon ${venue.id === 'arxiv' ? 'purple' : ''}`}>{venue.icon}</div>
+              <div className="card-acronym">{venue.id.toUpperCase()}</div>
               <h3>{venue.name}</h3>
               <p>{venue.desc}</p>
             </Link>
