@@ -12,7 +12,10 @@ const CONFERENCES = [
   { id: 'cvpr', name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
   { id: 'iccv', name: 'ICCV', desc: 'International Conference on Computer Vision' },
   { id: 'eccv', name: 'ECCV', desc: 'European Conference on Computer Vision' },
-  { id: 'tpami', name: 'TPAMI', desc: 'IEEE Transactions on Pattern Analysis' },
+]
+
+const JOURNALS = [
+  { id: 'tpami', name: 'TPAMI', desc: 'IEEE Transactions on Pattern Analysis and Machine Intelligence' },
   { id: 'tip', name: 'TIP', desc: 'IEEE Transactions on Image Processing' },
   { id: 'tmm', name: 'TMM', desc: 'IEEE Transactions on Multimedia' },
   { id: 'ijcv', name: 'IJCV', desc: 'International Journal of Computer Vision' },
@@ -98,7 +101,7 @@ export default function Home() {
             {/* Browse Conferences */}
             <section className="section">
               <div className="section-header">
-                <h2 className="section-title">Browse Conferences</h2>
+                <h2 className="section-title">Conferences</h2>
               </div>
               <div className="cards-grid">
                 {CONFERENCES.map((conf) => (
@@ -106,6 +109,22 @@ export default function Home() {
                     <div className="card-acronym">{conf.id.toUpperCase()}</div>
                     <h3>{conf.name}</h3>
                     <p>{conf.desc}</p>
+                  </Link>
+                ))}
+              </div>
+            </section>
+
+            {/* Browse Journals */}
+            <section className="section">
+              <div className="section-header">
+                <h2 className="section-title">Journals</h2>
+              </div>
+              <div className="cards-grid">
+                {JOURNALS.map((journal) => (
+                  <Link key={journal.id} href={`/conferences/${journal.id}`} className="card">
+                    <div className="card-acronym">{journal.id.toUpperCase()}</div>
+                    <h3>{journal.name}</h3>
+                    <p>{journal.desc}</p>
                   </Link>
                 ))}
               </div>
