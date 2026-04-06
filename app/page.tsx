@@ -82,7 +82,7 @@ export default function Home() {
       {/* Hero */}
       <section className="hero">
         <h1>Track Research Papers Effortlessly</h1>
-        <p>Search across arXiv and top AI/ML conferences in one place</p>
+        <p>Search across arXiv, top conferences, and journals in one place</p>
         <form className="hero-search" onSubmit={handleSearch}>
           <input
             type="text"

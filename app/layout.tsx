@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Paper CC',
-  description: 'Track research papers from top AI/ML conferences and arXiv',
+  description: 'Track research papers from top AI/ML conferences, journals, and arXiv',
 }
 
 function Header() {
@@ -16,7 +16,7 @@ function Header() {
         </Link>
         <nav className="nav">
           <Link href="/">Home</Link>
-          <Link href="/conferences">Conferences</Link>
+          <Link href="/conferences">Venues</Link>
         </nav>
       </div>
     </header>

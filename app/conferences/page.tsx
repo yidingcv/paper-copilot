@@ -19,8 +19,8 @@ export default function ConferencesPage() {
     <main>
       <div className="page-header">
         <div className="container">
-          <h1>Conferences</h1>
-          <p>Browse papers from top AI/ML conferences and arXiv</p>
+          <h1>Venues</h1>
+          <p>Browse papers from top AI/ML conferences, journals, and arXiv</p>
         </div>
       </div>
 
