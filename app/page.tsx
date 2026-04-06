@@ -72,21 +72,6 @@ export default function Home() {
 
   return (
     <main>
-      {/* Header */}
-      <header className="header">
-        <div className="header-inner">
-          <Link href="/" className="logo">
-            Paper CC<span className="logo-dot"></span>
-          </Link>
-          <nav>
-            <ul className="nav">
-              <li><Link href="/">Home</Link></li>
-              <li><Link href="/conferences">Conferences</Link></li>
-            </ul>
-          </nav>
-        </div>
-      </header>
-
       {/* Hero */}
       <section className="hero">
         <h1>Track Research Papers Effortlessly</h1>
