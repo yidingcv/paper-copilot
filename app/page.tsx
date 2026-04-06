@@ -1,18 +1,17 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
 
-const VENUES = [
-  { id: 'all', name: 'All', icon: '🌐' },
-  { id: 'arxiv', name: 'arXiv', icon: '📚', purple: true },
-  { id: 'neurips', name: 'NeurIPS', icon: '🧠' },
-  { id: 'iclr', name: 'ICLR', icon: '🔬' },
-  { id: 'icml', name: 'ICML', icon: '📊' },
-  { id: 'cvpr', name: 'CVPR', icon: '👁️' },
-  { id: 'iccv', name: 'ICCV', icon: '📷' },
-  { id: 'eccv', name: 'ECCV', icon: '🎯' },
+const CONFERENCES = [
+  { id: 'arxiv', name: 'arXiv', desc: 'Preprints in AI, ML, Computer Vision, NLP' },
+  { id: 'neurips', name: 'NeurIPS', desc: 'Neural Information Processing Systems' },
+  { id: 'iclr', name: 'ICLR', desc: 'International Conference on Learning Representations' },
+  { id: 'icml', name: 'ICML', desc: 'International Conference on Machine Learning' },
+  { id: 'cvpr', name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
+  { id: 'iccv', name: 'ICCV', desc: 'International Conference on Computer Vision' },
+  { id: 'eccv', name: 'ECCV', desc: 'European Conference on Computer Vision' },
 ]
 
 export default function Home() {
@@ -20,7 +19,6 @@ export default function Home() {
   const [papers, setPapers] = useState<Paper[]>([])
   const [loading, setLoading] = useState(false)
   const [hasSearched, setHasSearched] = useState(false)
-  const [selectedVenue, setSelectedVenue] = useState('all')
 
   const searchArxiv = async (query: string) => {
     if (!query.trim()) return
@@ -34,7 +32,6 @@ export default function Home() {
       )
       const text = await response.text()
 
-      // Parse XML response
       const parser = new DOMParser()
       const doc = parser.parseFromString(text, 'text/xml')
       const entries = doc.querySelectorAll('entry')
@@ -73,12 +70,23 @@ export default function Home() {
     searchArxiv(searchQuery)
   }
 
-  const filteredPapers = selectedVenue === 'all'
-    ? papers
-    : papers.filter(p => p.venue === selectedVenue)
-
   return (
     <main>
+      {/* Header */}
+      <header className="header">
+        <div className="header-inner">
+          <Link href="/" className="logo">
+            Paper Copilot<span className="logo-dot"></span>
+          </Link>
+          <nav>
+            <ul className="nav">
+              <li><Link href="/">Home</Link></li>
+              <li><Link href="/conferences">Conferences</Link></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+
       {/* Hero */}
       <section className="hero">
         <h1>Track Research Papers Effortlessly</h1>
@@ -98,70 +106,47 @@ export default function Home() {
       <div className="main">
         {!hasSearched ? (
           <>
-            {/* Welcome */}
+            {/* Browse Conferences */}
             <section className="section">
               <div className="section-header">
                 <h2 className="section-title">Browse Conferences</h2>
               </div>
               <div className="cards-grid">
-                {VENUES.filter(v => v.id !== 'all').map((venue) => (
-                  <Link key={venue.id} href={`/conferences/${venue.id}`} className="card">
-                    <div className={`card-icon ${venue.purple ? 'purple' : ''}`}>{venue.icon}</div>
-                    <h3>{venue.name}</h3>
-                    <p>{venue.id === 'arxiv' ? 'cs.AI, cs.LG, cs.CV' : 'Papers from OpenReview'}</p>
+                {CONFERENCES.map((conf) => (
+                  <Link key={conf.id} href={`/conferences/${conf.id}`} className="card">
+                    <div className="card-acronym">{conf.id.toUpperCase()}</div>
+                    <h3>{conf.name}</h3>
+                    <p>{conf.desc}</p>
                   </Link>
                 ))}
               </div>
             </section>
 
-            {/* Quick Search */}
+            {/* Quick Search Tips */}
             <section className="section">
               <h2 className="section-title">Quick Search</h2>
-              <p style={{ color: 'var(--text)', marginBottom: '1.5rem' }}>
-                Try searching for topics like &quot;transformers&quot;, &quot;reinforcement learning&quot;, or &quot;computer vision&quot;
+              <p style={{ color: 'var(--text-muted)', marginTop: '0.75em' }}>
+                Try searching for topics like &quot;transformers&quot;, &quot;reinforcement learning&quot;, or &quot;diffusion models&quot;
               </p>
             </section>
           </>
         ) : (
           <div className="search-results">
-            <Link href="/" className="back-link">← Back to Home</Link>
+            <Link href="/" className="back-link">Back to Home</Link>
 
-            {/* Venue Filter */}
-            <div style={{ display: 'flex', gap: '0.75rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
-              {VENUES.map((venue) => (
-                <button
-                  key={venue.id}
-                  onClick={() => setSelectedVenue(venue.id)}
-                  style={{
-                    padding: '0.5rem 1rem',
-                    borderRadius: '8px',
-                    border: '1px solid',
-                    borderColor: selectedVenue === venue.id ? 'var(--primary)' : 'var(--border)',
-                    background: selectedVenue === venue.id ? 'var(--primary)' : 'white',
-                    color: selectedVenue === venue.id ? 'var(--text-darker)' : 'var(--text)',
-                    fontWeight: 500,
-                    cursor: 'pointer',
-                    transition: 'all 0.2s',
-                  }}
-                >
-                  {venue.icon} {venue.name}
-                </button>
-              ))}
-            </div>
-
-            <h2>Search Results ({filteredPapers.length})</h2>
+            <h2>Search Results ({papers.length})</h2>
 
             {loading ? (
               <div className="empty-state">
                 <p>Searching arXiv...</p>
               </div>
-            ) : filteredPapers.length === 0 ? (
+            ) : papers.length === 0 ? (
               <div className="empty-state">
                 <p>No papers found. Try a different search term.</p>
               </div>
             ) : (
               <div className="cards-grid">
-                {filteredPapers.map((paper) => (
+                {papers.map((paper) => (
                   <article key={paper.id} className="paper-card">
                     <h3>{paper.title}</h3>
                     <p className="authors">
@@ -170,7 +155,7 @@ export default function Home() {
                     </p>
                     <p className="abstract">{paper.abstract}</p>
                     <div className="paper-meta">
-                      <span className="paper-tag">{paper.venue?.toUpperCase()}</span>
+                      <span className="paper-tag">arXiv</span>
                       {paper.year && <span className="paper-tag">{paper.year}</span>}
                       {paper.arxivId && (
                         <a
@@ -179,7 +164,7 @@ export default function Home() {
                           rel="noopener noreferrer"
                           className="paper-link"
                         >
-                          arXiv →
+                          View on arXiv →
                         </a>
                       )}
                     </div>
