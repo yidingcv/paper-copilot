@@ -2,6 +2,7 @@
 
 /**
  * Fetch papers from DBLP API and save to JSON
+ * Organizes data by venue/year: /paperlists/{venue}/{venue}{year}.json
  * Usage: node scripts/fetch-dblp.js
  */
 
@@ -9,110 +10,150 @@ const fs = require('fs');
 const path = require('path');
 
 const VENUES = {
-  // CVPR: 2016-2025 (10 years)
   cvpr: {
     name: 'CVPR',
-    query: 'venue:CVPR',
+    queryFormat: 'conf/cvpr/',
     years: ['2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
   },
-  // TPAMI: 2015-2025
   tpami: {
     name: 'TPAMI',
-    query: 'venue:IEEE Trans. Pattern Anal. Mach. Intell',
+    queryFormat: 'venue:IEEE Trans. Pattern Anal. Mach. Intell year:',
     years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
+  },
+  iccv: {
+    name: 'ICCV',
+    queryFormat: 'conf/iccv/',
+    years: ['2019', '2021', '2023']
+  },
+  eccv: {
+    name: 'ECCV',
+    queryFormat: 'conf/eccv/',
+    years: ['2020', '2022', '2024']
+  },
+  neurips: {
+    name: 'NeurIPS',
+    queryFormat: 'conf/neurips/',
+    years: ['2020', '2021', '2022', '2023', '2024']
+  },
+  iclr: {
+    name: 'ICLR',
+    queryFormat: 'conf/iclr/',
+    years: ['2020', '2021', '2022', '2023', '2024', '2025']
+  },
+  icml: {
+    name: 'ICML',
+    queryFormat: 'conf/icml/',
+    years: ['2020', '2021', '2022', '2023', '2024']
   },
 };
 
 const BASE_URL = 'https://dblp.org/search/publ/api';
+const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'paperlists');
 
-async function fetchVenuePapers(venueId, venueInfo, year) {
-  // For CVPR, use conf/cvpr format; for TPAMI use venue filter
-  let query;
-  if (venueId === 'cvpr') {
-    query = `conf/cvpr/${year}`;
-  } else {
-    query = `${venueInfo.query} year:${year}`;
-  }
+// Create output directory
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
 
-  const url = `${BASE_URL}?q=${encodeURIComponent(query)}&format=json&h=100&r=200`;
-
-  console.log(`Fetching ${venueId} ${year}...`);
+async function fetchPapersPage(query, offset = 0) {
+  const url = `${BASE_URL}?q=${encodeURIComponent(query)}&format=json&h=1000&r=${offset}`;
 
   try {
     const response = await fetch(url);
     const data = await response.json();
 
     if (!data.result || !data.result.hits || !data.result.hits.hit) {
-      console.log(`  No results for ${venueId} ${year}`);
-      return [];
+      return { papers: [], total: 0 };
     }
 
     const hits = data.result.hits.hit;
-    console.log(`  Found ${hits.length} papers`);
+    const total = parseInt(data.result.hits['@total']) || hits.length;
 
-    return hits.map(hit => {
-      const info = hit.info;
-      return {
-        id: info.url ? info.url.split('/').pop() : `paper-${Date.now()}-${Math.random()}`,
-        title: info.title || '',
-        authors: info.authors ? (Array.isArray(info.authors.author) ? info.authors.author.map(a => a.text) : [info.authors.author.text]) : [],
-        abstract: info.abstract || '',
-        year: year,
-        venue: venueId,
-        url: info.url || '',
-        doi: info.doi || '',
-        pages: info.pages || '',
-        volume: info.volume || '',
-        number: info.number || '',
-        journal: info.journal || '',
-        conference: info.conference || '',
-      };
-    });
+    return {
+      papers: hits.map(hit => {
+        const info = hit.info;
+        return {
+          id: info.key || `paper-${Date.now()}-${Math.random()}`,
+          title: info.title || '',
+          authors: info.authors ? (Array.isArray(info.authors.author) ? info.authors.author.map(a => a.text) : [info.authors.author.text]) : [],
+          abstract: info.abstract || '',
+          year: info.year || '',
+          venue: '',
+          url: info.url || info.ee || '',
+          doi: info.doi || '',
+          pages: info.pages || '',
+          volume: info.volume || '',
+          number: info.number || '',
+        };
+      }),
+      total
+    };
   } catch (error) {
-    console.error(`  Error fetching ${venueId} ${year}:`, error.message);
-    return [];
+    console.error(`  Error fetching offset ${offset}:`, error.message);
+    return { papers: [], total: 0 };
   }
 }
 
-async function main() {
+async function fetchVenueYearPapers(venueId, venueInfo, year) {
+  const query = venueInfo.queryFormat + year;
+  console.log(`  Fetching ${venueId} ${year}...`);
+
   const allPapers = [];
+  let offset = 0;
+  let hasMore = true;
+
+  while (hasMore) {
+    const result = await fetchPapersPage(query, offset);
+    allPapers.push(...result.papers);
+    console.log(`    Offset ${offset}: got ${result.papers.length} papers (total available: ${result.total})`);
+
+    if (result.papers.length < 1000 || offset + result.papers.length >= result.total) {
+      hasMore = false;
+    } else {
+      offset += 1000;
+      await new Promise(resolve => setTimeout(resolve, 500));
+    }
+  }
+
+  return allPapers;
+}
+
+async function main() {
+  let totalPapers = 0;
 
   for (const [venueId, venueInfo] of Object.entries(VENUES)) {
     console.log(`\n=== Fetching ${venueInfo.name} ===`);
+
+    // Create venue directory
+    const venueDir = path.join(OUTPUT_DIR, venueId);
+    if (!fs.existsSync(venueDir)) {
+      fs.mkdirSync(venueDir, { recursive: true });
+    }
+
+    let venueTotal = 0;
+
     for (const year of venueInfo.years) {
-      const papers = await fetchVenuePapers(venueId, venueInfo, year);
-      allPapers.push(...papers);
+      const papers = await fetchVenueYearPapers(venueId, venueInfo, year);
 
-      // Rate limiting - wait between requests
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      // Add venue to each paper
+      papers.forEach(p => p.venue = venueId);
+
+      // Save to JSON
+      const outputPath = path.join(venueDir, `${venueId}${year}.json`);
+      fs.writeFileSync(outputPath, JSON.stringify({ papers }, null, 2), 'utf-8');
+      console.log(`    Saved ${papers.length} papers to ${venueId}/${venueId}${year}.json`);
+
+      venueTotal += papers.length;
+
+      // Rate limiting
+      await new Promise(resolve => setTimeout(resolve, 500));
     }
+
+    console.log(`  ${venueInfo.name} total: ${venueTotal} papers`);
+    totalPapers += venueTotal;
   }
 
-  // Remove duplicates by title
-  const uniquePapers = [];
-  const seenTitles = new Set();
-  for (const paper of allPapers) {
-    const titleKey = paper.title.toLowerCase().trim();
-    if (!seenTitles.has(titleKey)) {
-      seenTitles.add(titleKey);
-      uniquePapers.push(paper);
-    }
-  }
-
-  // Sort by year descending, then by title
-  uniquePapers.sort((a, b) => {
-    if (b.year !== a.year) return b.year.localeCompare(a.year);
-    return a.title.localeCompare(b.title);
-  });
-
-  console.log(`\n=== Total: ${uniquePapers.length} unique papers ===`);
-
-  // Save to JSON
-  const outputPath = path.join(__dirname, '..', 'public', 'data', 'papers.json');
-  const output = { papers: uniquePapers };
-
-  fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`Saved to ${outputPath}`);
+  console.log(`\n=== GRAND TOTAL: ${totalPapers} papers ===`);
 }
 
 main().catch(console.error);

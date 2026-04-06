@@ -1,0 +1,4018 @@
+{
+  "papers": [
+    {
+      "id": "journals/pami/CigaleZ19",
+      "title": "Directional 3D Wavelet Transform Based on Gaussian Mixtures for the Analysis of 3D Ultrasound Ovarian Volumes.",
+      "authors": [
+        "Boris Cigale",
+        "Damjan Zazula"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CigaleZ19",
+      "doi": "10.1109/TPAMI.2017.2780248",
+      "pages": "64-77",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/BahriPZ19",
+      "title": "Robust Kronecker Component Analysis.",
+      "authors": [
+        "Mehdi Bahri",
+        "Yannis Panagakis",
+        "Stefanos Zafeiriou"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BahriPZ19",
+      "doi": "10.1109/TPAMI.2018.2881476",
+      "pages": "2365-2379",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/BaltrusaitisAM19",
+      "title": "Multimodal Machine Learning: A Survey and Taxonomy.",
+      "authors": [
+        "Tadas Baltrusaitis",
+        "Chaitanya Ahuja",
+        "Louis-Philippe Morency"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BaltrusaitisAM19",
+      "doi": "10.1109/TPAMI.2018.2798607",
+      "pages": "423-443",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/CampbellKH19",
+      "title": "Dynamic Clustering Algorithms via Small-Variance Analysis of Markov Chain Mixture Models.",
+      "authors": [
+        "Trevor Campbell",
+        "Brian Kulis",
+        "Jonathan P. How"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CampbellKH19",
+      "doi": "10.1109/TPAMI.2018.2833467",
+      "pages": "1338-1352",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/Costilla-ReyesV19",
+      "title": "Analysis of Spatio-Temporal Representations for Robust Footstep Recognition with Deep Residual Neural Networks.",
+      "authors": [
+        "Omar Costilla-Reyes",
+        "Rubén Vera-Rodríguez",
+        "Patricia Scully",
+        "Krikor B. Ozanyan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Costilla-ReyesV19",
+      "doi": "10.1109/TPAMI.2018.2799847",
+      "pages": "285-296",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/DengHG19",
+      "title": "Compressive Binary Patterns: Designing a Robust Binary Face Descriptor with Random-Field Eigenfilters.",
+      "authors": [
+        "Weihong Deng",
+        "Jiani Hu",
+        "Jun Guo 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DengHG19",
+      "doi": "10.1109/TPAMI.2018.2800008",
+      "pages": "758-767",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/GligorijevicPZ19",
+      "title": "Non-Negative Matrix Factorizations for Multiplex Network Analysis.",
+      "authors": [
+        "Vladimir Gligorijevic",
+        "Yannis Panagakis",
+        "Stefanos Zafeiriou"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GligorijevicPZ19",
+      "doi": "10.1109/TPAMI.2018.2821146",
+      "pages": "928-940",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/LiZHZ19",
+      "title": "Mixed Supervised Object Detection with Robust Objectness Transfer.",
+      "authors": [
+        "Yan Li 0043",
+        "Junge Zhang",
+        "Kaiqi Huang",
+        "Jianguo Zhang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiZHZ19",
+      "doi": "10.1109/TPAMI.2018.2810288",
+      "pages": "639-653",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/LinJCTL19",
+      "title": "Holistic CNN Compression via Low-Rank Decomposition with Knowledge Transfer.",
+      "authors": [
+        "Shaohui Lin",
+        "Rongrong Ji",
+        "Chao Chen 0026",
+        "Dacheng Tao",
+        "Jiebo Luo 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LinJCTL19",
+      "doi": "10.1109/TPAMI.2018.2873305",
+      "pages": "2889-2905",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LiuPFS19",
+      "title": "A Kronecker Product Model for Repeated Pattern Detection on 2D Urban Images.",
+      "authors": [
+        "Juan Liu 0009",
+        "Emmanouil Z. Psarakis",
+        "Yang Feng 0002",
+        "Ioannis Stamos"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuPFS19",
+      "doi": "10.1109/TPAMI.2018.2858795",
+      "pages": "2266-2272",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/LongCCWJ19",
+      "title": "Transferable Representation Learning with Deep Adaptation Networks.",
+      "authors": [
+        "Mingsheng Long",
+        "Yue Cao 0001",
+        "Zhangjie Cao",
+        "Jianmin Wang 0001",
+        "Michael I. Jordan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LongCCWJ19",
+      "doi": "10.1109/TPAMI.2018.2868685",
+      "pages": "3071-3085",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LuoWLT19",
+      "title": "Transferring Knowledge Fragments for Learning Distance Metric from a Heterogeneous Domain.",
+      "authors": [
+        "Yong Luo 0002",
+        "Yonggang Wen 0001",
+        "Tongliang Liu",
+        "Dacheng Tao"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuoWLT19",
+      "doi": "10.1109/TPAMI.2018.2824309",
+      "pages": "1013-1026",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/SuH19",
+      "title": "Order-Preserving Optimal Transport for Distances between Sequences.",
+      "authors": [
+        "Bing Su 0001",
+        "Gang Hua 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SuH19",
+      "doi": "10.1109/TPAMI.2018.2870154",
+      "pages": "2961-2974",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/0002LZT019",
+      "title": "Visual Tracking via Dynamic Graph Learning.",
+      "authors": [
+        "Chenglong Li 0002",
+        "Liang Lin",
+        "Wangmeng Zuo",
+        "Jin Tang 0001",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/0002LZT019",
+      "doi": "10.1109/TPAMI.2018.2864965",
+      "pages": "2770-2782",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/0002X00LTG19",
+      "title": "Temporal Segment Networks for Action Recognition in Videos.",
+      "authors": [
+        "Limin Wang 0002",
+        "Yuanjun Xiong",
+        "Zhe Wang 0013",
+        "Yu Qiao 0001",
+        "Dahua Lin",
+        "Xiaoou Tang",
+        "Luc Van Gool"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/0002X00LTG19",
+      "doi": "10.1109/TPAMI.2018.2868668",
+      "pages": "2740-2755",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/0004HY019",
+      "title": "Robust Visual Tracking via Hierarchical Convolutional Features.",
+      "authors": [
+        "Chao Ma 0004",
+        "Jia-Bin Huang 0001",
+        "Xiaokang Yang 0001",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/0004HY019",
+      "doi": "10.1109/TPAMI.2018.2865311",
+      "pages": "2709-2723",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/AdeliTAWSWS19",
+      "title": "Semi-Supervised Discriminative Classification Robust to Sample-Outliers and Feature-Noises.",
+      "authors": [
+        "Ehsan Adeli 0001",
+        "Kim-Han Thung",
+        "Le An",
+        "Guorong Wu 0001",
+        "Feng Shi 0001",
+        "Tao Wang",
+        "Dinggang Shen"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AdeliTAWSWS19",
+      "doi": "10.1109/TPAMI.2018.2794470",
+      "pages": "515-522",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/AgudoM19",
+      "title": "Robust Spatio-Temporal Clustering and Reconstruction of Multiple Deformable Bodies.",
+      "authors": [
+        "Antonio Agudo",
+        "Francesc Moreno-Noguer"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AgudoM19",
+      "doi": "10.1109/TPAMI.2018.2823717",
+      "pages": "971-984",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/AguinagaCW19",
+      "title": "Learning Hyperedge Replacement Grammars for Graph Generation.",
+      "authors": [
+        "Salvador Aguiñaga",
+        "David Chiang 0001",
+        "Tim Weninger"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AguinagaCW19",
+      "doi": "10.1109/TPAMI.2018.2810877",
+      "pages": "625-638",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/AjanthanHS19",
+      "title": "Memory Efficient Max Flow for Multi-Label Submodular MRFs.",
+      "authors": [
+        "Thalaiyasingam Ajanthan",
+        "Richard Hartley 0001",
+        "Mathieu Salzmann"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AjanthanHS19",
+      "doi": "10.1109/TPAMI.2018.2819675",
+      "pages": "886-900",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/AlgarniS19",
+      "title": "SurfCut: Surfaces of Minimal Paths from Topological Structures.",
+      "authors": [
+        "Marei Algarni",
+        "Ganesh Sundaramoorthi"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AlgarniS19",
+      "doi": "10.1109/TPAMI.2018.2811810",
+      "pages": "726-739",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/AnwarHP19",
+      "title": "Image Deblurring with a Class-Specific Prior.",
+      "authors": [
+        "Saeed Anwar",
+        "Cong Phuoc Huynh",
+        "Fatih Porikli"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AnwarHP19",
+      "doi": "10.1109/TPAMI.2018.2855177",
+      "pages": "2112-2130",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/ArdeshirB19",
+      "title": "Egocentric Meets Top-View.",
+      "authors": [
+        "Shervin Ardeshir",
+        "Ali Borji"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ArdeshirB19",
+      "doi": "10.1109/TPAMI.2018.2832121",
+      "pages": "1353-1366",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/ArnNEDKP19",
+      "title": "Motion Segmentation via Generalized Curvatures.",
+      "authors": [
+        "Robert T. Arn",
+        "Pradyumna Narayana",
+        "Tegan Emerson",
+        "Bruce A. Draper",
+        "Michael Kirby",
+        "Chris Peterson 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ArnNEDKP19",
+      "doi": "10.1109/TPAMI.2018.2869741",
+      "pages": "2919-2932",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/ArrigoniF19",
+      "title": "Bearing-Based Network Localizability: A Unifying View.",
+      "authors": [
+        "Federica Arrigoni",
+        "Andrea Fusiello"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ArrigoniF19",
+      "doi": "10.1109/TPAMI.2018.2848225",
+      "pages": "2049-2069",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/BaiBTL19",
+      "title": "Regularized Diffusion Process on Bidirectional Context for Object Retrieval.",
+      "authors": [
+        "Song Bai 0001",
+        "Xiang Bai",
+        "Qi Tian 0001",
+        "Longin Jan Latecki"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BaiBTL19",
+      "doi": "10.1109/TPAMI.2018.2828815",
+      "pages": "1213-1226",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/BailerTS19",
+      "title": "Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation.",
+      "authors": [
+        "Christian Bailer",
+        "Bertram Taetz",
+        "Didier Stricker"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BailerTS19",
+      "doi": "10.1109/TPAMI.2018.2859970",
+      "pages": "1879-1892",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/BarzRGD19",
+      "title": "Detecting Regions of Maximal Divergence for Spatio-Temporal Anomaly Detection.",
+      "authors": [
+        "Björn Barz",
+        "Erik Rodner",
+        "Yanira Guanche Garcia",
+        "Joachim Denzler"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BarzRGD19",
+      "doi": "10.1109/TPAMI.2018.2823766",
+      "pages": "1088-1101",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/Benitez-QuirozS19",
+      "title": "Discriminant Functional Learning of Color Features for the Recognition of Facial Action Units and Their Intensities.",
+      "authors": [
+        "Carlos F. Benitez-Quiroz",
+        "Ramprakash Srinivasan",
+        "Aleix M. Martínez"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Benitez-QuirozS19",
+      "doi": "10.1109/TPAMI.2018.2868952",
+      "pages": "2835-2845",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/BeraKS19",
+      "title": "Constant-Time Calculation of Zernike Moments for Detection with Rotational Invariance.",
+      "authors": [
+        "Aneta Bera",
+        "Przemyslaw Klesk",
+        "Dariusz Sychel"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BeraKS19",
+      "doi": "10.1109/TPAMI.2018.2803828",
+      "pages": "537-551",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/BlouvshteinC19",
+      "title": "Outlier Detection for Robust Multi-Dimensional Scaling.",
+      "authors": [
+        "Leonid Blouvshtein",
+        "Daniel Cohen-Or"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BlouvshteinC19",
+      "doi": "10.1109/TPAMI.2018.2851513",
+      "pages": "2273-2279",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/BraunKFG19",
+      "title": "EuroCity Persons: A Novel Benchmark for Person Detection in Traffic Scenes.",
+      "authors": [
+        "Markus Braun 0003",
+        "Sebastian Krebs",
+        "Fabian Flohr",
+        "Dariu M. Gavrila"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BraunKFG19",
+      "doi": "10.1109/TPAMI.2019.2897684",
+      "pages": "1844-1861",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/BylinskiiJOTD19",
+      "title": "What Do Different Evaluation Metrics Tell Us About Saliency Models?",
+      "authors": [
+        "Zoya Bylinskii",
+        "Tilke Judd",
+        "Aude Oliva",
+        "Antonio Torralba 0001",
+        "Frédo Durand"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BylinskiiJOTD19",
+      "doi": "10.1109/TPAMI.2018.2815601",
+      "pages": "740-757",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/CabreraFQ19",
+      "title": "Anthropomorphic Features for On-Line Signatures.",
+      "authors": [
+        "Moisés Díaz Cabrera",
+        "Miguel A. Ferrer",
+        "Jose J. Quintana"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CabreraFQ19",
+      "doi": "10.1109/TPAMI.2018.2869163",
+      "pages": "2807-2819",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/CakirHBS19",
+      "title": "Hashing with Mutual Information.",
+      "authors": [
+        "Fatih Çakir",
+        "Kun He 0003",
+        "Sarah Adel Bargal",
+        "Stan Sclaroff"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CakirHBS19",
+      "doi": "10.1109/TPAMI.2019.2914897",
+      "pages": "2424-2437",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/CaoHYWWT19",
+      "title": "Feedback Convolutional Neural Network for Visual Localization and Segmentation.",
+      "authors": [
+        "Chunshui Cao",
+        "Yongzhen Huang",
+        "Yi Yang 0007",
+        "Liang Wang 0001",
+        "Zilei Wang",
+        "Tieniu Tan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CaoHYWWT19",
+      "doi": "10.1109/TPAMI.2018.2843329",
+      "pages": "1627-1640",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/CaoJ19",
+      "title": "Automated Latent Fingerprint Recognition.",
+      "authors": [
+        "Kai Cao 0001",
+        "Anil K. Jain 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CaoJ19",
+      "doi": "10.1109/TPAMI.2018.2818162",
+      "pages": "788-800",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/ChenZ19",
+      "title": "Shallowing Deep Networks: Layer-Wise Pruning Based on Feature Representations.",
+      "authors": [
+        "Shi Chen 0001",
+        "Qi Zhao 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChenZ19",
+      "doi": "10.1109/TPAMI.2018.2874634",
+      "pages": "3048-3056",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/CruzFCG19",
+      "title": "Visual Permutation Learning.",
+      "authors": [
+        "Rodrigo Santa Cruz",
+        "Basura Fernando",
+        "Anoop Cherian",
+        "Stephen Gould"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CruzFCG19",
+      "doi": "10.1109/TPAMI.2018.2873701",
+      "pages": "3100-3114",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/CuiXNYZ19",
+      "title": "Recurrent Shape Regression.",
+      "authors": [
+        "Zhen Cui 0001",
+        "Shengtao Xiao",
+        "Zhiheng Niu",
+        "Shuicheng Yan",
+        "Wenming Zheng"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CuiXNYZ19",
+      "doi": "10.1109/TPAMI.2018.2828424",
+      "pages": "1271-1278",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/DaMXDXYP19",
+      "title": "Nonlinear Asymmetric Multi-Valued Hashing.",
+      "authors": [
+        "Cheng Da",
+        "Gaofeng Meng",
+        "Shiming Xiang",
+        "Kun Ding 0001",
+        "Shibiao Xu",
+        "Qing Yang 0002",
+        "Chunhong Pan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DaMXDXYP19",
+      "doi": "10.1109/TPAMI.2018.2867866",
+      "pages": "2660-2676",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/DasKGSYLMPB19",
+      "title": "Visual Dialog.",
+      "authors": [
+        "Abhishek Das 0002",
+        "Satwik Kottur",
+        "Khushi Gupta",
+        "Avi Singh",
+        "Deshraj Yadav",
+        "Stefan Lee",
+        "José M. F. Moura",
+        "Devi Parikh",
+        "Dhruv Batra"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DasKGSYLMPB19",
+      "doi": "10.1109/TPAMI.2018.2828437",
+      "pages": "1242-1256",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/Dickinson19",
+      "title": "State of the Journal.",
+      "authors": [
+        "Sven J. Dickinson"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Dickinson19",
+      "doi": "10.1109/TPAMI.2018.2879214",
+      "pages": "1-5",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/DingSF19",
+      "title": "Generative Zero-Shot Learning via Low-Rank Embedded Semantic Dictionary.",
+      "authors": [
+        "Zhengming Ding",
+        "Ming Shao",
+        "Yun Fu 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DingSF19",
+      "doi": "10.1109/TPAMI.2018.2867870",
+      "pages": "2861-2874",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/DongGZ19",
+      "title": "Imbalanced Deep Learning by Minority Class Incremental Rectification.",
+      "authors": [
+        "Qi Dong 0004",
+        "Shaogang Gong",
+        "Xiatian Zhu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DongGZ19",
+      "doi": "10.1109/TPAMI.2018.2832629",
+      "pages": "1367-1381",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/DongWYSWL19",
+      "title": "Denoising Prior Driven Deep Neural Network for Image Restoration.",
+      "authors": [
+        "Weisheng Dong",
+        "Peiyao Wang",
+        "Wotao Yin",
+        "Guangming Shi",
+        "Fangfang Wu",
+        "Xiaotong Lu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DongWYSWL19",
+      "doi": "10.1109/TPAMI.2018.2873610",
+      "pages": "2305-2318",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/DongZMYM19",
+      "title": "Few-Example Object Detection with Model Communication.",
+      "authors": [
+        "Xuanyi Dong",
+        "Liang Zheng 0001",
+        "Fan Ma",
+        "Yi Yang 0001",
+        "Deyu Meng"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DongZMYM19",
+      "doi": "10.1109/TPAMI.2018.2844853",
+      "pages": "1641-1654",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/DuanLWFZ19",
+      "title": "Learning Deep Binary Descriptor with Multi-Quantization.",
+      "authors": [
+        "Yueqi Duan",
+        "Jiwen Lu",
+        "Ziwei Wang 0001",
+        "Jianjiang Feng",
+        "Jie Zhou 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DuanLWFZ19",
+      "doi": "10.1109/TPAMI.2018.2858760",
+      "pages": "1924-1938",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/DurandTC19",
+      "title": "Exploiting Negative Evidence for Deep Latent Structured Models.",
+      "authors": [
+        "Thibaut Durand",
+        "Nicolas Thome",
+        "Matthieu Cord"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DurandTC19",
+      "doi": "10.1109/TPAMI.2017.2788435",
+      "pages": "337-351",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/DuttaEH19",
+      "title": "Segmentation of Laser Point Clouds in Urban Areas by a Modified Normalized Cut Method.",
+      "authors": [
+        "Avishek Dutta",
+        "Johannes Engels",
+        "Michael Hahn 0003"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DuttaEH19",
+      "doi": "10.1109/TPAMI.2018.2869744",
+      "pages": "3034-3047",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/EngelsmaCJ19",
+      "title": "RaspiReader: Open Source Fingerprint Reader.",
+      "authors": [
+        "Joshua J. Engelsma",
+        "Kai Cao 0001",
+        "Anil K. Jain 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/EngelsmaCJ19",
+      "doi": "10.1109/TPAMI.2018.2858764",
+      "pages": "2511-2524",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/FangLY19",
+      "title": "Piecewise Flat Embedding for Image Segmentation.",
+      "authors": [
+        "Chaowei Fang",
+        "Zicheng Liao",
+        "Yizhou Yu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FangLY19",
+      "doi": "10.1109/TPAMI.2018.2839733",
+      "pages": "1470-1485",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/FasquelD19",
+      "title": "A Graph Based Image Interpretation Method Using A Priori Qualitative Inclusion and Photometric Relationships.",
+      "authors": [
+        "Jean-Baptiste Fasquel",
+        "Nicolas Delanoue"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FasquelD19",
+      "doi": "10.1109/TPAMI.2018.2827939",
+      "pages": "1043-1055",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/FinlaysonGF19",
+      "title": "Color Homography: Theory and Applications.",
+      "authors": [
+        "Graham D. Finlayson",
+        "Han Gong",
+        "Robert B. Fisher"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FinlaysonGF19",
+      "doi": "10.1109/TPAMI.2017.2760833",
+      "pages": "20-33",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/FouheyGZ19",
+      "title": "From Images to 3D Shape Attributes.",
+      "authors": [
+        "David F. Fouhey",
+        "Abhinav Gupta 0001",
+        "Andrew Zisserman"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FouheyGZ19",
+      "doi": "10.1109/TPAMI.2017.2782810",
+      "pages": "93-106",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/FuHSSH19",
+      "title": "Anchor-Free Correlated Topic Modeling.",
+      "authors": [
+        "Xiao Fu 0001",
+        "Kejun Huang",
+        "Nicholas D. Sidiropoulos",
+        "Qingjiang Shi",
+        "Mingyi Hong 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FuHSSH19",
+      "doi": "10.1109/TPAMI.2018.2827377",
+      "pages": "1056-1071",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/FunkeTGSSST19",
+      "title": "Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction.",
+      "authors": [
+        "Jan Funke",
+        "Fabian Tschopp",
+        "William Grisaitis",
+        "Arlo Sheridan",
+        "Chandan Singh",
+        "Stephan Saalfeld",
+        "Srinivas C. Turaga"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FunkeTGSSST19",
+      "doi": "10.1109/TPAMI.2018.2835450",
+      "pages": "1669-1680",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/GaoWJNZH19",
+      "title": "Video Imprint.",
+      "authors": [
+        "Zhanning Gao",
+        "Le Wang 0003",
+        "Nebojsa Jojic",
+        "Zhenxing Niu",
+        "Nanning Zheng 0001",
+        "Gang Hua 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GaoWJNZH19",
+      "doi": "10.1109/TPAMI.2018.2866114",
+      "pages": "3086-3099",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/GeLYT19",
+      "title": "Real-Time 3D Hand Pose Estimation with 3D Convolutional Neural Networks.",
+      "authors": [
+        "Liuhao Ge",
+        "Hui Liang 0003",
+        "Junsong Yuan 0001",
+        "Daniel Thalmann"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GeLYT19",
+      "doi": "10.1109/TPAMI.2018.2827052",
+      "pages": "956-970",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/GellaKL19",
+      "title": "Disambiguating Visual Verbs.",
+      "authors": [
+        "Spandana Gella",
+        "Frank Keller",
+        "Mirella Lapata"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GellaKL19",
+      "doi": "10.1109/TPAMI.2017.2786699",
+      "pages": "311-322",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/GhesuGZGMHC19",
+      "title": "Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans.",
+      "authors": [
+        "Florin C. Ghesu",
+        "Bogdan Georgescu",
+        "Yefeng Zheng 0001",
+        "Sasa Grbic",
+        "Andreas K. Maier",
+        "Joachim Hornegger",
+        "Dorin Comaniciu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GhesuGZGMHC19",
+      "doi": "10.1109/TPAMI.2017.2782687",
+      "pages": "176-189",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/Griffin19",
+      "title": "The Atlas Structure of Images.",
+      "authors": [
+        "Lewis D. Griffin"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Griffin19",
+      "doi": "10.1109/TPAMI.2017.2777856",
+      "pages": "234-245",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/GuanLZTD19",
+      "title": "Truncated Cauchy Non-Negative Matrix Factorization.",
+      "authors": [
+        "Naiyang Guan",
+        "Tongliang Liu",
+        "Yangmuzi Zhang",
+        "Dacheng Tao",
+        "Larry S. Davis"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GuanLZTD19",
+      "doi": "10.1109/TPAMI.2017.2777841",
+      "pages": "246-259",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/GuoZCJZ19",
+      "title": "CNN-Based Real-Time Dense Face Reconstruction with Inverse-Rendered Photo-Realistic Face Images.",
+      "authors": [
+        "Yudong Guo",
+        "Juyong Zhang",
+        "Jianfei Cai 0001",
+        "Boyi Jiang",
+        "Jianmin Zheng"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GuoZCJZ19",
+      "doi": "10.1109/TPAMI.2018.2837742",
+      "pages": "1294-1307",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/HadfieldLB19",
+      "title": "HARD-PnP: PnP Optimization Using a Hybrid Approximate Representation.",
+      "authors": [
+        "Simon Hadfield",
+        "Karel Lebeda",
+        "Richard Bowden"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HadfieldLB19",
+      "doi": "10.1109/TPAMI.2018.2806446",
+      "pages": "768-774",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/HanLJSC19",
+      "title": "Tattoo Image Search at Scale: Joint Detection and Compact Representation Learning.",
+      "authors": [
+        "Hu Han 0001",
+        "Jie Li",
+        "Anil K. Jain 0001",
+        "Shiguang Shan",
+        "Xilin Chen 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HanLJSC19",
+      "doi": "10.1109/TPAMI.2019.2891584",
+      "pages": "2333-2348",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/HeWST19",
+      "title": "Wasserstein CNN: Learning Invariant Features for NIR-VIS Face Recognition.",
+      "authors": [
+        "Ran He 0001",
+        "Xiang Wu 0001",
+        "Zhenan Sun",
+        "Tieniu Tan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HeWST19",
+      "doi": "10.1109/TPAMI.2018.2842770",
+      "pages": "1761-1773",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/HeoLY19",
+      "title": "Distance Encoded Product Quantization for Approximate K-Nearest Neighbor Search in High-Dimensional Space.",
+      "authors": [
+        "Jae-Pil Heo",
+        "Zhe Lin 0001",
+        "Sung-Eui Yoon"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HeoLY19",
+      "doi": "10.1109/TPAMI.2018.2853161",
+      "pages": "2084-2097",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/HouCHBTT19",
+      "title": "Deeply Supervised Salient Object Detection with Short Connections.",
+      "authors": [
+        "Qibin Hou",
+        "Ming-Ming Cheng",
+        "Xiaowei Hu 0003",
+        "Ali Borji",
+        "Zhuowen Tu",
+        "Philip H. S. Torr"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HouCHBTT19",
+      "doi": "10.1109/TPAMI.2018.2815688",
+      "pages": "815-828",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/HouZH19",
+      "title": "Safe Classification with Augmented Features.",
+      "authors": [
+        "Chenping Hou",
+        "Ling-Li Zeng",
+        "Dewen Hu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HouZH19",
+      "doi": "10.1109/TPAMI.2018.2849378",
+      "pages": "2176-2192",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/HuZM0LZ19",
+      "title": "Early Action Prediction by Soft Regression.",
+      "authors": [
+        "Jianfang Hu",
+        "Wei-Shi Zheng 0001",
+        "Lianyang Ma",
+        "Gang Wang 0012",
+        "Jianhuang Lai",
+        "Jianguo Zhang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HuZM0LZ19",
+      "doi": "10.1109/TPAMI.2018.2863279",
+      "pages": "2568-2583",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/Huang0Z19",
+      "title": "Fast Multi-Instance Multi-Label Learning.",
+      "authors": [
+        "Sheng-Jun Huang",
+        "Wei Gao 0008",
+        "Zhi-Hua Zhou"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Huang0Z19",
+      "doi": "10.1109/TPAMI.2018.2861732",
+      "pages": "2614-2627",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/Huang19",
+      "title": "Empirical Bayesian Light-Field Stereo Matching by Robust Pseudo Random Field Modeling.",
+      "authors": [
+        "Chao-Tsung Huang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Huang19",
+      "doi": "10.1109/TPAMI.2018.2809502",
+      "pages": "552-565",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/HuntW19",
+      "title": "Online Data Thinning via Multi-Subspace Tracking.",
+      "authors": [
+        "Xin Jiang Hunt",
+        "Rebecca Willett"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HuntW19",
+      "doi": "10.1109/TPAMI.2018.2829189",
+      "pages": "1173-1187",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/IdroboVKT19",
+      "title": "Recursive Nearest Agglomeration (ReNA): Fast Clustering for Approximation of Structured Signals.",
+      "authors": [
+        "Andrés Hoyos Idrobo",
+        "Gaël Varoquaux",
+        "Jonas Kahn",
+        "Bertrand Thirion"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/IdroboVKT19",
+      "doi": "10.1109/TPAMI.2018.2815524",
+      "pages": "669-681",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/ImHCJJK19",
+      "title": "Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras.",
+      "authors": [
+        "Sunghoon Im",
+        "Hyowon Ha",
+        "Gyeongmin Choe",
+        "Hae-Gon Jeon",
+        "Kyungdon Joo",
+        "In So Kweon"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ImHCJJK19",
+      "doi": "10.1109/TPAMI.2018.2819679",
+      "pages": "775-787",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/JaberiPF19",
+      "title": "Sparse One-Grab Sampling with Probabilistic Guarantees.",
+      "authors": [
+        "Maryam Jaberi",
+        "Marianna Pensky",
+        "Hassan Foroosh"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/JaberiPF19",
+      "doi": "10.1109/TPAMI.2018.2871850",
+      "pages": "3057-3070",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/JauerKBSE19",
+      "title": "Efficient Registration of High-Resolution Feature Enhanced Point Clouds.",
+      "authors": [
+        "Philipp Jauer",
+        "Ivo Kuhlemann",
+        "Ralf Bruder",
+        "Achim Schweikard",
+        "Floris Ernst"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/JauerKBSE19",
+      "doi": "10.1109/TPAMI.2018.2831670",
+      "pages": "1102-1115",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/JayaramanG19",
+      "title": "End-to-End Policy Learning for Active Visual Categorization.",
+      "authors": [
+        "Dinesh Jayaraman",
+        "Kristen Grauman"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/JayaramanG19",
+      "doi": "10.1109/TPAMI.2018.2840991",
+      "pages": "1601-1614",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/JeonPCPBTK19",
+      "title": "Depth from a Light Field Image with Learning-Based Matching Costs.",
+      "authors": [
+        "Hae-Gon Jeon",
+        "Jaesik Park",
+        "Gyeongmin Choe",
+        "Jinsun Park",
+        "Yunsu Bok",
+        "Yu-Wing Tai",
+        "In So Kweon"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/JeonPCPBTK19",
+      "doi": "10.1109/TPAMI.2018.2794979",
+      "pages": "297-310",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/JooOKK19",
+      "title": "Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time.",
+      "authors": [
+        "Kyungdon Joo",
+        "Tae-Hyun Oh",
+        "Junsik Kim 0001",
+        "In So Kweon"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/JooOKK19",
+      "doi": "10.1109/TPAMI.2018.2799944",
+      "pages": "682-696",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/JooSLLTGBGNMKNS19",
+      "title": "Panoptic Studio: A Massively Multiview System for Social Interaction Capture.",
+      "authors": [
+        "Hanbyul Joo",
+        "Tomas Simon",
+        "Xulong Li 0001",
+        "Hao Liu",
+        "Lei Tan",
+        "Lin Gui",
+        "Sean Banerjee",
+        "Timothy Godisart",
+        "Bart C. Nabbe",
+        "Iain A. Matthews",
+        "Takeo Kanade",
+        "Shohei Nobuhara",
+        "Yaser Sheikh"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/JooSLLTGBGNMKNS19",
+      "doi": "10.1109/TPAMI.2017.2782743",
+      "pages": "190-204",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/KafaiE19",
+      "title": "CROification: Accurate Kernel Classification with the Efficiency of Sparse Linear SVM.",
+      "authors": [
+        "Mehran Kafai",
+        "Kave Eshghi"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KafaiE19",
+      "doi": "10.1109/TPAMI.2017.2785313",
+      "pages": "34-48",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/KaranamGWRCR19",
+      "title": "A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets.",
+      "authors": [
+        "Srikrishna Karanam",
+        "Mengran Gou",
+        "Ziyan Wu 0001",
+        "Angels Rates-Borras",
+        "Octavia I. Camps",
+        "Richard J. Radke"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KaranamGWRCR19",
+      "doi": "10.1109/TPAMI.2018.2807450",
+      "pages": "523-536",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/KimMHLS19",
+      "title": "FCSS: Fully Convolutional Self-Similarity for Dense Semantic Correspondence.",
+      "authors": [
+        "Seungryong Kim",
+        "Dongbo Min",
+        "Bumsub Ham",
+        "Stephen Lin 0001",
+        "Kwanghoon Sohn"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KimMHLS19",
+      "doi": "10.1109/TPAMI.2018.2803169",
+      "pages": "581-595",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/KimiaLGT19",
+      "title": "Differential Geometry in Edge Detection: Accurate Estimation of Position, Orientation and Curvature.",
+      "authors": [
+        "Benjamin B. Kimia",
+        "Xiaoyan Li",
+        "Yuliang Guo",
+        "Amir Tamrakar"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KimiaLGT19",
+      "doi": "10.1109/TPAMI.2018.2846268",
+      "pages": "1573-1586",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LaiHA019",
+      "title": "Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.",
+      "authors": [
+        "Wei-Sheng Lai",
+        "Jia-Bin Huang 0001",
+        "Narendra Ahuja",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LaiHA019",
+      "doi": "10.1109/TPAMI.2018.2865304",
+      "pages": "2599-2613",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/LeeYO19",
+      "title": "Head and Body Orientation Estimation Using Convolutional Random Projection Forests.",
+      "authors": [
+        "Donghoon Lee 0004",
+        "Ming-Hsuan Yang 0001",
+        "Songhwai Oh"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LeeYO19",
+      "doi": "10.1109/TPAMI.2017.2784424",
+      "pages": "107-120",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/LiHAY19",
+      "title": "Joint Image Filtering with Deep Convolutional Networks.",
+      "authors": [
+        "Yijun Li 0001",
+        "Jia-Bin Huang 0001",
+        "Narendra Ahuja",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiHAY19",
+      "doi": "10.1109/TPAMI.2018.2890623",
+      "pages": "1909-1923",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LiMXL19",
+      "title": "Image Projective Invariants.",
+      "authors": [
+        "Erbo Li",
+        "Hanlin Mo",
+        "Dong Xu 0008",
+        "Hua Li 0009"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiMXL19",
+      "doi": "10.1109/TPAMI.2018.2832060",
+      "pages": "1144-1157",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/LiTM19",
+      "title": "Deep Collaborative Embedding for Social Image Understanding.",
+      "authors": [
+        "Zechao Li",
+        "Jinhui Tang 0001",
+        "Tao Mei 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiTM19",
+      "doi": "10.1109/TPAMI.2018.2852750",
+      "pages": "2070-2083",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/LiWDWLZ19",
+      "title": "Dynamic Structure Embedded Online Multiple-Output Regression for Streaming Data.",
+      "authors": [
+        "Changsheng Li",
+        "Fan Wei",
+        "Weishan Dong",
+        "Xiangfeng Wang 0001",
+        "Qingshan Liu 0001",
+        "Xin Zhang 0008"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiWDWLZ19",
+      "doi": "10.1109/TPAMI.2018.2794446",
+      "pages": "323-336",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/LiWDYLZ19",
+      "title": "Joint Active Learning with Feature Selection via CUR Matrix Decomposition.",
+      "authors": [
+        "Changsheng Li",
+        "Xiangfeng Wang 0001",
+        "Weishan Dong",
+        "Junchi Yan",
+        "Qingshan Liu 0001",
+        "Hongyuan Zha"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiWDYLZ19",
+      "doi": "10.1109/TPAMI.2018.2840980",
+      "pages": "1382-1396",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/LiZ19",
+      "title": "Semi-Supervised Domain Adaptation by Covariance Matching.",
+      "authors": [
+        "Limin Li",
+        "Zhenyue Zhang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiZ19",
+      "doi": "10.1109/TPAMI.2018.2866846",
+      "pages": "2724-2739",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/LiZJWWYTR19",
+      "title": "Multi-Task Structure-Aware Context Modeling for Robust Keypoint-Based Object Tracking.",
+      "authors": [
+        "Xi Li 0001",
+        "Liming Zhao",
+        "Wei Ji 0008",
+        "Yiming Wu 0005",
+        "Fei Wu 0001",
+        "Ming-Hsuan Yang 0001",
+        "Dacheng Tao",
+        "Ian Reid 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiZJWWYTR19",
+      "doi": "10.1109/TPAMI.2018.2818132",
+      "pages": "915-927",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/LiZTYHC19",
+      "title": "Deep Supervision with Intermediate Concepts.",
+      "authors": [
+        "Chi Li",
+        "M. Zeeshan Zia",
+        "Quoc-Huy Tran",
+        "Xiang Yu 0002",
+        "Gregory D. Hager",
+        "Manmohan Chandraker"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiZTYHC19",
+      "doi": "10.1109/TPAMI.2018.2863285",
+      "pages": "1828-1843",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LiZWL19",
+      "title": "Physically-Based Simulation of Cosmetics via Intrinsic Image Decomposition with Facial Priors.",
+      "authors": [
+        "Chen Li 0031",
+        "Kun Zhou 0001",
+        "Hsiang-Tao Wu",
+        "Stephen Lin 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiZWL19",
+      "doi": "10.1109/TPAMI.2018.2832059",
+      "pages": "1455-1469",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/LiangCMSC19",
+      "title": "Unifying Visual Attribute Learning with Object Recognition in a Multiplicative Framework.",
+      "authors": [
+        "Kongming Liang",
+        "Hong Chang 0001",
+        "Bingpeng Ma",
+        "Shiguang Shan",
+        "Xilin Chen 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiangCMSC19",
+      "doi": "10.1109/TPAMI.2018.2836461",
+      "pages": "1747-1760",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LiangGSL19",
+      "title": "Look into Person: Joint Body Parsing &amp; Pose Estimation Network and a New Benchmark.",
+      "authors": [
+        "Xiaodan Liang",
+        "Ke Gong",
+        "Xiaohui Shen",
+        "Liang Lin"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiangGSL19",
+      "doi": "10.1109/TPAMI.2018.2820063",
+      "pages": "871-885",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/LiangHST19",
+      "title": "Aggregating Randomized Clustering-Promoting Invariant Projections for Domain Adaptation.",
+      "authors": [
+        "Jian Liang 0001",
+        "Ran He 0001",
+        "Zhenan Sun",
+        "Tieniu Tan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiangHST19",
+      "doi": "10.1109/TPAMI.2018.2832198",
+      "pages": "1027-1042",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/LiangJCKLH19",
+      "title": "Focal Visual-Text Attention for Memex Question Answering.",
+      "authors": [
+        "Junwei Liang 0001",
+        "Lu Jiang 0004",
+        "Liangliang Cao",
+        "Yannis Kalantidis",
+        "Li-Jia Li 0001",
+        "Alexander G. Hauptmann"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiangJCKLH19",
+      "doi": "10.1109/TPAMI.2018.2890628",
+      "pages": "1893-1908",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LimL19",
+      "title": "Patchmatch-Based Robust Stereo Matching Under Radiometric Changes.",
+      "authors": [
+        "Jaeseung Lim",
+        "Sankeun Lee 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LimL19",
+      "doi": "10.1109/TPAMI.2018.2819662",
+      "pages": "1203-1212",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/LinLCZS19",
+      "title": "Unsupervised Deep Learning of Compact Binary Descriptors.",
+      "authors": [
+        "Kevin Lin",
+        "Jiwen Lu",
+        "Chu-Song Chen",
+        "Jie Zhou 0001",
+        "Ming-Ting Sun"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LinLCZS19",
+      "doi": "10.1109/TPAMI.2018.2833865",
+      "pages": "1501-1514",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/LiuCHBZBT19",
+      "title": "Richer Convolutional Features for Edge Detection.",
+      "authors": [
+        "Yun Liu 0011",
+        "Ming-Ming Cheng",
+        "Xiaowei Hu 0003",
+        "Jia-Wang Bian",
+        "Le Zhang 0001",
+        "Xiang Bai",
+        "Jinhui Tang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuCHBZBT19",
+      "doi": "10.1109/TPAMI.2018.2878849",
+      "pages": "1939-1946",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LiuJWS19",
+      "title": "Ordinal Constraint Binary Coding for Approximate Nearest Neighbor Search.",
+      "authors": [
+        "Hong Liu 0009",
+        "Rongrong Ji",
+        "Jingdong Wang 0001",
+        "Chunhua Shen"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuJWS19",
+      "doi": "10.1109/TPAMI.2018.2819978",
+      "pages": "941-955",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/LiuPCZWC19",
+      "title": "Guest Editors&apos; Introduction to the Special Section on Compact and Efficient Feature Representation and Learning in Computer Vision.",
+      "authors": [
+        "Li Liu 0002",
+        "Matti Pietikäinen",
+        "Jie Chen 0001",
+        "Guoying Zhao 0001",
+        "Xiaogang Wang 0001",
+        "Rama Chellappa"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuPCZWC19",
+      "doi": "10.1109/TPAMI.2019.2935426",
+      "pages": "2287-2290",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/LiuWB19",
+      "title": "Exploiting Unlabeled Data in CNNs by Self-Supervised Learning to Rank.",
+      "authors": [
+        "Xialei Liu",
+        "Joost van de Weijer 0001",
+        "Andrew D. Bagdanov"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuWB19",
+      "doi": "10.1109/TPAMI.2019.2899857",
+      "pages": "1862-1878",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LiuXTZ19",
+      "title": "Metric Learning for Multi-Output Tasks.",
+      "authors": [
+        "Weiwei Liu 0003",
+        "Donna Xu",
+        "Ivor W. Tsang",
+        "Wenjie Zhang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuXTZ19",
+      "doi": "10.1109/TPAMI.2018.2794976",
+      "pages": "408-422",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/LiuYSBD19",
+      "title": "Rank Minimization for Snapshot Compressive Imaging.",
+      "authors": [
+        "Yang Liu 0146",
+        "Xin Yuan 0002",
+        "Jin-Li Suo",
+        "David J. Brady",
+        "Qionghai Dai"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuYSBD19",
+      "doi": "10.1109/TPAMI.2018.2873587",
+      "pages": "2990-3006",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LiuZLWTYSWG19",
+      "title": "Late Fusion Incomplete Multi-View Clustering.",
+      "authors": [
+        "Xinwang Liu 0002",
+        "Xinzhong Zhu",
+        "Miaomiao Li 0001",
+        "Lei Wang 0001",
+        "Chang Tang",
+        "Jianping Yin",
+        "Dinggang Shen",
+        "Huaimin Wang 0001",
+        "Wen Gao 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuZLWTYSWG19",
+      "doi": "10.1109/TPAMI.2018.2879108",
+      "pages": "2410-2423",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/LuFLMY19",
+      "title": "Subspace Clustering by Block Diagonal Representation.",
+      "authors": [
+        "Canyi Lu",
+        "Jiashi Feng",
+        "Zhouchen Lin",
+        "Tao Mei 0001",
+        "Shuicheng Yan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuFLMY19",
+      "doi": "10.1109/TPAMI.2018.2794348",
+      "pages": "487-501",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/LuoZZXWL19",
+      "title": "ThiNet: Pruning CNN Filters for a Thinner Net.",
+      "authors": [
+        "Jian-Hao Luo",
+        "Hao Zhang 0038",
+        "Hong-Yu Zhou",
+        "Chen-Wei Xie",
+        "Jianxin Wu 0001",
+        "Weiyao Lin"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuoZZXWL19",
+      "doi": "10.1109/TPAMI.2018.2858232",
+      "pages": "2525-2538",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/MaiCYJ19",
+      "title": "On the Reconstruction of Face Images from Deep Face Templates.",
+      "authors": [
+        "Guangcan Mai",
+        "Kai Cao 0001",
+        "Pong C. Yuen",
+        "Anil K. Jain 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MaiCYJ19",
+      "doi": "10.1109/TPAMI.2018.2827389",
+      "pages": "1188-1202",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/ManinisCCPLCG19",
+      "title": "Video Object Segmentation without Temporal Information.",
+      "authors": [
+        "Kevis-Kokitsi Maninis",
+        "Sergi Caelles",
+        "Yuhua Chen",
+        "Jordi Pont-Tuset",
+        "Laura Leal-Taixé",
+        "Daniel Cremers",
+        "Luc Van Gool"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ManinisCCPLCG19",
+      "doi": "10.1109/TPAMI.2018.2838670",
+      "pages": "1515-1530",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/MannaKBJSV19",
+      "title": "Error Backprojection Algorithms for Non-Line-of-Sight Imaging.",
+      "authors": [
+        "Marco La Manna",
+        "Fiona Kine",
+        "Eric Breitbach",
+        "Jonathan Jackson",
+        "Talha Sultan",
+        "Andreas Velten"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MannaKBJSV19",
+      "doi": "10.1109/TPAMI.2018.2843363",
+      "pages": "1615-1626",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/MaoLXLWS19",
+      "title": "On the Effectiveness of Least Squares Generative Adversarial Networks.",
+      "authors": [
+        "Xudong Mao",
+        "Qing Li 0001",
+        "Haoran Xie 0001",
+        "Raymond Y. K. Lau",
+        "Zhen Wang 0004",
+        "Stephen Paul Smolley"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MaoLXLWS19",
+      "doi": "10.1109/TPAMI.2018.2872043",
+      "pages": "2947-2960",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/MarinTAB19",
+      "title": "Kernel Clustering: Density Biases and Solutions.",
+      "authors": [
+        "Dmitrii Marin",
+        "Meng Tang 0001",
+        "Ismail Ben Ayed",
+        "Yuri Boykov"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MarinTAB19",
+      "doi": "10.1109/TPAMI.2017.2780166",
+      "pages": "136-147",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/Martinho-Corbishley19",
+      "title": "Super-Fine Attributes with Crowd Prototyping.",
+      "authors": [
+        "Daniel Martinho-Corbishley",
+        "Mark S. Nixon",
+        "John N. Carter"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Martinho-Corbishley19",
+      "doi": "10.1109/TPAMI.2018.2836900",
+      "pages": "1486-1500",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/MasiCCHKKLRWHAM19",
+      "title": "Learning Pose-Aware Models for Pose-Invariant Face Recognition in the Wild.",
+      "authors": [
+        "Iacopo Masi",
+        "Feng-Ju Chang",
+        "Jongmoo Choi",
+        "Shai Harel",
+        "Jungyeon Kim",
+        "KangGeon Kim",
+        "Jatuporn Toy Leksut",
+        "Stephen Rawls",
+        "Yue Wu 0001",
+        "Tal Hassner",
+        "Wael AbdAlmageed",
+        "Gérard G. Medioni",
+        "Louis-Philippe Morency",
+        "Prem Natarajan",
+        "Ram Nevatia"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MasiCCHKKLRWHAM19",
+      "doi": "10.1109/TPAMI.2018.2792452",
+      "pages": "379-393",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/MequanintAP19",
+      "title": "Dominant Sets for &quot;Constrained&quot; Image Segmentation.",
+      "authors": [
+        "Eyasu Zemene Mequanint",
+        "Leulseged Tesfaye Alemu",
+        "Marcello Pelillo"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MequanintAP19",
+      "doi": "10.1109/TPAMI.2018.2858243",
+      "pages": "2438-2451",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/MiyatoMKI19",
+      "title": "Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning.",
+      "authors": [
+        "Takeru Miyato",
+        "Shin-ichi Maeda",
+        "Masanori Koyama",
+        "Shin Ishii"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MiyatoMKI19",
+      "doi": "10.1109/TPAMI.2018.2858821",
+      "pages": "1979-1993",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/MopuriGB19",
+      "title": "Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations.",
+      "authors": [
+        "Konda Reddy Mopuri",
+        "Aditya Ganeshan",
+        "R. Venkatesh Babu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MopuriGB19",
+      "doi": "10.1109/TPAMI.2018.2861800",
+      "pages": "2452-2465",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/NelKM19",
+      "title": "Ticker: An Adaptive Single-Switch Text Entry Method for Visually Impaired Users.",
+      "authors": [
+        "Emli-Mari Nel",
+        "Per Ola Kristensson",
+        "David J. C. MacKay"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/NelKM19",
+      "doi": "10.1109/TPAMI.2018.2865897",
+      "pages": "2756-2769",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/OyallonZHKLBB19",
+      "title": "Scattering Networks for Hybrid Representation Learning.",
+      "authors": [
+        "Edouard Oyallon",
+        "Sergey Zagoruyko",
+        "Gabriel Huang",
+        "Nikos Komodakis",
+        "Simon Lacoste-Julien",
+        "Matthew B. Blaschko",
+        "Eugene Belilovsky"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/OyallonZHKLBB19",
+      "doi": "10.1109/TPAMI.2018.2855738",
+      "pages": "2208-2221",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/PalazziACSC19",
+      "title": "Predicting the Driver&apos;s Focus of Attention: The DR(eye)VE Project.",
+      "authors": [
+        "Andrea Palazzi",
+        "Davide Abati",
+        "Simone Calderara",
+        "Francesco Solera",
+        "Rita Cucchiara"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PalazziACSC19",
+      "doi": "10.1109/TPAMI.2018.2845370",
+      "pages": "1720-1733",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/PanRHY19",
+      "title": "Learning to Deblur Images with Exemplars.",
+      "authors": [
+        "Jinshan Pan",
+        "Wenqi Ren",
+        "Zhe Hu",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PanRHY19",
+      "doi": "10.1109/TPAMI.2018.2832125",
+      "pages": "1412-1425",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/ParkKK19",
+      "title": "Towards Personalized Image Captioning via Multimodal Memory Networks.",
+      "authors": [
+        "Cesc Chunseong Park",
+        "Byeongchang Kim 0002",
+        "Gunhee Kim"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ParkKK19",
+      "doi": "10.1109/TPAMI.2018.2824816",
+      "pages": "999-1012",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/ParkY19",
+      "title": "Learning and Selecting Confidence Measures for Robust Stereo Matching.",
+      "authors": [
+        "Min-Gyu Park",
+        "Kuk-Jin Yoon"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ParkY19",
+      "doi": "10.1109/TPAMI.2018.2837760",
+      "pages": "1397-1411",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/PillonettoSV19",
+      "title": "Distributed Multi-Agent Gaussian Regression via Finite-Dimensional Approximations.",
+      "authors": [
+        "Gianluigi Pillonetto",
+        "Luca Schenato 0001",
+        "Damiano Varagnolo"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PillonettoSV19",
+      "doi": "10.1109/TPAMI.2018.2836422",
+      "pages": "2098-2111",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/QiZQHYLY19",
+      "title": "Hedging Deep Features for Visual Tracking.",
+      "authors": [
+        "Yuankai Qi",
+        "Shengping Zhang",
+        "Lei Qin",
+        "Qingming Huang",
+        "Hongxun Yao",
+        "Jongwoo Lim",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/QiZQHYLY19",
+      "doi": "10.1109/TPAMI.2018.2828817",
+      "pages": "1116-1130",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/RadenovicTC19",
+      "title": "Fine-Tuning CNN Image Retrieval with No Human Annotation.",
+      "authors": [
+        "Filip Radenovic",
+        "Giorgos Tolias",
+        "Ondrej Chum"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RadenovicTC19",
+      "doi": "10.1109/TPAMI.2018.2846566",
+      "pages": "1655-1668",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/RanjanPC19",
+      "title": "HyperFace: A Deep Multi-Task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition.",
+      "authors": [
+        "Rajeev Ranjan 0003",
+        "Vishal M. Patel",
+        "Rama Chellappa"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RanjanPC19",
+      "doi": "10.1109/TPAMI.2017.2781233",
+      "pages": "121-135",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/RaoLLZ19",
+      "title": "Runtime Network Routing for Efficient Image Classification.",
+      "authors": [
+        "Yongming Rao",
+        "Jiwen Lu",
+        "Ji Lin 0002",
+        "Jie Zhou 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RaoLLZ19",
+      "doi": "10.1109/TPAMI.2018.2878258",
+      "pages": "2291-2304",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/ResoJRO19",
+      "title": "Occlusion-Aware Method for Temporally Consistent Superpixels.",
+      "authors": [
+        "Matthias Reso",
+        "Jörn Jachalsky",
+        "Bodo Rosenhahn",
+        "Jörn Ostermann"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ResoJRO19",
+      "doi": "10.1109/TPAMI.2018.2832628",
+      "pages": "1441-1454",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/RetsinasLSG19",
+      "title": "Efficient Learning-Free Keyword Spotting.",
+      "authors": [
+        "George Retsinas",
+        "Georgios Louloudis",
+        "Nikolaos Stamatopoulos",
+        "Basilis Gatos"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RetsinasLSG19",
+      "doi": "10.1109/TPAMI.2018.2845880",
+      "pages": "1587-1600",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/RichardWebsterA19",
+      "title": "PsyPhy: A Psychophysics Driven Evaluation Framework for Visual Recognition.",
+      "authors": [
+        "Brandon RichardWebster",
+        "Samuel E. Anthony",
+        "Walter J. Scheirer"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RichardWebsterA19",
+      "doi": "10.1109/TPAMI.2018.2849989",
+      "pages": "2280-2286",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/RoccoAS19",
+      "title": "Convolutional Neural Network Architecture for Geometric Matching.",
+      "authors": [
+        "Ignacio Rocco",
+        "Relja Arandjelovic",
+        "Josef Sivic"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RoccoAS19",
+      "doi": "10.1109/TPAMI.2018.2865351",
+      "pages": "2553-2567",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/RozantsevSF19",
+      "title": "Beyond Sharing Weights for Deep Domain Adaptation.",
+      "authors": [
+        "Artem Rozantsev",
+        "Mathieu Salzmann",
+        "Pascal Fua"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RozantsevSF19",
+      "doi": "10.1109/TPAMI.2018.2814042",
+      "pages": "801-814",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/SanginetoNCS19",
+      "title": "Self Paced Deep Learning for Weakly Supervised Object Detection.",
+      "authors": [
+        "Enver Sangineto",
+        "Moin Nabi",
+        "Dubravko Culibrk",
+        "Nicu Sebe"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SanginetoNCS19",
+      "doi": "10.1109/TPAMI.2018.2804907",
+      "pages": "712-725",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/SansoneNZ19",
+      "title": "Efficient Training for Positive Unlabeled Learning.",
+      "authors": [
+        "Emanuele Sansone",
+        "Francesco G. B. De Natale",
+        "Zhi-Hua Zhou"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SansoneNZ19",
+      "doi": "10.1109/TPAMI.2018.2860995",
+      "pages": "2584-2598",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/SchluterBN19",
+      "title": "Upper and Lower Tight Error Bounds for Feature Omission with an Extension to Context Reduction.",
+      "authors": [
+        "Ralf Schlüter",
+        "Eugen Beck",
+        "Hermann Ney"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SchluterBN19",
+      "doi": "10.1109/TPAMI.2017.2788434",
+      "pages": "502-514",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/SettiC19",
+      "title": "Evaluating the Group Detection Performance: The GRODE Metrics.",
+      "authors": [
+        "Francesco Setti",
+        "Marco Cristani"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SettiC19",
+      "doi": "10.1109/TPAMI.2018.2806970",
+      "pages": "566-580",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/ShengCCPN19",
+      "title": "Visibility Constrained Generative Model for Depth-Based 3D Facial Pose Tracking.",
+      "authors": [
+        "Lu Sheng",
+        "Jianfei Cai 0001",
+        "Tat-Jen Cham",
+        "Vladimir Pavlovic 0001",
+        "King Ngi Ngan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShengCCPN19",
+      "doi": "10.1109/TPAMI.2018.2877675",
+      "pages": "1994-2007",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ShiMWDYT19",
+      "title": "A Benchmark Dataset and Evaluation for Non-Lambertian and Uncalibrated Photometric Stereo.",
+      "authors": [
+        "Boxin Shi",
+        "Zhipeng Mo",
+        "Zhe Wu",
+        "Dinglong Duan",
+        "Sai-Kit Yeung",
+        "Ping Tan 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShiMWDYT19",
+      "doi": "10.1109/TPAMI.2018.2799222",
+      "pages": "271-284",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ShiYWLYB19",
+      "title": "ASTER: An Attentional Scene Text Recognizer with Flexible Rectification.",
+      "authors": [
+        "Baoguang Shi",
+        "Mingkun Yang",
+        "Xinggang Wang",
+        "Pengyuan Lyu",
+        "Cong Yao",
+        "Xiang Bai"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShiYWLYB19",
+      "doi": "10.1109/TPAMI.2018.2848939",
+      "pages": "2035-2048",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/SmithRT19",
+      "title": "Height-from-Polarisation with Unknown Lighting or Albedo.",
+      "authors": [
+        "William A. P. Smith",
+        "Ravi Ramamoorthi",
+        "Silvia Tozza"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SmithRT19",
+      "doi": "10.1109/TPAMI.2018.2868065",
+      "pages": "2875-2888",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/SonHC19",
+      "title": "Solving Square Jigsaw Puzzle by Hierarchical Loop Constraints.",
+      "authors": [
+        "Kilho Son",
+        "James Hays",
+        "David B. Cooper"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SonHC19",
+      "doi": "10.1109/TPAMI.2018.2857776",
+      "pages": "2222-2235",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/SoomroIS19",
+      "title": "Online Localization and Prediction of Actions and Interactions.",
+      "authors": [
+        "Khurram Soomro",
+        "Haroon Idrees",
+        "Mubarak Shah"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SoomroIS19",
+      "doi": "10.1109/TPAMI.2018.2797266",
+      "pages": "459-472",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/TalkerMS19",
+      "title": "Estimating the Number of Correct Matches Using Only Spatial Order.",
+      "authors": [
+        "Lior Talker",
+        "Yael Moses",
+        "Ilan Shimshoni"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TalkerMS19",
+      "doi": "10.1109/TPAMI.2018.2869560",
+      "pages": "2846-2860",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/TanakaMFKMY19",
+      "title": "Material Classification from Time-of-Flight Distortions.",
+      "authors": [
+        "Kenichiro Tanaka",
+        "Yasuhiro Mukaigawa",
+        "Takuya Funatomi",
+        "Hiroyuki Kubo",
+        "Yasuyuki Matsushita",
+        "Yasushi Yagi"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TanakaMFKMY19",
+      "doi": "10.1109/TPAMI.2018.2869885",
+      "pages": "2906-2918",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/TangSLJT19",
+      "title": "Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging.",
+      "authors": [
+        "Jinhui Tang 0001",
+        "Xiangbo Shu",
+        "Zechao Li",
+        "Yu-Gang Jiang 0001",
+        "Qi Tian 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TangSLJT19",
+      "doi": "10.1109/TPAMI.2019.2906603",
+      "pages": "2027-2034",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/TangYYTKKKS19",
+      "title": "Opening the Black Box: Hierarchical Sampling Optimization for Hand Pose Estimation.",
+      "authors": [
+        "Danhang Tang",
+        "Qi Ye 0001",
+        "Shanxin Yuan",
+        "Jonathan Taylor 0001",
+        "Pushmeet Kohli",
+        "Cem Keskin",
+        "Tae-Kyun Kim 0001",
+        "Jamie Shotton"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TangYYTKKKS19",
+      "doi": "10.1109/TPAMI.2018.2847688",
+      "pages": "2161-2175",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/TengC19",
+      "title": "A Fast Frequent Directions Algorithm for Low Rank Approximation.",
+      "authors": [
+        "Dan Teng",
+        "Delin Chu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TengC19",
+      "doi": "10.1109/TPAMI.2018.2839198",
+      "pages": "1279-1293",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/TereninMJD19",
+      "title": "Pólya Urn Latent Dirichlet Allocation: A Doubly Sparse Massively Parallel Sampler.",
+      "authors": [
+        "Alexander Terenin",
+        "Måns Magnusson",
+        "Leif Jonsson",
+        "David Draper"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TereninMJD19",
+      "doi": "10.1109/TPAMI.2018.2832641",
+      "pages": "1709-1719",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/TianDS19",
+      "title": "On Detection, Data Association and Segmentation for Multi-Target Tracking.",
+      "authors": [
+        "Yicong Tian",
+        "Afshin Dehghan",
+        "Mubarak Shah"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TianDS19",
+      "doi": "10.1109/TPAMI.2018.2849374",
+      "pages": "2146-2160",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/TianFZWSLL19",
+      "title": "Active Camera Relocalization from a Single Reference Image without Hand-Eye Calibration.",
+      "authors": [
+        "Fei-Peng Tian",
+        "Wei Feng 0005",
+        "Qian Zhang 0051",
+        "Xiaowei Wang",
+        "Jizhou Sun",
+        "Vincenzo Loia",
+        "Zhi-Qiang Liu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TianFZWSLL19",
+      "doi": "10.1109/TPAMI.2018.2870646",
+      "pages": "2791-2806",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/TianZQ19",
+      "title": "Max-Margin Majority Voting for Learning from Crowds.",
+      "authors": [
+        "Tian Tian 0001",
+        "Jun Zhu 0001",
+        "You Qiaoben"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TianZQ19",
+      "doi": "10.1109/TPAMI.2018.2860987",
+      "pages": "2480-2494",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/TjadenSSC19",
+      "title": "A Region-Based Gauss-Newton Approach to Real-Time Monocular Multiple Object Tracking.",
+      "authors": [
+        "Henning Tjaden",
+        "Ulrich Schwanecke",
+        "Elmar Schömer",
+        "Daniel Cremers"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TjadenSSC19",
+      "doi": "10.1109/TPAMI.2018.2884990",
+      "pages": "1797-1812",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/TranYL19",
+      "title": "Representation Learning by Rotating Your Faces.",
+      "authors": [
+        "Luan Tran",
+        "Xi Yin 0001",
+        "Xiaoming Liu 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TranYL19",
+      "doi": "10.1109/TPAMI.2018.2868350",
+      "pages": "3007-3021",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/VaskeviciusB19",
+      "title": "Revisiting Superquadric Fitting: A Numerically Stable Formulation.",
+      "authors": [
+        "Narunas Vaskevicius",
+        "Andreas Birk 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/VaskeviciusB19",
+      "doi": "10.1109/TPAMI.2017.2779493",
+      "pages": "220-233",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/VongkulbhisalTC19",
+      "title": "Discriminative Optimization: Theory and Applications to Computer Vision.",
+      "authors": [
+        "Jayakorn Vongkulbhisal",
+        "Fernando De la Torre",
+        "João Paulo Costeira"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/VongkulbhisalTC19",
+      "doi": "10.1109/TPAMI.2018.2826536",
+      "pages": "829-843",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/WanWHJY19",
+      "title": "Min-Entropy Latent Model for Weakly Supervised Object Detection.",
+      "authors": [
+        "Fang Wan 0001",
+        "Pengxu Wei",
+        "Zhenjun Han",
+        "Jianbin Jiao",
+        "Qixiang Ye"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WanWHJY19",
+      "doi": "10.1109/TPAMI.2019.2898858",
+      "pages": "2395-2409",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/WangD019",
+      "title": "Cross-Generation Kinship Verification with Sparse Discriminative Metric.",
+      "authors": [
+        "Shuyang Wang",
+        "Zhengming Ding",
+        "Yun Fu 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangD019",
+      "doi": "10.1109/TPAMI.2018.2861871",
+      "pages": "2783-2790",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/WangGWH19",
+      "title": "Label Consistent Matrix Factorization Hashing for Large-Scale Cross-Modal Similarity Search.",
+      "authors": [
+        "Di Wang 0011",
+        "Xinbo Gao 0001",
+        "Xiumei Wang 0002",
+        "Lihuo He"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangGWH19",
+      "doi": "10.1109/TPAMI.2018.2861000",
+      "pages": "2466-2479",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/WangLD19",
+      "title": "Calibrating Classification Probabilities with Shape-Restricted Polynomial Regression.",
+      "authors": [
+        "Yongqiao Wang",
+        "Lishuai Li",
+        "Chuangyin Dang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangLD19",
+      "doi": "10.1109/TPAMI.2019.2895794",
+      "pages": "1813-1827",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/WangLHL19",
+      "title": "Learning Two-Branch Neural Networks for Image-Text Matching Tasks.",
+      "authors": [
+        "Liwei Wang 0009",
+        "Yin Li 0003",
+        "Jing Huang 0014",
+        "Svetlana Lazebnik"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangLHL19",
+      "doi": "10.1109/TPAMI.2018.2797921",
+      "pages": "394-407",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/WangM19",
+      "title": "Probabilistic Dimensionality Reduction via Structure Learning.",
+      "authors": [
+        "Li Wang 0033",
+        "Qi Mao 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangM19",
+      "doi": "10.1109/TPAMI.2017.2785402",
+      "pages": "205-219",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/WangSL19",
+      "title": "A Deep Network Solution for Attention and Aesthetics Aware Photo Cropping.",
+      "authors": [
+        "Wenguan Wang",
+        "Jianbing Shen",
+        "Haibin Ling"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangSL19",
+      "doi": "10.1109/TPAMI.2018.2840724",
+      "pages": "1531-1544",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/WangSPY19",
+      "title": "Semi-Supervised Video Object Segmentation with Super-Trajectories.",
+      "authors": [
+        "Wenguan Wang",
+        "Jianbing Shen",
+        "Fatih Porikli",
+        "Ruigang Yang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangSPY19",
+      "doi": "10.1109/TPAMI.2018.2819173",
+      "pages": "985-998",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/WangTLCP19",
+      "title": "Atomic Representation-Based Classification: Theory, Algorithm, and Applications.",
+      "authors": [
+        "Yulong Wang 0002",
+        "Yuan Yan Tang",
+        "Luoqing Li",
+        "Hong Chen 0004",
+        "Jianjia Pan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangTLCP19",
+      "doi": "10.1109/TPAMI.2017.2780094",
+      "pages": "6-19",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/WangWLY19",
+      "title": "Robust 3D Human Pose Estimation from Single Images or Video Sequences.",
+      "authors": [
+        "Chunyu Wang 0001",
+        "Yizhou Wang 0001",
+        "Zhouchen Lin",
+        "Alan L. Yuille"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangWLY19",
+      "doi": "10.1109/TPAMI.2018.2828427",
+      "pages": "1227-1241",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/WangWLZR19",
+      "title": "Salient Object Detection with Recurrent Fully Convolutional Networks.",
+      "authors": [
+        "Linzhao Wang",
+        "Lijun Wang",
+        "Huchuan Lu",
+        "Pingping Zhang",
+        "Xiang Ruan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangWLZR19",
+      "doi": "10.1109/TPAMI.2018.2846598",
+      "pages": "1734-1746",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/WangXHSWZ19",
+      "title": "High-Speed Hyperspectral Video Acquisition By Combining Nyquist and Compressive Sampling.",
+      "authors": [
+        "Lizhi Wang 0001",
+        "Zhiwei Xiong",
+        "Hua Huang 0001",
+        "Guangming Shi",
+        "Feng Wu 0001",
+        "Wenjun Zeng 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangXHSWZ19",
+      "doi": "10.1109/TPAMI.2018.2817496",
+      "pages": "857-870",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/WangXXT19",
+      "title": "Packing Convolutional Neural Networks in the Frequency Domain.",
+      "authors": [
+        "Yunhe Wang 0001",
+        "Chang Xu 0002",
+        "Chao Xu 0006",
+        "Dacheng Tao"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangXXT19",
+      "doi": "10.1109/TPAMI.2018.2857824",
+      "pages": "2495-2510",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/WangXYS19",
+      "title": "Searching for Representative Modes on Hypergraphs for Robust Geometric Model Fitting.",
+      "authors": [
+        "Hanzi Wang",
+        "Guobao Xiao",
+        "Yan Yan 0001",
+        "David Suter"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangXYS19",
+      "doi": "10.1109/TPAMI.2018.2803173",
+      "pages": "697-711",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/WangYCFYS19",
+      "title": "Recurrent Face Aging with Hierarchical AutoRegressive Memory.",
+      "authors": [
+        "Wei Wang 0108",
+        "Yan Yan 0002",
+        "Zhen Cui 0001",
+        "Jiashi Feng",
+        "Shuicheng Yan",
+        "Nicu Sebe"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangYCFYS19",
+      "doi": "10.1109/TPAMI.2018.2803166",
+      "pages": "654-668",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/WangZ19",
+      "title": "Composite Quantization.",
+      "authors": [
+        "Jingdong Wang 0001",
+        "Ting Zhang 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangZ19",
+      "doi": "10.1109/TPAMI.2018.2835468",
+      "pages": "1308-1322",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/WangZLPPADDDOV19",
+      "title": "DeepIGeoS: A Deep Interactive Geodesic Framework for Medical Image Segmentation.",
+      "authors": [
+        "Guotai Wang",
+        "Maria A. Zuluaga",
+        "Wenqi Li 0001",
+        "Rosalind Pratt",
+        "Premal A. Patel",
+        "Michael Aertsen",
+        "Tom Doel",
+        "Anna L. David",
+        "Jan Deprest",
+        "Sébastien Ourselin",
+        "Tom Vercauteren"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangZLPPADDDOV19",
+      "doi": "10.1109/TPAMI.2018.2840695",
+      "pages": "1559-1572",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/WhangHGD19",
+      "title": "Non-Exhaustive, Overlapping Clustering.",
+      "authors": [
+        "Joyce Jiyoung Whang",
+        "Yangyang Hou",
+        "David F. Gleich",
+        "Inderjit S. Dhillon"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WhangHGD19",
+      "doi": "10.1109/TPAMI.2018.2863278",
+      "pages": "2644-2659",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/WuG19",
+      "title": "ℓpℓp-Box ADMM: A Versatile Framework for Integer Programming.",
+      "authors": [
+        "Baoyuan Wu",
+        "Bernard Ghanem"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WuG19",
+      "doi": "10.1109/TPAMI.2018.2845842",
+      "pages": "1695-1708",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/WuLFDC19",
+      "title": "Light Field Reconstruction Using Convolutional Network on EPI and Extended Applications.",
+      "authors": [
+        "Gaochang Wu",
+        "Yebin Liu",
+        "Lu Fang 0001",
+        "Qionghai Dai",
+        "Tianyou Chai"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WuLFDC19",
+      "doi": "10.1109/TPAMI.2018.2845393",
+      "pages": "1681-1694",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/XianLSA19",
+      "title": "Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly.",
+      "authors": [
+        "Yongqin Xian",
+        "Christoph H. Lampert",
+        "Bernt Schiele",
+        "Zeynep Akata"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XianLSA19",
+      "doi": "10.1109/TPAMI.2018.2857768",
+      "pages": "2251-2265",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/XiongJG19",
+      "title": "Pixel Objectness: Learning to Segment Generic Objects Automatically in Images and Videos.",
+      "authors": [
+        "Bo Xiong",
+        "Suyog Dutt Jain",
+        "Kristen Grauman"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XiongJG19",
+      "doi": "10.1109/TPAMI.2018.2865794",
+      "pages": "2677-2692",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/XuDS19",
+      "title": "Two-Stream Region Convolutional 3D Network for Temporal Activity Detection.",
+      "authors": [
+        "Huijuan Xu 0001",
+        "Abir Das",
+        "Kate Saenko"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuDS19",
+      "doi": "10.1109/TPAMI.2019.2921539",
+      "pages": "2319-2332",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/XuGWLY19",
+      "title": "Personalized Saliency and Its Prediction.",
+      "authors": [
+        "Yanyu Xu 0001",
+        "Shenghua Gao",
+        "Junru Wu",
+        "Nianyi Li",
+        "Jingyi Yu 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuGWLY19",
+      "doi": "10.1109/TPAMI.2018.2866563",
+      "pages": "2975-2989",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/XuROWS19",
+      "title": "Monocular Depth Estimation Using Multi-Scale Continuous CRFs as Sequential Deep Networks.",
+      "authors": [
+        "Dan Xu 0002",
+        "Elisa Ricci 0001",
+        "Wanli Ouyang",
+        "Xiaogang Wang 0001",
+        "Nicu Sebe"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuROWS19",
+      "doi": "10.1109/TPAMI.2018.2839602",
+      "pages": "1426-1440",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/XuSWQHW19",
+      "title": "Predicting Head Movement in Panoramic Video: A Deep Reinforcement Learning Approach.",
+      "authors": [
+        "Mai Xu",
+        "Yuhang Song 0001",
+        "Jianyi Wang",
+        "Minglang Qiao",
+        "Liangyu Huo",
+        "Zulin Wang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuSWQHW19",
+      "doi": "10.1109/TPAMI.2018.2858783",
+      "pages": "2693-2708",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/XuXCHY19",
+      "title": "From Social to Individuals: A Parsimonious Path of Multi-Level Models for Crowdsourced Preference Aggregation.",
+      "authors": [
+        "Qianqian Xu 0001",
+        "Jiechao Xiong",
+        "Xiaochun Cao",
+        "Qingming Huang",
+        "Yuan Yao 0011"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuXCHY19",
+      "doi": "10.1109/TPAMI.2018.2817205",
+      "pages": "844-856",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/XueDCPZ19",
+      "title": "Side Information for Face Completion: A Robust PCA Approach.",
+      "authors": [
+        "Niannan Xue",
+        "Jiankang Deng",
+        "Shiyang Cheng 0001",
+        "Yannis Panagakis",
+        "Stefanos Zafeiriou"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XueDCPZ19",
+      "doi": "10.1109/TPAMI.2019.2902556",
+      "pages": "2349-2364",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/XueWBF19",
+      "title": "Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.",
+      "authors": [
+        "Tianfan Xue",
+        "Jiajun Wu 0001",
+        "Katherine L. Bouman",
+        "William T. Freeman"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XueWBF19",
+      "doi": "10.1109/TPAMI.2018.2854726",
+      "pages": "2236-2250",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/YalnizM19",
+      "title": "Dependence Models for Searching Text in Document Images.",
+      "authors": [
+        "Ismet Zeki Yalniz",
+        "R. Manmatha"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YalnizM19",
+      "doi": "10.1109/TPAMI.2017.2780108",
+      "pages": "49-63",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/YangRMTW19",
+      "title": "Dense 3D Object Reconstruction from a Single Depth View.",
+      "authors": [
+        "Bo Yang 0027",
+        "Stefano Rosa",
+        "Andrew Markham",
+        "Niki Trigoni",
+        "Hongkai Wen 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YangRMTW19",
+      "doi": "10.1109/TPAMI.2018.2868195",
+      "pages": "2820-2834",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/YaoKWL19",
+      "title": "Large-Scale Low-Rank Matrix Learning with Nonconvex Regularizers.",
+      "authors": [
+        "Quanming Yao",
+        "James T. Kwok",
+        "Taifeng Wang",
+        "Tie-Yan Liu"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YaoKWL19",
+      "doi": "10.1109/TPAMI.2018.2858249",
+      "pages": "2628-2643",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/YeJZKY19",
+      "title": "Content Aware Image Pre-Compensation.",
+      "authors": [
+        "Jinwei Ye",
+        "Yu Ji 0001",
+        "Mingyuan Zhou",
+        "Sing Bing Kang",
+        "Jingyi Yu 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YeJZKY19",
+      "doi": "10.1109/TPAMI.2018.2839115",
+      "pages": "1545-1558",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/YeZJZ19",
+      "title": "What Makes Objects Similar: A Unified Multi-Metric Learning Approach.",
+      "authors": [
+        "Han-Jia Ye",
+        "De-Chuan Zhan",
+        "Yuan Jiang 0001",
+        "Zhi-Hua Zhou"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YeZJZ19",
+      "doi": "10.1109/TPAMI.2018.2829192",
+      "pages": "1257-1270",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/YuYC19",
+      "title": "Density-Preserving Hierarchical EM Algorithm: Simplifying Gaussian Mixture Models for Approximate Inference.",
+      "authors": [
+        "Lei Yu 0013",
+        "Tianyu Yang 0003",
+        "Antoni B. Chan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YuYC19",
+      "doi": "10.1109/TPAMI.2018.2845371",
+      "pages": "1323-1337",
+      "volume": "41",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/YuanG19",
+      "title": "ℓ0TV: A Sparse Optimization Method for Impulse Noise Image Restoration.",
+      "authors": [
+        "Ganzhao Yuan",
+        "Bernard Ghanem"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YuanG19",
+      "doi": "10.1109/TPAMI.2017.2783936",
+      "pages": "352-364",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ZemeneTIPPS19",
+      "title": "Large-Scale Image Geo-Localization Using Dominant Sets.",
+      "authors": [
+        "Eyasu Zemene",
+        "Yonatan Tariku Tesfaye",
+        "Haroon Idrees",
+        "Andrea Prati 0001",
+        "Marcello Pelillo",
+        "Mubarak Shah"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZemeneTIPPS19",
+      "doi": "10.1109/TPAMI.2017.2787132",
+      "pages": "148-161",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ZhangBKM19",
+      "title": "Advances in Variational Inference.",
+      "authors": [
+        "Cheng Zhang 0005",
+        "Judith Bütepage",
+        "Hedvig Kjellström",
+        "Stephan Mandt"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangBKM19",
+      "doi": "10.1109/TPAMI.2018.2889774",
+      "pages": "2008-2026",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhangLSSS19",
+      "title": "Binary Multi-View Clustering.",
+      "authors": [
+        "Zheng Zhang 0006",
+        "Li Liu 0004",
+        "Fumin Shen",
+        "Heng Tao Shen",
+        "Ling Shao 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangLSSS19",
+      "doi": "10.1109/TPAMI.2018.2847335",
+      "pages": "1774-1782",
+      "volume": "41",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/ZhangLWWZ19",
+      "title": "Hierarchical Scene Parsing by Weakly Supervised Learning with Image Descriptions.",
+      "authors": [
+        "Ruimao Zhang",
+        "Liang Lin",
+        "Guangrun Wang",
+        "Meng Wang 0001",
+        "Wangmeng Zuo"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangLWWZ19",
+      "doi": "10.1109/TPAMI.2018.2799846",
+      "pages": "596-610",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/ZhangLXZXZ19",
+      "title": "View Adaptive Neural Networks for High Performance Skeleton-Based Human Action Recognition.",
+      "authors": [
+        "Pengfei Zhang 0005",
+        "Cuiling Lan",
+        "Junliang Xing",
+        "Wenjun Zeng 0001",
+        "Jianru Xue",
+        "Nanning Zheng 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangLXZXZ19",
+      "doi": "10.1109/TPAMI.2019.2896631",
+      "pages": "1963-1978",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhangMLZF19",
+      "title": "Anticipating Where People will Look Using Adversarial Networks.",
+      "authors": [
+        "Mengmi Zhang",
+        "Keng Teck Ma",
+        "Joo Hwee Lim",
+        "Qi Zhao 0001",
+        "Jiashi Feng"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangMLZF19",
+      "doi": "10.1109/TPAMI.2018.2871688",
+      "pages": "1783-1796",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhangSFB19",
+      "title": "MPIIGaze: Real-World Dataset and Deep Appearance-Based Gaze Estimation.",
+      "authors": [
+        "Xucong Zhang",
+        "Yusuke Sugano",
+        "Mario Fritz",
+        "Andreas Bulling"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangSFB19",
+      "doi": "10.1109/TPAMI.2017.2778103",
+      "pages": "162-175",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ZhangSSC19",
+      "title": "Multivariate Regression with Gross Errors on Manifold-Valued Data.",
+      "authors": [
+        "Xiaowei Zhang 0002",
+        "Xudong Shi 0005",
+        "Yu Sun 0014",
+        "Li Cheng 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangSSC19",
+      "doi": "10.1109/TPAMI.2017.2776260",
+      "pages": "444-458",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ZhangWZLZ19",
+      "title": "Salient Subsequence Learning for Time Series Clustering.",
+      "authors": [
+        "Qin Zhang 0011",
+        "Jia Wu 0001",
+        "Peng Zhang 0001",
+        "Guodong Long",
+        "Chengqi Zhang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangWZLZ19",
+      "doi": "10.1109/TPAMI.2018.2847699",
+      "pages": "2193-2207",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/ZhangXLZWHM19",
+      "title": "StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks.",
+      "authors": [
+        "Han Zhang 0010",
+        "Tao Xu 0029",
+        "Hongsheng Li 0001",
+        "Shaoting Zhang 0001",
+        "Xiaogang Wang 0001",
+        "Xiaolei Huang 0001",
+        "Dimitris N. Metaxas"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangXLZWHM19",
+      "doi": "10.1109/TPAMI.2018.2856256",
+      "pages": "1947-1962",
+      "volume": "41",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhangXY19",
+      "title": "Learning Multi-Task Correlation Particle Filters for Visual Tracking.",
+      "authors": [
+        "Tianzhu Zhang 0001",
+        "Changsheng Xu",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangXY19",
+      "doi": "10.1109/TPAMI.2018.2797062",
+      "pages": "365-378",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ZhangXY19a",
+      "title": "Robust Structural Sparse Tracking.",
+      "authors": [
+        "Tianzhu Zhang 0001",
+        "Changsheng Xu",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangXY19a",
+      "doi": "10.1109/TPAMI.2018.2797082",
+      "pages": "473-486",
+      "volume": "41",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ZhangZL0Y19",
+      "title": "A Generic Multi-Projection-Center Model and Calibration Method for Light Field Cameras.",
+      "authors": [
+        "Qi Zhang 0029",
+        "Chunping Zhang",
+        "Jinbo Ling",
+        "Qing Wang 0006",
+        "Jingyi Yu 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangZL0Y19",
+      "doi": "10.1109/TPAMI.2018.2864617",
+      "pages": "2539-2552",
+      "volume": "41",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/ZhangZMC19",
+      "title": "Improving Shadow Suppression for Illumination Robust Face Recognition.",
+      "authors": [
+        "Wuming Zhang",
+        "Xi Zhao 0001",
+        "Jean-Marie Morvan",
+        "Liming Chen 0002"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangZMC19",
+      "doi": "10.1109/TPAMI.2018.2803179",
+      "pages": "611-624",
+      "volume": "41",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/ZhaoCKYZF19",
+      "title": "Deep Mixture of Diverse Experts for Large-Scale Visual Recognition.",
+      "authors": [
+        "Tianyi Zhao",
+        "Qiuyu Chen",
+        "Zhenzhong Kuang",
+        "Jun Yu 0002",
+        "Wei Zhang 0016",
+        "Jianping Fan 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhaoCKYZF19",
+      "doi": "10.1109/TPAMI.2018.2828821",
+      "pages": "1072-1087",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/ZhaoXLXYF19",
+      "title": "3D-Aided Dual-Agent GANs for Unconstrained Face Recognition.",
+      "authors": [
+        "Jian Zhao 0006",
+        "Lin Xiong",
+        "Jianshu Li",
+        "Junliang Xing",
+        "Shuicheng Yan",
+        "Jiashi Feng"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhaoXLXYF19",
+      "doi": "10.1109/TPAMI.2018.2858819",
+      "pages": "2380-2394",
+      "volume": "41",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/ZhouBO019",
+      "title": "Interpreting Deep Visual Representations via Network Dissection.",
+      "authors": [
+        "Bolei Zhou",
+        "David Bau",
+        "Aude Oliva",
+        "Antonio Torralba 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhouBO019",
+      "doi": "10.1109/TPAMI.2018.2858759",
+      "pages": "2131-2145",
+      "volume": "41",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/ZhouZJ19",
+      "title": "Re-weighting and 1-Point RANSAC-Based PnnP Solution to Handle Outliers.",
+      "authors": [
+        "Haoyin Zhou",
+        "Tao Zhang 0006",
+        "Jayender Jagadeesan"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhouZJ19",
+      "doi": "10.1109/TPAMI.2018.2871832",
+      "pages": "3022-3033",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/ZhouZPLDD19",
+      "title": "MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior.",
+      "authors": [
+        "Xiaowei Zhou 0001",
+        "Menglong Zhu",
+        "Georgios Pavlakos",
+        "Spyridon Leonardos",
+        "Konstantinos G. Derpanis",
+        "Kostas Daniilidis"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhouZPLDD19",
+      "doi": "10.1109/TPAMI.2018.2816031",
+      "pages": "901-914",
+      "volume": "41",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/ZhuLLL19",
+      "title": "Face Alignment in Full Pose Range: A 3D Total Solution.",
+      "authors": [
+        "Xiangyu Zhu 0001",
+        "Xiaoming Liu 0002",
+        "Zhen Lei 0001",
+        "Stan Z. Li"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhuLLL19",
+      "doi": "10.1109/TPAMI.2017.2778152",
+      "pages": "78-92",
+      "volume": "41",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ZhuXFKCY19",
+      "title": "Hyperspectral Light Field Stereo Matching.",
+      "authors": [
+        "Kang Zhu",
+        "Yujia Xue",
+        "Qiang Fu 0002",
+        "Sing Bing Kang",
+        "Xilin Chen 0001",
+        "Jingyi Yu 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhuXFKCY19",
+      "doi": "10.1109/TPAMI.2018.2827049",
+      "pages": "1131-1143",
+      "volume": "41",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/Zhuang19",
+      "title": "Multivariate Mixture Model for Myocardial Segmentation Combining Multi-Source Images.",
+      "authors": [
+        "Xiahai Zhuang"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Zhuang19",
+      "doi": "10.1109/TPAMI.2018.2869576",
+      "pages": "2933-2946",
+      "volume": "41",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/ZuoWLZY19",
+      "title": "Learning Support Correlation Filters for Visual Tracking.",
+      "authors": [
+        "Wangmeng Zuo",
+        "Xiaohe Wu",
+        "Liang Lin",
+        "Lei Zhang 0006",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2019",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZuoWLZY19",
+      "doi": "10.1109/TPAMI.2018.2829180",
+      "pages": "1158-1172",
+      "volume": "41",
+      "number": "5"
+    }
+  ]
+}

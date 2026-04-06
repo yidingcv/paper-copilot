@@ -1,0 +1,3384 @@
+{
+  "papers": [
+    {
+      "id": "journals/pami/ChuTC17",
+      "title": "Selective Transfer Machine for Personalized Facial Expression Analysis.",
+      "authors": [
+        "Wen-Sheng Chu",
+        "Fernando De la Torre",
+        "Jeffrey F. Cohn"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChuTC17",
+      "doi": "10.1109/TPAMI.2016.2547397",
+      "pages": "529-545",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/BiggioFMR17",
+      "title": "Statistical Meta-Analysis of Presentation Attacks for Secure Multibiometric Systems.",
+      "authors": [
+        "Battista Biggio",
+        "Giorgio Fumera",
+        "Gian Luca Marcialis",
+        "Fabio Roli"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BiggioFMR17",
+      "doi": "10.1109/TPAMI.2016.2558154",
+      "pages": "561-575",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/ChangYYX17",
+      "title": "Semantic Pooling for Complex Event Analysis in Untrimmed Videos.",
+      "authors": [
+        "Xiaojun Chang",
+        "Yaoliang Yu",
+        "Yi Yang 0001",
+        "Eric P. Xing"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChangYYX17",
+      "doi": "10.1109/TPAMI.2016.2608901",
+      "pages": "1617-1632",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ChhatkuliPBC17",
+      "title": "A Stable Analytical Framework for Isometric Shape-from-Template by Surface Integration.",
+      "authors": [
+        "Ajad Chhatkuli",
+        "Daniel Pizarro 0001",
+        "Adrien Bartoli",
+        "Toby Collins"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChhatkuliPBC17",
+      "doi": "10.1109/TPAMI.2016.2562622",
+      "pages": "833-850",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/CollinsB17",
+      "title": "Planar Structure-from-Motion with Affine Camera Models: Closed-Form Solutions, Ambiguities and Degeneracy Analysis.",
+      "authors": [
+        "Toby Collins",
+        "Adrien Bartoli"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CollinsB17",
+      "doi": "10.1109/TPAMI.2016.2578333",
+      "pages": "1237-1255",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/CourtyFTR17",
+      "title": "Optimal Transport for Domain Adaptation.",
+      "authors": [
+        "Nicolas Courty",
+        "Rémi Flamary",
+        "Devis Tuia",
+        "Alain Rakotomamonjy"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CourtyFTR17",
+      "doi": "10.1109/TPAMI.2016.2615921",
+      "pages": "1853-1865",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/FreifeldHBF17",
+      "title": "Transformations Based on Continuous Piecewise-Affine Velocity Fields.",
+      "authors": [
+        "Oren Freifeld",
+        "Søren Hauberg",
+        "Kayhan Batmanghelich",
+        "John W. Fisher III"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FreifeldHBF17",
+      "doi": "10.1109/TPAMI.2016.2646685",
+      "pages": "2496-2509",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/GhifaryBKZ17",
+      "title": "Scatter Component Analysis: A Unified Framework for Domain Adaptation and Domain Generalization.",
+      "authors": [
+        "Muhammad Ghifary",
+        "David Balduzzi",
+        "W. Bastiaan Kleijn",
+        "Mengjie Zhang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GhifaryBKZ17",
+      "doi": "10.1109/TPAMI.2016.2599532",
+      "pages": "1414-1430",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LagaXJS17",
+      "title": "Numerical Inversion of SRNF Maps for Elastic Shape Analysis of Genus-Zero Surfaces.",
+      "authors": [
+        "Hamid Laga",
+        "Qian Xie 0003",
+        "Ian H. Jermyn",
+        "Anuj Srivastava"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LagaXJS17",
+      "doi": "10.1109/TPAMI.2016.2647596",
+      "pages": "2451-2464",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LagorceOGSB17",
+      "title": "HOTS: A Hierarchy of Event-Based Time-Surfaces for Pattern Recognition.",
+      "authors": [
+        "Xavier Lagorce",
+        "Garrick Orchard",
+        "Francesco Galluppi",
+        "Bertram E. Shi",
+        "Ryad Benosman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LagorceOGSB17",
+      "doi": "10.1109/TPAMI.2016.2574707",
+      "pages": "1346-1359",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LinLSD17",
+      "title": "Frequency-Domain Transient Imaging.",
+      "authors": [
+        "Jingyu Lin",
+        "Yebin Liu",
+        "Jin-Li Suo",
+        "Qionghai Dai"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LinLSD17",
+      "doi": "10.1109/TPAMI.2016.2560814",
+      "pages": "937-950",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/LinZXYXWL17",
+      "title": "A Tube-and-Droplet-Based Approach for Representing and Analyzing Motion Trajectories.",
+      "authors": [
+        "Weiyao Lin",
+        "Yang Zhou",
+        "Hongteng Xu",
+        "Junchi Yan",
+        "Mingliang Xu 0001",
+        "Jianxin Wu 0001",
+        "Zicheng Liu 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LinZXYXWL17",
+      "doi": "10.1109/TPAMI.2016.2608884",
+      "pages": "1489-1503",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LuuSBS17",
+      "title": "Compressed Submanifold Multifactor Analysis.",
+      "authors": [
+        "Khoa Luu",
+        "Marios Savvides",
+        "Tien D. Bui",
+        "Ching Y. Suen"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuuSBS17",
+      "doi": "10.1109/TPAMI.2016.2554107",
+      "pages": "444-456",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/PugginiM17",
+      "title": "Forward Selection Component Analysis: Algorithms and Applications.",
+      "authors": [
+        "Luca Puggini",
+        "Seán F. McLoone"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PugginiM17",
+      "doi": "10.1109/TPAMI.2017.2648792",
+      "pages": "2395-2408",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/QiLAH17",
+      "title": "Joint Intermodal and Intramodal Label Transfers for Extremely Rare or Unseen Classes.",
+      "authors": [
+        "Guo-Jun Qi",
+        "Wei Liu 0005",
+        "Charu C. Aggarwal",
+        "Thomas S. Huang"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/QiLAH17",
+      "doi": "10.1109/TPAMI.2016.2587643",
+      "pages": "1360-1373",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/RodriguesBRP17",
+      "title": "A Bayesian Additive Model for Understanding Public Transport Usage in Special Events.",
+      "authors": [
+        "Filipe Rodrigues 0001",
+        "Stanislav Borysov",
+        "Bernardete Ribeiro",
+        "Francisco C. Pereira"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RodriguesBRP17",
+      "doi": "10.1109/TPAMI.2016.2635136",
+      "pages": "2113-2126",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/SegevHMCE17",
+      "title": "Learn on Source, Refine on Target: A Model Transfer Learning Framework with Random Forests.",
+      "authors": [
+        "Noam Segev",
+        "Maayan Harel",
+        "Shie Mannor",
+        "Koby Crammer",
+        "Ran El-Yaniv"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SegevHMCE17",
+      "doi": "10.1109/TPAMI.2016.2618118",
+      "pages": "1811-1824",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/TanakaMKMY17",
+      "title": "Recovering Inner Slices of Layered Translucent Objects by Multi-Frequency Illumination.",
+      "authors": [
+        "Kenichiro Tanaka",
+        "Yasuhiro Mukaigawa",
+        "Hiroyuki Kubo",
+        "Yasuyuki Matsushita",
+        "Yasushi Yagi"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TanakaMKMY17",
+      "doi": "10.1109/TPAMI.2016.2631625",
+      "pages": "746-757",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/XuZCK17",
+      "title": "Pose Estimation from Line Correspondences: A Complete Analysis and a Series of Solutions.",
+      "authors": [
+        "Chi Xu 0002",
+        "Lilian Zhang",
+        "Li Cheng 0001",
+        "Reinhard Koch"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuZCK17",
+      "doi": "10.1109/TPAMI.2016.2582162",
+      "pages": "1209-1222",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/YangPCLX17",
+      "title": "Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare.",
+      "authors": [
+        "Bo Yang 0002",
+        "Hongbin Pei",
+        "Hechang Chen",
+        "Jiming Liu 0001",
+        "Shang Xia"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YangPCLX17",
+      "doi": "10.1109/TPAMI.2016.2605095",
+      "pages": "1532-1546",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/YiWLJL17",
+      "title": "L0 Regularized Stationary-Time Estimation for Crowd Analysis.",
+      "authors": [
+        "Shuai Yi",
+        "Xiaogang Wang 0001",
+        "Cewu Lu",
+        "Jiaya Jia",
+        "Hongsheng Li 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YiWLJL17",
+      "doi": "10.1109/TPAMI.2016.2560807",
+      "pages": "981-994",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/AdamDYMN17",
+      "title": "Bayesian Time-of-Flight for Realtime Shape, Illumination and Albedo.",
+      "authors": [
+        "Amit Adam",
+        "Christoph Dann",
+        "Omer Yair",
+        "Shai Mazor",
+        "Sebastian Nowozin"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AdamDYMN17",
+      "doi": "10.1109/TPAMI.2016.2567379",
+      "pages": "851-864",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/AgarwalCS17",
+      "title": "A Novel Nonparametric Maximum Likelihood Estimator for Probability Density Functions.",
+      "authors": [
+        "Rahul Agarwal",
+        "Zhe Chen 0001",
+        "Sridevi V. Sarma"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AgarwalCS17",
+      "doi": "10.1109/TPAMI.2016.2598333",
+      "pages": "1294-1308",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/AltermanSS17",
+      "title": "Triangulation in Random Refractive Distortions.",
+      "authors": [
+        "Marina Alterman",
+        "Yoav Y. Schechner",
+        "Yohay Swirski"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AltermanSS17",
+      "doi": "10.1109/TPAMI.2016.2551740",
+      "pages": "603-616",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/AmirkhaniRLH17",
+      "title": "Exploiting Experts&apos; Knowledge for Structure Learning of Bayesian Networks.",
+      "authors": [
+        "Hossein Amirkhani",
+        "Mohammad Rahmati",
+        "Peter J. F. Lucas",
+        "Arjen Hommersom"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AmirkhaniRLH17",
+      "doi": "10.1109/TPAMI.2016.2636828",
+      "pages": "2154-2170",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/AndaloTG17",
+      "title": "PSQP: Puzzle Solving by Quadratic Programming.",
+      "authors": [
+        "Fernanda A. Andaló",
+        "Gabriel Taubin",
+        "Siome Goldenstein"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AndaloTG17",
+      "doi": "10.1109/TPAMI.2016.2547394",
+      "pages": "385-396",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/AnirudhTSS17",
+      "title": "Elastic Functional Coding of Riemannian Trajectories.",
+      "authors": [
+        "Rushil Anirudh",
+        "Pavan K. Turaga",
+        "Jingyong Su",
+        "Anuj Srivastava"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/AnirudhTSS17",
+      "doi": "10.1109/TPAMI.2016.2564409",
+      "pages": "922-936",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/BadrinarayananK17",
+      "title": "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation.",
+      "authors": [
+        "Vijay Badrinarayanan",
+        "Alex Kendall",
+        "Roberto Cipolla"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BadrinarayananK17",
+      "doi": "10.1109/TPAMI.2016.2644615",
+      "pages": "2481-2495",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/BarbuSDG17",
+      "title": "Feature Selection with Annealing for Computer Vision and Big Data Learning.",
+      "authors": [
+        "Adrian Barbu",
+        "Yiyuan She",
+        "Liangjing Ding",
+        "Gary Gramajo"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BarbuSDG17",
+      "doi": "10.1109/TPAMI.2016.2544315",
+      "pages": "272-286",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/BokJK17",
+      "title": "Geometric Calibration of Micro-Lens-Based Light Field Cameras Using Line Features.",
+      "authors": [
+        "Yunsu Bok",
+        "Hae-Gon Jeon",
+        "In So Kweon"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/BokJK17",
+      "doi": "10.1109/TPAMI.2016.2541145",
+      "pages": "287-300",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/CabreraFES17",
+      "title": "Generation of Duplicated Off-Line Signature Images for Verification Systems.",
+      "authors": [
+        "Moisés Díaz Cabrera",
+        "Miguel A. Ferrer",
+        "George S. Eskander",
+        "Robert Sabourin"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CabreraFES17",
+      "doi": "10.1109/TPAMI.2016.2560810",
+      "pages": "951-964",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/Cevikalp17",
+      "title": "Best Fitting Hyperplanes for Classification.",
+      "authors": [
+        "Hakan Cevikalp"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Cevikalp17",
+      "doi": "10.1109/TPAMI.2016.2587647",
+      "pages": "1076-1088",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/ChenCWWS17",
+      "title": "An Efficient Joint Formulation for Bayesian Face Verification.",
+      "authors": [
+        "Dong Chen 0003",
+        "Xudong Cao",
+        "David P. Wipf",
+        "Fang Wen 0001",
+        "Jian Sun 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChenCWWS17",
+      "doi": "10.1109/TPAMI.2016.2533383",
+      "pages": "32-46",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ChenG17",
+      "title": "Efficient Activity Detection in Untrimmed Video with Max-Subgraph Search.",
+      "authors": [
+        "Chao-Yeh Chen",
+        "Kristen Grauman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChenG17",
+      "doi": "10.1109/TPAMI.2016.2564404",
+      "pages": "908-921",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/ChenP17",
+      "title": "Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast and Effective Image Restoration.",
+      "authors": [
+        "Yunjin Chen",
+        "Thomas Pock"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChenP17",
+      "doi": "10.1109/TPAMI.2016.2596743",
+      "pages": "1256-1272",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/ChenYHWZ17",
+      "title": "Multi-Timescale Collaborative Tracking.",
+      "authors": [
+        "Dapeng Chen",
+        "Zejian Yuan",
+        "Gang Hua 0001",
+        "Jingdong Wang 0001",
+        "Nanning Zheng 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChenYHWZ17",
+      "doi": "10.1109/TPAMI.2016.2539956",
+      "pages": "141-155",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ChinPES17",
+      "title": "Efficient Globally Optimal Consensus Maximisation with Tree Search.",
+      "authors": [
+        "Tat-Jun Chin",
+        "Pulak Purkait",
+        "Anders P. Eriksson",
+        "David Suter"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChinPES17",
+      "doi": "10.1109/TPAMI.2016.2631531",
+      "pages": "758-772",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/ChoKTK17",
+      "title": "Automatic Trimap Generation and Consistent Matting for Light-Field Images.",
+      "authors": [
+        "Donghyeon Cho",
+        "Sunyeong Kim",
+        "Yu-Wing Tai",
+        "In So Kweon"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ChoKTK17",
+      "doi": "10.1109/TPAMI.2016.2606397",
+      "pages": "1504-1517",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/CinbisVS17",
+      "title": "Weakly Supervised Object Localization with Multi-Fold Multiple Instance Learning.",
+      "authors": [
+        "Ramazan Gokberk Cinbis",
+        "Jakob Verbeek",
+        "Cordelia Schmid"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CinbisVS17",
+      "doi": "10.1109/TPAMI.2016.2535231",
+      "pages": "189-203",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ClementPKW17",
+      "title": "Directional Enlacement Histograms for the Description of Complex Spatial Configurations between Objects.",
+      "authors": [
+        "Michaël Clément",
+        "Adrien Poulenard",
+        "Camille Kurtz",
+        "Laurent Wendling"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ClementPKW17",
+      "doi": "10.1109/TPAMI.2016.2645151",
+      "pages": "2366-2380",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/CordtsREFR17",
+      "title": "Tree-Structured Models for Efficient Multi-Cue Scene Labeling.",
+      "authors": [
+        "Marius Cordts",
+        "Timo Rehfeld",
+        "Markus Enzweiler",
+        "Uwe Franke",
+        "Stefan Roth 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/CordtsREFR17",
+      "doi": "10.1109/TPAMI.2016.2592911",
+      "pages": "1444-1454",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/DanelljanHKF17",
+      "title": "Discriminative Scale Space Tracking.",
+      "authors": [
+        "Martin Danelljan",
+        "Gustav Häger",
+        "Fahad Shahbaz Khan",
+        "Michael Felsberg"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DanelljanHKF17",
+      "doi": "10.1109/TPAMI.2016.2609928",
+      "pages": "1561-1575",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/DavisBCRBDF17",
+      "title": "Visual Vibrometry: Estimating Material Properties from Small Motions in Video.",
+      "authors": [
+        "Abe Davis",
+        "Katherine L. Bouman",
+        "Justin G. Chen",
+        "Michael Rubinstein",
+        "Oral Büyüköztürk",
+        "Frédo Durand",
+        "William T. Freeman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DavisBCRBDF17",
+      "doi": "10.1109/TPAMI.2016.2622271",
+      "pages": "732-745",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/Dickinson17",
+      "title": "Incoming EIC Editorial.",
+      "authors": [
+        "Sven J. Dickinson"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Dickinson17",
+      "doi": "10.1109/TPAMI.2016.2622418",
+      "pages": "3-4",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/DonahueHRVGSD17",
+      "title": "Long-Term Recurrent Convolutional Networks for Visual Recognition and Description.",
+      "authors": [
+        "Jeff Donahue",
+        "Lisa Anne Hendricks",
+        "Marcus Rohrbach",
+        "Subhashini Venugopalan",
+        "Sergio Guadarrama",
+        "Kate Saenko",
+        "Trevor Darrell"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DonahueHRVGSD17",
+      "doi": "10.1109/TPAMI.2016.2599174",
+      "pages": "677-691",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/DosovitskiySTB17",
+      "title": "Learning to Generate Chairs, Tables and Cars with Convolutional Networks.",
+      "authors": [
+        "Alexey Dosovitskiy",
+        "Jost Tobias Springenberg",
+        "Maxim Tatarchenko",
+        "Thomas Brox"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/DosovitskiySTB17",
+      "doi": "10.1109/TPAMI.2016.2567384",
+      "pages": "692-705",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/ElhayekAJTPABST17",
+      "title": "MARCOnI - ConvNet-Based MARker-Less Motion Capture in Outdoor and Indoor Scenes.",
+      "authors": [
+        "Ahmed Elhayek",
+        "Edilson de Aguiar",
+        "Arjun Jain",
+        "Jonathan Tompson",
+        "Leonid Pishchulin",
+        "Mykhaylo Andriluka",
+        "Christoph Bregler",
+        "Bernt Schiele",
+        "Christian Theobalt"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ElhayekAJTPABST17",
+      "doi": "10.1109/TPAMI.2016.2557779",
+      "pages": "501-514",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/ElhoseinyES17",
+      "title": "Write a Classifier: Predicting Visual Classifiers from Unstructured Text.",
+      "authors": [
+        "Mohamed Elhoseiny",
+        "Ahmed M. Elgammal",
+        "Babak Saleh"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ElhoseinyES17",
+      "doi": "10.1109/TPAMI.2016.2643667",
+      "pages": "2539-2553",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/EmambakhshE17",
+      "title": "Nasal Patches and Curves for Expression-Robust 3D Face Recognition.",
+      "authors": [
+        "Mehryar Emambakhsh",
+        "Adrian N. Evans"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/EmambakhshE17",
+      "doi": "10.1109/TPAMI.2016.2565473",
+      "pages": "995-1007",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/FernandoGMGT17",
+      "title": "Rank Pooling for Action Recognition.",
+      "authors": [
+        "Basura Fernando",
+        "Efstratios Gavves",
+        "José Oramas Mogrovejo",
+        "Amir Ghodrati",
+        "Tinne Tuytelaars"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FernandoGMGT17",
+      "doi": "10.1109/TPAMI.2016.2558148",
+      "pages": "773-787",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/FerrerCCM17",
+      "title": "A Behavioral Handwriting Model for Static and Dynamic Signature Synthesis.",
+      "authors": [
+        "Miguel A. Ferrer",
+        "Moisés Díaz Cabrera",
+        "Cristina Carmona-Duarte",
+        "Aythami Morales"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FerrerCCM17",
+      "doi": "10.1109/TPAMI.2016.2582167",
+      "pages": "1041-1053",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/FinlaysonZG17",
+      "title": "The Reproduction Angular Error for Evaluating the Performance of Illuminant Estimation Algorithms.",
+      "authors": [
+        "Graham D. Finlayson",
+        "Roshanak Zakizadeh",
+        "Arjan Gijsenij"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FinlaysonZG17",
+      "doi": "10.1109/TPAMI.2016.2582171",
+      "pages": "1482-1488",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/Forsyth17",
+      "title": "State of the Journal.",
+      "authors": [
+        "David A. Forsyth"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Forsyth17",
+      "doi": "10.1109/TPAMI.2016.2622398",
+      "pages": "1-2",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/FuJCSZ17",
+      "title": "Aligning Where to See and What to Tell: Image Captioning with Region-Based Attention and Scene-Specific Contexts.",
+      "authors": [
+        "Kun Fu 0002",
+        "Junqi Jin",
+        "Runpeng Cui",
+        "Fei Sha",
+        "Changshui Zhang"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/FuJCSZ17",
+      "doi": "10.1109/TPAMI.2016.2642953",
+      "pages": "2321-2334",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/GorelickBVAD17",
+      "title": "Local Submodularization for Binary Pairwise Energies.",
+      "authors": [
+        "Lena Gorelick",
+        "Yuri Boykov",
+        "Olga Veksler",
+        "Ismail Ben Ayed",
+        "Andrew Delong"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GorelickBVAD17",
+      "doi": "10.1109/TPAMI.2016.2630686",
+      "pages": "1985-1999",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/GorelickVBN17",
+      "title": "Convexity Shape Prior for Binary Segmentation.",
+      "authors": [
+        "Lena Gorelick",
+        "Olga Veksler",
+        "Yuri Boykov",
+        "Claudia Nieuwenhuis"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GorelickVBN17",
+      "doi": "10.1109/TPAMI.2016.2547399",
+      "pages": "258-271",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/GraumanLTZ17",
+      "title": "Guest Editorial: Best of CVPR 2015.",
+      "authors": [
+        "Kristen Grauman",
+        "Erik G. Learned-Miller",
+        "Antonio Torralba 0001",
+        "Andrew Zisserman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GraumanLTZ17",
+      "doi": "10.1109/TPAMI.2017.2663859",
+      "pages": "625-626",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/GuSTRL17",
+      "title": "Cross Validation Through Two-Dimensional Solution Surface for Cost-Sensitive SVM.",
+      "authors": [
+        "Bin Gu 0001",
+        "Victor S. Sheng",
+        "KengYeow Tay",
+        "Walter Romano",
+        "Shuo Li 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/GuSTRL17",
+      "doi": "10.1109/TPAMI.2016.2578326",
+      "pages": "1103-1121",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/HabibianMS17",
+      "title": "Video2vec Embeddings Recognize Events When Examples Are Scarce.",
+      "authors": [
+        "AmirHossein Habibian",
+        "Thomas Mensink",
+        "Cees G. M. Snoek"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HabibianMS17",
+      "doi": "10.1109/TPAMI.2016.2627563",
+      "pages": "2089-2103",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/HajimirsadeghiM17",
+      "title": "Multi-Instance Classification by Max-Margin Training of Cardinality-Based Markov Networks.",
+      "authors": [
+        "Hossein Hajimirsadeghi",
+        "Greg Mori"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HajimirsadeghiM17",
+      "doi": "10.1109/TPAMI.2016.2613865",
+      "pages": "1839-1852",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/HaneZCP17",
+      "title": "Dense Semantic 3D Reconstruction.",
+      "authors": [
+        "Christian Hane",
+        "Christopher Zach",
+        "Andrea Cohen",
+        "Marc Pollefeys"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HaneZCP17",
+      "doi": "10.1109/TPAMI.2016.2613051",
+      "pages": "1730-1743",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/HariharanAGM17",
+      "title": "Object Instance Segmentation and Fine-Grained Localization Using Hypercolumns.",
+      "authors": [
+        "Bharath Hariharan",
+        "Pablo Arbeláez",
+        "Ross B. Girshick",
+        "Jitendra Malik"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HariharanAGM17",
+      "doi": "10.1109/TPAMI.2016.2578328",
+      "pages": "627-639",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/HassnerFMZ17",
+      "title": "SIFTing Through Scales.",
+      "authors": [
+        "Tal Hassner",
+        "Shay Filosof",
+        "Viki Mayzels",
+        "Lihi Zelnik-Manor"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HassnerFMZ17",
+      "doi": "10.1109/TPAMI.2016.2592916",
+      "pages": "1431-1443",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/Hofmeyr17",
+      "title": "Clustering by Minimum Cut Hyperplanes.",
+      "authors": [
+        "David P. Hofmeyr"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Hofmeyr17",
+      "doi": "10.1109/TPAMI.2016.2609929",
+      "pages": "1547-1560",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/HuELK17",
+      "title": "Learning to Recognize Human Activities Using Soft Labels.",
+      "authors": [
+        "Ninghang Hu",
+        "Gwenn Englebienne",
+        "Zhongyu Lou",
+        "Ben J. A. Kröse"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HuELK17",
+      "doi": "10.1109/TPAMI.2016.2621761",
+      "pages": "1973-1984",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/HuGXZM17",
+      "title": "Semi-Supervised Tensor-Based Graph Embedding Learning and Its Application to Visual Discriminant Tracking.",
+      "authors": [
+        "Weiming Hu 0004",
+        "Jin Gao",
+        "Junliang Xing",
+        "Chao Zhang 0089",
+        "Stephen J. Maybank"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HuGXZM17",
+      "doi": "10.1109/TPAMI.2016.2539944",
+      "pages": "172-188",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/HuZLZ17",
+      "title": "Jointly Learning Heterogeneous Features for RGB-D Activity Recognition.",
+      "authors": [
+        "Jianfang Hu",
+        "Wei-Shi Zheng 0001",
+        "Jianhuang Lai",
+        "Jianguo Zhang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HuZLZ17",
+      "doi": "10.1109/TPAMI.2016.2640292",
+      "pages": "2186-2200",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/HughesG17",
+      "title": "Estimating Cortical Feature Maps with Dependent Gaussian Processes.",
+      "authors": [
+        "Nicholas J. Hughes",
+        "Geoffrey J. Goodhill"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HughesG17",
+      "doi": "10.1109/TPAMI.2016.2624295",
+      "pages": "1918-1928",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/HuiS17",
+      "title": "Shape and Spatially-Varying Reflectance Estimation from Virtual Exemplars.",
+      "authors": [
+        "Zhuo Hui",
+        "Aswin C. Sankaranarayanan"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HuiS17",
+      "doi": "10.1109/TPAMI.2016.2623613",
+      "pages": "2060-2073",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/HusainB17",
+      "title": "Improving Large-Scale Image Retrieval Through Robust Aggregation of Local Descriptors.",
+      "authors": [
+        "Syed Sameed Husain",
+        "Miroslaw Bober"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/HusainB17",
+      "doi": "10.1109/TPAMI.2016.2613873",
+      "pages": "1783-1796",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/IsmaeilASMO17",
+      "title": "Real-Time Enhancement of Dynamic Depth Videos with Non-Rigid Deformations.",
+      "authors": [
+        "Kassem Al Ismaeil",
+        "Djamila Aouada",
+        "Thomas Solignac",
+        "Bruno Mirbach",
+        "Björn E. Ottersten"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/IsmaeilASMO17",
+      "doi": "10.1109/TPAMI.2016.2622698",
+      "pages": "2045-2059",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/KarpathyF17",
+      "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions.",
+      "authors": [
+        "Andrej Karpathy",
+        "Li Fei-Fei 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KarpathyF17",
+      "doi": "10.1109/TPAMI.2016.2598339",
+      "pages": "664-676",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/KeysersDRWC17",
+      "title": "Multi-Language Online Handwriting Recognition.",
+      "authors": [
+        "Daniel Keysers",
+        "Thomas Deselaers",
+        "Henry A. Rowley",
+        "Li-Lun Wang",
+        "Victor Carbune"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KeysersDRWC17",
+      "doi": "10.1109/TPAMI.2016.2572693",
+      "pages": "1180-1194",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/KimMHDS17",
+      "title": "DASC: Robust Dense Descriptor for Multi-Modal and Multi-Spectral Correspondence Estimation.",
+      "authors": [
+        "Seungryong Kim",
+        "Dongbo Min",
+        "Bumsub Ham",
+        "Minh N. Do",
+        "Kwanghoon Sohn"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KimMHDS17",
+      "doi": "10.1109/TPAMI.2016.2615619",
+      "pages": "1712-1729",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/KoniuszYGM17",
+      "title": "Higher-Order Occurrence Pooling for Bags-of-Words: Visual Concept Detection.",
+      "authors": [
+        "Piotr Koniusz",
+        "Fei Yan 0001",
+        "Philippe-Henri Gosselin",
+        "Krystian Mikolajczyk"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KoniuszYGM17",
+      "doi": "10.1109/TPAMI.2016.2545667",
+      "pages": "313-326",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/KumarJV17",
+      "title": "Discriminative and Efficient Label Propagation on Complementary Graphs for Multi-Object Tracking.",
+      "authors": [
+        "K. C. Amit Kumar",
+        "Laurent Jacques",
+        "Christophe De Vleeschouwer"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KumarJV17",
+      "doi": "10.1109/TPAMI.2016.2533391",
+      "pages": "61-74",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/KviatkovskyGRS17",
+      "title": "On the Equivalence of the LC-KSVD and the D-KSVD Algorithms.",
+      "authors": [
+        "Igor Kviatkovsky",
+        "Moshe Gabel",
+        "Ehud Rivlin",
+        "Ilan Shimshoni"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KviatkovskyGRS17",
+      "doi": "10.1109/TPAMI.2016.2545661",
+      "pages": "411-416",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/KwonL17",
+      "title": "Adaptive Visual Tracking with Minimum Uncertainty Gap Estimation.",
+      "authors": [
+        "Junseok Kwon",
+        "Kyoung Mu Lee"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/KwonL17",
+      "doi": "10.1109/TPAMI.2016.2537330",
+      "pages": "18-31",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/LeboranGFP17",
+      "title": "Dynamic Whitening Saliency.",
+      "authors": [
+        "Víctor Leborán",
+        "Antón García-Díaz",
+        "Xosé R. Fernández-Vidal",
+        "Xosé M. Pardo"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LeboranGFP17",
+      "doi": "10.1109/TPAMI.2016.2567391",
+      "pages": "893-907",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/LeeCO17",
+      "title": "Procrustean Normal Distribution for Non-Rigid Structure from Motion.",
+      "authors": [
+        "Minsik Lee 0001",
+        "Jungchan Cho",
+        "Songhwai Oh"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LeeCO17",
+      "doi": "10.1109/TPAMI.2016.2596720",
+      "pages": "1388-1400",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LeflochKSWK17",
+      "title": "Comprehensive Use of Curvature for Robust and Accurate Online Surface Reconstruction.",
+      "authors": [
+        "Damien Lefloch",
+        "Markus Kluge",
+        "Hamed Sarbolandi",
+        "Tim Weyrich",
+        "Andreas Kolb 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LeflochKSWK17",
+      "doi": "10.1109/TPAMI.2017.2648803",
+      "pages": "2349-2365",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LiPCRK17",
+      "title": "Measuring and Predicting Tag Importance for Image Retrieval.",
+      "authors": [
+        "Shangwen Li",
+        "Sanjay Purushotham",
+        "Chen Chen 0021",
+        "Yuzhuo Ren",
+        "C.-C. Jay Kuo"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiPCRK17",
+      "doi": "10.1109/TPAMI.2017.2651818",
+      "pages": "2423-2436",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LiQYH17",
+      "title": "Linear Subspace Ranking Hashing for Cross-Modal Retrieval.",
+      "authors": [
+        "Kai Li 0005",
+        "Guo-Jun Qi",
+        "Jun Ye 0003",
+        "Kien A. Hua"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiQYH17",
+      "doi": "10.1109/TPAMI.2016.2610969",
+      "pages": "1825-1838",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/LiWZZ17",
+      "title": "Local Log-Euclidean Multivariate Gaussian Descriptor and Its Application to Image Classification.",
+      "authors": [
+        "Peihua Li",
+        "Qilong Wang 0001",
+        "Hui Zeng 0001",
+        "Lei Zhang 0006"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiWZZ17",
+      "doi": "10.1109/TPAMI.2016.2560816",
+      "pages": "803-817",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/LiYJLY17",
+      "title": "Saliency Detection on Light Field.",
+      "authors": [
+        "Nianyi Li",
+        "Jinwei Ye",
+        "Yu Ji 0001",
+        "Haibin Ling",
+        "Jingyi Yu 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiYJLY17",
+      "doi": "10.1109/TPAMI.2016.2610425",
+      "pages": "1605-1616",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/LiYXHPDM17",
+      "title": "Multi-View Multi-Instance Learning Based on Joint Sparse Representation and Multi-View Dictionary Learning.",
+      "authors": [
+        "Bing Li 0001",
+        "Chunfeng Yuan",
+        "Weihua Xiong",
+        "Weiming Hu 0004",
+        "Houwen Peng",
+        "Xinmiao Ding",
+        "Steve J. Maybank"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiYXHPDM17",
+      "doi": "10.1109/TPAMI.2017.2669303",
+      "pages": "2554-2560",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LianZY17",
+      "title": "An Efficient Globally Optimal Algorithm for Asymmetric Point Matching.",
+      "authors": [
+        "Wei Lian",
+        "Lei Zhang 0006",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LianZY17",
+      "doi": "10.1109/TPAMI.2016.2603988",
+      "pages": "1281-1293",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LiangWLCSYY17",
+      "title": "Learning to Segment Human by Watching YouTube.",
+      "authors": [
+        "Xiaodan Liang",
+        "Yunchao Wei",
+        "Liang Lin",
+        "Yunpeng Chen",
+        "Xiaohui Shen",
+        "Jianchao Yang",
+        "Shuicheng Yan"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiangWLCSYY17",
+      "doi": "10.1109/TPAMI.2016.2598340",
+      "pages": "1462-1468",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/LiangXSYTLY17",
+      "title": "Human Parsing with Contextualized Convolutional Neural Network.",
+      "authors": [
+        "Xiaodan Liang",
+        "Chunyan Xu",
+        "Xiaohui Shen",
+        "Jianchao Yang",
+        "Jinhui Tang 0001",
+        "Liang Lin",
+        "Shuicheng Yan"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiangXSYTLY17",
+      "doi": "10.1109/TPAMI.2016.2537339",
+      "pages": "115-127",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/LinWZF017",
+      "title": "Cross-Domain Visual Matching via Generalized Similarity Measure and Feature Learning.",
+      "authors": [
+        "Liang Lin",
+        "Guangrun Wang",
+        "Wangmeng Zuo",
+        "Xiangchu Feng",
+        "Lei Zhang 0006"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LinWZF017",
+      "doi": "10.1109/TPAMI.2016.2567386",
+      "pages": "1089-1102",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/LiuLL17",
+      "title": "Blessing of Dimensionality: Recovering Mixture Data via Dictionary Pursuit.",
+      "authors": [
+        "Guangcan Liu",
+        "Qingshan Liu 0001",
+        "Ping Li 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuLL17",
+      "doi": "10.1109/TPAMI.2016.2539946",
+      "pages": "47-60",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/LiuSH17",
+      "title": "Cross-Convolutional-Layer Pooling for Image Recognition.",
+      "authors": [
+        "Lingqiao Liu",
+        "Chunhua Shen",
+        "Anton van den Hengel"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuSH17",
+      "doi": "10.1109/TPAMI.2016.2637921",
+      "pages": "2305-2313",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/LiuSNK17",
+      "title": "Hierarchical Clustering Multi-Task Learning for Joint Human Action Grouping and Recognition.",
+      "authors": [
+        "Anan Liu",
+        "Yuting Su 0001",
+        "Weizhi Nie",
+        "Mohan S. Kankanhalli"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuSNK17",
+      "doi": "10.1109/TPAMI.2016.2537337",
+      "pages": "102-114",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/LiuTSM17",
+      "title": "Algorithm-Dependent Generalization Bounds for Multi-Task Learning.",
+      "authors": [
+        "Tongliang Liu",
+        "Dacheng Tao",
+        "Mingli Song",
+        "Stephen J. Maybank"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuTSM17",
+      "doi": "10.1109/TPAMI.2016.2544314",
+      "pages": "227-241",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/LiuWSWHWS17",
+      "title": "Compositional Model Based Fisher Vector Coding for Image Classification.",
+      "authors": [
+        "Lingqiao Liu",
+        "Peng Wang 0023",
+        "Chunhua Shen",
+        "Lei Wang 0001",
+        "Anton van den Hengel",
+        "Chao Wang 0063",
+        "Heng Tao Shen"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LiuWSWHWS17",
+      "doi": "10.1109/TPAMI.2017.2651061",
+      "pages": "2335-2348",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LuFXHWG17",
+      "title": "Learning from Weak and Noisy Labels for Semantic Segmentation.",
+      "authors": [
+        "Zhiwu Lu 0001",
+        "Zhenyong Fu",
+        "Tao Xiang 0002",
+        "Peng Han 0005",
+        "Liwei Wang 0001",
+        "Xin Gao 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuFXHWG17",
+      "doi": "10.1109/TPAMI.2016.2552172",
+      "pages": "486-500",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/LuLJT17",
+      "title": "Two-Class Weather Classification.",
+      "authors": [
+        "Cewu Lu",
+        "Di Lin 0002",
+        "Jiaya Jia",
+        "Chi-Keung Tang"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuLJT17",
+      "doi": "10.1109/TPAMI.2016.2640295",
+      "pages": "2510-2524",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/LuLYMED17",
+      "title": "PatchMatch Filter: Edge-Aware Filtering Meets Randomized Search for Visual Correspondence.",
+      "authors": [
+        "Jiangbo Lu",
+        "Yu Li 0003",
+        "Hongsheng Yang",
+        "Dongbo Min",
+        "Wei Yong Eng",
+        "Minh N. Do"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/LuLYMED17",
+      "doi": "10.1109/TPAMI.2016.2616391",
+      "pages": "1866-1879",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/MajumdarSV17",
+      "title": "Face Verification via Class Sparsity Based Supervised Encoding.",
+      "authors": [
+        "Angshul Majumdar",
+        "Richa Singh 0001",
+        "Mayank Vatsa"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MajumdarSV17",
+      "doi": "10.1109/TPAMI.2016.2569436",
+      "pages": "1273-1280",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/MaoWTS17",
+      "title": "Principal Graph and Structure Learning Based on Reversed Graph Embedding.",
+      "authors": [
+        "Qi Mao 0001",
+        "Li Wang 0033",
+        "Ivor W. Tsang",
+        "Yijun Sun"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MaoWTS17",
+      "doi": "10.1109/TPAMI.2016.2635657",
+      "pages": "2227-2241",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/Martin-Clemente17",
+      "title": "On the Link Between L1-PCA and ICA.",
+      "authors": [
+        "Rubén Martín-Clemente",
+        "Vicente Zarzoso"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Martin-Clemente17",
+      "doi": "10.1109/TPAMI.2016.2557797",
+      "pages": "515-528",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/MitraBB17",
+      "title": "Bayesian Modeling of Temporal Coherence in Videos for Entity Discovery and Summarization.",
+      "authors": [
+        "Adway Mitra",
+        "Soma Biswas",
+        "Chiranjib Bhattacharyya"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MitraBB17",
+      "doi": "10.1109/TPAMI.2016.2557785",
+      "pages": "430-443",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/MurezTRK17",
+      "title": "Photometric Stereo in a Scattering Medium.",
+      "authors": [
+        "Zak Murez",
+        "Tali Treibitz",
+        "Ravi Ramamoorthi",
+        "David J. Kriegman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MurezTRK17",
+      "doi": "10.1109/TPAMI.2016.2613862",
+      "pages": "1880-1891",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/MurrayJPZ17",
+      "title": "Interferences in Match Kernels.",
+      "authors": [
+        "Naila Murray",
+        "Hervé Jégou",
+        "Florent Perronnin",
+        "Andrew Zisserman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/MurrayJPZ17",
+      "doi": "10.1109/TPAMI.2016.2615621",
+      "pages": "1797-1810",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/Nguyen-DinhCT17",
+      "title": "Supporting One-Time Point Annotations for Gesture Recognition.",
+      "authors": [
+        "Long-Van Nguyen-Dinh",
+        "Alberto Calatroni",
+        "Gerhard Tröster"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Nguyen-DinhCT17",
+      "doi": "10.1109/TPAMI.2016.2637350",
+      "pages": "2270-2283",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/NguyenTG017",
+      "title": "An Efficient Multilinear Optimization Framework for Hypergraph Matching.",
+      "authors": [
+        "Quynh Nguyen 0001",
+        "Francesco Tudisco",
+        "Antoine Gautier 0001",
+        "Matthias Hein 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/NguyenTG017",
+      "doi": "10.1109/TPAMI.2016.2574706",
+      "pages": "1054-1075",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/OuyangZWQLTLYWL17",
+      "title": "DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks.",
+      "authors": [
+        "Wanli Ouyang",
+        "Xingyu Zeng",
+        "Xiaogang Wang 0001",
+        "Shi Qiu",
+        "Ping Luo 0002",
+        "Yonglong Tian",
+        "Hongsheng Li 0001",
+        "Shuo Yang 0003",
+        "Zhe Wang 0006",
+        "Hongyang Li 0001",
+        "Kun Wang",
+        "Junjie Yan",
+        "Chen Change Loy",
+        "Xiaoou Tang"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/OuyangZWQLTLYWL17",
+      "doi": "10.1109/TPAMI.2016.2587642",
+      "pages": "1320-1334",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/PainskyR17",
+      "title": "Cross-Validated Variable Selection in Tree-Based Methods Improves Predictive Performance.",
+      "authors": [
+        "Amichai Painsky",
+        "Saharon Rosset"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PainskyR17",
+      "doi": "10.1109/TPAMI.2016.2636831",
+      "pages": "2142-2153",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/PanHS017",
+      "title": "L0-Regularized Intensity and Gradient Prior for Deblurring Text Images and Beyond.",
+      "authors": [
+        "Jin-shan Pan",
+        "Zhe Hu",
+        "Zhixun Su",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PanHS017",
+      "doi": "10.1109/TPAMI.2016.2551244",
+      "pages": "342-355",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ParkSMTK17",
+      "title": "Robust Multiview Photometric Stereo Using Planar Mesh Parameterization.",
+      "authors": [
+        "Jaesik Park",
+        "Sudipta N. Sinha",
+        "Yasuyuki Matsushita",
+        "Yu-Wing Tai",
+        "In So Kweon"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ParkSMTK17",
+      "doi": "10.1109/TPAMI.2016.2608944",
+      "pages": "1591-1604",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/PatrauceanGG17",
+      "title": "Joint A Contrario Ellipse and Line Detection.",
+      "authors": [
+        "Viorica Patraucean",
+        "Pierre Gurdjos",
+        "Rafael Grompone von Gioi"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PatrauceanGG17",
+      "doi": "10.1109/TPAMI.2016.2558150",
+      "pages": "788-802",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/PeharzGPD17",
+      "title": "On the Latent Variable Interpretation in Sum-Product Networks.",
+      "authors": [
+        "Robert Peharz",
+        "Robert Gens",
+        "Franz Pernkopf",
+        "Pedro M. Domingos"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PeharzGPD17",
+      "doi": "10.1109/TPAMI.2016.2618381",
+      "pages": "2030-2044",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/PengGWL17",
+      "title": "Graphical Representation for Heterogeneous Face Recognition.",
+      "authors": [
+        "Chunlei Peng",
+        "Xinbo Gao 0001",
+        "Nannan Wang 0001",
+        "Jie Li 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PengGWL17",
+      "doi": "10.1109/TPAMI.2016.2542816",
+      "pages": "301-312",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/PengLLHXM17",
+      "title": "Salient Object Detection via Structured Matrix Decomposition.",
+      "authors": [
+        "Houwen Peng",
+        "Bing Li 0001",
+        "Haibin Ling",
+        "Weiming Hu 0004",
+        "Weihua Xiong",
+        "Stephen J. Maybank"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PengLLHXM17",
+      "doi": "10.1109/TPAMI.2016.2562626",
+      "pages": "818-832",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/PengZMY17",
+      "title": "Evaluation of Segmentation Quality via Adaptive Composition of Reference Segmentations.",
+      "authors": [
+        "Bo Peng 0006",
+        "Lei Zhang 0006",
+        "Xuanqin Mou",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PengZMY17",
+      "doi": "10.1109/TPAMI.2016.2622703",
+      "pages": "1929-1941",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/PhamRF17",
+      "title": "Dynamic Programming for Instance Annotation in Multi-Instance Multi-Label Learning.",
+      "authors": [
+        "Anh T. Pham 0001",
+        "Raviv Raich",
+        "Xiaoli Z. Fern"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PhamRF17",
+      "doi": "10.1109/TPAMI.2017.2647944",
+      "pages": "2381-2394",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/PieciakAV17",
+      "title": "Non-Stationary Rician Noise Estimation in Parallel MRI Using a Single Image: A Variance-Stabilizing Approach.",
+      "authors": [
+        "Tomasz Pieciak",
+        "Santiago Aja-Fernández",
+        "Gonzalo Vegas-Sánchez-Ferrero"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PieciakAV17",
+      "doi": "10.1109/TPAMI.2016.2625789",
+      "pages": "2015-2029",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/PinheiroKF17",
+      "title": "Geometric Graph Matching Using Monte Carlo Tree Search.",
+      "authors": [
+        "Miguel Amável Pinheiro",
+        "Jan Kybic",
+        "Pascal Fua"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PinheiroKF17",
+      "doi": "10.1109/TPAMI.2016.2636200",
+      "pages": "2171-2185",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/PittalugaK17",
+      "title": "Pre-Capture Privacy for Small Vision Sensors.",
+      "authors": [
+        "Francesco Pittaluga",
+        "Sanjeev J. Koppal"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PittalugaK17",
+      "doi": "10.1109/TPAMI.2016.2637354",
+      "pages": "2215-2226",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/Pont-TusetABMM17",
+      "title": "Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation.",
+      "authors": [
+        "Jordi Pont-Tuset",
+        "Pablo Arbeláez",
+        "Jonathan T. Barron",
+        "Ferran Marqués",
+        "Jitendra Malik"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Pont-TusetABMM17",
+      "doi": "10.1109/TPAMI.2016.2537320",
+      "pages": "128-140",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/PremachandranTY17",
+      "title": "Empirical Minimum Bayes Risk Prediction.",
+      "authors": [
+        "Vittal Premachandran",
+        "Daniel Tarlow",
+        "Alan L. Yuille",
+        "Dhruv Batra"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PremachandranTY17",
+      "doi": "10.1109/TPAMI.2016.2537807",
+      "pages": "75-86",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/PrusaW17",
+      "title": "LP Relaxation of the Potts Labeling Problem Is as Hard as Any Linear Program.",
+      "authors": [
+        "Daniel Prusa",
+        "Tomás Werner"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PrusaW17",
+      "doi": "10.1109/TPAMI.2016.2582165",
+      "pages": "1469-1475",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/PunjaniBF17",
+      "title": "Building Proteins in a Day: Efficient 3D Molecular Structure Estimation with Electron Cryomicroscopy.",
+      "authors": [
+        "Ali Punjani",
+        "Marcus A. Brubaker",
+        "David J. Fleet"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PunjaniBF17",
+      "doi": "10.1109/TPAMI.2016.2627573",
+      "pages": "706-718",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/PurkaitCSS17",
+      "title": "Clustering with Hypergraphs: The Case for Large Hyperedges.",
+      "authors": [
+        "Pulak Purkait",
+        "Tat-Jun Chin",
+        "Alireza Sadri",
+        "David Suter"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/PurkaitCSS17",
+      "doi": "10.1109/TPAMI.2016.2614980",
+      "pages": "1697-1711",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/QuWLY17",
+      "title": "Probabilistic Model for Robust Affine and Non-Rigid Point Set Matching.",
+      "authors": [
+        "Han-Bing Qu",
+        "Jia-Qiang Wang",
+        "Bin Li 0053",
+        "Ming Yu 0006"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/QuWLY17",
+      "doi": "10.1109/TPAMI.2016.2545659",
+      "pages": "371-384",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/RamalingamS17",
+      "title": "A Unifying Model for Camera Calibration.",
+      "authors": [
+        "Srikumar Ramalingam",
+        "Peter F. Sturm"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RamalingamS17",
+      "doi": "10.1109/TPAMI.2016.2592904",
+      "pages": "1309-1319",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/RematasNRFT17",
+      "title": "Novel Views of Objects from a Single Image.",
+      "authors": [
+        "Konstantinos Rematas",
+        "Chuong H. Nguyen",
+        "Tobias Ritschel 0001",
+        "Mario Fritz",
+        "Tinne Tuytelaars"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RematasNRFT17",
+      "doi": "10.1109/TPAMI.2016.2601093",
+      "pages": "1576-1590",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/RenHG017",
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.",
+      "authors": [
+        "Shaoqing Ren",
+        "Kaiming He",
+        "Ross B. Girshick",
+        "Jian Sun 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RenHG017",
+      "doi": "10.1109/TPAMI.2016.2577031",
+      "pages": "1137-1149",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/RenHGZS17",
+      "title": "Object Detection Networks on Convolutional Feature Maps.",
+      "authors": [
+        "Shaoqing Ren",
+        "Kaiming He",
+        "Ross B. Girshick",
+        "Xiangyu Zhang 0005",
+        "Jian Sun 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RenHGZS17",
+      "doi": "10.1109/TPAMI.2016.2601099",
+      "pages": "1476-1481",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/RengarajanRAS17",
+      "title": "Image Registration and Change Detection under Rolling Shutter Motion Blur.",
+      "authors": [
+        "Vijay Rengarajan",
+        "Ambasamudram Narayanan Rajagopalan",
+        "Rangarajan Aravind",
+        "Guna Seetharaman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RengarajanRAS17",
+      "doi": "10.1109/TPAMI.2016.2630687",
+      "pages": "1959-1972",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/RodriguesLRP17",
+      "title": "Learning Supervised Topic Models for Classification and Regression from Crowds.",
+      "authors": [
+        "Filipe Rodrigues 0001",
+        "Mariana Lourenço",
+        "Bernardete Ribeiro",
+        "Francisco C. Pereira"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RodriguesLRP17",
+      "doi": "10.1109/TPAMI.2017.2648786",
+      "pages": "2409-2422",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/RothTL17",
+      "title": "Adaptive 3D Face Reconstruction from Unconstrained Photo Collections.",
+      "authors": [
+        "Joseph Roth",
+        "Yiying Tong",
+        "Xiaoming Liu 0002"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RothTL17",
+      "doi": "10.1109/TPAMI.2016.2636829",
+      "pages": "2127-2141",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/RozantsevLF17",
+      "title": "Detecting Flying Objects Using a Single Moving Camera.",
+      "authors": [
+        "Artem Rozantsev",
+        "Vincent Lepetit",
+        "Pascal Fua"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/RozantsevLF17",
+      "doi": "10.1109/TPAMI.2016.2564408",
+      "pages": "879-892",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/SattlerLK17",
+      "title": "Efficient &amp; Effective Prioritized Matching for Large-Scale Image-Based Localization.",
+      "authors": [
+        "Torsten Sattler",
+        "Bastian Leibe",
+        "Leif Kobbelt"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SattlerLK17",
+      "doi": "10.1109/TPAMI.2016.2611662",
+      "pages": "1744-1756",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/SaurerVBDPF17",
+      "title": "Homography Based Egomotion Estimation with a Common Direction.",
+      "authors": [
+        "Olivier Saurer",
+        "Pascal Vasseur",
+        "Rémi Boutteau",
+        "Cédric Demonceaux",
+        "Marc Pollefeys",
+        "Friedrich Fraundorfer"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SaurerVBDPF17",
+      "doi": "10.1109/TPAMI.2016.2545663",
+      "pages": "327-341",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/SharmaJS17",
+      "title": "Expanded Parts Model for Semantic Description of Humans in Still Images.",
+      "authors": [
+        "Gaurav Sharma 0004",
+        "Frédéric Jurie",
+        "Cordelia Schmid"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SharmaJS17",
+      "doi": "10.1109/TPAMI.2016.2537325",
+      "pages": "87-101",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/ShelhamerLD17",
+      "title": "Fully Convolutional Networks for Semantic Segmentation.",
+      "authors": [
+        "Evan Shelhamer",
+        "Jonathan Long",
+        "Trevor Darrell"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShelhamerLD17",
+      "doi": "10.1109/TPAMI.2016.2572683",
+      "pages": "640-651",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/ShiBY17",
+      "title": "An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition.",
+      "authors": [
+        "Baoguang Shi",
+        "Xiang Bai",
+        "Cong Yao"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShiBY17",
+      "doi": "10.1109/TPAMI.2016.2646371",
+      "pages": "2298-2304",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/ShiYHX17",
+      "title": "Weakly-Supervised Image Annotation and Segmentation with Objects and Attributes.",
+      "authors": [
+        "Zhiyuan Shi 0001",
+        "Yongxin Yang",
+        "Timothy M. Hospedales",
+        "Tao Xiang 0002"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShiYHX17",
+      "doi": "10.1109/TPAMI.2016.2645157",
+      "pages": "2525-2538",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/ShiZSJDLWYG17",
+      "title": "Hyperbolic Harmonic Mapping for Surface Registration.",
+      "authors": [
+        "Rui Shi",
+        "Wei Zeng 0002",
+        "Zhengyu Su",
+        "Jian Jiang",
+        "Hanna Damasio",
+        "Zhonglin Lu",
+        "Yalin Wang 0001",
+        "Shing-Tung Yau",
+        "Xianfeng Gu"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ShiZSJDLWYG17",
+      "doi": "10.1109/TPAMI.2016.2567398",
+      "pages": "965-980",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/SilbererFL17",
+      "title": "Visually Grounded Meaning Representations.",
+      "authors": [
+        "Carina Silberer",
+        "Vittorio Ferrari",
+        "Mirella Lapata"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SilbererFL17",
+      "doi": "10.1109/TPAMI.2016.2635138",
+      "pages": "2284-2297",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/SimonVMS17",
+      "title": "Kronecker-Markov Prior for Dynamic 3D Reconstruction.",
+      "authors": [
+        "Tomas Simon",
+        "Jack Valmadre",
+        "Iain A. Matthews",
+        "Yaser Sheikh"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SimonVMS17",
+      "doi": "10.1109/TPAMI.2016.2638904",
+      "pages": "2201-2214",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/SpampinatoPG17",
+      "title": "Gamifying Video Object Segmentation.",
+      "authors": [
+        "Concetto Spampinato",
+        "Simone Palazzo",
+        "Daniela Giordano"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SpampinatoPG17",
+      "doi": "10.1109/TPAMI.2016.2610973",
+      "pages": "1942-1958",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/SunFTS17",
+      "title": "Summarizing Unconstrained Videos Using Salient Montages.",
+      "authors": [
+        "Min Sun 0001",
+        "Ali Farhadi",
+        "Ben Taskar",
+        "Steven M. Seitz"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SunFTS17",
+      "doi": "10.1109/TPAMI.2016.2623699",
+      "pages": "2256-2269",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/SunNK17",
+      "title": "Randomly Perturbed B-Splines for Nonrigid Image Registration.",
+      "authors": [
+        "Wei Sun 0014",
+        "Wiro J. Niessen",
+        "Stefan Klein 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SunNK17",
+      "doi": "10.1109/TPAMI.2016.2598344",
+      "pages": "1401-1413",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/SvarmEKO17",
+      "title": "City-Scale Localization for Cameras with Known Vertical Direction.",
+      "authors": [
+        "Linus Svarm",
+        "Olof Enqvist",
+        "Fredrik Kahl",
+        "Magnus Oskarsson"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/SvarmEKO17",
+      "doi": "10.1109/TPAMI.2016.2598331",
+      "pages": "1455-1461",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/TakigawaM17",
+      "title": "Generalized Sparse Learning of Linear Models Over the Complete Subgraph Feature Set.",
+      "authors": [
+        "Ichigaku Takigawa",
+        "Hiroshi Mamitsuka"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TakigawaM17",
+      "doi": "10.1109/TPAMI.2016.2567399",
+      "pages": "617-624",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/TangCTK17",
+      "title": "Latent Regression Forest: Structured Estimation of 3D Hand Poses.",
+      "authors": [
+        "Danhang Tang",
+        "Hyung Jin Chang",
+        "Alykhan Tejani",
+        "Tae-Kyun Kim 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TangCTK17",
+      "doi": "10.1109/TPAMI.2016.2599170",
+      "pages": "1374-1387",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/TangSQLWYJ17",
+      "title": "Tri-Clustered Tensor Completion for Social-Aware Image Tag Refinement.",
+      "authors": [
+        "Jinhui Tang 0001",
+        "Xiangbo Shu",
+        "Guo-Jun Qi",
+        "Zechao Li",
+        "Meng Wang 0001",
+        "Shuicheng Yan",
+        "Ramesh C. Jain"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TangSQLWYJ17",
+      "doi": "10.1109/TPAMI.2016.2608882",
+      "pages": "1662-1674",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/TaoSHRMR17",
+      "title": "Shape Estimation from Shading, Defocus, and Correspondence Using Light-Field Angular Coherence.",
+      "authors": [
+        "Michael W. Tao",
+        "Pratul P. Srinivasan",
+        "Sunil Hadap",
+        "Szymon Rusinkiewicz",
+        "Jitendra Malik",
+        "Ravi Ramamoorthi"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TaoSHRMR17",
+      "doi": "10.1109/TPAMI.2016.2554121",
+      "pages": "546-560",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/TariqKF17",
+      "title": "NELasso: Group-Sparse Modeling for Characterizing Relations Among Named Entities in News Articles.",
+      "authors": [
+        "Amara Tariq",
+        "Asim Karim",
+        "Hassan Foroosh"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TariqKF17",
+      "doi": "10.1109/TPAMI.2016.2632117",
+      "pages": "2000-2014",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/TeixeiraL17",
+      "title": "A New Framework for Quality Assessment of High-Resolution Fingerprint Images.",
+      "authors": [
+        "Raoni Florentino da Silva Teixeira",
+        "Neucimar J. Leite"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TeixeiraL17",
+      "doi": "10.1109/TPAMI.2016.2631529",
+      "pages": "1905-1917",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/TheologouPT17",
+      "title": "Unsupervised Spectral Mesh Segmentation Driven by Heterogeneous Graphs.",
+      "authors": [
+        "Panagiotis Theologou",
+        "Ioannis Pratikakis",
+        "Theoharis Theoharis"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TheologouPT17",
+      "doi": "10.1109/TPAMI.2016.2544311",
+      "pages": "397-410",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/TrigeorgisBZS17",
+      "title": "A Deep Matrix Factorization Method for Learning Attribute Representations.",
+      "authors": [
+        "George Trigeorgis",
+        "Konstantinos Bousmalis",
+        "Stefanos Zafeiriou",
+        "Björn W. Schuller"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TrigeorgisBZS17",
+      "doi": "10.1109/TPAMI.2016.2554555",
+      "pages": "417-429",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/TulsianiKCM17",
+      "title": "Learning Category-Specific Deformable 3D Models for Object Reconstruction.",
+      "authors": [
+        "Shubham Tulsiani",
+        "Abhishek Kar",
+        "João Carreira 0001",
+        "Jitendra Malik"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TulsianiKCM17",
+      "doi": "10.1109/TPAMI.2016.2574713",
+      "pages": "719-731",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/TwardMTY17",
+      "title": "Parametric Surface Diffeomorphometry for Low Dimensional Embeddings of Dense Segmentations and Imagery.",
+      "authors": [
+        "Daniel Jacob Tward",
+        "Michael I. Miller",
+        "Alain Trouvé",
+        "Laurent Younes"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/TwardMTY17",
+      "doi": "10.1109/TPAMI.2016.2578317",
+      "pages": "1195-1208",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/VinyalsTBE17",
+      "title": "Show and Tell: Lessons Learned from the 2015 MSCOCO Image Captioning Challenge.",
+      "authors": [
+        "Oriol Vinyals",
+        "Alexander Toshev",
+        "Samy Bengio",
+        "Dumitru Erhan"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/VinyalsTBE17",
+      "doi": "10.1109/TPAMI.2016.2587640",
+      "pages": "652-663",
+      "volume": "39",
+      "number": "4"
+    },
+    {
+      "id": "journals/pami/WangCRWCC17",
+      "title": "Information-Theoretic Compressive Measurement Design.",
+      "authors": [
+        "Liming Wang 0004",
+        "Minhua Chen",
+        "Miguel R. D. Rodrigues",
+        "David Wilcox",
+        "A. Robert Calderbank",
+        "Lawrence Carin"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangCRWCC17",
+      "doi": "10.1109/TPAMI.2016.2568189",
+      "pages": "1150-1164",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/WangHSXNZ17",
+      "title": "Video Object Discovery and Co-Segmentation with Extremely Weak Supervision.",
+      "authors": [
+        "Le Wang 0003",
+        "Gang Hua 0001",
+        "Rahul Sukthankar",
+        "Jianru Xue",
+        "Zhenxing Niu",
+        "Nanning Zheng 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangHSXNZ17",
+      "doi": "10.1109/TPAMI.2016.2612187",
+      "pages": "2074-2088",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/WangJ17",
+      "title": "Hierarchical Context Modeling for Video Event Recognition.",
+      "authors": [
+        "Xiaoyang Wang 0001",
+        "Qiang Ji"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangJ17",
+      "doi": "10.1109/TPAMI.2016.2616308",
+      "pages": "1770-1782",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/WangOJ17",
+      "title": "Face Search at Scale.",
+      "authors": [
+        "Dayong Wang",
+        "Charles Otto",
+        "Anil K. Jain 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangOJ17",
+      "doi": "10.1109/TPAMI.2016.2582166",
+      "pages": "1122-1136",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/WangSHT17",
+      "title": "Large-Scale Binary Quadratic Optimization Using Semidefinite Relaxation and Applications.",
+      "authors": [
+        "Peng Wang 0015",
+        "Chunhua Shen",
+        "Anton van den Hengel",
+        "Philip H. S. Torr"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangSHT17",
+      "doi": "10.1109/TPAMI.2016.2541146",
+      "pages": "470-485",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/WangWCW17",
+      "title": "Tracklet Association by Online Target-Specific Metric Learning and Coherent Dynamics Estimation.",
+      "authors": [
+        "Bing Wang 0003",
+        "Gang Wang 0012",
+        "Kap Luk Chan",
+        "Li Wang 0057"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangWCW17",
+      "doi": "10.1109/TPAMI.2016.2551245",
+      "pages": "589-602",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/WangXSWZ17",
+      "title": "Adaptive Nonlocal Sparse Representation for Dual-Camera Compressive Hyperspectral Imaging.",
+      "authors": [
+        "Lizhi Wang 0001",
+        "Zhiwei Xiong",
+        "Guangming Shi",
+        "Feng Wu 0001",
+        "Wenjun Zeng 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WangXSWZ17",
+      "doi": "10.1109/TPAMI.2016.2621050",
+      "pages": "2104-2111",
+      "volume": "39",
+      "number": "10"
+    },
+    {
+      "id": "journals/pami/WeiLCSCFZY17",
+      "title": "STC: A Simple to Complex Framework for Weakly-Supervised Semantic Segmentation.",
+      "authors": [
+        "Yunchao Wei",
+        "Xiaodan Liang",
+        "Yunpeng Chen",
+        "Xiaohui Shen",
+        "Ming-Ming Cheng",
+        "Jiashi Feng",
+        "Yao Zhao 0001",
+        "Shuicheng Yan"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WeiLCSCFZY17",
+      "doi": "10.1109/TPAMI.2016.2636150",
+      "pages": "2314-2320",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/WeiZZZ17",
+      "title": "Modeling 4D Human-Object Interactions for Joint Event Segmentation, Recognition, and Object Localization.",
+      "authors": [
+        "Ping Wei 0001",
+        "Yibiao Zhao",
+        "Nanning Zheng 0001",
+        "Song-Chun Zhu"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WeiZZZ17",
+      "doi": "10.1109/TPAMI.2016.2574712",
+      "pages": "1165-1179",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/WillcocksJNO17",
+      "title": "Extracting 3D Parametric Curves from 2D Images of Helical Objects.",
+      "authors": [
+        "Chris G. Willcocks",
+        "Philip T. G. Jackson",
+        "Carl J. Nelson",
+        "Boguslaw Obara"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WillcocksJNO17",
+      "doi": "10.1109/TPAMI.2016.2613866",
+      "pages": "1757-1769",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/WuHWWT17",
+      "title": "A Comprehensive Study on Cross-View Gait Based Human Identification with Deep CNNs.",
+      "authors": [
+        "Zifeng Wu",
+        "Yongzhen Huang",
+        "Liang Wang 0001",
+        "Xiaogang Wang 0001",
+        "Tieniu Tan"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WuHWWT17",
+      "doi": "10.1109/TPAMI.2016.2545669",
+      "pages": "209-226",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/WuLZ17",
+      "title": "Online Object Tracking, Learning and Parsing with And-Or Graphs.",
+      "authors": [
+        "Tianfu Wu 0001",
+        "Yang Lu 0006",
+        "Song-Chun Zhu"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/WuLZ17",
+      "doi": "10.1109/TPAMI.2016.2644963",
+      "pages": "2465-2480",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/XiangWR17",
+      "title": "Screening Tests for Lasso Problems.",
+      "authors": [
+        "Zhen James Xiang",
+        "Yun Wang",
+        "Peter J. Ramadge"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XiangWR17",
+      "doi": "10.1109/TPAMI.2016.2568185",
+      "pages": "1008-1027",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/XiaoLH17",
+      "title": "A Sphere-Description-Based Approach for Multiple-Instance Learning.",
+      "authors": [
+        "Yanshan Xiao",
+        "Bo Liu 0002",
+        "Zhifeng Hao"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XiaoLH17",
+      "doi": "10.1109/TPAMI.2016.2539952",
+      "pages": "242-257",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/XieDZWF17",
+      "title": "DeepShape: Deep-Learned Shape Descriptor for 3D Shape Retrieval.",
+      "authors": [
+        "Jin Xie 0001",
+        "Guoxian Dai",
+        "Fan Zhu 0001",
+        "Edward K. Wong",
+        "Yi Fang 0006"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XieDZWF17",
+      "doi": "10.1109/TPAMI.2016.2596722",
+      "pages": "1335-1345",
+      "volume": "39",
+      "number": "7"
+    },
+    {
+      "id": "journals/pami/XiongJC17",
+      "title": "Active Clustering with Model-Based Uncertainty Reduction.",
+      "authors": [
+        "Caiming Xiong",
+        "David M. Johnson 0001",
+        "Jason J. Corso"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XiongJC17",
+      "doi": "10.1109/TPAMI.2016.2539965",
+      "pages": "5-17",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/XuCGN17",
+      "title": "Hierarchical Segmentation Using Tree-Based Shape Spaces.",
+      "authors": [
+        "Yongchao Xu",
+        "Edwin Carlinet",
+        "Thierry Géraud",
+        "Laurent Najman"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/XuCGN17",
+      "doi": "10.1109/TPAMI.2016.2554550",
+      "pages": "457-469",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/Yang017",
+      "title": "Top-Down Visual Saliency via Joint CRF and Dictionary Learning.",
+      "authors": [
+        "Jimei Yang",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Yang017",
+      "doi": "10.1109/TPAMI.2016.2547384",
+      "pages": "576-588",
+      "volume": "39",
+      "number": "3"
+    },
+    {
+      "id": "journals/pami/YangLLL17",
+      "title": "Social Collaborative Filtering by Trust.",
+      "authors": [
+        "Bo Yang 0002",
+        "Yu Lei 0004",
+        "Jiming Liu 0001",
+        "Wenjie Li 0002"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YangLLL17",
+      "doi": "10.1109/TPAMI.2016.2605085",
+      "pages": "1633-1647",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/YangLQTZX17",
+      "title": "Nuclear Norm Based Matrix Regression with Applications to Face Recognition with Occlusion and Illumination Changes.",
+      "authors": [
+        "Jian Yang 0003",
+        "Lei Luo 0001",
+        "Jianjun Qian",
+        "Ying Tai",
+        "Fanlong Zhang",
+        "Yong Xu 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YangLQTZX17",
+      "doi": "10.1109/TPAMI.2016.2535218",
+      "pages": "156-171",
+      "volume": "39",
+      "number": "1"
+    },
+    {
+      "id": "journals/pami/YangT17",
+      "title": "Super Normal Vector for Human Activity Recognition with Depth Cameras.",
+      "authors": [
+        "Xiaodong Yang 0001",
+        "Yingli Tian"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YangT17",
+      "doi": "10.1109/TPAMI.2016.2565479",
+      "pages": "1028-1039",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/YuanL17",
+      "title": "Newton-Type Greedy Selection Methods for ℓ0-Constrained Minimization.",
+      "authors": [
+        "Xiao-Tong Yuan",
+        "Qingshan Liu 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/YuanL17",
+      "doi": "10.1109/TPAMI.2017.2651813",
+      "pages": "2437-2450",
+      "volume": "39",
+      "number": "12"
+    },
+    {
+      "id": "journals/pami/Zhang0JJCLLH17",
+      "title": "Sparse Learning with Stochastic Composite Optimization.",
+      "authors": [
+        "Weizhong Zhang",
+        "Lijun Zhang 0005",
+        "Zhongming Jin 0001",
+        "Rong Jin 0001",
+        "Deng Cai 0001",
+        "Xuelong Li 0001",
+        "Ronghua Liang",
+        "Xiaofei He 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/Zhang0JJCLLH17",
+      "doi": "10.1109/TPAMI.2016.2578323",
+      "pages": "1223-1236",
+      "volume": "39",
+      "number": "6"
+    },
+    {
+      "id": "journals/pami/ZhangMH17",
+      "title": "Co-Saliency Detection via a Self-Paced Multiple-Instance Learning Framework.",
+      "authors": [
+        "Dingwen Zhang",
+        "Deyu Meng",
+        "Junwei Han 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangMH17",
+      "doi": "10.1109/TPAMI.2016.2567393",
+      "pages": "865-878",
+      "volume": "39",
+      "number": "5"
+    },
+    {
+      "id": "journals/pami/ZhangP17",
+      "title": "Sparse Representation-Based Open Set Recognition.",
+      "authors": [
+        "He Zhang 0004",
+        "Vishal M. Patel"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangP17",
+      "doi": "10.1109/TPAMI.2016.2613924",
+      "pages": "1690-1696",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhangYLRY17",
+      "title": "Ranking Saliency.",
+      "authors": [
+        "Lihe Zhang",
+        "Chuan Yang",
+        "Huchuan Lu",
+        "Xiang Ruan",
+        "Ming-Hsuan Yang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangYLRY17",
+      "doi": "10.1109/TPAMI.2016.2609426",
+      "pages": "1892-1904",
+      "volume": "39",
+      "number": "9"
+    },
+    {
+      "id": "journals/pami/ZhangZL17",
+      "title": "Uniform Projection for Multi-View Learning.",
+      "authors": [
+        "Zhenyue Zhang",
+        "Zheng Zhai",
+        "Limin Li"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhangZL17",
+      "doi": "10.1109/TPAMI.2016.2601608",
+      "pages": "1675-1689",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhaoOW17",
+      "title": "Person Re-Identification by Saliency Learning.",
+      "authors": [
+        "Rui Zhao 0001",
+        "Wanli Ouyang",
+        "Xiaogang Wang 0001"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhaoOW17",
+      "doi": "10.1109/TPAMI.2016.2544310",
+      "pages": "356-370",
+      "volume": "39",
+      "number": "2"
+    },
+    {
+      "id": "journals/pami/ZhengJC17",
+      "title": "Submodular Attribute Selection for Visual Recognition.",
+      "authors": [
+        "Jingjing Zheng",
+        "Zhuolin Jiang",
+        "Rama Chellappa"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhengJC17",
+      "doi": "10.1109/TPAMI.2016.2636827",
+      "pages": "2242-2255",
+      "volume": "39",
+      "number": "11"
+    },
+    {
+      "id": "journals/pami/ZhouZLD17",
+      "title": "Sparse Representation for 3D Shape Estimation: A Convex Relaxation Approach.",
+      "authors": [
+        "Xiaowei Zhou 0001",
+        "Menglong Zhu",
+        "Spyridon Leonardos",
+        "Kostas Daniilidis"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhouZLD17",
+      "doi": "10.1109/TPAMI.2016.2605097",
+      "pages": "1648-1661",
+      "volume": "39",
+      "number": "8"
+    },
+    {
+      "id": "journals/pami/ZhuCHH17",
+      "title": "Blind Image Denoising via Dependent Dirichlet Process Tree.",
+      "authors": [
+        "Fengyuan Zhu",
+        "Guangyong Chen",
+        "Jianye Hao",
+        "Pheng-Ann Heng"
+      ],
+      "abstract": "",
+      "year": "2017",
+      "venue": "tpami",
+      "url": "https://dblp.org/rec/journals/pami/ZhuCHH17",
+      "doi": "10.1109/TPAMI.2016.2604816",
+      "pages": "1518-1531",
+      "volume": "39",
+      "number": "8"
+    }
+  ]
+}
