@@ -9,6 +9,10 @@ export function generateStaticParams() {
     { venue: 'cvpr' },
     { venue: 'iccv' },
     { venue: 'eccv' },
+    { venue: 'tpami' },
+    { venue: 'tip' },
+    { venue: 'tmm' },
+    { venue: 'ijcv' },
   ]
 }
 

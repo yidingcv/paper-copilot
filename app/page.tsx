@@ -12,6 +12,10 @@ const CONFERENCES = [
   { id: 'cvpr', name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
   { id: 'iccv', name: 'ICCV', desc: 'International Conference on Computer Vision' },
   { id: 'eccv', name: 'ECCV', desc: 'European Conference on Computer Vision' },
+  { id: 'tpami', name: 'TPAMI', desc: 'IEEE Transactions on Pattern Analysis' },
+  { id: 'tip', name: 'TIP', desc: 'IEEE Transactions on Image Processing' },
+  { id: 'tmm', name: 'TMM', desc: 'IEEE Transactions on Multimedia' },
+  { id: 'ijcv', name: 'IJCV', desc: 'International Journal of Computer Vision' },
 ]
 
 export default function Home() {

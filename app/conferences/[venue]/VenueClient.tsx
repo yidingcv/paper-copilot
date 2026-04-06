@@ -12,6 +12,10 @@ const VENUE_INFO: Record<string, { name: string; desc: string }> = {
   cvpr: { name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
   iccv: { name: 'ICCV', desc: 'International Conference on Computer Vision' },
   eccv: { name: 'ECCV', desc: 'European Conference on Computer Vision' },
+  tpami: { name: 'TPAMI', desc: 'IEEE Transactions on Pattern Analysis and Machine Intelligence' },
+  tip: { name: 'TIP', desc: 'IEEE Transactions on Image Processing' },
+  tmm: { name: 'TMM', desc: 'IEEE Transactions on Multimedia' },
+  ijcv: { name: 'IJCV', desc: 'International Journal of Computer Vision' },
 }
 
 interface VenueClientProps {
