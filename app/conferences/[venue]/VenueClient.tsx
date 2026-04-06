@@ -98,7 +98,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
     return (
       <main>
         <div className="main">
-          <Link href="/conferences" className="back-link">← Back to Venues</Link>
+          <Link href="/" className="back-link">← Back to Home</Link>
           <div className="venue-header">
             <h1>{venueInfo.name}</h1>
             <p>{venueInfo.desc}</p>
@@ -114,7 +114,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
   return (
     <main>
       <div className="main">
-        <Link href="/conferences" className="back-link">← Back to Venues</Link>
+        <Link href="/" className="back-link">← Back to Home</Link>
 
         <div className="venue-header">
           <h1>{venueInfo.name}</h1>
