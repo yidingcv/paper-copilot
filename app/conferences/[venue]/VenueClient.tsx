@@ -71,7 +71,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
       try {
         for (const year of yearsToFetch) {
           try {
-            const res = await fetch(`/paperlists/${venue}/${venue}${year}.json`)
+            const res = await fetch(`/papercc/paperlists/${venue}/${venue}${year}.json`)
             if (res.ok) {
               const data = await res.json()
               allPapers.push(...(data.papers || []))
