@@ -122,20 +122,26 @@ export default function VenueClient({ venue }: VenueClientProps) {
         </div>
 
         {availableYears.length > 0 && (
-          <div className="year-filter" style={{ marginBottom: '2rem', display: 'flex', gap: '1rem', alignItems: 'center', flexWrap: 'wrap' }}>
-            <span style={{ fontWeight: 500 }}>Year Range:</span>
-            <select value={startYear} onChange={(e) => setStartYear(e.target.value)} style={{ padding: '0.5em', borderRadius: '6px', border: '1px solid var(--border)', fontSize: '0.9em' }}>
-              {availableYears.map(y => (
-                <option key={y} value={y}>{y}</option>
-              ))}
-            </select>
-            <span>to</span>
-            <select value={endYear} onChange={(e) => setEndYear(e.target.value)} style={{ padding: '0.5em', borderRadius: '6px', border: '1px solid var(--border)', fontSize: '0.9em' }}>
-              {availableYears.map(y => (
-                <option key={y} value={y}>{y}</option>
-              ))}
-            </select>
-            <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>({papers.length} papers)</span>
+          <div className="year-filter" style={{ marginBottom: '2rem', display: 'flex', gap: '0.5rem', flexWrap: 'wrap', alignItems: 'center' }}>
+            {availableYears.map(y => (
+              <button
+                key={y}
+                onClick={() => { setStartYear(y); setEndYear(y); }}
+                style={{
+                  padding: '0.4em 1em',
+                  borderRadius: '6px',
+                  border: '1px solid',
+                  borderColor: startYear === y && endYear === y ? 'var(--primary)' : 'var(--border)',
+                  background: startYear === y && endYear === y ? 'var(--primary)' : 'var(--bg-white)',
+                  color: startYear === y && endYear === y ? 'white' : 'var(--text)',
+                  cursor: 'pointer',
+                  fontWeight: startYear === y && endYear === y ? 600 : 400,
+                  transition: 'all 0.2s',
+                }}
+              >
+                {y}
+              </button>
+            ))}
           </div>
         )}
 
