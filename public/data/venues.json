@@ -7,6 +7,18 @@
       "years": ["2024", "2025", "2026"]
     },
     {
+      "id": "cvpr",
+      "name": "CVPR",
+      "category": "conference",
+      "years": ["2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
+    },
+    {
+      "id": "tpami",
+      "name": "TPAMI",
+      "category": "journal",
+      "years": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
+    },
+    {
       "id": "neurips",
       "name": "NeurIPS",
       "category": "conference",
@@ -25,12 +37,6 @@
       "years": ["2020", "2021", "2022", "2023", "2024"]
     },
     {
-      "id": "cvpr",
-      "name": "CVPR",
-      "category": "conference",
-      "years": ["2020", "2021", "2022", "2023", "2024"]
-    },
-    {
       "id": "iccv",
       "name": "ICCV",
       "category": "conference",
@@ -41,12 +47,6 @@
       "name": "ECCV",
       "category": "conference",
       "years": ["2020", "2022", "2024"]
-    },
-    {
-      "id": "tpami",
-      "name": "TPAMI",
-      "category": "journal",
-      "years": ["2020", "2021", "2022", "2023", "2024"]
     },
     {
       "id": "tip",
