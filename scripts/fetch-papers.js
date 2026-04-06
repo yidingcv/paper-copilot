@@ -14,7 +14,7 @@ const VENUES = {
   cvpr: {
     name: 'CVPR',
     queryFormat: 'conf/cvpr/',
-    years: ['2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
+    years: ['2020', '2021', '2022', '2023', '2024', '2025']
   },
   iccv: {
     name: 'ICCV',
@@ -34,17 +34,7 @@ const VENUES = {
   iclr: {
     name: 'ICLR',
     queryFormat: 'conf/iclr/',
-    years: ['2020', '2021', '2022', '2023', '2024', '2025']
-  },
-  icml: {
-    name: 'ICML',
-    queryFormat: 'conf/icml/',
-    years: ['2020', '2021', '2022', '2023', '2024']
-  },
-  tpami: {
-    name: 'TPAMI',
-    queryFormat: 'venue:IEEE Trans. Pattern Anal. Mach. Intell year:',
-    years: ['2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025']
+    years: ['2020', '2021', '2022']
   },
 };
 
@@ -68,6 +58,20 @@ function isWorkshopTitle(title) {
   ];
   const lowerTitle = title.toLowerCase();
   return workshopKeywords.some(kw => lowerTitle.includes(kw));
+}
+
+function isEditorial(info) {
+  // Filter out editorials, front matter, etc.
+  const editorialTypes = ['Editorship', 'Editorial', 'Front Matter', ' Preface'];
+  const type = info.type || '';
+  if (editorialTypes.some(t => type.includes(t))) return true;
+
+  // Filter out conference overview papers
+  const title = info.title || '';
+  if (title.includes('Conference on') && title.includes('CVPR') && title.includes('2024')) return true;
+  if (title.match(/IEEE\/CVF Conference.*\d{4}/)) return true;
+
+  return false;
 }
 
 function extractAuthors(authorsData) {
@@ -152,9 +156,9 @@ async function main() {
     for (const year of venueInfo.years) {
       const papers = await fetchVenueYearPapers(venueId, venueInfo, year);
 
-      // Filter out workshop papers and add venue
+      // Filter out workshop papers, editorials, and add venue
       const filteredPapers = papers
-        .filter(p => !isWorkshopTitle(p.title))
+        .filter(p => !isWorkshopTitle(p.title) && !isEditorial(p))
         .map(p => ({ ...p, venue: venueId }));
 
       // Save to JSON

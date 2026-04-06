@@ -1,15 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/cvpr/2020",
-      "title": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2020, Seattle, WA, USA, June 13-19, 2020",
-      "authors": [],
-      "year": "2020",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2020",
-      "doi": ""
-    },
-    {
       "id": "conf/cvpr/FernandesREP0OV20",
       "title": "Detecting Deepfake Videos using Attribution-Based Confidence Metric.",
       "authors": [
@@ -14310,15 +14301,6 @@
       "doi": "10.1109/CVPR42600.2020.01226"
     },
     {
-      "id": "conf/cvpr/2020",
-      "title": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2020, Seattle, WA, USA, June 13-19, 2020",
-      "authors": [],
-      "year": "2020",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2020",
-      "doi": ""
-    },
-    {
       "id": "conf/cvpr/FernandesREP0OV20",
       "title": "Detecting Deepfake Videos using Attribution-Based Confidence Metric.",
       "authors": [
@@ -28617,15 +28599,6 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/LiuSLSS20",
       "doi": "10.1109/CVPR42600.2020.01226"
-    },
-    {
-      "id": "conf/cvpr/2020",
-      "title": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2020, Seattle, WA, USA, June 13-19, 2020",
-      "authors": [],
-      "year": "2020",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2020",
-      "doi": ""
     },
     {
       "id": "conf/cvpr/FernandesREP0OV20",

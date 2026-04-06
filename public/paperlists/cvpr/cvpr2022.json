@@ -1,15 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/cvpr/2022",
-      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2022, New Orleans, LA, USA, June 18-24, 2022",
-      "authors": [],
-      "year": "2022",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2022",
-      "doi": "10.1109/CVPR52688.2022"
-    },
-    {
       "id": "conf/cvpr/BaghdasaryanMDH22",
       "title": "Deep density estimation based on multi-spectral remote sensing data for in-field crop yield forecasting.",
       "authors": [
@@ -14871,15 +14862,6 @@
       "doi": "10.1109/CVPR52688.2022.00945"
     },
     {
-      "id": "conf/cvpr/2022",
-      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2022, New Orleans, LA, USA, June 18-24, 2022",
-      "authors": [],
-      "year": "2022",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2022",
-      "doi": "10.1109/CVPR52688.2022"
-    },
-    {
       "id": "conf/cvpr/BaghdasaryanMDH22",
       "title": "Deep density estimation based on multi-spectral remote sensing data for in-field crop yield forecasting.",
       "authors": [
@@ -29739,15 +29721,6 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/KarimRRMS22",
       "doi": "10.1109/CVPR52688.2022.00945"
-    },
-    {
-      "id": "conf/cvpr/2022",
-      "title": "IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2022, New Orleans, LA, USA, June 18-24, 2022",
-      "authors": [],
-      "year": "2022",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2022",
-      "doi": "10.1109/CVPR52688.2022"
     },
     {
       "id": "conf/cvpr/BaghdasaryanMDH22",

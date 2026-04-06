@@ -156,7 +156,6 @@ export default function VenueClient({ venue }: VenueClientProps) {
                   {paper.authors?.join(', ')}
                 </p>
                 <div className="paper-meta">
-                  <span className="paper-tag">{paper.year}</span>
                   {paper.url && (
                     <a
                       href={paper.url}
