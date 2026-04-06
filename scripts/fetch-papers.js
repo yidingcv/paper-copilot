@@ -82,19 +82,26 @@ function isValidPaper(info) {
 
   // Exclude patterns - comprehensive list
   const excludePatterns = [
-    // Workshop/Challenge/Competition keywords at start
-    /^workshop/i,
-    /^challenge/i,
-    /^competition/i,
+    // "Xth Challenge" pattern (1st, 2nd, 3rd Challenge)
+    /\d+(st|nd|rd|th)\s+challenge/i,
 
-    // Workshop/Challenge/Competition keywords at end
-    /workshop$/i,
-    /challenge$/i,
-    /competition$/i,
+    // "Challenge:" or "Challenge -" as title separator
+    /challenge\s*[:\-]\s*/i,
 
-    // Challenge patterns: "NTIRE 2025 Challenge on ...", "MIPI 2024 Challenge on ..."
-    /\d{4}\s+challenge\s+on/i,
-    /challenge\s+on\s+\w+\s+\(\w+\)/i,
+    // "1st/2nd/3rd/4th/... Workshop on" pattern
+    /\d+(st|nd|rd|th)\s+workshop\s+on/i,
+
+    // "Workshop on" pattern (usually workshop papers)
+    /workshop\s+on\s+\w+/i,
+
+    // "X Challenge on Y" pattern
+    /\d+\s+challenge\s+on\s+\w+/i,
+
+    // "Challenge on X" pattern (without leading number)
+    /^challenge\s+on\s+\w+/i,
+
+    // Challenge with venue like "PBVS 2025", "CVPR 2024" etc
+    /(PBVS|CVPR|ICCV|ECCV|NeurIPS|ICLR|ICML|AAAI|IJCAI)\s+\d{4}.*challenge/i,
 
     // "Methods and Results" suffix (common in challenge papers)
     /:\s*Methods\s+and\s+Results$/i,
@@ -103,12 +110,11 @@ function isValidPaper(info) {
     // Challenge survey papers
     /challenge\s+survey/i,
 
-    // Quality assessment challenge papers
-    /quality\s+assessment.*challenge/i,
+    // Workshop proceedings pattern
+    /^proceedings.*workshop/i,
 
-    // "Deep Portrait Quality Assessment" - looks like a challenge/benchmark paper
-    /^deep\s+\w+\s+quality/i,
-    /^portrait\s+quality/i,
+    // Competition anywhere in title followed by context
+    /competition\s+(report|results|summary|overview)/i,
 
     // "at X Year" pattern (e.g., "Traffic4cast at NeurIPS 2020")
     /\s+at\s+(neurips|cvpr|iccv|eccv|icml|iclr)\s+\d{4}/i,
