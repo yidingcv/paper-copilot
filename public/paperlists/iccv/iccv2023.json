@@ -241,6 +241,72 @@
       "doi": "10.1109/ICCVW60793.2023.00072"
     },
     {
+      "id": "conf/iccvw/JangZSDPTMSCZDZ23",
+      "title": "VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads.",
+      "authors": [
+        "Youngkyoon Jang",
+        "Jiali Zheng",
+        "Jifei Song",
+        "Helisa Dhamo",
+        "Eduardo Pérez-Pellitero",
+        "Thomas Tanay",
+        "Matteo Maggioni",
+        "Richard Shaw",
+        "Sibi Catley-Chandar",
+        "Yiren Zhou",
+        "Jiankang Deng",
+        "Ruijie Zhu 0002",
+        "Jiahao Chang",
+        "Ziyang Song 0001",
+        "Jiahuan Yu",
+        "Tianzhu Zhang 0001",
+        "Khanh-Binh Nguyen",
+        "Joon-Sung Yang",
+        "Andreea Dogaru",
+        "Bernhard Egger 0001",
+        "Heng Yu",
+        "Aarush Gupta",
+        "Joel Julin",
+        "László A. Jeni",
+        "Hyeseong Kim",
+        "Jungbin Cho",
+        "Dosik Hwang",
+        "Deukhee Lee",
+        "Doyeon Kim",
+        "Dongseong Seo",
+        "SeungJin Jeon",
+        "YoungDon Choi",
+        "Jun Seok Kang",
+        "Ahmet Cagatay Seker",
+        "Sang Chul Ahn",
+        "Ales Leonardis",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccvw/JangZSDPTMSCZDZ23",
+      "doi": "10.1109/ICCVW60793.2023.00120"
+    },
+    {
+      "id": "conf/iccvw/MallisADCKK0GA23",
+      "title": "SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics, and Baselines.",
+      "authors": [
+        "Dimitrios Mallis",
+        "Sk Aziz Ali",
+        "Elona Dupont",
+        "Kseniya Cherenkova",
+        "Ahmet Serdar Karadeniz",
+        "Mohammad Sadil Khan",
+        "Anis Kacem 0001",
+        "Gleb Gusev",
+        "Djamila Aouada"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccvw/MallisADCKK0GA23",
+      "doi": "10.1109/ICCVW60793.2023.00194"
+    },
+    {
       "id": "conf/iccvw/MelkiBDDC23",
       "title": "Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification.",
       "authors": [
@@ -357,18 +423,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccvw/Wang000M0Q23",
       "doi": "10.1109/ICCVW60793.2023.00382"
-    },
-    {
-      "id": "conf/iccvg/2022",
-      "title": "Computer Vision and Graphics - Proceedings of the International Conference on Computer Vision and Graphics, ICCVG 2022, Warsaw, Poland, 19-21 September 2022.",
-      "authors": [
-        "Leszek J. Chmielewski",
-        "Arkadiusz Orlowski"
-      ],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccvg/2022",
-      "doi": "10.1007/978-3-031-22025-8"
     },
     {
       "id": "conf/iccv/00010P23",
@@ -3138,27 +3192,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/Bu0C23",
       "doi": "10.1109/ICCV51070.2023.00406"
-    },
-    {
-      "id": "conf/iccv/BuhlerSSLWHOLHB23",
-      "title": "Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis.",
-      "authors": [
-        "Marcel C. Bühler",
-        "Kripasindhu Sarkar",
-        "Tanmay Shah",
-        "Gengyan Li 0001",
-        "Daoye Wang",
-        "Leonhard Helminger",
-        "Sergio Orts-Escolano",
-        "Dmitry Lagun",
-        "Otmar Hilliges",
-        "Thabo Beeler",
-        "Abhimitra Meka"
-      ],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/BuhlerSSLWHOLHB23",
-      "doi": "10.1109/ICCV51070.2023.00315"
     },
     {
       "id": "conf/iccv/BulatGMT23",
@@ -8050,6 +8083,21 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/GeHZ0C23",
       "doi": "10.1109/ICCV51070.2023.00392"
+    },
+    {
+      "id": "conf/iccv/GeLHZL23",
+      "title": "Advancing Example Exploitation Can Alleviate Critical Challenges in Adversarial Training.",
+      "authors": [
+        "Yao Ge 0004",
+        "Yun Li 0009",
+        "Keji Han",
+        "Junyi Zhu 0006",
+        "Xianzhong Long"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccv/GeLHZL23",
+      "doi": "10.1109/ICCV51070.2023.00020"
     },
     {
       "id": "conf/iccv/GeLNZ0I23",
@@ -15424,6 +15472,72 @@
       "doi": "10.1109/ICCVW60793.2023.00072"
     },
     {
+      "id": "conf/iccvw/JangZSDPTMSCZDZ23",
+      "title": "VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads.",
+      "authors": [
+        "Youngkyoon Jang",
+        "Jiali Zheng",
+        "Jifei Song",
+        "Helisa Dhamo",
+        "Eduardo Pérez-Pellitero",
+        "Thomas Tanay",
+        "Matteo Maggioni",
+        "Richard Shaw",
+        "Sibi Catley-Chandar",
+        "Yiren Zhou",
+        "Jiankang Deng",
+        "Ruijie Zhu 0002",
+        "Jiahao Chang",
+        "Ziyang Song 0001",
+        "Jiahuan Yu",
+        "Tianzhu Zhang 0001",
+        "Khanh-Binh Nguyen",
+        "Joon-Sung Yang",
+        "Andreea Dogaru",
+        "Bernhard Egger 0001",
+        "Heng Yu",
+        "Aarush Gupta",
+        "Joel Julin",
+        "László A. Jeni",
+        "Hyeseong Kim",
+        "Jungbin Cho",
+        "Dosik Hwang",
+        "Deukhee Lee",
+        "Doyeon Kim",
+        "Dongseong Seo",
+        "SeungJin Jeon",
+        "YoungDon Choi",
+        "Jun Seok Kang",
+        "Ahmet Cagatay Seker",
+        "Sang Chul Ahn",
+        "Ales Leonardis",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccvw/JangZSDPTMSCZDZ23",
+      "doi": "10.1109/ICCVW60793.2023.00120"
+    },
+    {
+      "id": "conf/iccvw/MallisADCKK0GA23",
+      "title": "SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics, and Baselines.",
+      "authors": [
+        "Dimitrios Mallis",
+        "Sk Aziz Ali",
+        "Elona Dupont",
+        "Kseniya Cherenkova",
+        "Ahmet Serdar Karadeniz",
+        "Mohammad Sadil Khan",
+        "Anis Kacem 0001",
+        "Gleb Gusev",
+        "Djamila Aouada"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccvw/MallisADCKK0GA23",
+      "doi": "10.1109/ICCVW60793.2023.00194"
+    },
+    {
       "id": "conf/iccvw/MelkiBDDC23",
       "title": "Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification.",
       "authors": [
@@ -15540,18 +15654,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccvw/Wang000M0Q23",
       "doi": "10.1109/ICCVW60793.2023.00382"
-    },
-    {
-      "id": "conf/iccvg/2022",
-      "title": "Computer Vision and Graphics - Proceedings of the International Conference on Computer Vision and Graphics, ICCVG 2022, Warsaw, Poland, 19-21 September 2022.",
-      "authors": [
-        "Leszek J. Chmielewski",
-        "Arkadiusz Orlowski"
-      ],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccvg/2022",
-      "doi": "10.1007/978-3-031-22025-8"
     },
     {
       "id": "conf/iccv/00010P23",
@@ -18321,27 +18423,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/Bu0C23",
       "doi": "10.1109/ICCV51070.2023.00406"
-    },
-    {
-      "id": "conf/iccv/BuhlerSSLWHOLHB23",
-      "title": "Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis.",
-      "authors": [
-        "Marcel C. Bühler",
-        "Kripasindhu Sarkar",
-        "Tanmay Shah",
-        "Gengyan Li 0001",
-        "Daoye Wang",
-        "Leonhard Helminger",
-        "Sergio Orts-Escolano",
-        "Dmitry Lagun",
-        "Otmar Hilliges",
-        "Thabo Beeler",
-        "Abhimitra Meka"
-      ],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/BuhlerSSLWHOLHB23",
-      "doi": "10.1109/ICCV51070.2023.00315"
     },
     {
       "id": "conf/iccv/BulatGMT23",
@@ -23233,6 +23314,21 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/GeHZ0C23",
       "doi": "10.1109/ICCV51070.2023.00392"
+    },
+    {
+      "id": "conf/iccv/GeLHZL23",
+      "title": "Advancing Example Exploitation Can Alleviate Critical Challenges in Adversarial Training.",
+      "authors": [
+        "Yao Ge 0004",
+        "Yun Li 0009",
+        "Keji Han",
+        "Junyi Zhu 0006",
+        "Xianzhong Long"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccv/GeLHZL23",
+      "doi": "10.1109/ICCV51070.2023.00020"
     },
     {
       "id": "conf/iccv/GeLNZ0I23",
@@ -30607,6 +30703,72 @@
       "doi": "10.1109/ICCVW60793.2023.00072"
     },
     {
+      "id": "conf/iccvw/JangZSDPTMSCZDZ23",
+      "title": "VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads.",
+      "authors": [
+        "Youngkyoon Jang",
+        "Jiali Zheng",
+        "Jifei Song",
+        "Helisa Dhamo",
+        "Eduardo Pérez-Pellitero",
+        "Thomas Tanay",
+        "Matteo Maggioni",
+        "Richard Shaw",
+        "Sibi Catley-Chandar",
+        "Yiren Zhou",
+        "Jiankang Deng",
+        "Ruijie Zhu 0002",
+        "Jiahao Chang",
+        "Ziyang Song 0001",
+        "Jiahuan Yu",
+        "Tianzhu Zhang 0001",
+        "Khanh-Binh Nguyen",
+        "Joon-Sung Yang",
+        "Andreea Dogaru",
+        "Bernhard Egger 0001",
+        "Heng Yu",
+        "Aarush Gupta",
+        "Joel Julin",
+        "László A. Jeni",
+        "Hyeseong Kim",
+        "Jungbin Cho",
+        "Dosik Hwang",
+        "Deukhee Lee",
+        "Doyeon Kim",
+        "Dongseong Seo",
+        "SeungJin Jeon",
+        "YoungDon Choi",
+        "Jun Seok Kang",
+        "Ahmet Cagatay Seker",
+        "Sang Chul Ahn",
+        "Ales Leonardis",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccvw/JangZSDPTMSCZDZ23",
+      "doi": "10.1109/ICCVW60793.2023.00120"
+    },
+    {
+      "id": "conf/iccvw/MallisADCKK0GA23",
+      "title": "SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics, and Baselines.",
+      "authors": [
+        "Dimitrios Mallis",
+        "Sk Aziz Ali",
+        "Elona Dupont",
+        "Kseniya Cherenkova",
+        "Ahmet Serdar Karadeniz",
+        "Mohammad Sadil Khan",
+        "Anis Kacem 0001",
+        "Gleb Gusev",
+        "Djamila Aouada"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccvw/MallisADCKK0GA23",
+      "doi": "10.1109/ICCVW60793.2023.00194"
+    },
+    {
       "id": "conf/iccvw/MelkiBDDC23",
       "title": "Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification.",
       "authors": [
@@ -30723,18 +30885,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccvw/Wang000M0Q23",
       "doi": "10.1109/ICCVW60793.2023.00382"
-    },
-    {
-      "id": "conf/iccvg/2022",
-      "title": "Computer Vision and Graphics - Proceedings of the International Conference on Computer Vision and Graphics, ICCVG 2022, Warsaw, Poland, 19-21 September 2022.",
-      "authors": [
-        "Leszek J. Chmielewski",
-        "Arkadiusz Orlowski"
-      ],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccvg/2022",
-      "doi": "10.1007/978-3-031-22025-8"
     },
     {
       "id": "conf/iccv/00010P23",
@@ -33504,27 +33654,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/Bu0C23",
       "doi": "10.1109/ICCV51070.2023.00406"
-    },
-    {
-      "id": "conf/iccv/BuhlerSSLWHOLHB23",
-      "title": "Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis.",
-      "authors": [
-        "Marcel C. Bühler",
-        "Kripasindhu Sarkar",
-        "Tanmay Shah",
-        "Gengyan Li 0001",
-        "Daoye Wang",
-        "Leonhard Helminger",
-        "Sergio Orts-Escolano",
-        "Dmitry Lagun",
-        "Otmar Hilliges",
-        "Thabo Beeler",
-        "Abhimitra Meka"
-      ],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/BuhlerSSLWHOLHB23",
-      "doi": "10.1109/ICCV51070.2023.00315"
     },
     {
       "id": "conf/iccv/BulatGMT23",
@@ -38416,6 +38545,21 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/GeHZ0C23",
       "doi": "10.1109/ICCV51070.2023.00392"
+    },
+    {
+      "id": "conf/iccv/GeLHZL23",
+      "title": "Advancing Example Exploitation Can Alleviate Critical Challenges in Adversarial Training.",
+      "authors": [
+        "Yao Ge 0004",
+        "Yun Li 0009",
+        "Keji Han",
+        "Junyi Zhu 0006",
+        "Xianzhong Long"
+      ],
+      "year": "2023",
+      "venue": "iccv",
+      "url": "https://dblp.org/rec/conf/iccv/GeLHZL23",
+      "doi": "10.1109/ICCV51070.2023.00020"
     },
     {
       "id": "conf/iccv/GeLNZ0I23",

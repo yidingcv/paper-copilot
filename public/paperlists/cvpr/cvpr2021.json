@@ -15,6 +15,49 @@
       "doi": "10.1109/CVPR46437.2021.00945"
     },
     {
+      "id": "conf/cvpr/AbuolaimTB21",
+      "title": "NTIRE 2021 Challenge for Defocus Deblurring Using Dual-Pixel Images: Methods and Results.",
+      "authors": [
+        "Abdullah Abuolaim",
+        "Radu Timofte",
+        "Michael S. Brown"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/AbuolaimTB21",
+      "doi": "10.1109/CVPRW53098.2021.00070"
+    },
+    {
+      "id": "conf/cvpr/BhatDT21",
+      "title": "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results.",
+      "authors": [
+        "Goutam Bhat",
+        "Martin Danelljan",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/BhatDT21",
+      "doi": "10.1109/CVPRW53098.2021.00073"
+    },
+    {
+      "id": "conf/cvpr/GuCDR0GT21",
+      "title": "NTIRE 2021 Challenge on Perceptual Image Quality Assessment.",
+      "authors": [
+        "Jinjin Gu",
+        "Haoming Cai",
+        "Chao Dong 0005",
+        "Jimmy S. Ren",
+        "Yu Qiao 0001",
+        "Shuhang Gu",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/GuCDR0GT21",
+      "doi": "10.1109/CVPRW53098.2021.00077"
+    },
+    {
       "id": "conf/cvpr/GuptaGY21",
       "title": "Glaucoma Precognition Based on Confocal Scanning Laser Ophthalmoscopy Images of the Optic Disc Using Convolutional Neural Network.",
       "authors": [
@@ -26,6 +69,105 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/GuptaGY21",
       "doi": "10.1109/CVPRW53098.2021.00255"
+    },
+    {
+      "id": "conf/cvpr/HelouZST21",
+      "title": "NTIRE 2021 Depth Guided Image Relighting Challenge.",
+      "authors": [
+        "Majed El Helou",
+        "Ruofan Zhou",
+        "Sabine Süsstrunk",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/HelouZST21",
+      "doi": "10.1109/CVPRW53098.2021.00069"
+    },
+    {
+      "id": "conf/cvpr/IgnatovBTP21",
+      "title": "Fast Camera Image Denoising on Mobile GPUs With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Kim Byeoung-su",
+        "Radu Timofte",
+        "Angeline Pouget"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovBTP21",
+      "doi": "10.1109/CVPRW53098.2021.00285"
+    },
+    {
+      "id": "conf/cvpr/IgnatovCKST21",
+      "title": "Learned Smartphone ISP on Mobile NPUs With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Cheng-Ming Chiang",
+        "Hsien-Kai Kuo",
+        "Anastasia Sycheva",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovCKST21",
+      "doi": "10.1109/CVPRW53098.2021.00284"
+    },
+    {
+      "id": "conf/cvpr/IgnatovMPST21",
+      "title": "Fast and Accurate Single-Image Depth Estimation on Mobile Devices, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Grigory Malivenko",
+        "David Plowman",
+        "Samarth Shukla",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovMPST21",
+      "doi": "10.1109/CVPRW53098.2021.00288"
+    },
+    {
+      "id": "conf/cvpr/IgnatovMT21",
+      "title": "Fast and Accurate Quantized Camera Scene Detection on Smartphones, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Grigory Malivenko",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovMT21",
+      "doi": "10.1109/CVPRW53098.2021.00289"
+    },
+    {
+      "id": "conf/cvpr/IgnatovRKT21",
+      "title": "Real-Time Video Super-Resolution on Smartphones With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Andrés Romero",
+        "Heewon Kim",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovRKT21",
+      "doi": "10.1109/CVPRW53098.2021.00287"
+    },
+    {
+      "id": "conf/cvpr/IgnatovTDY21",
+      "title": "Real-Time Quantized Image Super-Resolution on Mobile NPUs, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Radu Timofte",
+        "Maurizio Denna",
+        "Abdel Younes"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovTDY21",
+      "doi": "10.1109/CVPRW53098.2021.00286"
     },
     {
       "id": "conf/cvpr/JiangHHYT21",
@@ -59,6 +201,118 @@
       "doi": "10.1109/CVPR46437.2021.01537"
     },
     {
+      "id": "conf/cvpr/LiuINT21",
+      "title": "NTIRE 2021 Multi-Modal Aerial View Object Classification Challenge.",
+      "authors": [
+        "Jerrick Liu",
+        "Nathan Inkawhich",
+        "Oliver Nina",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/LiuINT21",
+      "doi": "10.1109/CVPRW53098.2021.00071"
+    },
+    {
+      "id": "conf/cvpr/LugmayrDT21",
+      "title": "NTIRE 2021 Learning the Super-Resolution Space Challenge.",
+      "authors": [
+        "Andreas Lugmayr",
+        "Martin Danelljan",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/LugmayrDT21",
+      "doi": "10.1109/CVPRW53098.2021.00072"
+    },
+    {
+      "id": "conf/cvpr/NahSLTL21",
+      "title": "NTIRE 2021 Challenge on Image Deblurring.",
+      "authors": [
+        "Seungjun Nah",
+        "Sanghyun Son 0002",
+        "Suyoung Lee",
+        "Radu Timofte",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/NahSLTL21",
+      "doi": "10.1109/CVPRW53098.2021.00025"
+    },
+    {
+      "id": "conf/cvpr/Perez-Pellitero21",
+      "title": "NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results.",
+      "authors": [
+        "Eduardo Pérez-Pellitero",
+        "Sibi Catley-Chandar",
+        "Ales Leonardis",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Perez-Pellitero21",
+      "doi": "10.1109/CVPRW53098.2021.00078"
+    },
+    {
+      "id": "conf/cvpr/RivadeneiraSVNK21",
+      "title": "Thermal Image Super-Resolution Challenge - PBVS 2021.",
+      "authors": [
+        "Rafael E. Rivadeneira",
+        "Ángel D. Sappa",
+        "Boris Xavier Vintimilla",
+        "Sabari Nathan",
+        "Priya Kansal",
+        "Armin Mehri",
+        "Parichehr Behjati Ardakani",
+        "Anurag Dalal",
+        "Aparna Akula",
+        "Darshika Sharma",
+        "Shashwat Pandey",
+        "Basant Kumar",
+        "Jiaxin Yao",
+        "Rongyuan Wu",
+        "Kai Feng",
+        "Ning Li 0038",
+        "Yongqiang Zhao 0001",
+        "Heena Patel",
+        "Vishal M. Chudasama",
+        "Kalpesh Prajapati",
+        "Anjali Sarvaiya",
+        "Kishor P. Upla",
+        "Kiran B. Raja",
+        "Raghavendra Ramachandra",
+        "Christoph Busch 0001",
+        "Feras Almasri",
+        "Thomas Vandamme",
+        "Olivier Debeir",
+        "Nolan B. Gutierrez",
+        "Quan H. Nguyen",
+        "William J. Beksi"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/RivadeneiraSVNK21",
+      "doi": "10.1109/CVPRW53098.2021.00492"
+    },
+    {
+      "id": "conf/cvpr/SonLNTL21",
+      "title": "NTIRE 2021 Challenge on Video Super-Resolution.",
+      "authors": [
+        "Sanghyun Son 0002",
+        "Suyoung Lee",
+        "Seungjun Nah",
+        "Radu Timofte",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/SonLNTL21",
+      "doi": "10.1109/CVPRW53098.2021.00026"
+    },
+    {
       "id": "conf/cvpr/VesdapuntW21",
       "title": "CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.",
       "authors": [
@@ -82,6 +336,50 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/WangM021",
       "doi": "10.1109/CVPR46437.2021.00991"
+    },
+    {
+      "id": "conf/cvpr/Yang21",
+      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.",
+      "authors": [
+        "Ren Yang"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Yang21",
+      "doi": "10.1109/CVPRW53098.2021.00075"
+    },
+    {
+      "id": "conf/cvpr/Yang21a",
+      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study.",
+      "authors": [
+        "Ren Yang",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Yang21a",
+      "doi": "10.1109/CVPRW53098.2021.00076"
+    },
+    {
+      "id": "conf/cvpr/YeYKHZHJZSX021",
+      "title": "A Robust MTMC Tracking System for AI-City Challenge 2021.",
+      "authors": [
+        "Jin Ye 0006",
+        "Xipeng Yang",
+        "Shuai Kang",
+        "Yue He",
+        "Weiming Zhang 0006",
+        "Leping Huang",
+        "Minyue Jiang",
+        "Wei Zhang 0197",
+        "Yifeng Shi",
+        "Meng Xia",
+        "Xiao Tan 0001"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/YeYKHZHJZSX021",
+      "doi": "10.1109/CVPRW53098.2021.00456"
     },
     {
       "id": "conf/cvpr/Sheng0T00GLHTXY25",
@@ -1337,6 +1635,25 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/0007ZGLDL21",
       "doi": "10.1109/CVPR46437.2021.00569"
+    },
+    {
+      "id": "conf/cvpr/0009LCRDMLLI21",
+      "title": "Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge.",
+      "authors": [
+        "Bo Chen 0009",
+        "Daqi Liu",
+        "Tat-Jun Chin",
+        "Mark Rutten",
+        "Dawa Derksen",
+        "Marcus Märtens",
+        "Moritz von Looz",
+        "Gurvan Lécuyer",
+        "Dario Izzo"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/0009LCRDMLLI21",
+      "doi": "10.1109/CVPRW53098.2021.00237"
     },
     {
       "id": "conf/cvpr/0009LYZ21",
@@ -10268,6 +10585,22 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/Hu0FW21",
       "doi": "10.1109/CVPR46437.2021.01509"
+    },
+    {
+      "id": "conf/cvpr/Hu0KXTM21",
+      "title": "Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges.",
+      "authors": [
+        "Qingyong Hu",
+        "Bo Yang 0027",
+        "Sheikh Khalid",
+        "Wen Xiao",
+        "Niki Trigoni",
+        "Andrew Markham"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Hu0KXTM21",
+      "doi": "10.1109/CVPR46437.2021.00494"
     },
     {
       "id": "conf/cvpr/HuBLCW21",
@@ -14306,6 +14639,49 @@
       "doi": "10.1109/CVPR46437.2021.00945"
     },
     {
+      "id": "conf/cvpr/AbuolaimTB21",
+      "title": "NTIRE 2021 Challenge for Defocus Deblurring Using Dual-Pixel Images: Methods and Results.",
+      "authors": [
+        "Abdullah Abuolaim",
+        "Radu Timofte",
+        "Michael S. Brown"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/AbuolaimTB21",
+      "doi": "10.1109/CVPRW53098.2021.00070"
+    },
+    {
+      "id": "conf/cvpr/BhatDT21",
+      "title": "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results.",
+      "authors": [
+        "Goutam Bhat",
+        "Martin Danelljan",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/BhatDT21",
+      "doi": "10.1109/CVPRW53098.2021.00073"
+    },
+    {
+      "id": "conf/cvpr/GuCDR0GT21",
+      "title": "NTIRE 2021 Challenge on Perceptual Image Quality Assessment.",
+      "authors": [
+        "Jinjin Gu",
+        "Haoming Cai",
+        "Chao Dong 0005",
+        "Jimmy S. Ren",
+        "Yu Qiao 0001",
+        "Shuhang Gu",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/GuCDR0GT21",
+      "doi": "10.1109/CVPRW53098.2021.00077"
+    },
+    {
       "id": "conf/cvpr/GuptaGY21",
       "title": "Glaucoma Precognition Based on Confocal Scanning Laser Ophthalmoscopy Images of the Optic Disc Using Convolutional Neural Network.",
       "authors": [
@@ -14317,6 +14693,105 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/GuptaGY21",
       "doi": "10.1109/CVPRW53098.2021.00255"
+    },
+    {
+      "id": "conf/cvpr/HelouZST21",
+      "title": "NTIRE 2021 Depth Guided Image Relighting Challenge.",
+      "authors": [
+        "Majed El Helou",
+        "Ruofan Zhou",
+        "Sabine Süsstrunk",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/HelouZST21",
+      "doi": "10.1109/CVPRW53098.2021.00069"
+    },
+    {
+      "id": "conf/cvpr/IgnatovBTP21",
+      "title": "Fast Camera Image Denoising on Mobile GPUs With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Kim Byeoung-su",
+        "Radu Timofte",
+        "Angeline Pouget"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovBTP21",
+      "doi": "10.1109/CVPRW53098.2021.00285"
+    },
+    {
+      "id": "conf/cvpr/IgnatovCKST21",
+      "title": "Learned Smartphone ISP on Mobile NPUs With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Cheng-Ming Chiang",
+        "Hsien-Kai Kuo",
+        "Anastasia Sycheva",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovCKST21",
+      "doi": "10.1109/CVPRW53098.2021.00284"
+    },
+    {
+      "id": "conf/cvpr/IgnatovMPST21",
+      "title": "Fast and Accurate Single-Image Depth Estimation on Mobile Devices, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Grigory Malivenko",
+        "David Plowman",
+        "Samarth Shukla",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovMPST21",
+      "doi": "10.1109/CVPRW53098.2021.00288"
+    },
+    {
+      "id": "conf/cvpr/IgnatovMT21",
+      "title": "Fast and Accurate Quantized Camera Scene Detection on Smartphones, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Grigory Malivenko",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovMT21",
+      "doi": "10.1109/CVPRW53098.2021.00289"
+    },
+    {
+      "id": "conf/cvpr/IgnatovRKT21",
+      "title": "Real-Time Video Super-Resolution on Smartphones With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Andrés Romero",
+        "Heewon Kim",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovRKT21",
+      "doi": "10.1109/CVPRW53098.2021.00287"
+    },
+    {
+      "id": "conf/cvpr/IgnatovTDY21",
+      "title": "Real-Time Quantized Image Super-Resolution on Mobile NPUs, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Radu Timofte",
+        "Maurizio Denna",
+        "Abdel Younes"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovTDY21",
+      "doi": "10.1109/CVPRW53098.2021.00286"
     },
     {
       "id": "conf/cvpr/JiangHHYT21",
@@ -14350,6 +14825,118 @@
       "doi": "10.1109/CVPR46437.2021.01537"
     },
     {
+      "id": "conf/cvpr/LiuINT21",
+      "title": "NTIRE 2021 Multi-Modal Aerial View Object Classification Challenge.",
+      "authors": [
+        "Jerrick Liu",
+        "Nathan Inkawhich",
+        "Oliver Nina",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/LiuINT21",
+      "doi": "10.1109/CVPRW53098.2021.00071"
+    },
+    {
+      "id": "conf/cvpr/LugmayrDT21",
+      "title": "NTIRE 2021 Learning the Super-Resolution Space Challenge.",
+      "authors": [
+        "Andreas Lugmayr",
+        "Martin Danelljan",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/LugmayrDT21",
+      "doi": "10.1109/CVPRW53098.2021.00072"
+    },
+    {
+      "id": "conf/cvpr/NahSLTL21",
+      "title": "NTIRE 2021 Challenge on Image Deblurring.",
+      "authors": [
+        "Seungjun Nah",
+        "Sanghyun Son 0002",
+        "Suyoung Lee",
+        "Radu Timofte",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/NahSLTL21",
+      "doi": "10.1109/CVPRW53098.2021.00025"
+    },
+    {
+      "id": "conf/cvpr/Perez-Pellitero21",
+      "title": "NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results.",
+      "authors": [
+        "Eduardo Pérez-Pellitero",
+        "Sibi Catley-Chandar",
+        "Ales Leonardis",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Perez-Pellitero21",
+      "doi": "10.1109/CVPRW53098.2021.00078"
+    },
+    {
+      "id": "conf/cvpr/RivadeneiraSVNK21",
+      "title": "Thermal Image Super-Resolution Challenge - PBVS 2021.",
+      "authors": [
+        "Rafael E. Rivadeneira",
+        "Ángel D. Sappa",
+        "Boris Xavier Vintimilla",
+        "Sabari Nathan",
+        "Priya Kansal",
+        "Armin Mehri",
+        "Parichehr Behjati Ardakani",
+        "Anurag Dalal",
+        "Aparna Akula",
+        "Darshika Sharma",
+        "Shashwat Pandey",
+        "Basant Kumar",
+        "Jiaxin Yao",
+        "Rongyuan Wu",
+        "Kai Feng",
+        "Ning Li 0038",
+        "Yongqiang Zhao 0001",
+        "Heena Patel",
+        "Vishal M. Chudasama",
+        "Kalpesh Prajapati",
+        "Anjali Sarvaiya",
+        "Kishor P. Upla",
+        "Kiran B. Raja",
+        "Raghavendra Ramachandra",
+        "Christoph Busch 0001",
+        "Feras Almasri",
+        "Thomas Vandamme",
+        "Olivier Debeir",
+        "Nolan B. Gutierrez",
+        "Quan H. Nguyen",
+        "William J. Beksi"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/RivadeneiraSVNK21",
+      "doi": "10.1109/CVPRW53098.2021.00492"
+    },
+    {
+      "id": "conf/cvpr/SonLNTL21",
+      "title": "NTIRE 2021 Challenge on Video Super-Resolution.",
+      "authors": [
+        "Sanghyun Son 0002",
+        "Suyoung Lee",
+        "Seungjun Nah",
+        "Radu Timofte",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/SonLNTL21",
+      "doi": "10.1109/CVPRW53098.2021.00026"
+    },
+    {
       "id": "conf/cvpr/VesdapuntW21",
       "title": "CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.",
       "authors": [
@@ -14373,6 +14960,50 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/WangM021",
       "doi": "10.1109/CVPR46437.2021.00991"
+    },
+    {
+      "id": "conf/cvpr/Yang21",
+      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.",
+      "authors": [
+        "Ren Yang"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Yang21",
+      "doi": "10.1109/CVPRW53098.2021.00075"
+    },
+    {
+      "id": "conf/cvpr/Yang21a",
+      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study.",
+      "authors": [
+        "Ren Yang",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Yang21a",
+      "doi": "10.1109/CVPRW53098.2021.00076"
+    },
+    {
+      "id": "conf/cvpr/YeYKHZHJZSX021",
+      "title": "A Robust MTMC Tracking System for AI-City Challenge 2021.",
+      "authors": [
+        "Jin Ye 0006",
+        "Xipeng Yang",
+        "Shuai Kang",
+        "Yue He",
+        "Weiming Zhang 0006",
+        "Leping Huang",
+        "Minyue Jiang",
+        "Wei Zhang 0197",
+        "Yifeng Shi",
+        "Meng Xia",
+        "Xiao Tan 0001"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/YeYKHZHJZSX021",
+      "doi": "10.1109/CVPRW53098.2021.00456"
     },
     {
       "id": "conf/cvpr/Sheng0T00GLHTXY25",
@@ -15628,6 +16259,25 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/0007ZGLDL21",
       "doi": "10.1109/CVPR46437.2021.00569"
+    },
+    {
+      "id": "conf/cvpr/0009LCRDMLLI21",
+      "title": "Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge.",
+      "authors": [
+        "Bo Chen 0009",
+        "Daqi Liu",
+        "Tat-Jun Chin",
+        "Mark Rutten",
+        "Dawa Derksen",
+        "Marcus Märtens",
+        "Moritz von Looz",
+        "Gurvan Lécuyer",
+        "Dario Izzo"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/0009LCRDMLLI21",
+      "doi": "10.1109/CVPRW53098.2021.00237"
     },
     {
       "id": "conf/cvpr/0009LYZ21",
@@ -24559,6 +25209,22 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/Hu0FW21",
       "doi": "10.1109/CVPR46437.2021.01509"
+    },
+    {
+      "id": "conf/cvpr/Hu0KXTM21",
+      "title": "Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges.",
+      "authors": [
+        "Qingyong Hu",
+        "Bo Yang 0027",
+        "Sheikh Khalid",
+        "Wen Xiao",
+        "Niki Trigoni",
+        "Andrew Markham"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Hu0KXTM21",
+      "doi": "10.1109/CVPR46437.2021.00494"
     },
     {
       "id": "conf/cvpr/HuBLCW21",
@@ -28597,6 +29263,49 @@
       "doi": "10.1109/CVPR46437.2021.00945"
     },
     {
+      "id": "conf/cvpr/AbuolaimTB21",
+      "title": "NTIRE 2021 Challenge for Defocus Deblurring Using Dual-Pixel Images: Methods and Results.",
+      "authors": [
+        "Abdullah Abuolaim",
+        "Radu Timofte",
+        "Michael S. Brown"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/AbuolaimTB21",
+      "doi": "10.1109/CVPRW53098.2021.00070"
+    },
+    {
+      "id": "conf/cvpr/BhatDT21",
+      "title": "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results.",
+      "authors": [
+        "Goutam Bhat",
+        "Martin Danelljan",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/BhatDT21",
+      "doi": "10.1109/CVPRW53098.2021.00073"
+    },
+    {
+      "id": "conf/cvpr/GuCDR0GT21",
+      "title": "NTIRE 2021 Challenge on Perceptual Image Quality Assessment.",
+      "authors": [
+        "Jinjin Gu",
+        "Haoming Cai",
+        "Chao Dong 0005",
+        "Jimmy S. Ren",
+        "Yu Qiao 0001",
+        "Shuhang Gu",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/GuCDR0GT21",
+      "doi": "10.1109/CVPRW53098.2021.00077"
+    },
+    {
       "id": "conf/cvpr/GuptaGY21",
       "title": "Glaucoma Precognition Based on Confocal Scanning Laser Ophthalmoscopy Images of the Optic Disc Using Convolutional Neural Network.",
       "authors": [
@@ -28608,6 +29317,105 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/GuptaGY21",
       "doi": "10.1109/CVPRW53098.2021.00255"
+    },
+    {
+      "id": "conf/cvpr/HelouZST21",
+      "title": "NTIRE 2021 Depth Guided Image Relighting Challenge.",
+      "authors": [
+        "Majed El Helou",
+        "Ruofan Zhou",
+        "Sabine Süsstrunk",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/HelouZST21",
+      "doi": "10.1109/CVPRW53098.2021.00069"
+    },
+    {
+      "id": "conf/cvpr/IgnatovBTP21",
+      "title": "Fast Camera Image Denoising on Mobile GPUs With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Kim Byeoung-su",
+        "Radu Timofte",
+        "Angeline Pouget"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovBTP21",
+      "doi": "10.1109/CVPRW53098.2021.00285"
+    },
+    {
+      "id": "conf/cvpr/IgnatovCKST21",
+      "title": "Learned Smartphone ISP on Mobile NPUs With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Cheng-Ming Chiang",
+        "Hsien-Kai Kuo",
+        "Anastasia Sycheva",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovCKST21",
+      "doi": "10.1109/CVPRW53098.2021.00284"
+    },
+    {
+      "id": "conf/cvpr/IgnatovMPST21",
+      "title": "Fast and Accurate Single-Image Depth Estimation on Mobile Devices, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Grigory Malivenko",
+        "David Plowman",
+        "Samarth Shukla",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovMPST21",
+      "doi": "10.1109/CVPRW53098.2021.00288"
+    },
+    {
+      "id": "conf/cvpr/IgnatovMT21",
+      "title": "Fast and Accurate Quantized Camera Scene Detection on Smartphones, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Grigory Malivenko",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovMT21",
+      "doi": "10.1109/CVPRW53098.2021.00289"
+    },
+    {
+      "id": "conf/cvpr/IgnatovRKT21",
+      "title": "Real-Time Video Super-Resolution on Smartphones With Deep Learning, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Andrés Romero",
+        "Heewon Kim",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovRKT21",
+      "doi": "10.1109/CVPRW53098.2021.00287"
+    },
+    {
+      "id": "conf/cvpr/IgnatovTDY21",
+      "title": "Real-Time Quantized Image Super-Resolution on Mobile NPUs, Mobile AI 2021 Challenge: Report.",
+      "authors": [
+        "Andrey Ignatov",
+        "Radu Timofte",
+        "Maurizio Denna",
+        "Abdel Younes"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/IgnatovTDY21",
+      "doi": "10.1109/CVPRW53098.2021.00286"
     },
     {
       "id": "conf/cvpr/JiangHHYT21",
@@ -28641,6 +29449,118 @@
       "doi": "10.1109/CVPR46437.2021.01537"
     },
     {
+      "id": "conf/cvpr/LiuINT21",
+      "title": "NTIRE 2021 Multi-Modal Aerial View Object Classification Challenge.",
+      "authors": [
+        "Jerrick Liu",
+        "Nathan Inkawhich",
+        "Oliver Nina",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/LiuINT21",
+      "doi": "10.1109/CVPRW53098.2021.00071"
+    },
+    {
+      "id": "conf/cvpr/LugmayrDT21",
+      "title": "NTIRE 2021 Learning the Super-Resolution Space Challenge.",
+      "authors": [
+        "Andreas Lugmayr",
+        "Martin Danelljan",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/LugmayrDT21",
+      "doi": "10.1109/CVPRW53098.2021.00072"
+    },
+    {
+      "id": "conf/cvpr/NahSLTL21",
+      "title": "NTIRE 2021 Challenge on Image Deblurring.",
+      "authors": [
+        "Seungjun Nah",
+        "Sanghyun Son 0002",
+        "Suyoung Lee",
+        "Radu Timofte",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/NahSLTL21",
+      "doi": "10.1109/CVPRW53098.2021.00025"
+    },
+    {
+      "id": "conf/cvpr/Perez-Pellitero21",
+      "title": "NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results.",
+      "authors": [
+        "Eduardo Pérez-Pellitero",
+        "Sibi Catley-Chandar",
+        "Ales Leonardis",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Perez-Pellitero21",
+      "doi": "10.1109/CVPRW53098.2021.00078"
+    },
+    {
+      "id": "conf/cvpr/RivadeneiraSVNK21",
+      "title": "Thermal Image Super-Resolution Challenge - PBVS 2021.",
+      "authors": [
+        "Rafael E. Rivadeneira",
+        "Ángel D. Sappa",
+        "Boris Xavier Vintimilla",
+        "Sabari Nathan",
+        "Priya Kansal",
+        "Armin Mehri",
+        "Parichehr Behjati Ardakani",
+        "Anurag Dalal",
+        "Aparna Akula",
+        "Darshika Sharma",
+        "Shashwat Pandey",
+        "Basant Kumar",
+        "Jiaxin Yao",
+        "Rongyuan Wu",
+        "Kai Feng",
+        "Ning Li 0038",
+        "Yongqiang Zhao 0001",
+        "Heena Patel",
+        "Vishal M. Chudasama",
+        "Kalpesh Prajapati",
+        "Anjali Sarvaiya",
+        "Kishor P. Upla",
+        "Kiran B. Raja",
+        "Raghavendra Ramachandra",
+        "Christoph Busch 0001",
+        "Feras Almasri",
+        "Thomas Vandamme",
+        "Olivier Debeir",
+        "Nolan B. Gutierrez",
+        "Quan H. Nguyen",
+        "William J. Beksi"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/RivadeneiraSVNK21",
+      "doi": "10.1109/CVPRW53098.2021.00492"
+    },
+    {
+      "id": "conf/cvpr/SonLNTL21",
+      "title": "NTIRE 2021 Challenge on Video Super-Resolution.",
+      "authors": [
+        "Sanghyun Son 0002",
+        "Suyoung Lee",
+        "Seungjun Nah",
+        "Radu Timofte",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/SonLNTL21",
+      "doi": "10.1109/CVPRW53098.2021.00026"
+    },
+    {
       "id": "conf/cvpr/VesdapuntW21",
       "title": "CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.",
       "authors": [
@@ -28664,6 +29584,50 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/WangM021",
       "doi": "10.1109/CVPR46437.2021.00991"
+    },
+    {
+      "id": "conf/cvpr/Yang21",
+      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.",
+      "authors": [
+        "Ren Yang"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Yang21",
+      "doi": "10.1109/CVPRW53098.2021.00075"
+    },
+    {
+      "id": "conf/cvpr/Yang21a",
+      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study.",
+      "authors": [
+        "Ren Yang",
+        "Radu Timofte"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Yang21a",
+      "doi": "10.1109/CVPRW53098.2021.00076"
+    },
+    {
+      "id": "conf/cvpr/YeYKHZHJZSX021",
+      "title": "A Robust MTMC Tracking System for AI-City Challenge 2021.",
+      "authors": [
+        "Jin Ye 0006",
+        "Xipeng Yang",
+        "Shuai Kang",
+        "Yue He",
+        "Weiming Zhang 0006",
+        "Leping Huang",
+        "Minyue Jiang",
+        "Wei Zhang 0197",
+        "Yifeng Shi",
+        "Meng Xia",
+        "Xiao Tan 0001"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/YeYKHZHJZSX021",
+      "doi": "10.1109/CVPRW53098.2021.00456"
     },
     {
       "id": "conf/cvpr/Sheng0T00GLHTXY25",
@@ -29919,6 +30883,25 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/0007ZGLDL21",
       "doi": "10.1109/CVPR46437.2021.00569"
+    },
+    {
+      "id": "conf/cvpr/0009LCRDMLLI21",
+      "title": "Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge.",
+      "authors": [
+        "Bo Chen 0009",
+        "Daqi Liu",
+        "Tat-Jun Chin",
+        "Mark Rutten",
+        "Dawa Derksen",
+        "Marcus Märtens",
+        "Moritz von Looz",
+        "Gurvan Lécuyer",
+        "Dario Izzo"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/0009LCRDMLLI21",
+      "doi": "10.1109/CVPRW53098.2021.00237"
     },
     {
       "id": "conf/cvpr/0009LYZ21",
@@ -38850,6 +39833,22 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/Hu0FW21",
       "doi": "10.1109/CVPR46437.2021.01509"
+    },
+    {
+      "id": "conf/cvpr/Hu0KXTM21",
+      "title": "Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges.",
+      "authors": [
+        "Qingyong Hu",
+        "Bo Yang 0027",
+        "Sheikh Khalid",
+        "Wen Xiao",
+        "Niki Trigoni",
+        "Andrew Markham"
+      ],
+      "year": "2021",
+      "venue": "cvpr",
+      "url": "https://dblp.org/rec/conf/cvpr/Hu0KXTM21",
+      "doi": "10.1109/CVPR46437.2021.00494"
     },
     {
       "id": "conf/cvpr/HuBLCW21",

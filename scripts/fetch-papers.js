@@ -2,9 +2,8 @@
 
 /**
  * Fetch papers from DBLP API
- * - Filters out workshop papers
+ * - Only keeps valid research papers (filters workshops, challenges, editorials, etc.)
  * - Only includes: title, authors, year, url
- * - No abstract (not needed)
  */
 
 const fs = require('fs');
@@ -46,39 +45,124 @@ if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
-function isWorkshopTitle(title) {
-  const workshopKeywords = [
-    'workshop',
-    'challenge',
-    'wkshp',
-    'workshop on',
-    'first workshop',
-    'second workshop',
-    'third workshop',
-  ];
-  const lowerTitle = title.toLowerCase();
-  return workshopKeywords.some(kw => lowerTitle.includes(kw));
-}
-
-function isEditorial(info) {
-  // Filter out editorials, front matter, etc.
-  const editorialTypes = ['Editorship', 'Editorial', 'Front Matter', 'Preface'];
-  const type = info.type || '';
-  if (editorialTypes.some(t => type.includes(t))) return true;
-
-  // Filter out conference overview papers
+/**
+ * Comprehensive validation to only keep real research papers
+ */
+function isValidPaper(info) {
   const title = info.title || '';
+  const type = info.type || '';
+  const authors = info.authors;
 
-  // Pattern like "IEEE Conference on ... CVPR 2021, virtual, June 19-25, 2021"
-  if (title.match(/IEEE\s*Conference\s*on/i) && title.match(/CVPR\s*\d{4}/i)) return true;
+  // MUST have authors to be a valid paper
+  if (!authors) {
+    return false;
+  }
+  const authorList = Array.isArray(authors.author) ? authors.author : [authors.author];
+  if (!authorList || authorList.length === 0) {
+    return false;
+  }
 
-  // Pattern like "IEEE/CVF Conference..."
-  if (title.match(/IEEE\/CVF Conference/i)) return true;
+  // Exclude these types (not real papers)
+  const excludeTypes = ['Editorship', 'Editorial', 'Front Matter', 'Preface', 'Journal Articles'];
+  if (excludeTypes.some(t => type.includes(t))) {
+    return false;
+  }
 
-  // Pattern with month and date range like "June 19-25, 2021"
-  if (title.match(/[A-Z][a-z]+\s+\d+-\d+,\s+\d{4}/)) return true;
+  // Title length checks
+  if (title.length < 15 || title.length > 300) {
+    return false;
+  }
 
-  return false;
+  // Must have lowercase letters (real text)
+  if (!/[a-z]/.test(title)) {
+    return false;
+  }
+
+  const lowerTitle = title.toLowerCase();
+
+  // Exclude patterns - comprehensive list
+  const excludePatterns = [
+    // Workshop/Challenge/Competition keywords at start
+    /^workshop/i,
+    /^challenge/i,
+    /^competition/i,
+
+    // Workshop/Challenge/Competition keywords at end
+    /workshop$/i,
+    /challenge$/i,
+    /competition$/i,
+
+    // "at X Year" pattern (e.g., "Traffic4cast at NeurIPS 2020")
+    /\s+at\s+(neurips|cvpr|iccv|eccv|icml|iclr)\s+\d{4}/i,
+
+    // Conference year + workshop/challenge/competition
+    /(neurips|cvpr|iccv|eccv|icml|iclr)\s+\d{4}\s+(workshop|challenge|competition|invited|overview|proceeding)/i,
+
+    // Proceedings patterns
+    /^proceedings/i,
+    /proceedings\s+of/i,
+
+    // "Advances in NIPS/NeurIPS" (book style)
+    /^advances\s+in\s+(neural\s+information\s+processing\s+systems|nips|neurips)/i,
+
+    // International conference patterns (usually overview papers)
+    /^international\s+conference/i,
+
+    // Results and insights
+    /^results\s+and\s+insights/i,
+
+    // Patterns with year in title indicating non-paper content
+    /^(the\s+)?\d{4}\s+(workshop|challenge|conference)/i,
+
+    // "Foreword", "Preface", "Introduction"
+    /foreword/i,
+    /preface/i,
+    /^introduction\s+to/i,
+
+    // Common workshop/challenge phrases
+    /challenge\s+report/i,
+    /competition\s+report/i,
+    /workshop\s+summary/i,
+    /workshop\s+proceedings/i,
+
+    // "Unreasonable effectiveness" type titles
+    /yet\s+more/i,
+    /unreasonable\s+effectiveness/i,
+
+    // Survey papers (sometimes ok, but often excluded)
+    /survey\s+paper/i,
+    /survey\s+of/i,
+  ];
+
+  for (const pattern of excludePatterns) {
+    if (pattern.test(title)) {
+      return false;
+    }
+  }
+
+  // Additional check: if title looks like a conference announcement (has month/date range)
+  // e.g., "June 19-25, 2021" or "December 6-12, 2020"
+  if (/[A-Z][a-z]+\s+\d+-\d+,\s+\d{4}/.test(title)) {
+    return false;
+  }
+
+  // Title starts with conference name (likely not a paper)
+  if (/^(cvpr|iccv|eccv|neurips|nips|icml|iclr)\s+\d{4}/i.test(title)) {
+    return false;
+  }
+
+  // Contains conference info like "CVPR 2024" or "NeurIPS 2020" right after a major phrase
+  // Pattern: "IEEE/CVF Conference ... CVPR 2024"
+  if (/(IEEE\/CVF|Conference|Proceedings).*(CVPR|NeurIPS|ICCV|ECCV)\s+\d{4}/i.test(title)) {
+    return false;
+  }
+
+  // If title is mostly uppercase (common for conference info)
+  if (title === title.toUpperCase() && title.length > 30) {
+    return false;
+  }
+
+  return true;
 }
 
 function extractAuthors(authorsData) {
@@ -163,15 +247,15 @@ async function main() {
     for (const year of venueInfo.years) {
       const papers = await fetchVenueYearPapers(venueId, venueInfo, year);
 
-      // Filter out workshop papers, editorials, and add venue
+      // Filter to only valid papers
       const filteredPapers = papers
-        .filter(p => !isWorkshopTitle(p.title) && !isEditorial(p))
+        .filter(p => isValidPaper(p))
         .map(p => ({ ...p, venue: venueId }));
 
       // Save to JSON
       const outputPath = path.join(venueDir, `${venueId}${year}.json`);
       fs.writeFileSync(outputPath, JSON.stringify({ papers: filteredPapers }, null, 2), 'utf-8');
-      console.log(`    Saved ${filteredPapers.length} papers (filtered ${papers.length - filteredPapers.length} workshops)`);
+      console.log(`    Saved ${filteredPapers.length} papers (filtered ${papers.length - filteredPapers.length})`);
 
       venueTotal += filteredPapers.length;
 
