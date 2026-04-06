@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
 import SearchOverlay from '@/components/SearchOverlay'
@@ -29,19 +29,6 @@ export default function Home() {
   const [hasSearched, setHasSearched] = useState(false)
   const [expandedAbstracts, setExpandedAbstracts] = useState<Set<string>>(new Set())
   const [searchMode, setSearchMode] = useState<'arxiv' | 'all'>('arxiv')
-
-  // Check for URL params on mount
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const params = new URLSearchParams(window.location.search)
-      const author = params.get('author')
-      if (author) {
-        setSearchQuery(author)
-        setSearchMode('all')
-        setHasSearched(true)
-      }
-    }
-  }, [])
 
   const toggleAbstract = (paperId: string) => {
     const newExpanded = new Set(expandedAbstracts)

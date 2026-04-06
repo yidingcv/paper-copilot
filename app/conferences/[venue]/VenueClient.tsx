@@ -252,17 +252,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
                     <div style={{ flex: 1 }}>
                       <h3 className="paper-title">{paper.title}</h3>
                   <p className="paper-authors">
-                    {paper.authors?.map((author, idx) => (
-                      <span key={idx}>
-                        <Link
-                          href={`/?author=${encodeURIComponent(author)}`}
-                          style={{ color: 'var(--primary)', textDecoration: 'none' }}
-                        >
-                          {author}
-                        </Link>
-                        {idx < (paper.authors?.length || 0) - 1 ? ', ' : ''}
-                      </span>
-                    ))}
+                    {paper.authors?.join(', ')}
                   </p>
                   <div className="paper-meta">
                         {paper.url && (
