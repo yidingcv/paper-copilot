@@ -3,6 +3,6 @@ const nextConfig = {
   output: 'export',
   images: { unoptimized: true },
   trailingSlash: true,
-  basePath: '/paper-copilot',
+  basePath: '/papercc',
 }
 module.exports = nextConfig
