@@ -1,15 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/cvpr/2021",
-      "title": "IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2021, virtual, June 19-25, 2021",
-      "authors": [],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2021",
-      "doi": ""
-    },
-    {
       "id": "conf/cvpr/ZhangMDB21",
       "title": "Confluent Vessel Trees With Accurate Bifurcations.",
       "authors": [
@@ -14301,15 +14292,6 @@
       "doi": "10.1109/CVPR46437.2021.01298"
     },
     {
-      "id": "conf/cvpr/2021",
-      "title": "IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2021, virtual, June 19-25, 2021",
-      "authors": [],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2021",
-      "doi": ""
-    },
-    {
       "id": "conf/cvpr/ZhangMDB21",
       "title": "Confluent Vessel Trees With Accurate Bifurcations.",
       "authors": [
@@ -28599,15 +28581,6 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/LiWCZ21",
       "doi": "10.1109/CVPR46437.2021.01298"
-    },
-    {
-      "id": "conf/cvpr/2021",
-      "title": "IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2021, virtual, June 19-25, 2021",
-      "authors": [],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/2021",
-      "doi": ""
     },
     {
       "id": "conf/cvpr/ZhangMDB21",

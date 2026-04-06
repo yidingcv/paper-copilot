@@ -1,21 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/nips/2020",
-      "title": "Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual.",
-      "authors": [
-        "Hugo Larochelle",
-        "Marc&apos;Aurelio Ranzato",
-        "Raia Hadsell",
-        "Maria-Florina Balcan",
-        "Hsuan-Tien Lin"
-      ],
-      "year": "2020",
-      "venue": "neurips",
-      "url": "https://dblp.org/rec/conf/nips/2020",
-      "doi": ""
-    },
-    {
       "id": "conf/nips/0001KNJMHGSWLXZ20",
       "title": "Traffic4cast at NeurIPS 2020 ? yet more on theunreasonable effectiveness of gridded geo-spatial processes.",
       "authors": [
@@ -14029,21 +14014,6 @@
       "year": "2020",
       "venue": "neurips",
       "url": "https://dblp.org/rec/conf/nips/LeeLKYHT20",
-      "doi": ""
-    },
-    {
-      "id": "conf/nips/2020",
-      "title": "Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual.",
-      "authors": [
-        "Hugo Larochelle",
-        "Marc&apos;Aurelio Ranzato",
-        "Raia Hadsell",
-        "Maria-Florina Balcan",
-        "Hsuan-Tien Lin"
-      ],
-      "year": "2020",
-      "venue": "neurips",
-      "url": "https://dblp.org/rec/conf/nips/2020",
       "doi": ""
     },
     {

@@ -1,21 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/nips/2021",
-      "title": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual.",
-      "authors": [
-        "Marc&apos;Aurelio Ranzato",
-        "Alina Beygelzimer",
-        "Yann N. Dauphin",
-        "Percy Liang",
-        "Jennifer Wortman Vaughan"
-      ],
-      "year": "2021",
-      "venue": "neurips",
-      "url": "https://dblp.org/rec/conf/nips/2021",
-      "doi": ""
-    },
-    {
       "id": "conf/nips/EichenbergerNMH21",
       "title": "Traffic4cast at NeurIPS 2021 - Temporal and Spatial Few-Shot Transfer Learning in Gridded Geo-Spatial Processes.",
       "authors": [
@@ -14429,21 +14414,6 @@
       "doi": ""
     },
     {
-      "id": "conf/nips/2021",
-      "title": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual.",
-      "authors": [
-        "Marc&apos;Aurelio Ranzato",
-        "Alina Beygelzimer",
-        "Yann N. Dauphin",
-        "Percy Liang",
-        "Jennifer Wortman Vaughan"
-      ],
-      "year": "2021",
-      "venue": "neurips",
-      "url": "https://dblp.org/rec/conf/nips/2021",
-      "doi": ""
-    },
-    {
       "id": "conf/nips/EichenbergerNMH21",
       "title": "Traffic4cast at NeurIPS 2021 - Temporal and Spatial Few-Shot Transfer Learning in Gridded Geo-Spatial Processes.",
       "authors": [
@@ -28854,21 +28824,6 @@
       "year": "2021",
       "venue": "neurips",
       "url": "https://dblp.org/rec/conf/nips/JerbiGMBD21",
-      "doi": ""
-    },
-    {
-      "id": "conf/nips/2021",
-      "title": "Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual.",
-      "authors": [
-        "Marc&apos;Aurelio Ranzato",
-        "Alina Beygelzimer",
-        "Yann N. Dauphin",
-        "Percy Liang",
-        "Jennifer Wortman Vaughan"
-      ],
-      "year": "2021",
-      "venue": "neurips",
-      "url": "https://dblp.org/rec/conf/nips/2021",
       "doi": ""
     },
     {

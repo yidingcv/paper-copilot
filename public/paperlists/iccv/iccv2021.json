@@ -1,15 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/iccv/2021",
-      "title": "2021 IEEE/CVF International Conference on Computer Vision, ICCV 2021, Montreal, QC, Canada, October 10-17, 2021",
-      "authors": [],
-      "year": "2021",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/2021",
-      "doi": "10.1109/ICCV48922.2021"
-    },
-    {
       "id": "conf/iccv/0066HLY0GD21",
       "title": "Robust Object Detection via Instance-Level Temporal Cycle Confusion.",
       "authors": [
@@ -14910,15 +14901,6 @@
       "doi": "10.1109/ICCV48922.2021.01080"
     },
     {
-      "id": "conf/iccv/2021",
-      "title": "2021 IEEE/CVF International Conference on Computer Vision, ICCV 2021, Montreal, QC, Canada, October 10-17, 2021",
-      "authors": [],
-      "year": "2021",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/2021",
-      "doi": "10.1109/ICCV48922.2021"
-    },
-    {
       "id": "conf/iccv/0066HLY0GD21",
       "title": "Robust Object Detection via Instance-Level Temporal Cycle Confusion.",
       "authors": [
@@ -29817,15 +29799,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/PetrovichBV21",
       "doi": "10.1109/ICCV48922.2021.01080"
-    },
-    {
-      "id": "conf/iccv/2021",
-      "title": "2021 IEEE/CVF International Conference on Computer Vision, ICCV 2021, Montreal, QC, Canada, October 10-17, 2021",
-      "authors": [],
-      "year": "2021",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/2021",
-      "doi": "10.1109/ICCV48922.2021"
     },
     {
       "id": "conf/iccv/0066HLY0GD21",

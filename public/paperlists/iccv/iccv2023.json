@@ -1,24 +1,6 @@
 {
   "papers": [
     {
-      "id": "conf/iccvit/2023",
-      "title": "Proceedings of the 2023 International Conference on Computer, Vision and Intelligent Technology, ICCVIT 2023, Chenzhou, China, August 25-28, 2023",
-      "authors": [],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccvit/2023",
-      "doi": "10.1145/3627341"
-    },
-    {
-      "id": "conf/iccv/2023",
-      "title": "IEEE/CVF International Conference on Computer Vision, ICCV 2023, Paris, France, October 1-6, 2023",
-      "authors": [],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/2023",
-      "doi": "10.1109/ICCV51070.2023"
-    },
-    {
       "id": "conf/iccvw/AlbieroMEBSM23",
       "title": "Confusing Large Models by Confusing Small Models.",
       "authors": [
@@ -15202,24 +15184,6 @@
       "doi": "10.1109/ICCV51070.2023.00743"
     },
     {
-      "id": "conf/iccvit/2023",
-      "title": "Proceedings of the 2023 International Conference on Computer, Vision and Intelligent Technology, ICCVIT 2023, Chenzhou, China, August 25-28, 2023",
-      "authors": [],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccvit/2023",
-      "doi": "10.1145/3627341"
-    },
-    {
-      "id": "conf/iccv/2023",
-      "title": "IEEE/CVF International Conference on Computer Vision, ICCV 2023, Paris, France, October 1-6, 2023",
-      "authors": [],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/2023",
-      "doi": "10.1109/ICCV51070.2023"
-    },
-    {
       "id": "conf/iccvw/AlbieroMEBSM23",
       "title": "Confusing Large Models by Confusing Small Models.",
       "authors": [
@@ -30401,24 +30365,6 @@
       "venue": "iccv",
       "url": "https://dblp.org/rec/conf/iccv/LiangLZFL23",
       "doi": "10.1109/ICCV51070.2023.00743"
-    },
-    {
-      "id": "conf/iccvit/2023",
-      "title": "Proceedings of the 2023 International Conference on Computer, Vision and Intelligent Technology, ICCVIT 2023, Chenzhou, China, August 25-28, 2023",
-      "authors": [],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccvit/2023",
-      "doi": "10.1145/3627341"
-    },
-    {
-      "id": "conf/iccv/2023",
-      "title": "IEEE/CVF International Conference on Computer Vision, ICCV 2023, Paris, France, October 1-6, 2023",
-      "authors": [],
-      "year": "2023",
-      "venue": "iccv",
-      "url": "https://dblp.org/rec/conf/iccv/2023",
-      "doi": "10.1109/ICCV51070.2023"
     },
     {
       "id": "conf/iccvw/AlbieroMEBSM23",

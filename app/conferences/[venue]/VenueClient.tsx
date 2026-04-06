@@ -142,6 +142,9 @@ export default function VenueClient({ venue }: VenueClientProps) {
                 {y}
               </button>
             ))}
+            <span style={{ color: 'var(--text-muted)', fontSize: '0.9em', marginLeft: '1rem' }}>
+              ({papers.length} papers)
+            </span>
           </div>
         )}
 

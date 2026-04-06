@@ -62,14 +62,21 @@ function isWorkshopTitle(title) {
 
 function isEditorial(info) {
   // Filter out editorials, front matter, etc.
-  const editorialTypes = ['Editorship', 'Editorial', 'Front Matter', ' Preface'];
+  const editorialTypes = ['Editorship', 'Editorial', 'Front Matter', 'Preface'];
   const type = info.type || '';
   if (editorialTypes.some(t => type.includes(t))) return true;
 
   // Filter out conference overview papers
   const title = info.title || '';
-  if (title.includes('Conference on') && title.includes('CVPR') && title.includes('2024')) return true;
-  if (title.match(/IEEE\/CVF Conference.*\d{4}/)) return true;
+
+  // Pattern like "IEEE Conference on ... CVPR 2021, virtual, June 19-25, 2021"
+  if (title.match(/IEEE\s*Conference\s*on/i) && title.match(/CVPR\s*\d{4}/i)) return true;
+
+  // Pattern like "IEEE/CVF Conference..."
+  if (title.match(/IEEE\/CVF Conference/i)) return true;
+
+  // Pattern with month and date range like "June 19-25, 2021"
+  if (title.match(/[A-Z][a-z]+\s+\d+-\d+,\s+\d{4}/)) return true;
 
   return false;
 }
