@@ -28,6 +28,8 @@ const AVAILABLE_YEARS: Record<string, string[]> = {
   tpami: [],
 }
 
+const PAGE_SIZE_OPTIONS = [20, 50, 100]
+
 interface VenueClientProps {
   venue: string
 }
@@ -38,6 +40,8 @@ export default function VenueClient({ venue }: VenueClientProps) {
   const [startYear, setStartYear] = useState<string>('')
   const [endYear, setEndYear] = useState<string>('')
   const [availableYears, setAvailableYears] = useState<string[]>([])
+  const [currentPage, setCurrentPage] = useState(1)
+  const [pageSize, setPageSize] = useState(50)
 
   const venueInfo = VENUE_INFO[venue] || { name: venue, desc: '' }
 
@@ -49,6 +53,10 @@ export default function VenueClient({ venue }: VenueClientProps) {
       setEndYear(years[years.length - 1])
     }
   }, [venue])
+
+  useEffect(() => {
+    setCurrentPage(1)
+  }, [startYear, endYear])
 
   useEffect(() => {
     if (venue === 'arxiv' || availableYears.length === 0) {
@@ -93,6 +101,11 @@ export default function VenueClient({ venue }: VenueClientProps) {
       fetchPapers()
     }
   }, [venue, startYear, endYear, availableYears])
+
+  const totalPages = Math.ceil(papers.length / pageSize)
+  const startIndex = (currentPage - 1) * pageSize
+  const endIndex = startIndex + pageSize
+  const displayedPapers = papers.slice(startIndex, endIndex)
 
   if (venue === 'arxiv') {
     return (
@@ -142,37 +155,120 @@ export default function VenueClient({ venue }: VenueClientProps) {
                 {y}
               </button>
             ))}
-            <span style={{ color: 'var(--text-muted)', fontSize: '0.9em', marginLeft: '1rem' }}>
-              ({papers.length} papers)
-            </span>
           </div>
         )}
 
         {loading ? (
           <div className="empty-state"><p>Loading papers...</p></div>
         ) : papers.length > 0 ? (
-          <div className="papers-list">
-            {papers.map((paper) => (
-              <article key={paper.id} className="paper-item">
-                <h3 className="paper-title">{paper.title}</h3>
-                <p className="paper-authors">
-                  {paper.authors?.join(', ')}
-                </p>
-                <div className="paper-meta">
-                  {paper.url && (
-                    <a
-                      href={paper.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="paper-link"
-                    >
-                      View Paper →
-                    </a>
-                  )}
-                </div>
-              </article>
-            ))}
-          </div>
+          <>
+            <div className="papers-controls" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '1rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>
+                  Showing {startIndex + 1}-{Math.min(endIndex, papers.length)} of {papers.length} papers
+                </span>
+              </div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>Per page:</span>
+                <select
+                  value={pageSize}
+                  onChange={(e) => { setPageSize(Number(e.target.value)); setCurrentPage(1); }}
+                  style={{ padding: '0.3em 0.6em', borderRadius: '6px', border: '1px solid var(--border)', fontSize: '0.9em' }}
+                >
+                  {PAGE_SIZE_OPTIONS.map(size => (
+                    <option key={size} value={size}>{size}</option>
+                  ))}
+                </select>
+              </div>
+            </div>
+
+            <div className="papers-list">
+              {displayedPapers.map((paper) => (
+                <article key={paper.id} className="paper-item">
+                  <h3 className="paper-title">{paper.title}</h3>
+                  <p className="paper-authors">
+                    {paper.authors?.join(', ')}
+                  </p>
+                  <div className="paper-meta">
+                    {paper.url && (
+                      <a
+                        href={paper.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="paper-link"
+                      >
+                        View Paper →
+                      </a>
+                    )}
+                  </div>
+                </article>
+              ))}
+            </div>
+
+            {totalPages > 1 && (
+              <div className="pagination" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem', marginTop: '2rem' }}>
+                <button
+                  onClick={() => setCurrentPage(1)}
+                  disabled={currentPage === 1}
+                  style={{
+                    padding: '0.4em 0.8em',
+                    borderRadius: '6px',
+                    border: '1px solid var(--border)',
+                    background: 'var(--bg-white)',
+                    cursor: currentPage === 1 ? 'not-allowed' : 'pointer',
+                    opacity: currentPage === 1 ? 0.5 : 1,
+                  }}
+                >
+                  First
+                </button>
+                <button
+                  onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                  disabled={currentPage === 1}
+                  style={{
+                    padding: '0.4em 0.8em',
+                    borderRadius: '6px',
+                    border: '1px solid var(--border)',
+                    background: 'var(--bg-white)',
+                    cursor: currentPage === 1 ? 'not-allowed' : 'pointer',
+                    opacity: currentPage === 1 ? 0.5 : 1,
+                  }}
+                >
+                  ← Prev
+                </button>
+                <span style={{ color: 'var(--text-muted)', padding: '0 1em' }}>
+                  Page {currentPage} of {totalPages}
+                </span>
+                <button
+                  onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                  disabled={currentPage === totalPages}
+                  style={{
+                    padding: '0.4em 0.8em',
+                    borderRadius: '6px',
+                    border: '1px solid var(--border)',
+                    background: 'var(--bg-white)',
+                    cursor: currentPage === totalPages ? 'not-allowed' : 'pointer',
+                    opacity: currentPage === totalPages ? 0.5 : 1,
+                  }}
+                >
+                  Next →
+                </button>
+                <button
+                  onClick={() => setCurrentPage(totalPages)}
+                  disabled={currentPage === totalPages}
+                  style={{
+                    padding: '0.4em 0.8em',
+                    borderRadius: '6px',
+                    border: '1px solid var(--border)',
+                    background: 'var(--bg-white)',
+                    cursor: currentPage === totalPages ? 'not-allowed' : 'pointer',
+                    opacity: currentPage === totalPages ? 0.5 : 1,
+                  }}
+                >
+                  Last
+                </button>
+              </div>
+            )}
+          </>
         ) : (
           <div className="empty-state">
             <p>No papers found for the selected year range.</p>
