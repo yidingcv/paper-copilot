@@ -23,9 +23,9 @@ const AVAILABLE_YEARS: Record<string, string[]> = {
   iccv: ['2019', '2021', '2023'],
   eccv: ['2020', '2022', '2024'],
   neurips: ['2020', '2021', '2022', '2023', '2024'],
-  iclr: ['2020', '2021', '2022', '2023', '2024', '2025'],
-  icml: ['2020', '2021', '2022', '2023', '2024'],
-  tpami: ['2016', '2017', '2018', '2019', '2020', '2022', '2024', '2025'],
+  iclr: ['2020', '2021', '2022'],
+  icml: [],
+  tpami: [],
 }
 
 interface VenueClientProps {
@@ -149,7 +149,6 @@ export default function VenueClient({ venue }: VenueClientProps) {
                 <p className="paper-authors">
                   {paper.authors?.join(', ')}
                 </p>
-                <p className="paper-abstract">{paper.abstract || 'No abstract available.'}</p>
                 <div className="paper-meta">
                   <span className="paper-tag">{paper.year}</span>
                   {paper.url && (
