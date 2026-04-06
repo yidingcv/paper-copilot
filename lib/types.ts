@@ -12,6 +12,7 @@ export interface Paper {
   title: string
   authors?: string[]
   abstract?: string
+  url?: string
   openReviewUrl?: string
   arxivId?: string
   tags?: string[]

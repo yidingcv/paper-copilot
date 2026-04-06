@@ -316,6 +316,46 @@ h1, h2, h3, h4, h5, h6 { color: var(--text-darker); font-weight: 600; }
 }
 .back-btn:hover { text-decoration: underline; }
 
+/* Papers List */
+.papers-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.paper-item {
+  background: var(--bg-white);
+  border-radius: 10px;
+  padding: 1.5em;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+}
+
+.paper-item:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.paper-title {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: var(--text-darker);
+  margin-bottom: 0.5em;
+  line-height: 1.4;
+}
+
+.paper-authors {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin-bottom: 0.75em;
+}
+
+.paper-abstract {
+  color: var(--text);
+  font-size: 0.9em;
+  line-height: 1.7;
+  margin-bottom: 1em;
+}
+
 @media (max-width: 768px) {
   .container { padding: 0 1.5em; }
   .header-inner { padding: 0 1.5em; }

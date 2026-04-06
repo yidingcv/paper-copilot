@@ -1,0 +1,139 @@
+{
+  "papers": [
+    {
+      "id": "neurips-2024-001",
+      "venue": "neurips",
+      "year": "2024",
+      "title": "Scaling Laws for Neural Language Models",
+      "authors": ["J. Kaplan", "S. McCandlish", "T. Henighan"],
+      "abstract": "We study empirical scaling laws for language model performance on the cross-entropy loss. The loss scales as a power-law with model size, dataset size, and the amount of compute used for training.",
+      "url": "https://papers.neurips.cc/paper/2024/hash/1234"
+    },
+    {
+      "id": "neurips-2024-002",
+      "venue": "neurips",
+      "year": "2024",
+      "title": "Attention Is All You Need",
+      "authors": ["A. Vaswani", "N. Shazeer", "N. Parmar"],
+      "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms.",
+      "url": "https://papers.neurips.cc/paper/2024/hash/5678"
+    },
+    {
+      "id": "cvpr-2024-001",
+      "venue": "cvpr",
+      "year": "2024",
+      "title": "SAM: Segment Anything Model",
+      "authors": ["A. Kirillov", "E. Mintun", "N. Ravi"],
+      "abstract": "We introduce the Segment Anything Model (SAM), a new task, model, and dataset for image segmentation. Using our model we achieve strong zero-shot transfer on a variety of segmentation tasks.",
+      "url": "https://openaccess.thecvf.com/CVPR2024/html/1234"
+    },
+    {
+      "id": "cvpr-2024-002",
+      "venue": "cvpr",
+      "year": "2024",
+      "title": "DINO: DETR with Improved DeNoising",
+      "authors": ["M. Caron", "H. Touvron", "I. Misra"],
+      "abstract": "We present DINO, a self-supervised method that combines the advantages of DINO and DETR. Our approach achieves state-of-the-art results on object detection and segmentation tasks.",
+      "url": "https://openaccess.thecvf.com/CVPR2024/html/5678"
+    },
+    {
+      "id": "iclr-2025-001",
+      "venue": "iclr",
+      "year": "2025",
+      "title": "RLHF: Reinforcement Learning from Human Feedback",
+      "authors": ["P. Christiano", "J. Leike", "T. Brown"],
+      "abstract": "We use reinforcement learning from human feedback to train a simulator to mimic human labeling decisions, and then use this as a reward signal for fine-tuning language models.",
+      "url": "https://openreview.net/forum?id=1234"
+    },
+    {
+      "id": "iclr-2025-002",
+      "venue": "iclr",
+      "year": "2025",
+      "title": "LLaMA: Open Foundation Models",
+      "authors": ["A. Touvron", "T. Scialom", "G. Sakshamadaran"],
+      "abstract": "We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters. We train our models on trillions of tokens using publicly available datasets.",
+      "url": "https://openreview.net/forum?id=5678"
+    },
+    {
+      "id": "icml-2024-001",
+      "venue": "icml",
+      "year": "2024",
+      "title": "GPT-4: Large Language Model for Science",
+      "authors": ["OpenAI", "I. Sutskever", "T. Brown"],
+      "abstract": "We present GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs. GPT-4 exhibits human-level performance on various professional benchmarks.",
+      "url": "https://proceedings.mlr.press/v2024/openai24a.html"
+    },
+    {
+      "id": "iccv-2023-001",
+      "venue": "iccv",
+      "year": "2023",
+      "title": "CLIP: Learning Transferable Visual Models",
+      "authors": ["A. Radford", "J. Kim", "C. Hallacy"],
+      "abstract": "We demonstrate that a simple pre-training task of predicting which image goes with which text is an efficient and scalable way to learn SOTA image representations from scratch.",
+      "url": "https://openaccess.thecvf.com/ICCV2023/html/Radford21a.html"
+    },
+    {
+      "id": "eccv-2024-001",
+      "venue": "eccv",
+      "year": "2024",
+      "title": "Diffusion Models: A Comprehensive Survey",
+      "authors": ["L. Yang", "Z. Zhang", "S. Hong"],
+      "abstract": "This paper provides a comprehensive survey of diffusion models, covering the mathematical foundations, training methods, and applications in computer vision.",
+      "url": "https://www.ecva.net/papers/eccv_2024/papers/1234.pdf"
+    },
+    {
+      "id": "tpami-2024-001",
+      "venue": "tpami",
+      "year": "2024",
+      "title": "Deep Learning for Object Detection: A Review",
+      "authors": ["J. Liu", "W. Wang", "S. Zhang"],
+      "abstract": "Object detection is a fundamental computer vision task. This paper provides a comprehensive review of deep learning methods for object detection, from R-CNN to YOLO.",
+      "url": "https://ieeexplore.ieee.org/document/1234"
+    },
+    {
+      "id": "tip-2024-001",
+      "venue": "tip",
+      "year": "2024",
+      "title": "Image Restoration with Deep Learning",
+      "authors": ["K. Zhang", "W. Zuo", "L. Zhang"],
+      "abstract": "We propose a deep learning method for image restoration tasks including denoising, super-resolution, and deblurring. Our method achieves state-of-the-art results on multiple benchmarks.",
+      "url": "https://ieeexplore.ieee.org/document/5678"
+    },
+    {
+      "id": "tmm-2024-001",
+      "venue": "tmm",
+      "year": "2024",
+      "title": "Multimodal Learning: A Survey",
+      "authors": ["T. Baltrusaitis", "C. Ahuja", "L. Morency"],
+      "abstract": "Multimodal learning is a promising approach to build models that can process and relate information from multiple modalities. This survey covers recent advances in multimodal learning.",
+      "url": "https://ieeexplore.ieee.org/document/9012"
+    },
+    {
+      "id": "ijcv-2024-001",
+      "venue": "ijcv",
+      "year": "2024",
+      "title": "Visual Understanding with Deep Networks",
+      "authors": ["D. Hubel", "T. Wiesel", "G. K. Zipser"],
+      "abstract": "We study the mechanisms of visual cortex organization in mammals and show how these insights can guide the design of deep neural networks for visual understanding tasks.",
+      "url": "https://link.springer.com/article/1234"
+    },
+    {
+      "id": "neurips-2023-001",
+      "venue": "neurips",
+      "year": "2023",
+      "title": "Chain-of-Thought Prompting Elicits Reasoning",
+      "authors": ["J. Wei", "X. Wang", "D. Zhou"],
+      "abstract": "We explore how generating a chain of thought, a series of intermediate reasoning steps, significantly improves the ability of large language models to perform complex reasoning.",
+      "url": "https://papers.neurips.cc/paper/2023/hash/4567"
+    },
+    {
+      "id": "cvpr-2023-001",
+      "venue": "cvpr",
+      "year": "2023",
+      "title": "Stable Diffusion: Text-to-Image Generation",
+      "authors": ["R. Rombach", "A. Blattmann", "D. Lorenz"],
+      "abstract": "We present a latent text-to-image diffusion model that achieves competitive performance while significantly reducing computational requirements for training and inference.",
+      "url": "https://openaccess.thecvf.com/CVPR2023/html/Rombach22a.html"
+    }
+  ]
+}

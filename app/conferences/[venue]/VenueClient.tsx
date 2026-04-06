@@ -1,8 +1,8 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import type { Paper } from '@/lib/types'
+import type { Paper, Venue } from '@/lib/types'
 
 const VENUE_INFO: Record<string, { name: string; desc: string }> = {
   arxiv: { name: 'arXiv', desc: 'Preprints in cs.AI, cs.LG, cs.CV, cs.CL' },
@@ -24,59 +24,75 @@ interface VenueClientProps {
 
 export default function VenueClient({ venue }: VenueClientProps) {
   const [papers, setPapers] = useState<Paper[]>([])
-  const [loading, setLoading] = useState(false)
-  const [searchQuery, setSearchQuery] = useState('')
+  const [allPapers, setAllPapers] = useState<Paper[]>([])
+  const [venues, setVenues] = useState<Venue[]>([])
+  const [loading, setLoading] = useState(true)
+  const [startYear, setStartYear] = useState<string>('')
+  const [endYear, setEndYear] = useState<string>('')
+  const [availableYears, setAvailableYears] = useState<string[]>([])
 
-  const venueInfo = VENUE_INFO[venue] || { name: venue, desc: '', icon: '📄' }
+  const venueInfo = VENUE_INFO[venue] || { name: venue, desc: '' }
 
-  const searchArxiv = async (e: React.FormEvent) => {
-    e.preventDefault()
-    if (!searchQuery.trim()) return
-    setLoading(true)
+  useEffect(() => {
+    async function fetchData() {
+      setLoading(true)
+      try {
+        const [papersRes, venuesRes] = await Promise.all([
+          fetch('/data/papers.json'),
+          fetch('/data/venues.json')
+        ])
 
-    try {
-      const encodedQuery = encodeURIComponent(searchQuery)
-      const response = await fetch(
-        `https://export.arxiv.org/api/query?search_query=all:${encodedQuery}&max_results=20&sortBy=relevance&sortOrder=descending`
-      )
-      const text = await response.text()
+        const papersData = await papersRes.json()
+        const venuesData = await venuesRes.json()
 
-      const parser = new DOMParser()
-      const doc = parser.parseFromString(text, 'text/xml')
-      const entries = doc.querySelectorAll('entry')
+        setAllPapers(papersData.papers || [])
+        setVenues(venuesData.venues || [])
 
-      const results: Paper[] = []
-      entries.forEach((entry) => {
-        const title = entry.querySelector('title')?.textContent?.trim().replace(/\s+/g, ' ') || ''
-        const authors = Array.from(entry.querySelectorAll('author name')).map(n => n.textContent || '')
-        const summary = entry.querySelector('summary')?.textContent?.trim().replace(/\s+/g, ' ') || ''
-        const id = entry.querySelector('id')?.textContent || ''
-        const published = entry.querySelector('published')?.textContent || ''
-        const arxivId = id.split('/').pop() || ''
-
-        results.push({
-          id: `arxiv-${arxivId}`,
-          venue: 'arxiv',
-          year: published.split('-')[0],
-          title,
-          authors,
-          abstract: summary,
-          arxivId,
-        })
-      })
-
-      setPapers(results)
-    } catch (error) {
-      console.error('Search error:', error)
-    } finally {
-      setLoading(false)
+        const venueData = venuesData.venues?.find((v: Venue) => v.id === venue)
+        if (venueData?.years) {
+          const years = [...venueData.years].sort()
+          setAvailableYears(years)
+          setStartYear(years[0] || '')
+          setEndYear(years[years.length - 1] || '')
+        }
+      } catch (error) {
+        console.error('Error fetching data:', error)
+      } finally {
+        setLoading(false)
+      }
     }
+    fetchData()
+  }, [venue])
+
+  useEffect(() => {
+    if (!startYear || !endYear) {
+      setPapers(allPapers.filter(p => p.venue === venue))
+      return
+    }
+
+    const filtered = allPapers.filter(p => {
+      if (p.venue !== venue) return false
+      const year = parseInt(p.year || '0')
+      return year >= parseInt(startYear) && year <= parseInt(endYear)
+    })
+    setPapers(filtered)
+  }, [startYear, endYear, allPapers, venue])
+
+  if (loading) {
+    return (
+      <main>
+        <div className="main">
+          <Link href="/conferences" className="back-link">← Back to Venues</Link>
+          <div className="empty-state"><p>Loading...</p></div>
+        </div>
+      </main>
+    )
   }
 
   return (
     <main>
       <div className="main">
-        <Link href="/conferences" className="back-link">← Back to Conferences</Link>
+        <Link href="/conferences" className="back-link">← Back to Venues</Link>
 
         <div className="venue-header">
           <h1>{venueInfo.name}</h1>
@@ -84,41 +100,48 @@ export default function VenueClient({ venue }: VenueClientProps) {
         </div>
 
         {venue === 'arxiv' ? (
+          <div className="empty-state">
+            <p>Use the search box on the home page to search arXiv papers.</p>
+          </div>
+        ) : (
           <>
-            <form onSubmit={searchArxiv} style={{ marginBottom: '2rem' }}>
-              <div className="hero-search" style={{ maxWidth: '100%' }}>
-                <input
-                  type="text"
-                  placeholder={`Search ${venueInfo.name} papers...`}
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                />
-                <button type="submit">Search</button>
+            {availableYears.length > 0 && (
+              <div className="year-filter" style={{ marginBottom: '2rem', display: 'flex', gap: '1rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                <span style={{ fontWeight: 500 }}>Year Range:</span>
+                <select value={startYear} onChange={(e) => setStartYear(e.target.value)} style={{ padding: '0.5em', borderRadius: '6px', border: '1px solid var(--border)', fontSize: '0.9em' }}>
+                  {availableYears.map(y => (
+                    <option key={y} value={y}>{y}</option>
+                  ))}
+                </select>
+                <span>to</span>
+                <select value={endYear} onChange={(e) => setEndYear(e.target.value)} style={{ padding: '0.5em', borderRadius: '6px', border: '1px solid var(--border)', fontSize: '0.9em' }}>
+                  {availableYears.map(y => (
+                    <option key={y} value={y}>{y}</option>
+                  ))}
+                </select>
+                <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>({papers.length} papers)</span>
               </div>
-            </form>
+            )}
 
-            {loading ? (
-              <div className="empty-state"><p>Searching...</p></div>
-            ) : papers.length > 0 ? (
-              <div className="cards-grid">
+            {papers.length > 0 ? (
+              <div className="papers-list">
                 {papers.map((paper) => (
-                  <article key={paper.id} className="paper-card">
-                    <h3>{paper.title}</h3>
-                    <p className="authors">
-                      {paper.authors?.slice(0, 3).join(', ')}
-                      {paper.authors && paper.authors.length > 3 ? ' et al.' : ''}
+                  <article key={paper.id} className="paper-item">
+                    <h3 className="paper-title">{paper.title}</h3>
+                    <p className="paper-authors">
+                      {paper.authors?.join(', ')}
                     </p>
-                    <p className="abstract">{paper.abstract}</p>
+                    <p className="paper-abstract">{paper.abstract}</p>
                     <div className="paper-meta">
                       <span className="paper-tag">{paper.year}</span>
-                      {paper.arxivId && (
+                      {paper.url && (
                         <a
-                          href={`https://arxiv.org/abs/${paper.arxivId}`}
+                          href={paper.url}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="paper-link"
                         >
-                          arXiv →
+                          View Paper →
                         </a>
                       )}
                     </div>
@@ -127,20 +150,10 @@ export default function VenueClient({ venue }: VenueClientProps) {
               </div>
             ) : (
               <div className="empty-state">
-                <p>Search for papers on arXiv using the search box above.</p>
-                <p style={{ marginTop: '0.5rem', fontSize: '0.875rem' }}>
-                  Try &quot;transformers&quot;, &quot;diffusion models&quot;, or &quot;reinforcement learning&quot;
-                </p>
+                <p>No papers found for the selected year range.</p>
               </div>
             )}
           </>
-        ) : (
-          <div className="empty-state">
-            <p>Conference paper browsing coming soon.</p>
-            <p style={{ marginTop: '0.5rem', fontSize: '0.875rem' }}>
-              For now, use the arXiv search to find related papers.
-            </p>
-          </div>
         )}
       </div>
     </main>

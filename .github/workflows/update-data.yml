@@ -1,0 +1,76 @@
+name: Update Paper Data
+
+on:
+  schedule:
+    # Run at 2:00 AM UTC daily (10:00 AM Beijing Time)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install
+
+      # Placeholder for DBLP data fetching
+      # In production, this would run a script to fetch data from DBLP API
+      - name: Fetch paper data
+        run: |
+          echo "Fetching paper data from DBLP..."
+          # TODO: Add DBLP API fetching logic here
+          # For now, we use the existing data files
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update paper data $(date +'%Y-%m-%d')"
+          git push
+
+  build-and-deploy:
+    needs: update-data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build
+        run: yarn build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
