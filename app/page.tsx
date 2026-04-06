@@ -103,12 +103,12 @@ export default function Home() {
     <main>
       {/* Hero */}
       <section className="hero">
-        <h1>Track Research Papers Effortlessly</h1>
-        <p>Search across arXiv, top conferences, and journals in one place</p>
+        <h1>Your Academic Research Command Center</h1>
+        <p>Navigate the frontier of AI research across all major venues</p>
         <form className="hero-search" onSubmit={handleSearch}>
           <input
             type="text"
-            placeholder="Search by title, author, or keyword..."
+            placeholder="Search papers, authors, or keywords..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
