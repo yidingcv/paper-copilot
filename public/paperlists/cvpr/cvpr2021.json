@@ -28,36 +28,6 @@
       "doi": "10.1109/CVPRW53098.2021.00070"
     },
     {
-      "id": "conf/cvpr/BhatDT21",
-      "title": "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results.",
-      "authors": [
-        "Goutam Bhat",
-        "Martin Danelljan",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/BhatDT21",
-      "doi": "10.1109/CVPRW53098.2021.00073"
-    },
-    {
-      "id": "conf/cvpr/GuCDR0GT21",
-      "title": "NTIRE 2021 Challenge on Perceptual Image Quality Assessment.",
-      "authors": [
-        "Jinjin Gu",
-        "Haoming Cai",
-        "Chao Dong 0005",
-        "Jimmy S. Ren",
-        "Yu Qiao 0001",
-        "Shuhang Gu",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/GuCDR0GT21",
-      "doi": "10.1109/CVPRW53098.2021.00077"
-    },
-    {
       "id": "conf/cvpr/GuptaGY21",
       "title": "Glaucoma Precognition Based on Confocal Scanning Laser Ophthalmoscopy Images of the Optic Disc Using Convolutional Neural Network.",
       "authors": [
@@ -228,35 +198,6 @@
       "doi": "10.1109/CVPRW53098.2021.00072"
     },
     {
-      "id": "conf/cvpr/NahSLTL21",
-      "title": "NTIRE 2021 Challenge on Image Deblurring.",
-      "authors": [
-        "Seungjun Nah",
-        "Sanghyun Son 0002",
-        "Suyoung Lee",
-        "Radu Timofte",
-        "Kyoung Mu Lee"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/NahSLTL21",
-      "doi": "10.1109/CVPRW53098.2021.00025"
-    },
-    {
-      "id": "conf/cvpr/Perez-Pellitero21",
-      "title": "NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results.",
-      "authors": [
-        "Eduardo Pérez-Pellitero",
-        "Sibi Catley-Chandar",
-        "Ales Leonardis",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Perez-Pellitero21",
-      "doi": "10.1109/CVPRW53098.2021.00078"
-    },
-    {
       "id": "conf/cvpr/RivadeneiraSVNK21",
       "title": "Thermal Image Super-Resolution Challenge - PBVS 2021.",
       "authors": [
@@ -298,21 +239,6 @@
       "doi": "10.1109/CVPRW53098.2021.00492"
     },
     {
-      "id": "conf/cvpr/SonLNTL21",
-      "title": "NTIRE 2021 Challenge on Video Super-Resolution.",
-      "authors": [
-        "Sanghyun Son 0002",
-        "Suyoung Lee",
-        "Seungjun Nah",
-        "Radu Timofte",
-        "Kyoung Mu Lee"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/SonLNTL21",
-      "doi": "10.1109/CVPRW53098.2021.00026"
-    },
-    {
       "id": "conf/cvpr/VesdapuntW21",
       "title": "CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.",
       "authors": [
@@ -336,29 +262,6 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/WangM021",
       "doi": "10.1109/CVPR46437.2021.00991"
-    },
-    {
-      "id": "conf/cvpr/Yang21",
-      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.",
-      "authors": [
-        "Ren Yang"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Yang21",
-      "doi": "10.1109/CVPRW53098.2021.00075"
-    },
-    {
-      "id": "conf/cvpr/Yang21a",
-      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study.",
-      "authors": [
-        "Ren Yang",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Yang21a",
-      "doi": "10.1109/CVPRW53098.2021.00076"
     },
     {
       "id": "conf/cvpr/YeYKHZHJZSX021",
@@ -14652,36 +14555,6 @@
       "doi": "10.1109/CVPRW53098.2021.00070"
     },
     {
-      "id": "conf/cvpr/BhatDT21",
-      "title": "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results.",
-      "authors": [
-        "Goutam Bhat",
-        "Martin Danelljan",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/BhatDT21",
-      "doi": "10.1109/CVPRW53098.2021.00073"
-    },
-    {
-      "id": "conf/cvpr/GuCDR0GT21",
-      "title": "NTIRE 2021 Challenge on Perceptual Image Quality Assessment.",
-      "authors": [
-        "Jinjin Gu",
-        "Haoming Cai",
-        "Chao Dong 0005",
-        "Jimmy S. Ren",
-        "Yu Qiao 0001",
-        "Shuhang Gu",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/GuCDR0GT21",
-      "doi": "10.1109/CVPRW53098.2021.00077"
-    },
-    {
       "id": "conf/cvpr/GuptaGY21",
       "title": "Glaucoma Precognition Based on Confocal Scanning Laser Ophthalmoscopy Images of the Optic Disc Using Convolutional Neural Network.",
       "authors": [
@@ -14852,35 +14725,6 @@
       "doi": "10.1109/CVPRW53098.2021.00072"
     },
     {
-      "id": "conf/cvpr/NahSLTL21",
-      "title": "NTIRE 2021 Challenge on Image Deblurring.",
-      "authors": [
-        "Seungjun Nah",
-        "Sanghyun Son 0002",
-        "Suyoung Lee",
-        "Radu Timofte",
-        "Kyoung Mu Lee"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/NahSLTL21",
-      "doi": "10.1109/CVPRW53098.2021.00025"
-    },
-    {
-      "id": "conf/cvpr/Perez-Pellitero21",
-      "title": "NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results.",
-      "authors": [
-        "Eduardo Pérez-Pellitero",
-        "Sibi Catley-Chandar",
-        "Ales Leonardis",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Perez-Pellitero21",
-      "doi": "10.1109/CVPRW53098.2021.00078"
-    },
-    {
       "id": "conf/cvpr/RivadeneiraSVNK21",
       "title": "Thermal Image Super-Resolution Challenge - PBVS 2021.",
       "authors": [
@@ -14922,21 +14766,6 @@
       "doi": "10.1109/CVPRW53098.2021.00492"
     },
     {
-      "id": "conf/cvpr/SonLNTL21",
-      "title": "NTIRE 2021 Challenge on Video Super-Resolution.",
-      "authors": [
-        "Sanghyun Son 0002",
-        "Suyoung Lee",
-        "Seungjun Nah",
-        "Radu Timofte",
-        "Kyoung Mu Lee"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/SonLNTL21",
-      "doi": "10.1109/CVPRW53098.2021.00026"
-    },
-    {
       "id": "conf/cvpr/VesdapuntW21",
       "title": "CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.",
       "authors": [
@@ -14960,29 +14789,6 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/WangM021",
       "doi": "10.1109/CVPR46437.2021.00991"
-    },
-    {
-      "id": "conf/cvpr/Yang21",
-      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.",
-      "authors": [
-        "Ren Yang"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Yang21",
-      "doi": "10.1109/CVPRW53098.2021.00075"
-    },
-    {
-      "id": "conf/cvpr/Yang21a",
-      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study.",
-      "authors": [
-        "Ren Yang",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Yang21a",
-      "doi": "10.1109/CVPRW53098.2021.00076"
     },
     {
       "id": "conf/cvpr/YeYKHZHJZSX021",
@@ -29276,36 +29082,6 @@
       "doi": "10.1109/CVPRW53098.2021.00070"
     },
     {
-      "id": "conf/cvpr/BhatDT21",
-      "title": "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results.",
-      "authors": [
-        "Goutam Bhat",
-        "Martin Danelljan",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/BhatDT21",
-      "doi": "10.1109/CVPRW53098.2021.00073"
-    },
-    {
-      "id": "conf/cvpr/GuCDR0GT21",
-      "title": "NTIRE 2021 Challenge on Perceptual Image Quality Assessment.",
-      "authors": [
-        "Jinjin Gu",
-        "Haoming Cai",
-        "Chao Dong 0005",
-        "Jimmy S. Ren",
-        "Yu Qiao 0001",
-        "Shuhang Gu",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/GuCDR0GT21",
-      "doi": "10.1109/CVPRW53098.2021.00077"
-    },
-    {
       "id": "conf/cvpr/GuptaGY21",
       "title": "Glaucoma Precognition Based on Confocal Scanning Laser Ophthalmoscopy Images of the Optic Disc Using Convolutional Neural Network.",
       "authors": [
@@ -29476,35 +29252,6 @@
       "doi": "10.1109/CVPRW53098.2021.00072"
     },
     {
-      "id": "conf/cvpr/NahSLTL21",
-      "title": "NTIRE 2021 Challenge on Image Deblurring.",
-      "authors": [
-        "Seungjun Nah",
-        "Sanghyun Son 0002",
-        "Suyoung Lee",
-        "Radu Timofte",
-        "Kyoung Mu Lee"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/NahSLTL21",
-      "doi": "10.1109/CVPRW53098.2021.00025"
-    },
-    {
-      "id": "conf/cvpr/Perez-Pellitero21",
-      "title": "NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results.",
-      "authors": [
-        "Eduardo Pérez-Pellitero",
-        "Sibi Catley-Chandar",
-        "Ales Leonardis",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Perez-Pellitero21",
-      "doi": "10.1109/CVPRW53098.2021.00078"
-    },
-    {
       "id": "conf/cvpr/RivadeneiraSVNK21",
       "title": "Thermal Image Super-Resolution Challenge - PBVS 2021.",
       "authors": [
@@ -29546,21 +29293,6 @@
       "doi": "10.1109/CVPRW53098.2021.00492"
     },
     {
-      "id": "conf/cvpr/SonLNTL21",
-      "title": "NTIRE 2021 Challenge on Video Super-Resolution.",
-      "authors": [
-        "Sanghyun Son 0002",
-        "Suyoung Lee",
-        "Seungjun Nah",
-        "Radu Timofte",
-        "Kyoung Mu Lee"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/SonLNTL21",
-      "doi": "10.1109/CVPRW53098.2021.00026"
-    },
-    {
       "id": "conf/cvpr/VesdapuntW21",
       "title": "CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement.",
       "authors": [
@@ -29584,29 +29316,6 @@
       "venue": "cvpr",
       "url": "https://dblp.org/rec/conf/cvpr/WangM021",
       "doi": "10.1109/CVPR46437.2021.00991"
-    },
-    {
-      "id": "conf/cvpr/Yang21",
-      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Methods and Results.",
-      "authors": [
-        "Ren Yang"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Yang21",
-      "doi": "10.1109/CVPRW53098.2021.00075"
-    },
-    {
-      "id": "conf/cvpr/Yang21a",
-      "title": "NTIRE 2021 Challenge on Quality Enhancement of Compressed Video: Dataset and Study.",
-      "authors": [
-        "Ren Yang",
-        "Radu Timofte"
-      ],
-      "year": "2021",
-      "venue": "cvpr",
-      "url": "https://dblp.org/rec/conf/cvpr/Yang21a",
-      "doi": "10.1109/CVPRW53098.2021.00076"
     },
     {
       "id": "conf/cvpr/YeYKHZHJZSX021",

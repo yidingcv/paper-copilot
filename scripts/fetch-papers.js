@@ -92,6 +92,24 @@ function isValidPaper(info) {
     /challenge$/i,
     /competition$/i,
 
+    // Challenge patterns: "NTIRE 2025 Challenge on ...", "MIPI 2024 Challenge on ..."
+    /\d{4}\s+challenge\s+on/i,
+    /challenge\s+on\s+\w+\s+\(\w+\)/i,
+
+    // "Methods and Results" suffix (common in challenge papers)
+    /:\s*Methods\s+and\s+Results$/i,
+    /:\s*Methods\s+and\s+Results\s+\(/i,
+
+    // Challenge survey papers
+    /challenge\s+survey/i,
+
+    // Quality assessment challenge papers
+    /quality\s+assessment.*challenge/i,
+
+    // "Deep Portrait Quality Assessment" - looks like a challenge/benchmark paper
+    /^deep\s+\w+\s+quality/i,
+    /^portrait\s+quality/i,
+
     // "at X Year" pattern (e.g., "Traffic4cast at NeurIPS 2020")
     /\s+at\s+(neurips|cvpr|iccv|eccv|icml|iclr)\s+\d{4}/i,
 
