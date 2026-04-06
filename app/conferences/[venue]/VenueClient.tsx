@@ -34,7 +34,7 @@ interface VenueClientProps {
 
 export default function VenueClient({ venue }: VenueClientProps) {
   const [papers, setPapers] = useState<Paper[]>([])
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(false)
   const [startYear, setStartYear] = useState<string>('')
   const [endYear, setEndYear] = useState<string>('')
   const [availableYears, setAvailableYears] = useState<string[]>([])
@@ -43,15 +43,15 @@ export default function VenueClient({ venue }: VenueClientProps) {
 
   useEffect(() => {
     const years = AVAILABLE_YEARS[venue] || []
+    setAvailableYears(years)
     if (years.length > 0) {
-      setAvailableYears(years)
       setStartYear(years[0])
       setEndYear(years[years.length - 1])
     }
   }, [venue])
 
   useEffect(() => {
-    if (!startYear || !endYear || venue === 'arxiv') {
+    if (venue === 'arxiv' || availableYears.length === 0) {
       setLoading(false)
       return
     }
@@ -62,6 +62,10 @@ export default function VenueClient({ venue }: VenueClientProps) {
 
       const startIdx = availableYears.indexOf(startYear)
       const endIdx = availableYears.indexOf(endYear)
+      if (startIdx === -1 || endIdx === -1) {
+        setLoading(false)
+        return
+      }
       const yearsToFetch = availableYears.slice(startIdx, endIdx + 1)
 
       try {
@@ -70,7 +74,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
             const res = await fetch(`/paperlists/${venue}/${venue}${year}.json`)
             if (res.ok) {
               const data = await res.json()
-              allPapers.push(...data.papers)
+              allPapers.push(...(data.papers || []))
             }
           } catch (e) {
             console.error(`Error fetching ${venue}${year}:`, e)
@@ -85,7 +89,9 @@ export default function VenueClient({ venue }: VenueClientProps) {
       }
     }
 
-    fetchPapers()
+    if (startYear && endYear) {
+      fetchPapers()
+    }
   }, [venue, startYear, endYear, availableYears])
 
   if (venue === 'arxiv') {
