@@ -64,9 +64,9 @@ function parsePapers(html, year) {
       authors: authors,
       year: year,
       venue: 'iccv',
-      url: `https://openaccess.thecvf.com${detailUrl}`,
-      pdfUrl: `https://openaccess.thecvf.com${pdfUrl}`,
-      suppUrl: suppUrl ? `https://openaccess.thecvf.com${suppUrl}` : null,
+      url: detailUrl.startsWith('/') ? `https://openaccess.thecvf.com${detailUrl}` : `https://openaccess.thecvf.com/${detailUrl}`,
+      pdfUrl: pdfUrl.startsWith('/') ? `https://openaccess.thecvf.com${pdfUrl}` : `https://openaccess.thecvf.com/${pdfUrl}`,
+      suppUrl: suppUrl ? (suppUrl.startsWith('/') ? `https://openaccess.thecvf.com${suppUrl}` : `https://openaccess.thecvf.com/${suppUrl}`) : null,
       arxivUrl: arxivUrl
     });
   }
