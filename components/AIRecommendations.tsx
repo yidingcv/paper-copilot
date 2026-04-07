@@ -8,6 +8,7 @@ import type { Paper } from '@/lib/types'
 interface AIRecommendationsProps {
   currentPaper: Paper
   allPapers: Paper[]
+  isDataLoaded?: boolean
 }
 
 interface Recommendation {
@@ -70,23 +71,31 @@ export function AIRecommendations({ currentPaper, allPapers }: AIRecommendations
 
       {expanded && !loading && recommendations.length === 0 && !error && (
         <div>
-          <p style={{ color: 'var(--text-muted)', fontSize: '0.9em', marginBottom: '0.75rem' }}>
-            Click &quot;Find Related&quot; to get AI-powered recommendations.
-          </p>
-          <button
-            onClick={handleGetRecommendations}
-            style={{
-              padding: '0.4em 1em',
-              borderRadius: '6px',
-              border: '1px solid var(--primary)',
-              background: 'var(--primary)',
-              color: 'white',
-              cursor: 'pointer',
-              fontSize: '0.9em',
-            }}
-          >
-            Find Related Papers
-          </button>
+          {allPapers.length === 0 ? (
+            <p style={{ color: 'var(--text-muted)', fontSize: '0.9em', marginBottom: '0.75rem' }}>
+              Loading paper database...
+            </p>
+          ) : (
+            <>
+              <p style={{ color: 'var(--text-muted)', fontSize: '0.9em', marginBottom: '0.75rem' }}>
+                Click &quot;Find Related&quot; to get AI-powered recommendations.
+              </p>
+              <button
+                onClick={handleGetRecommendations}
+                style={{
+                  padding: '0.4em 1em',
+                  borderRadius: '6px',
+                  border: '1px solid var(--primary)',
+                  background: 'var(--primary)',
+                  color: 'white',
+                  cursor: 'pointer',
+                  fontSize: '0.9em',
+                }}
+              >
+                Find Related Papers
+              </button>
+            </>
+          )}
         </div>
       )}
 

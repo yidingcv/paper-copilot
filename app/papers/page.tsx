@@ -18,6 +18,7 @@ function PaperDetailContent() {
   const [paper, setPaper] = useState<Paper | null>(null)
   const [allPapers, setAllPapers] = useState<Paper[]>([])
   const [loading, setLoading] = useState(true)
+  const [recommendationsLoading, setRecommendationsLoading] = useState(false)
 
   const { isInReadingList, toggleReadingList } = useReadingList()
 
@@ -40,7 +41,12 @@ function PaperDetailContent() {
         setPaper(null)
       }
 
-      // Load all papers for recommendations
+      // Load all papers for recommendations in background
+      loadAllPapersForRecommendations()
+      setLoading(false)
+    }
+
+    async function loadAllPapersForRecommendations() {
       const venues = ['cvpr', 'iccv', 'eccv', 'neurips', 'iclr']
       const all: Paper[] = []
       for (const v of venues) {
@@ -57,7 +63,6 @@ function PaperDetailContent() {
         }
       }
       setAllPapers(all)
-      setLoading(false)
     }
 
     loadPapers()
