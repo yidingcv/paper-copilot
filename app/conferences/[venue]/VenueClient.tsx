@@ -58,7 +58,6 @@ export default function VenueClient({ venue }: VenueClientProps) {
   const [pageSize, setPageSize] = useState(50)
   const [selectedPapers, setSelectedPapers] = useState<Set<string>>(new Set())
   const [searchQuery, setSearchQuery] = useState('')
-  const [typeFilter, setTypeFilter] = useState<'all' | 'papers' | 'workshops'>('all')
 
   const togglePaperSelection = (paperId: string) => {
     const newSelected = new Set(selectedPapers)
@@ -145,12 +144,8 @@ export default function VenueClient({ venue }: VenueClientProps) {
     }
   }, [venue, startYear, endYear, availableYears])
 
-  // Filter papers by search query and type
+  // Filter papers by search query
   const filteredPapers = papers.filter(p => {
-    // Type filter
-    if (typeFilter === 'papers' && p.type !== 'paper') return false
-    if (typeFilter === 'workshops' && p.type === 'paper') return false
-
     // Search filter
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase()
@@ -213,60 +208,6 @@ export default function VenueClient({ venue }: VenueClientProps) {
                 fontSize: '0.95em',
               }}
             />
-          </div>
-        )}
-
-        {availableYears.length > 0 && (
-          <div style={{ marginBottom: '1rem', display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
-            <span style={{ color: 'var(--text-muted)', fontSize: '0.9em', marginRight: '0.25rem' }}>Show:</span>
-            <button
-              onClick={() => setTypeFilter('all')}
-              style={{
-                padding: '0.3em 0.8em',
-                borderRadius: '6px',
-                border: '1px solid',
-                borderColor: typeFilter === 'all' ? 'var(--primary)' : 'var(--border)',
-                background: typeFilter === 'all' ? 'var(--primary)' : 'var(--bg-white)',
-                color: typeFilter === 'all' ? 'white' : 'var(--text)',
-                cursor: 'pointer',
-                fontSize: '0.85em',
-                fontWeight: typeFilter === 'all' ? 600 : 400,
-              }}
-            >
-              All
-            </button>
-            <button
-              onClick={() => setTypeFilter('papers')}
-              style={{
-                padding: '0.3em 0.8em',
-                borderRadius: '6px',
-                border: '1px solid',
-                borderColor: typeFilter === 'papers' ? 'var(--primary)' : 'var(--border)',
-                background: typeFilter === 'papers' ? 'var(--primary)' : 'var(--bg-white)',
-                color: typeFilter === 'papers' ? 'white' : 'var(--text)',
-                cursor: 'pointer',
-                fontSize: '0.85em',
-                fontWeight: typeFilter === 'papers' ? 600 : 400,
-              }}
-            >
-              Papers Only
-            </button>
-            <button
-              onClick={() => setTypeFilter('workshops')}
-              style={{
-                padding: '0.3em 0.8em',
-                borderRadius: '6px',
-                border: '1px solid',
-                borderColor: typeFilter === 'workshops' ? 'var(--primary)' : 'var(--border)',
-                background: typeFilter === 'workshops' ? 'var(--primary)' : 'var(--bg-white)',
-                color: typeFilter === 'workshops' ? 'white' : 'var(--text)',
-                cursor: 'pointer',
-                fontSize: '0.85em',
-                fontWeight: typeFilter === 'workshops' ? 600 : 400,
-              }}
-            >
-              Workshops & Challenges
-            </button>
           </div>
         )}
 
@@ -360,21 +301,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
                       style={{ width: '16px', height: '16px', marginTop: '0.25rem', cursor: 'pointer', flexShrink: 0 }}
                     />
                     <div style={{ flex: 1 }}>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
-                        <h3 className="paper-title" style={{ margin: 0 }}>{paper.title}</h3>
-                        {paper.type && paper.type !== 'paper' && (
-                          <span style={{
-                            padding: '0.15em 0.5em',
-                            borderRadius: '4px',
-                            fontSize: '0.7em',
-                            fontWeight: 600,
-                            background: paper.type === 'challenge' ? '#e74c3c' : '#f39c12',
-                            color: 'white',
-                          }}>
-                            {paper.type === 'challenge' ? 'Challenge' : 'Workshop'}
-                          </span>
-                        )}
-                      </div>
+                      <h3 className="paper-title">{paper.title}</h3>
                   <p className="paper-authors">
                     {paper.authors?.join(', ')}
                   </p>
@@ -386,7 +313,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
                             rel="noopener noreferrer"
                             className="paper-link"
                           >
-                            {paper.type === 'challenge' ? 'View Challenge →' : paper.type === 'workshop' ? 'View Workshop →' : 'View Paper →'}
+                            View Paper →
                           </a>
                         )}
                       </div>
