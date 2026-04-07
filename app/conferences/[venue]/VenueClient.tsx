@@ -98,7 +98,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
   useEffect(() => {
     setCurrentPage(1)
     setSelectedPapers(new Set())
-  }, [startYear, endYear])
+  }, [startYear, endYear, searchQuery])
 
   useEffect(() => {
     if (venue === 'arxiv' || availableYears.length === 0) {
@@ -243,7 +243,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
                 <input
                   type="checkbox"
-                  checked={selectedPapers.size === displayedPapers.length && displayedPapers.length > 0}
+                  checked={selectedPapers.size === displayedPapers.length && displayedPapers.length > 0 && displayedPapers.every(p => selectedPapers.has(p.id))}
                   onChange={toggleSelectAll}
                   style={{ width: '16px', height: '16px', cursor: 'pointer' }}
                   title="Select all on this page"
@@ -258,6 +258,38 @@ export default function VenueClient({ venue }: VenueClientProps) {
                     ({selectedPapers.size} selected)
                   </span>
                 )}
+                {selectedPapers.size > 0 && (
+                  <button
+                    onClick={() => setSelectedPapers(new Set())}
+                    style={{
+                      padding: '0.2em 0.6em',
+                      borderRadius: '4px',
+                      border: '1px solid var(--border)',
+                      background: 'var(--bg-white)',
+                      color: 'var(--text-muted)',
+                      cursor: 'pointer',
+                      fontSize: '0.8em',
+                    }}
+                    title="Clear all selections"
+                  >
+                    Clear
+                  </button>
+                )}
+                <button
+                  onClick={() => setSelectedPapers(new Set(filteredPapers.map(p => p.id)))}
+                  style={{
+                    padding: '0.2em 0.6em',
+                    borderRadius: '4px',
+                    border: '1px solid var(--border)',
+                    background: 'var(--bg-white)',
+                    color: 'var(--text-muted)',
+                    cursor: 'pointer',
+                    fontSize: '0.8em',
+                  }}
+                  title="Select all filtered papers"
+                >
+                  Select All
+                </button>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
                 {selectedPapers.size > 0 && (
