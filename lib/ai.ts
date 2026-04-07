@@ -72,18 +72,18 @@ export async function getRecommendations(
 ): Promise<{ recommendations: { id: string; title: string; reason: string }[]; error?: string }> {
   if (!currentPaper.title) return { recommendations: [] }
 
-  const topPapers = allPapers.slice(0, 100) // Limit for performance
+  const topPapers = allPapers.slice(0, 50) // Limit for performance
 
   const result = await callAI([
     {
       role: 'user',
       content: `Given this paper: "${currentPaper.title}"
-${currentPaper.abstract ? `Abstract: ${currentPaper.abstract.substring(0, 500)}...` : ''}
+${currentPaper.abstract ? `Abstract: ${currentPaper.abstract.substring(0, 300)}...` : ''}
 
-Find the most relevant papers from this list (return top 3):
-${topPapers.map((p, i) => `${i + 1}. "${p.title}" ${p.year || ''}`).join('\n')}
+Find the most relevant papers from this list (return exactly 3):
+${topPapers.map((p, i) => `${i + 1}. "${p.title}" (${p.year || 'N/A'}) ID: ${p.id}`).join('\n')}
 
-Return ONLY a JSON array like: [{"id": "paper_id", "title": "Paper Title", "reason": "Why it's relevant"}]`
+IMPORTANT: Return ONLY a valid JSON array with no other text. Format: [{"id": "exact_paper_id_here", "title": "exact_title", "reason": "one sentence why relevant"}]`
     }
   ])
 
@@ -92,9 +92,23 @@ Return ONLY a JSON array like: [{"id": "paper_id", "title": "Paper Title", "reas
   }
 
   try {
-    const parsed = JSON.parse(result.content)
-    return { recommendations: Array.isArray(parsed) ? parsed : [] }
-  } catch {
+    // Extract JSON from response (in case AI adds extra text)
+    const jsonMatch = result.content.match(/\[[\s\S]*\]/)
+    if (!jsonMatch) {
+      return { recommendations: [], error: 'Invalid response format' }
+    }
+    const parsed = JSON.parse(jsonMatch[0])
+    if (!Array.isArray(parsed)) {
+      return { recommendations: [], error: 'Invalid response format' }
+    }
+    // Validate and clean recommendations
+    const recommendations = parsed.slice(0, 3).map((rec: any) => ({
+      id: String(rec.id || ''),
+      title: String(rec.title || ''),
+      reason: String(rec.reason || '')
+    })).filter((rec: any) => rec.id && rec.title)
+    return { recommendations }
+  } catch (e) {
     return { recommendations: [], error: 'Failed to parse recommendations' }
   }
 }
