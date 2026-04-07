@@ -41,7 +41,7 @@ function PaperDetailContent() {
       }
 
       // Load all papers for recommendations
-      const venues = ['cvpr', 'iccv', 'eccv', 'neurips']
+      const venues = ['cvpr', 'iccv', 'eccv', 'neurips', 'iclr']
       const all: Paper[] = []
       for (const v of venues) {
         for (const y of ['2020', '2021', '2022', '2023', '2024', '2025']) {

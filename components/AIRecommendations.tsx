@@ -96,12 +96,20 @@ export function AIRecommendations({ currentPaper, allPapers }: AIRecommendations
             <div key={rec.id} style={{ padding: '0.75rem', borderRadius: '6px', border: '1px solid var(--border)', background: 'var(--bg)' }}>
               <p style={{ fontWeight: 500, marginBottom: '0.25rem', fontSize: '0.95em' }}>{rec.title}</p>
               <p style={{ fontSize: '0.85em', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>{rec.reason}</p>
-              <Link
-                href={`/papers?venue=${currentPaper.venue}&year=${currentPaper.year}&id=${rec.id}`}
-                style={{ fontSize: '0.85em', color: 'var(--primary)' }}
-              >
-                View paper →
-              </Link>
+              {(() => {
+                const recommendedPaper = allPapers.find(p => p.id === rec.id)
+                if (!recommendedPaper) {
+                  return <span style={{ fontSize: '0.8em', color: '#999' }}>Paper not found in database</span>
+                }
+                return (
+                  <Link
+                    href={`/papers?venue=${recommendedPaper.venue}&year=${recommendedPaper.year}&id=${rec.id}`}
+                    style={{ fontSize: '0.85em', color: 'var(--primary)', cursor: 'pointer', textDecoration: 'underline' }}
+                  >
+                    View paper →
+                  </Link>
+                )
+              })()}
             </div>
           ))}
         </div>
