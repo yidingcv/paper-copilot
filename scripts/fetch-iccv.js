@@ -41,7 +41,8 @@ function parsePapers(html, year) {
     const authorBlock = match[3];
     const pdfUrl = match[4];
 
-    const authorPattern = /query_author" value="([^"]+)"/g;
+    // ICCV 2019 uses "query" while ICCV 2021+ uses "query_author"
+    const authorPattern = /(?:query_author|query)" value="([^"]+)"/g;
     const authors = [];
     let authorMatch;
     while ((authorMatch = authorPattern.exec(authorBlock)) !== null) {
