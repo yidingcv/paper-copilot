@@ -44,6 +44,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
   const [currentPage, setCurrentPage] = useState(1)
   const [pageSize, setPageSize] = useState(50)
   const [selectedPapers, setSelectedPapers] = useState<Set<string>>(new Set())
+  const [searchQuery, setSearchQuery] = useState('')
 
   const togglePaperSelection = (paperId: string) => {
     const newSelected = new Set(selectedPapers)
@@ -130,10 +131,24 @@ export default function VenueClient({ venue }: VenueClientProps) {
     }
   }, [venue, startYear, endYear, availableYears])
 
-  const totalPages = Math.ceil(papers.length / pageSize)
+  // Filter papers by search query
+  const filteredPapers = searchQuery.trim()
+    ? papers.filter(p => {
+        const query = searchQuery.toLowerCase()
+        const titleMatch = p.title?.toLowerCase().includes(query)
+        const authorMatch = p.authors?.some(a => a.toLowerCase().includes(query))
+        return titleMatch || authorMatch
+      })
+    : papers
+
+  const totalPages = Math.ceil(filteredPapers.length / pageSize)
   const startIndex = (currentPage - 1) * pageSize
   const endIndex = startIndex + pageSize
-  const displayedPapers = papers.slice(startIndex, endIndex)
+  const displayedPapers = filteredPapers.slice(startIndex, endIndex)
+
+  useEffect(() => {
+    setCurrentPage(1)
+  }, [searchQuery])
 
   if (venue === 'arxiv') {
     return (
@@ -161,6 +176,25 @@ export default function VenueClient({ venue }: VenueClientProps) {
           <h1>{venueInfo.name}</h1>
           <p>{venueInfo.desc}</p>
         </div>
+
+        {availableYears.length > 0 && (
+          <div style={{ marginBottom: '1rem', marginTop: '1rem' }}>
+            <input
+              type="text"
+              placeholder={`Search ${venueInfo.name} papers by title or author...`}
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              style={{
+                width: '100%',
+                maxWidth: '400px',
+                padding: '0.6em 1em',
+                borderRadius: '8px',
+                border: '1px solid var(--border)',
+                fontSize: '0.95em',
+              }}
+            />
+          </div>
+        )}
 
         {availableYears.length > 0 && (
           <div className="year-filter" style={{ marginBottom: '2rem', display: 'flex', gap: '0.5rem', flexWrap: 'wrap', alignItems: 'center' }}>
@@ -200,7 +234,9 @@ export default function VenueClient({ venue }: VenueClientProps) {
                   title="Select all on this page"
                 />
                 <span style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>
-                  Showing {startIndex + 1}-{Math.min(endIndex, papers.length)} of {papers.length} papers
+                  {searchQuery ? 'Found ' : 'Showing '}
+                  {filteredPapers.length} {searchQuery ? 'papers' : `of ${papers.length} papers`}
+                  {searchQuery && ` (filtered from ${papers.length})`}
                 </span>
                 {selectedPapers.size > 0 && (
                   <span style={{ color: 'var(--primary)', fontSize: '0.9em', fontWeight: 500 }}>
@@ -338,7 +374,7 @@ export default function VenueClient({ venue }: VenueClientProps) {
           </>
         ) : (
           <div className="empty-state">
-            <p>No papers found for the selected year range.</p>
+            <p>{searchQuery ? 'No papers match your search.' : 'No papers found for the selected year range.'}</p>
           </div>
         )}
       </div>
