@@ -26,7 +26,7 @@ const VENUE_INFO: Record<string, { name: string; desc: string }> = {
 
 const AVAILABLE_YEARS: Record<string, string[]> = {
   cvpr: ['2020', '2021', '2022', '2023', '2024', '2025'],
-  iccv: ['2019', '2021', '2023'],
+  iccv: ['2019', '2021', '2023', '2025'],
   eccv: ['2020', '2022', '2024'],
   neurips: ['2020', '2021', '2022', '2023', '2024'],
   iclr: ['2020', '2021', '2022'],
