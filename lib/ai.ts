@@ -3,8 +3,26 @@
 
 const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions'
 
-// You can replace this with your own key or use environment variable
-const API_KEY = '' // User should set their own key
+// API key should be stored in api_key.txt (not committed to git)
+// or set via environment variable NEXT_PUBLIC_GROQ_API_KEY
+function getAPIKey(): string {
+  // Try environment variable first
+  if (typeof process !== 'undefined' && process.env && process.env.NEXT_PUBLIC_GROQ_API_KEY) {
+    return process.env.NEXT_PUBLIC_GROQ_API_KEY
+  }
+  // Try reading from api_key.txt
+  try {
+    const fs = require('fs')
+    const path = require('path')
+    const keyFile = path.join(__dirname, '..', 'api_key.txt')
+    if (fs.existsSync(keyFile)) {
+      return fs.readFileSync(keyFile, 'utf8').trim()
+    }
+  } catch {
+    // ignore
+  }
+  return ''
+}
 
 export interface AIResponse {
   content: string
@@ -12,10 +30,11 @@ export interface AIResponse {
 }
 
 async function callAI(messages: { role: string; content: string }[]): Promise<AIResponse> {
+  const API_KEY = getAPIKey()
   if (!API_KEY) {
     return {
       content: '',
-      error: 'API key not configured. Please set your Groq API key in lib/ai.ts'
+      error: 'API key not configured. Please add your Groq API key to api_key.txt or set NEXT_PUBLIC_GROQ_API_KEY environment variable'
     }
   }
 
