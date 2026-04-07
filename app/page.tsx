@@ -1,9 +1,30 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
-import SearchOverlay from '@/components/SearchOverlay'
+
+interface SearchPaper {
+  id: string
+  venue: string
+  year?: string
+  title: string
+  authors: string[]
+}
+
+const VENUE_NAMES: Record<string, string> = {
+  arxiv: 'arXiv',
+  cvpr: 'CVPR',
+  iccv: 'ICCV',
+  eccv: 'ECCV',
+  neurips: 'NeurIPS',
+  iclr: 'ICLR',
+  icml: 'ICML',
+  tpami: 'TPAMI',
+  tip: 'TIP',
+  tmm: 'TMM',
+  ijcv: 'IJCV',
+}
 
 const CONFERENCES = [
   { id: 'arxiv', name: 'arXiv', desc: 'Preprints in AI, ML, Computer Vision, NLP' },
@@ -29,6 +50,44 @@ export default function Home() {
   const [hasSearched, setHasSearched] = useState(false)
   const [expandedAbstracts, setExpandedAbstracts] = useState<Set<string>>(new Set())
   const [searchMode, setSearchMode] = useState<'arxiv' | 'all'>('arxiv')
+  const [allPapers, setAllPapers] = useState<SearchPaper[]>([])
+  const [indexLoading, setIndexLoading] = useState(false)
+  const [allResults, setAllResults] = useState<SearchPaper[]>([])
+  const [allResultsTotal, setAllResultsTotal] = useState(0)
+
+  // Load search index when switching to 'all' mode
+  useEffect(() => {
+    if (searchMode === 'all' && allPapers.length === 0) {
+      setIndexLoading(true)
+      fetch('/papercc/search-index.json')
+        .then(res => res.json())
+        .then(data => {
+          setAllPapers(data.papers || [])
+          setIndexLoading(false)
+        })
+        .catch(err => {
+          console.error('Failed to load search index:', err)
+          setIndexLoading(false)
+        })
+    }
+  }, [searchMode, allPapers.length])
+
+  // Search in all venues when query changes
+  useEffect(() => {
+    if (searchMode === 'all' && searchQuery.length >= 2 && allPapers.length > 0) {
+      const lowerQuery = searchQuery.toLowerCase()
+      const filtered = allPapers.filter(paper => {
+        const titleMatch = paper.title.toLowerCase().includes(lowerQuery)
+        const authorMatch = paper.authors?.some(a => a.toLowerCase().includes(lowerQuery))
+        return titleMatch || authorMatch
+      })
+      setAllResults(filtered.slice(0, 100))
+      setAllResultsTotal(filtered.length)
+    } else if (searchMode === 'all' && searchQuery.length < 2) {
+      setAllResults([])
+      setAllResultsTotal(0)
+    }
+  }, [searchQuery, searchMode, allPapers])
 
   const toggleAbstract = (paperId: string) => {
     const newExpanded = new Set(expandedAbstracts)
@@ -96,8 +155,10 @@ export default function Home() {
     if (searchMode === 'arxiv') {
       searchArxiv(searchQuery)
     }
-    // 'all' mode is handled by SearchOverlay component
   }
+
+  // Determine what to show in the main content area
+  const showSearchResults = hasSearched || (searchMode === 'all' && searchQuery.length >= 2)
 
   return (
     <main>
@@ -108,7 +169,7 @@ export default function Home() {
         <form className="hero-search" onSubmit={handleSearch}>
           <input
             type="text"
-            placeholder="Search papers, authors, or keywords..."
+            placeholder={searchMode === 'all' ? 'Search all venues...' : 'Search papers, authors, or keywords...'}
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
@@ -120,7 +181,7 @@ export default function Home() {
               type="radio"
               name="searchMode"
               checked={searchMode === 'arxiv'}
-              onChange={() => setSearchMode('arxiv')}
+              onChange={() => { setSearchMode('arxiv'); setHasSearched(false); }}
             />
             <span style={{ fontSize: '0.9em' }}>arXiv only</span>
           </label>
@@ -129,17 +190,104 @@ export default function Home() {
               type="radio"
               name="searchMode"
               checked={searchMode === 'all'}
-              onChange={() => setSearchMode('all')}
+              onChange={() => { setSearchMode('all'); setHasSearched(false); }}
             />
             <span style={{ fontSize: '0.9em' }}>All venues</span>
           </label>
         </div>
-        {searchMode === 'all' && <SearchOverlay />}
+
+        {searchMode === 'all' && indexLoading && (
+          <p style={{ color: 'var(--text-muted)', marginTop: '1rem', fontSize: '0.9em' }}>
+            Loading search index... (first time may take a moment)
+          </p>
+        )}
       </section>
 
       {/* Main Content */}
       <div className="main">
-        {!hasSearched ? (
+        {showSearchResults ? (
+          <div className="search-results">
+            <Link href="/" className="back-link" onClick={() => { setHasSearched(false); setSearchQuery(''); }}>← Back to Home</Link>
+
+            {searchMode === 'arxiv' ? (
+              <>
+                <h2>arXiv Results ({papers.length})</h2>
+                {loading ? (
+                  <div className="empty-state"><p>Searching arXiv...</p></div>
+                ) : papers.length === 0 ? (
+                  <div className="empty-state"><p>No papers found. Try a different search term.</p></div>
+                ) : (
+                  <div className="cards-grid">
+                    {papers.map((paper) => (
+                      <article key={paper.id} className="paper-card">
+                        <h3>{paper.title}</h3>
+                        <p className="authors">
+                          {paper.authors?.slice(0, 3).join(', ')}
+                          {paper.authors && paper.authors.length > 3 ? ' et al.' : ''}
+                        </p>
+                        <div className="paper-meta">
+                          <span className="paper-tag">arXiv</span>
+                          {paper.year && <span className="paper-tag">{paper.year}</span>}
+                          {paper.category && <span className="paper-tag" style={{ background: 'var(--primary)', color: 'white' }}>{paper.category}</span>}
+                        </div>
+                        <p className="abstract" style={{ marginTop: '0.75em' }}>
+                          {paper.abstract && paper.abstract.length > 300 ? (
+                            expandedAbstracts.has(paper.id) ? (
+                              paper.abstract
+                            ) : (
+                              <>
+                                {paper.abstract.slice(0, 300)}...
+                                <button onClick={() => toggleAbstract(paper.id)} style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.9em', padding: 0, marginLeft: '0.25em' }}>Show more</button>
+                              </>
+                            )
+                          ) : paper.abstract}
+                        </p>
+                        {paper.abstract && paper.abstract.length > 300 && expandedAbstracts.has(paper.id) && (
+                          <button onClick={() => toggleAbstract(paper.id)} style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.9em', padding: 0, marginTop: '0.25em' }}>Show less</button>
+                        )}
+                        <div className="paper-links" style={{ marginTop: '0.75em', display: 'flex', gap: '1rem' }}>
+                          {paper.arxivId && (
+                            <>
+                              <a href={`https://arxiv.org/abs/${paper.arxivId}`} target="_blank" rel="noopener noreferrer" className="paper-link">arXiv Abstract →</a>
+                              <a href={`https://arxiv.org/pdf/${paper.arxivId}`} target="_blank" rel="noopener noreferrer" className="paper-link">PDF ↓</a>
+                            </>
+                          )}
+                        </div>
+                      </article>
+                    ))}
+                  </div>
+                )}
+              </>
+            ) : (
+              <>
+                <h2>All Venues Results ({allResultsTotal})</h2>
+                {allResultsTotal === 0 && !indexLoading && (
+                  <div className="empty-state"><p>No papers found. Try a different search term.</p></div>
+                )}
+                <p style={{ color: 'var(--text-muted)', marginBottom: '1.5rem', fontSize: '0.9em' }}>
+                  Showing top {allResults.length} results from CVPR, ICCV, ECCV and more.
+                </p>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                  {allResults.map((paper) => (
+                    <article key={paper.id} style={{ padding: '1em', borderRadius: '8px', border: '1px solid var(--border)', background: 'var(--bg-white)' }}>
+                      <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', marginBottom: '0.5rem' }}>
+                        <span style={{ padding: '0.2em 0.5em', borderRadius: '4px', background: 'var(--primary)', color: 'white', fontSize: '0.75em', fontWeight: 600 }}>
+                          {VENUE_NAMES[paper.venue] || paper.venue}
+                        </span>
+                        {paper.year && <span style={{ color: 'var(--text-muted)', fontSize: '0.85em' }}>{paper.year}</span>}
+                      </div>
+                      <h3 style={{ fontSize: '1em', marginBottom: '0.5rem' }}>{paper.title}</h3>
+                      <p style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>
+                        {paper.authors?.slice(0, 5).join(', ')}
+                        {paper.authors && paper.authors.length > 5 ? ' et al.' : ''}
+                      </p>
+                    </article>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
+        ) : (
           <>
             {/* Browse Conferences */}
             <section className="section">
@@ -181,86 +329,6 @@ export default function Home() {
               </p>
             </section>
           </>
-        ) : (
-          <div className="search-results">
-            <Link href="/" className="back-link">Back to Home</Link>
-
-            <h2>Search Results ({papers.length})</h2>
-
-            {loading ? (
-              <div className="empty-state">
-                <p>Searching arXiv...</p>
-              </div>
-            ) : papers.length === 0 ? (
-              <div className="empty-state">
-                <p>No papers found. Try a different search term.</p>
-              </div>
-            ) : (
-              <div className="cards-grid">
-                {papers.map((paper) => (
-                  <article key={paper.id} className="paper-card">
-                    <h3>{paper.title}</h3>
-                    <p className="authors">
-                      {paper.authors?.slice(0, 3).join(', ')}
-                      {paper.authors && paper.authors.length > 3 ? ' et al.' : ''}
-                    </p>
-                    <div className="paper-meta">
-                      <span className="paper-tag">arXiv</span>
-                      {paper.year && <span className="paper-tag">{paper.year}</span>}
-                      {paper.category && <span className="paper-tag" style={{ background: 'var(--primary)', color: 'white' }}>{paper.category}</span>}
-                    </div>
-                    <p className="abstract" style={{ marginTop: '0.75em' }}>
-                      {paper.abstract && paper.abstract.length > 300 ? (
-                        expandedAbstracts.has(paper.id) ? (
-                          paper.abstract
-                        ) : (
-                          <>
-                            {paper.abstract.slice(0, 300)}...
-                            <button
-                              onClick={() => toggleAbstract(paper.id)}
-                              style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.9em', padding: 0, marginLeft: '0.25em' }}
-                            >
-                              Show more
-                            </button>
-                          </>
-                        )
-                      ) : paper.abstract}
-                    </p>
-                    {paper.abstract && paper.abstract.length > 300 && expandedAbstracts.has(paper.id) && (
-                      <button
-                        onClick={() => toggleAbstract(paper.id)}
-                        style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.9em', padding: 0, marginTop: '0.25em' }}
-                      >
-                        Show less
-                      </button>
-                    )}
-                    <div className="paper-links" style={{ marginTop: '0.75em', display: 'flex', gap: '1rem' }}>
-                      {paper.arxivId && (
-                        <>
-                          <a
-                            href={`https://arxiv.org/abs/${paper.arxivId}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="paper-link"
-                          >
-                            arXiv Abstract →
-                          </a>
-                          <a
-                            href={`https://arxiv.org/pdf/${paper.arxivId}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="paper-link"
-                          >
-                            PDF ↓
-                          </a>
-                        </>
-                      )}
-                    </div>
-                  </article>
-                ))}
-              </div>
-            )}
-          </div>
         )}
       </div>
     </main>

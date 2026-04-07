@@ -1,0 +1,12 @@
+{
+  "venues": [
+    { "id": "neurips", "name": "NeurIPS", "years": ["2024", "2023"] },
+    { "id": "iclr", "name": "ICLR", "years": ["2025", "2024", "2023"] },
+    { "id": "icml", "name": "ICML", "years": ["2024", "2023"] },
+    { "id": "cvpr", "name": "CVPR", "years": ["2024", "2023"] },
+    { "id": "iccv", "name": "ICCV", "years": ["2023", "2021"] },
+    { "id": "eccv", "name": "ECCV", "years": ["2024", "2022"] },
+    { "id": "arxiv", "name": "arXiv", "category": "cs.AI" }
+  ],
+  "papers": []
+}
