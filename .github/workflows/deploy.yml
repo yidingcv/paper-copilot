@@ -31,6 +31,8 @@ jobs:
         run: yarn install
 
       - name: Build
+        env:
+          NEXT_PUBLIC_GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: yarn build
 
       - name: Upload artifact
