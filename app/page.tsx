@@ -174,8 +174,8 @@ export default function Home() {
     <main>
       {/* Hero */}
       <section className="hero">
-        <h1>Your Academic Research Command Center</h1>
-        <p>Navigate the frontier of AI research across all major venues</p>
+        <h1>Scientific Research Search Engine</h1>
+        <p>Search papers from CVPR, ICCV, NeurIPS and other major venues</p>
         <form className="hero-search" onSubmit={handleSearch}>
           <input
             type="text"
