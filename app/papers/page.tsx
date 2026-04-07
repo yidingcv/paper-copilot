@@ -5,6 +5,9 @@ import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import type { Paper } from '@/lib/types'
 import { useReadingList } from '@/hooks/useReadingList'
+import { AISummary } from '@/components/AISummary'
+import { AIRecommendations } from '@/components/AIRecommendations'
+import { AIChat } from '@/components/AIChat'
 
 function PaperDetailContent() {
   const searchParams = useSearchParams()
@@ -13,17 +16,19 @@ function PaperDetailContent() {
   const paperId = searchParams.get('id') || ''
 
   const [paper, setPaper] = useState<Paper | null>(null)
+  const [allPapers, setAllPapers] = useState<Paper[]>([])
   const [loading, setLoading] = useState(true)
 
   const { isInReadingList, toggleReadingList } = useReadingList()
 
   useEffect(() => {
-    async function loadPaper() {
+    async function loadPapers() {
       if (!venue || !year || !paperId) {
         setLoading(false)
         return
       }
 
+      // Load current paper
       try {
         const res = await fetch(`/papercc/paperlists/${venue}/${venue}${year}.json`)
         if (res.ok) {
@@ -34,10 +39,28 @@ function PaperDetailContent() {
       } catch {
         setPaper(null)
       }
+
+      // Load all papers for recommendations
+      const venues = ['cvpr', 'iccv', 'eccv', 'neurips']
+      const all: Paper[] = []
+      for (const v of venues) {
+        for (const y of ['2020', '2021', '2022', '2023', '2024', '2025']) {
+          try {
+            const r = await fetch(`/papercc/paperlists/${v}/${v}${y}.json`)
+            if (r.ok) {
+              const d = await r.json()
+              all.push(...(d.papers || []))
+            }
+          } catch {
+            // ignore
+          }
+        }
+      }
+      setAllPapers(all)
       setLoading(false)
     }
 
-    loadPaper()
+    loadPapers()
   }, [venue, year, paperId])
 
   if (loading) {
@@ -178,7 +201,12 @@ function PaperDetailContent() {
             )}
           </div>
 
-          <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem' }}>
+          {/* AI Features */}
+          <AISummary abstract={paper.abstract} />
+          <AIRecommendations currentPaper={paper} allPapers={allPapers} />
+          <AIChat paper={paper} />
+
+          <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem', marginTop: '2rem' }}>
             <p style={{ color: 'var(--text-muted)', fontSize: '0.9em' }}>
               Paper ID: {paper.id}
             </p>
