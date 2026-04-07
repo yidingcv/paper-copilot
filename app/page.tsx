@@ -20,10 +20,15 @@ const VENUE_NAMES: Record<string, string> = {
   neurips: 'NeurIPS',
   iclr: 'ICLR',
   icml: 'ICML',
+  iros: 'IROS',
+  icra: 'ICRA',
+  aaai: 'AAAI',
   tpami: 'TPAMI',
   tip: 'TIP',
   tmm: 'TMM',
   ijcv: 'IJCV',
+  tnnls: 'TNNLS',
+  tcsvt: 'TCSVT',
 }
 
 const CONFERENCES = [
@@ -34,6 +39,9 @@ const CONFERENCES = [
   { id: 'cvpr', name: 'CVPR', desc: 'Computer Vision and Pattern Recognition' },
   { id: 'iccv', name: 'ICCV', desc: 'International Conference on Computer Vision' },
   { id: 'eccv', name: 'ECCV', desc: 'European Conference on Computer Vision' },
+  { id: 'iros', name: 'IROS', desc: 'Intelligent Robots and Systems' },
+  { id: 'icra', name: 'ICRA', desc: 'International Conference on Robotics and Automation' },
+  { id: 'aaai', name: 'AAAI', desc: 'Association for the Advancement of Artificial Intelligence' },
 ]
 
 const JOURNALS = [
@@ -41,6 +49,8 @@ const JOURNALS = [
   { id: 'tip', name: 'TIP', desc: 'IEEE Transactions on Image Processing' },
   { id: 'tmm', name: 'TMM', desc: 'IEEE Transactions on Multimedia' },
   { id: 'ijcv', name: 'IJCV', desc: 'International Journal of Computer Vision' },
+  { id: 'tnnls', name: 'TNNLS', desc: 'IEEE Transactions on Neural Networks and Learning Systems' },
+  { id: 'tcsvt', name: 'TCSVT', desc: 'IEEE Transactions on Circuits and Systems for Video Technology' },
 ]
 
 export default function Home() {

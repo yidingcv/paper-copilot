@@ -13,10 +13,15 @@ const VENUE_INFO: Record<string, { name: string; desc: string }> = {
   neurips: { name: 'NeurIPS', desc: 'Neural Information Processing Systems' },
   iclr: { name: 'ICLR', desc: 'International Conference on Learning Representations' },
   icml: { name: 'ICML', desc: 'International Conference on Machine Learning' },
+  iros: { name: 'IROS', desc: 'Intelligent Robots and Systems' },
+  icra: { name: 'ICRA', desc: 'International Conference on Robotics and Automation' },
+  aaai: { name: 'AAAI', desc: 'Association for the Advancement of Artificial Intelligence' },
   tpami: { name: 'TPAMI', desc: 'IEEE Transactions on Pattern Analysis and Machine Intelligence' },
   tip: { name: 'TIP', desc: 'IEEE Transactions on Image Processing' },
   tmm: { name: 'TMM', desc: 'IEEE Transactions on Multimedia' },
   ijcv: { name: 'IJCV', desc: 'International Journal of Computer Vision' },
+  tnnls: { name: 'TNNLS', desc: 'IEEE Transactions on Neural Networks and Learning Systems' },
+  tcsvt: { name: 'TCSVT', desc: 'IEEE Transactions on Circuits and Systems for Video Technology' },
 }
 
 const AVAILABLE_YEARS: Record<string, string[]> = {
@@ -26,7 +31,15 @@ const AVAILABLE_YEARS: Record<string, string[]> = {
   neurips: ['2020', '2021', '2022', '2023', '2024'],
   iclr: ['2020', '2021', '2022'],
   icml: [],
+  iros: ['2020', '2021', '2022', '2023', '2024'],
+  icra: ['2020', '2021', '2022', '2023', '2024'],
+  aaai: ['2020', '2021', '2022', '2023', '2024', '2025'],
   tpami: [],
+  tip: [],
+  tmm: [],
+  ijcv: [],
+  tnnls: [],
+  tcsvt: [],
 }
 
 const PAGE_SIZE_OPTIONS = [20, 50, 100]
