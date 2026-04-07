@@ -17,7 +17,7 @@ export interface AIResponse {
   error?: string
 }
 
-async function callAI(messages: { role: string; content: string }[]): Promise<AIResponse> {
+async function callAI(messages: { role: string; content: string }[], retries = 3): Promise<AIResponse> {
   const API_KEY = getAPIKey()
   if (!API_KEY) {
     return {
@@ -26,31 +26,44 @@ async function callAI(messages: { role: string; content: string }[]): Promise<AI
     }
   }
 
-  try {
-    const response = await fetch(GROQ_API_URL, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${API_KEY}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        model: 'llama-3.1-8b-instant',
-        messages,
-        temperature: 0.3,
-        max_tokens: 500
+  for (let i = 0; i < retries; i++) {
+    try {
+      const response = await fetch(GROQ_API_URL, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${API_KEY}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          model: 'llama-3.1-8b-instant',
+          messages,
+          temperature: 0.3,
+          max_tokens: 500
+        })
       })
-    })
 
-    if (!response.ok) {
-      const errorData = await response.json()
-      return { content: '', error: errorData.error?.message || 'API error' }
+      if (!response.ok) {
+        const errorData = await response.json()
+        const errorMsg = errorData.error?.message || 'API error'
+
+        // Rate limit error - wait and retry
+        if (errorMsg.includes('Rate limit') || errorMsg.includes('rate limit')) {
+          await new Promise(resolve => setTimeout(resolve, 10000)) // Wait 10 seconds
+          continue
+        }
+        return { content: '', error: errorMsg }
+      }
+
+      const data = await response.json()
+      return { content: data.choices[0]?.message?.content || '' }
+    } catch (error) {
+      if (i === retries - 1) {
+        return { content: '', error: 'Network error' }
+      }
+      await new Promise(resolve => setTimeout(resolve, 1000))
     }
-
-    const data = await response.json()
-    return { content: data.choices[0]?.message?.content || '' }
-  } catch (error) {
-    return { content: '', error: 'Network error' }
   }
+  return { content: '', error: 'Max retries reached' }
 }
 
 export async function generateSummary(text: string): Promise<AIResponse> {
