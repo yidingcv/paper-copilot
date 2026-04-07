@@ -33,7 +33,8 @@ function parseCVFPapers(html, year) {
     const authorBlock = match[3];
     const pdfUrl = match[4];
 
-    const authorPattern = /query_author" value="([^"]+)"/g;
+    // CVPR 2020 uses "query" while other years use "query_author"
+    const authorPattern = /(?:query_author|query)" value="([^"]+)"/g;
     const authors = [];
     let authorMatch;
     while ((authorMatch = authorPattern.exec(authorBlock)) !== null) {
@@ -46,8 +47,8 @@ function parseCVFPapers(html, year) {
       authors: authors,
       year: year.toString(),
       venue: 'cvpr',
-      url: `https://openaccess.thecvf.com${detailUrl}`,
-      pdfUrl: `https://openaccess.thecvf.com${pdfUrl}`
+      url: detailUrl.startsWith('/') ? `https://openaccess.thecvf.com${detailUrl}` : `https://openaccess.thecvf.com/${detailUrl}`,
+      pdfUrl: pdfUrl.startsWith('/') ? `https://openaccess.thecvf.com${pdfUrl}` : `https://openaccess.thecvf.com/${pdfUrl}`
     });
   }
 
