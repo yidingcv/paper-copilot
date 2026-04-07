@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import type { Paper } from '@/lib/types'
 import { downloadBibtex } from '@/lib/bibtex'
+import { useReadingList } from '@/hooks/useReadingList'
 
 const VENUE_INFO: Record<string, { name: string; desc: string }> = {
   arxiv: { name: 'arXiv', desc: 'Preprints in cs.AI, cs.LG, cs.CV, cs.CL' },
@@ -83,6 +84,8 @@ export default function VenueClient({ venue }: VenueClientProps) {
       downloadBibtex(papersToExport, `${venue}-papers.bib`)
     }
   }
+
+  const { readingList, toggleReadingList, isInReadingList } = useReadingList()
 
   const venueInfo = VENUE_INFO[venue] || { name: venue, desc: '' }
 
@@ -333,7 +336,33 @@ export default function VenueClient({ venue }: VenueClientProps) {
                       style={{ width: '16px', height: '16px', marginTop: '0.25rem', cursor: 'pointer', flexShrink: 0 }}
                     />
                     <div style={{ flex: 1 }}>
-                      <h3 className="paper-title">{paper.title}</h3>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+                        <Link
+                          href={`/papers?venue=${venue}&year=${paper.year}&id=${paper.id}`}
+                          style={{ flex: 1, textDecoration: 'none' }}
+                        >
+                          <h3 className="paper-title" style={{ cursor: 'pointer' }}>{paper.title}</h3>
+                        </Link>
+                        <button
+                          onClick={() => toggleReadingList({
+                            paperId: paper.id,
+                            venue: venue,
+                            year: paper.year || '',
+                            title: paper.title,
+                          })}
+                          style={{
+                            background: 'none',
+                            border: 'none',
+                            cursor: 'pointer',
+                            fontSize: '1.2em',
+                            padding: '0.2em',
+                            opacity: isInReadingList(paper.id) ? 1 : 0.5,
+                          }}
+                          title={isInReadingList(paper.id) ? 'Remove from reading list' : 'Add to reading list'}
+                        >
+                          {isInReadingList(paper.id) ? '🔖' : '📄'}
+                        </button>
+                      </div>
                   <p className="paper-authors">
                     {paper.authors?.join(', ')}
                   </p>

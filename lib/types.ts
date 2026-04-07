@@ -13,6 +13,9 @@ export interface Paper {
   authors?: string[]
   abstract?: string
   url?: string
+  pdfUrl?: string
+  suppUrl?: string
+  doiUrl?: string
   openReviewUrl?: string
   arxivId?: string
   tags?: string[]

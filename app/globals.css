@@ -3,7 +3,7 @@
 :root {
   --primary: #a17de8;
   --primary-dark: #8b5cf6;
-  --primary-light: #c4b5fd;
+  --primary-light: #4c1d95;
   --bg: #f5f7fa;
   --bg-white: #ffffff;
   --text: #555;
@@ -13,6 +13,21 @@
   --border: #eaeaea;
   --shadow: 0 2px 8px rgba(0,0,0,0.06);
   --shadow-hover: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+[data-theme="dark"] {
+  --primary: #c4b5fd;
+  --primary-dark: #a78bfa;
+  --primary-light: #4c1d95;
+  --bg: #0f172a;
+  --bg-white: #1e293b;
+  --text: #94a3b8;
+  --text-dark: #cbd5e1;
+  --text-darker: #f1f5f9;
+  --text-muted: #64748b;
+  --border: #334155;
+  --shadow: 0 2px 8px rgba(0,0,0,0.3);
+  --shadow-hover: 0 8px 24px rgba(0,0,0,0.4);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
