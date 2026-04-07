@@ -6,21 +6,9 @@ const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions'
 // API key should be stored in api_key.txt (not committed to git)
 // or set via environment variable NEXT_PUBLIC_GROQ_API_KEY
 function getAPIKey(): string {
-  // Try environment variable first
-  if (typeof process !== 'undefined' && process.env && process.env.NEXT_PUBLIC_GROQ_API_KEY) {
-    return process.env.NEXT_PUBLIC_GROQ_API_KEY
-  }
-  // Try reading from api_key.txt
-  try {
-    const fs = require('fs')
-    const path = require('path')
-    const keyFile = path.join(__dirname, '..', 'api_key.txt')
-    if (fs.existsSync(keyFile)) {
-      return fs.readFileSync(keyFile, 'utf8').trim()
-    }
-  } catch {
-    // ignore
-  }
+  // For client-side, use process.env directly
+  const envKey = (typeof process !== 'undefined' && process.env && process.env.NEXT_PUBLIC_GROQ_API_KEY) as string | undefined
+  if (envKey) return envKey
   return ''
 }
 
