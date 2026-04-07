@@ -17,6 +17,7 @@ export interface Paper {
   arxivId?: string
   tags?: string[]
   category?: string
+  type?: 'paper' | 'workshop' | 'challenge'
 }
 
 export interface ConferencesData {
