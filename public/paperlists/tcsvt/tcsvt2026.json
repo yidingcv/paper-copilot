@@ -1,0 +1,4432 @@
+{
+  "papers": [
+    {
+      "id": "Liu_Message_From_Editor_in_Chief_TCSVT_2026_paper",
+      "title": "Message From Editor-in-Chief",
+      "authors": [
+        "Shan Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3630078",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3630078"
+    },
+    {
+      "id": "Liu_Robust_RGB_T_Tracking_via_Multi_Feature_Response_Adaptive_Fu_TCSVT_2026_paper",
+      "title": "Robust RGB-T Tracking via Multi-Feature Response Adaptive Fusion and Dynamic Selection Recovery",
+      "authors": [
+        "Jun Liu",
+        "Wei Ke",
+        "Hao Sheng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595519",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595519"
+    },
+    {
+      "id": "Li_Low_Bitrate_Light_Field_Video_Compression_Through_Key_Sequen_TCSVT_2026_paper",
+      "title": "Low-Bitrate Light Field Video Compression Through Key Sequences Encoding and Joint Reconstruction Network",
+      "authors": [
+        "Huan Li",
+        "Xinpeng Huang",
+        "Yilei Chen",
+        "Chao Yang",
+        "Mounir Kaaniche",
+        "Qiuwen Zhang",
+        "Ping An"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598022",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598022"
+    },
+    {
+      "id": "Shen_Dual_Tensor_Low_Rank_Representation_for_Subspace_Clustering_TCSVT_2026_paper",
+      "title": "Dual Tensor Low-Rank Representation for Subspace Clustering",
+      "authors": [
+        "Qiangqiang Shen",
+        "Hanzhang Wang",
+        "Yin-Ping Zhao",
+        "Yongyong Chen",
+        "Yongsheng Liang",
+        "Xuelong Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3590273",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3590273"
+    },
+    {
+      "id": "Huang_AF_YOLO_Asymptotic_Feature_Extraction_and_Fusion_for_Aerial__TCSVT_2026_paper",
+      "title": "AF-YOLO: Asymptotic Feature Extraction and Fusion for Aerial Object Detection",
+      "authors": [
+        "Lve Huang",
+        "Xiaowei Yu",
+        "Huabiao Yan",
+        "Libo Huang",
+        "Zhulin An",
+        "Yongjun Xu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595740",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595740"
+    },
+    {
+      "id": "Tang_DilatedTAD_Enhancing_Adaptability_to_Actions_of_Varying_Dura_TCSVT_2026_paper",
+      "title": "DilatedTAD: Enhancing Adaptability to Actions of Varying Durations for Temporal Action Detection",
+      "authors": [
+        "Longyang Tang",
+        "Bo Zhang",
+        "Hui Lv",
+        "Rui Xu",
+        "Xudong Tian",
+        "Junsheng Zhou",
+        "Yi Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595931",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595931"
+    },
+    {
+      "id": "Dong_SAFAformer_Scale_Aware_Frequency_Adaptive_Guidance_for_Night_TCSVT_2026_paper",
+      "title": "SAFAformer: Scale-Aware Frequency-Adaptive Guidance for Nighttime Flare Removal",
+      "authors": [
+        "Wei Dong",
+        "Guodong Fan",
+        "Fan Zhang",
+        "Min Gan",
+        "Guang-Yong Chen",
+        "C. L. Philip Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595933",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595933"
+    },
+    {
+      "id": "Li_Phrase_Grounding_Based_Style_Transfer_for_Single_Domain_Gene_TCSVT_2026_paper",
+      "title": "Phrase Grounding-Based Style Transfer for Single-Domain Generalized Object Detection",
+      "authors": [
+        "Hao Li",
+        "Wei Wang",
+        "Cong Wang",
+        "Mengzhu Wang",
+        "Xiang Zhang",
+        "Long Lan",
+        "Xinwang Liu",
+        "Kenli Li",
+        "Xiaochun Cao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596089",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596089"
+    },
+    {
+      "id": "Ke_SFCE_Det_Sub_Feature_Fusion_and_Cross_Layer_Perceptual_Enhan_TCSVT_2026_paper",
+      "title": "SFCE-Det: Sub-Feature Fusion and Cross-Layer Perceptual Enhancement Detector",
+      "authors": [
+        "Xiao Ke",
+        "Wenyao Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596152",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596152"
+    },
+    {
+      "id": "Chen_ConceptCraft_One_Shot_Personalized_Text_to_Image_Generation__TCSVT_2026_paper",
+      "title": "ConceptCraft: One-Shot Personalized Text-to-Image Generation via Object-Background Disentanglement",
+      "authors": [
+        "Haibo Chen",
+        "Zhiwen Zuo",
+        "Lei Zhao",
+        "Jun Li",
+        "Jian Yang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596242",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596242"
+    },
+    {
+      "id": "Xiong_HPRNet_Human_Parsing_Reconstruction_With_Non_Local_Multi_Sca_TCSVT_2026_paper",
+      "title": "HPRNet: Human Parsing Reconstruction With Non-Local Multi-Scale Perception Network for Cloth-Changing Person Re-Identification",
+      "authors": [
+        "Mingfu Xiong",
+        "Longlong Ge",
+        "Ruimin Hu",
+        "Khan Muhammad",
+        "Sambit Bakshi",
+        "Javier Del Ser",
+        "Xiaokang Yang",
+        "Bin Sheng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597210",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597210"
+    },
+    {
+      "id": "Wu_MatchMamba_Correspondence_Pruning_via_Selective_State_Space__TCSVT_2026_paper",
+      "title": "MatchMamba: Correspondence Pruning via Selective State Space Model",
+      "authors": [
+        "Yubin Wu",
+        "Xiaojie Li",
+        "Hao Chen",
+        "Changcai Yang",
+        "Lifang Wei",
+        "Riqing Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597222",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597222"
+    },
+    {
+      "id": "Zhang_CA_YOLO_Cross_Attention_Empowered_YOLO_for_Biomimetic_Locali_TCSVT_2026_paper",
+      "title": "CA-YOLO: Cross Attention Empowered YOLO for Biomimetic Localization",
+      "authors": [
+        "Zhen Zhang",
+        "Qing Zhao",
+        "Xiuhe Li",
+        "Cheng Wang",
+        "Guoqiang Zhu",
+        "Yu Zhang",
+        "Yining Huo",
+        "Hongyi Yu",
+        "Yi Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598306",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598306"
+    },
+    {
+      "id": "Ma_BSDM_Background_Suppression_Diffusion_Model_for_Hyperspectra_TCSVT_2026_paper",
+      "title": "BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection",
+      "authors": [
+        "Jitao Ma",
+        "Weiying Xie",
+        "Ye Shi",
+        "Xueshuang Xiang",
+        "Yunsong Li",
+        "Leyuan Fang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595547",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595547"
+    },
+    {
+      "id": "Zhang_CMAG_Cross_Modal_Attention_and_Graph_Enhanced_Memory_for_Uns_TCSVT_2026_paper",
+      "title": "CMAG: Cross-Modal Attention and Graph-Enhanced Memory for Unsupervised Visible-Infrared Person Re-Identification",
+      "authors": [
+        "Yi-Feng Zhang",
+        "Canlong Zhang",
+        "Junwei Tian",
+        "Haifei Ma",
+        "Zhixin Li",
+        "Zhi-Wen Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595846",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595846"
+    },
+    {
+      "id": "Gao_Oriented_Decoupling_Target_Detection_Method_for_SAR_Image_Ba_TCSVT_2026_paper",
+      "title": "Oriented Decoupling Target Detection Method for SAR Image Based on Multi-Channel Localization and Soft Thresholding",
+      "authors": [
+        "Gui Gao",
+        "Gang Yang",
+        "Yajun Wang",
+        "Libo Yao",
+        "Xi Zhang",
+        "Gaosheng Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597158",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597158"
+    },
+    {
+      "id": "Fu_Adaptive_Mixture_of_Experts_Distillation_for_Cross_Satellite_TCSVT_2026_paper",
+      "title": "Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification",
+      "authors": [
+        "Yimin Fu",
+        "Runqing Yang",
+        "Zhunga Liu",
+        "Michael K. Ng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598274",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598274"
+    },
+    {
+      "id": "Zhao_Spatial_Spectral_Texture_Preserved_Total_Variation_A_Novel_R_TCSVT_2026_paper",
+      "title": "Spatial-Spectral Texture-Preserved Total Variation: A Novel Regularization for Hyperspectral Image Denoising",
+      "authors": [
+        "Jianli Zhao",
+        "Tian-Heng Zhang",
+        "Sheng Fang",
+        "Jian-Feng Gao",
+        "Jin-Yu Wang",
+        "Maoguo Gong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598368",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598368"
+    },
+    {
+      "id": "Zhu_A_Flexible_Zero_Shot_Approach_to_Tone_Mapping_via_Structure__TCSVT_2026_paper",
+      "title": "A Flexible Zero-Shot Approach to Tone Mapping via Structure-Preserving Diffusion Models",
+      "authors": [
+        "Ruoxi Zhu",
+        "Shusong Xu",
+        "Peiye Liu",
+        "Jiaming Liu",
+        "Yanheng Lu",
+        "Dimin Niu",
+        "Hongzhong Zheng",
+        "Yen-Kuang Chen",
+        "Ming-e Jing",
+        "Yibo Fan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600056",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600056"
+    },
+    {
+      "id": "Wang_MambaEVT_Event_Stream_Based_Visual_Object_Tracking_Using_Sta_TCSVT_2026_paper",
+      "title": "MambaEVT: Event Stream-Based Visual Object Tracking Using State Space Model",
+      "authors": [
+        "Xiao Wang",
+        "Chao Wang",
+        "Shiao Wang",
+        "Xixi Wang",
+        "Zhicheng Zhao",
+        "Lin Zhu",
+        "Bo Jiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588533",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588533"
+    },
+    {
+      "id": "Liu_I2EKD_Efficient_and_Versatile_Image_to_Event_Knowledge_Disti_TCSVT_2026_paper",
+      "title": "I2EKD: Efficient and Versatile Image-to-Event Knowledge Distillation",
+      "authors": [
+        "Haotian Liu",
+        "Guo Yu",
+        "Hu Cao",
+        "Sanqing Qu",
+        "Fan Lu",
+        "Yan Zhong",
+        "Zhichao Lu",
+        "Luziwei Leng",
+        "Guang Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3589222",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3589222"
+    },
+    {
+      "id": "Qin_Generalized_Transferable_Attack_Across_Datasets_TCSVT_2026_paper",
+      "title": "Generalized Transferable Attack Across Datasets",
+      "authors": [
+        "Yunxiao Qin",
+        "Yuanhao Xiong",
+        "Jinfeng Yi",
+        "Lihong Cao",
+        "Cho-Jui Hsieh"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597841",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597841"
+    },
+    {
+      "id": "Guo_ClickVOS_Click_Video_Object_Segmentation_TCSVT_2026_paper",
+      "title": "ClickVOS: Click Video Object Segmentation",
+      "authors": [
+        "Pinxue Guo",
+        "Lingyi Hong",
+        "Xinyu Zhou",
+        "Shuyong Gao",
+        "Wanyun Li",
+        "Jinglun Li",
+        "Zhaoyu Chen",
+        "Xiaoqiang Li",
+        "Wei Zhang",
+        "Wenqiang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3599005",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3599005"
+    },
+    {
+      "id": "Liu_HPCTrans_Heterogeneous_Plumage_Cues_Aware_Texton_Correlation_TCSVT_2026_paper",
+      "title": "HPCTrans: Heterogeneous Plumage Cues-Aware Texton Correlation Representation for FBIC via Transformers",
+      "authors": [
+        "Hai Liu",
+        "Shuang Zeng",
+        "Liqian Deng",
+        "Tingting Liu",
+        "Xionghua Liu",
+        "Zhaoli Zhang",
+        "You-Fu Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601504",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601504"
+    },
+    {
+      "id": "Liu_Integrating_Disparity_Confidence_Estimation_Into_Relative_De_TCSVT_2026_paper",
+      "title": "Integrating Disparity Confidence Estimation Into Relative Depth Prior-Guided Unsupervised Stereo Matching",
+      "authors": [
+        "Chuang-Wei Liu",
+        "Mingjian Sun",
+        "Cairong Zhao",
+        "Hanli Wang",
+        "Alexander V. Dvorkovich",
+        "Rui Fan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597128",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597128"
+    },
+    {
+      "id": "Chung_Error_Compensation_Based_Fusion_Algorithm_for_Drone_Image_Co_TCSVT_2026_paper",
+      "title": "Error Compensation-Based Fusion Algorithm for Drone-Image Color Correction",
+      "authors": [
+        "Kuo-Liang Chung",
+        "Te-Wei Hou"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598305",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598305"
+    },
+    {
+      "id": "Liang_Multi_View_Graph_Clustering_via_Dual_View_Cluster_Order_Inte_TCSVT_2026_paper",
+      "title": "Multi-View Graph Clustering via Dual View-Cluster-Order Interactivity Mining",
+      "authors": [
+        "Junjie Liang",
+        "Xia Dong",
+        "Penglei Wang",
+        "Jin Xu",
+        "Danyang Wu",
+        "Feiping Nie"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588394",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588394"
+    },
+    {
+      "id": "Xiao_Mutual_Calibration_Network_for_Multi_View_Clustering_TCSVT_2026_paper",
+      "title": "Mutual Calibration Network for Multi-View Clustering",
+      "authors": [
+        "Yuang Xiao",
+        "Chang Tang",
+        "Xiao Zheng",
+        "Weiqing Yan",
+        "Yuanyuan Liu",
+        "Xinwang Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588889",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588889"
+    },
+    {
+      "id": "Chen_Retinex_RAWMamba_Bridging_Demosaicing_and_Denoising_for_Low__TCSVT_2026_paper",
+      "title": "Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement",
+      "authors": [
+        "Xianmin Chen",
+        "Longfei Han",
+        "Peiliang Huang",
+        "Xiaoxu Feng",
+        "Dingwen Zhang",
+        "Junwei Han"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3589476",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3589476"
+    },
+    {
+      "id": "Zhuang_RC_ROSNet_Fusing_3D_Radar_Range_Angle_Heat_Maps_and_Camera_I_TCSVT_2026_paper",
+      "title": "RC-ROSNet: Fusing 3D Radar Range-Angle Heat Maps and Camera Images for Radar Object Segmentation",
+      "authors": [
+        "Long Zhuang",
+        "Yiqing Yao",
+        "Nuo Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595566",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595566"
+    },
+    {
+      "id": "Wang_Feature_Responsive_LoRA_Toward_Parameter_Efficient_Transfer__TCSVT_2026_paper",
+      "title": "Feature Responsive LoRA: Toward Parameter-Efficient Transfer Learning for Self-Supervised Visual Models",
+      "authors": [
+        "Shanshan Wang",
+        "Xiaozheng Shen",
+        "Xun Yang",
+        "Ke Xu",
+        "Xingyi Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595896",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595896"
+    },
+    {
+      "id": "Zheng_Dynamic_Low_Rank_Tensor_Decomposition_for_Video_Applications_TCSVT_2026_paper",
+      "title": "Dynamic Low-Rank Tensor Decomposition for Video Applications",
+      "authors": [
+        "Wen-Jie Zheng",
+        "Xi-Le Zhao",
+        "Yu-Bang Zheng",
+        "Teng-Yu Ji",
+        "Ben-Zheng Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595950",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595950"
+    },
+    {
+      "id": "Yang_Drim_NeRF_Diffusion_Based_Restoration_for_Improving_Neural_R_TCSVT_2026_paper",
+      "title": "Drim-NeRF: Diffusion-Based Restoration for Improving Neural Radiance Fields",
+      "authors": [
+        "Ganlin Yang",
+        "Kaidong Zhang",
+        "Jingjing Fu",
+        "Dong Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596317",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596317"
+    },
+    {
+      "id": "Zhang_GBR_Generative_Bundle_Refinement_for_High_Fidelity_Gaussian__TCSVT_2026_paper",
+      "title": "GBR: Generative Bundle Refinement for High-Fidelity Gaussian Splatting With Enhanced Mesh Reconstruction",
+      "authors": [
+        "Jianing Zhang",
+        "Yuchao Zheng",
+        "Ziwei Li",
+        "Qionghai Dai",
+        "Xiaoyun Yuan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596613",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596613"
+    },
+    {
+      "id": "Song_RefreshReg_Receptive_Field_Reshaping_and_Multi_Layer_Consist_TCSVT_2026_paper",
+      "title": "RefreshReg: Receptive Field Reshaping and Multi-Layer Consistency Filtering for Point Cloud Registration",
+      "authors": [
+        "Dan Song",
+        "Sizhe Li",
+        "Yue Zhang",
+        "Weizhi Nie",
+        "Chao Xue",
+        "An-An Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597314",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597314"
+    },
+    {
+      "id": "Ma_Depth_Assisted_Network_for_Indiscernible_Marine_Object_Count_TCSVT_2026_paper",
+      "title": "Depth-Assisted Network for Indiscernible Marine Object Counting With Adaptive Motion-Differentiated Feature Encoding",
+      "authors": [
+        "Chengzhi Ma",
+        "Kunqian Li",
+        "Shuaixin Liu",
+        "Han Mei"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597320",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597320"
+    },
+    {
+      "id": "Yu_Reversible_Data_Hiding_in_Shared_Images_Using_Overlapped_Coe_TCSVT_2026_paper",
+      "title": "Reversible Data Hiding in Shared Images Using Overlapped Coefficients in Polynomials",
+      "authors": [
+        "Chunqiang Yu",
+        "Xianquan Zhang",
+        "Ching-Nung Yang",
+        "Xinpeng Zhang",
+        "Zhenjun Tang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595375",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595375"
+    },
+    {
+      "id": "Yang_IPM_Priority_Preserving_Adaptive_Steganography_for_HEVC_TCSVT_2026_paper",
+      "title": "IPM Priority-Preserving Adaptive Steganography for HEVC",
+      "authors": [
+        "Lin Yang",
+        "Dawen Xu",
+        "Jiangbo Qian",
+        "Rangding Wang",
+        "Songhan He"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595535",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595535"
+    },
+    {
+      "id": "Zhu_Future_Fixation_Sequence_Prediction_for_Audio_Visual_360_Vid_TCSVT_2026_paper",
+      "title": "Future Fixation Sequence Prediction for Audio-Visual 360° Videos",
+      "authors": [
+        "Yucheng Zhu",
+        "Guangtao Zhai",
+        "Xiongkuo Min",
+        "Yunhao Li",
+        "Long Teng",
+        "Huiyu Duan",
+        "Liang Yuan",
+        "Xiaokang Yang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3572380",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3572380"
+    },
+    {
+      "id": "Jin_Customizable_ROI_Based_Deep_Image_Compression_TCSVT_2026_paper",
+      "title": "Customizable ROI-Based Deep Image Compression",
+      "authors": [
+        "Jian Jin",
+        "Fanxin Xia",
+        "Feng Ding",
+        "Xinfeng Zhang",
+        "Meiqin Liu",
+        "Yao Zhao",
+        "Weisi Lin",
+        "Lili Meng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3586792",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3586792"
+    },
+    {
+      "id": "Liu_KCI_Net_Knowledge_Based_Contourlet_Inference_Network_for_Sup_TCSVT_2026_paper",
+      "title": "KCI-Net: Knowledge-Based Contourlet Inference Network for Super-Resolution",
+      "authors": [
+        "Mengkun Liu",
+        "Licheng Jiao",
+        "Xu Liu",
+        "Lingling Li",
+        "Fang Liu",
+        "Shuyuan Yang",
+        "Shuang Wang",
+        "Biao Hou"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3590742",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3590742"
+    },
+    {
+      "id": "Peng_COXNet_Cross_Layer_Fusion_With_Adaptive_Alignment_and_Scale__TCSVT_2026_paper",
+      "title": "COXNet: Cross-Layer Fusion With Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection",
+      "authors": [
+        "Peiran Peng",
+        "Tingfa Xu",
+        "Liqiang Song",
+        "Mengqi Zhu",
+        "Yuqiang Fang",
+        "Jianan Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595147",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595147"
+    },
+    {
+      "id": "Huang_Learning_Scene_Invariant_Distribution_for_Generalizable_Blin_TCSVT_2026_paper",
+      "title": "Learning Scene-Invariant Distribution for Generalizable Blind Image Quality Assessment",
+      "authors": [
+        "Yipo Huang",
+        "Zhichao Duan",
+        "Pengfei Chen",
+        "Li Cai",
+        "Leida Li",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595208",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595208"
+    },
+    {
+      "id": "Zhang_VP_JND_Visual_Perception_Assisted_Deep_Picture_Wise_Just_Not_TCSVT_2026_paper",
+      "title": "VP-JND: Visual Perception Assisted Deep Picture-Wise Just Noticeable Difference Prediction Model for Image Compression",
+      "authors": [
+        "Yun Zhang",
+        "Shisheng Zhang",
+        "Na Li",
+        "Chunling Fan",
+        "Raouf Hamzaoui"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595542",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595542"
+    },
+    {
+      "id": "Wang_Weakly_Supervised_Image_Dehazing_via_Physics_Based_Decomposi_TCSVT_2026_paper",
+      "title": "Weakly Supervised Image Dehazing via Physics-Based Decomposition",
+      "authors": [
+        "Nian Wang",
+        "Zhigao Cui",
+        "Yanzhao Su",
+        "Yunwei Lan",
+        "Yuanliang Xue",
+        "Cong Zhang",
+        "Aihua Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596024",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596024"
+    },
+    {
+      "id": "Yang_AMSFusion_An_Adaptive_Multi_Scale_Infrared_and_Visible_Image_TCSVT_2026_paper",
+      "title": "AMSFusion: An Adaptive Multi-Scale Infrared and Visible Image Fusion Network Based on Attention Mechanisms",
+      "authors": [
+        "Qimin Yang",
+        "Kan Ren",
+        "Qian Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596100",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596100"
+    },
+    {
+      "id": "Shi_A_Label_Free_and_Non_Monotonic_Metric_for_Evaluating_Denoisi_TCSVT_2026_paper",
+      "title": "A Label-Free and Non-Monotonic Metric for Evaluating Denoising in Event Cameras",
+      "authors": [
+        "Chenyang Shi",
+        "Shasha Guo",
+        "Boyi Wei",
+        "Hanxiao Liu",
+        "Yibo Zhang",
+        "Ningfang Song",
+        "Jing Jin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598329",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598329"
+    },
+    {
+      "id": "Dao_Gradient_Guided_Diffusion_Based_Restoration_of_Extremely_Com_TCSVT_2026_paper",
+      "title": "Gradient-Guided Diffusion-Based Restoration of Extremely Compressed Backgrounds for Video Coding for Machines",
+      "authors": [
+        "Le Thi Hue Dao",
+        "An Gia Vien",
+        "Jooyoung Lee",
+        "Seyoon Jeong",
+        "Naeun Yang",
+        "Chul Lee"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598710",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598710"
+    },
+    {
+      "id": "Li_Rethinking_Crowd_Localization_Evaluation_via_Optimal_Transpo_TCSVT_2026_paper",
+      "title": "Rethinking Crowd Localization Evaluation via Optimal Transportation Cost",
+      "authors": [
+        "Jun-Xiu Li",
+        "Hong Liu",
+        "Xiao Wu",
+        "Yu-Pei Song",
+        "Zhenhua Zeng",
+        "Shin'ichi Satoh"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3587679",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3587679"
+    },
+    {
+      "id": "Leng_Multi_Modal_Few_Shot_Semantic_Segmentation_Based_on_Triple_A_TCSVT_2026_paper",
+      "title": "Multi-Modal Few-Shot Semantic Segmentation Based on Triple Attention Mechanism and Hierarchical Decoding Transformer",
+      "authors": [
+        "Junsong Leng",
+        "Zeyu Zhao",
+        "Chang Tian",
+        "Zhong Chen",
+        "Guoyou Wang",
+        "Xiaoxuan Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588722",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588722"
+    },
+    {
+      "id": "Liu_Internal_External_Context_Interaction_Network_for_Person_Re__TCSVT_2026_paper",
+      "title": "Internal-External Context Interaction Network for Person Re-Identification",
+      "authors": [
+        "Tongxin Liu",
+        "Xiyu Pang",
+        "Gangwu Jiang",
+        "Xiushan Nie",
+        "Meifeng Zheng",
+        "Yilong Yin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595271",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595271"
+    },
+    {
+      "id": "Song_Unsupervised_Action_Segmentation_via_Multi_Scale_Temporal_In_TCSVT_2026_paper",
+      "title": "Unsupervised Action Segmentation via Multi-Scale Temporal-Interaction Enhancement",
+      "authors": [
+        "Zhiying Song",
+        "Kaixuan Chen",
+        "Pengfei Wang",
+        "Mingli Song",
+        "Nenggan Zheng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596325",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596325"
+    },
+    {
+      "id": "Xiong_Class_Specific_Knowledge_Guided_Multimodal_Prompt_Tuning_for_TCSVT_2026_paper",
+      "title": "Class-Specific Knowledge-Guided Multimodal Prompt Tuning for Few-Shot Class-Incremental Learning",
+      "authors": [
+        "Fangying Xiong",
+        "Zhaoquan Yuan",
+        "Xiao Wu",
+        "Changsheng Xu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597447",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597447"
+    },
+    {
+      "id": "Luo_HDiff_HIR_Hierarchically_Conditional_Diffusion_Model_for_Hyp_TCSVT_2026_paper",
+      "title": "HDiff-HIR: Hierarchically Conditional Diffusion Model for Hyperspectral Image Reconstruction",
+      "authors": [
+        "Fulin Luo",
+        "Xi Chen",
+        "Chuan Fu",
+        "Tan Guo",
+        "Bo Du"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597548",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597548"
+    },
+    {
+      "id": "Wang_OMEGAS_Object_Mesh_Extraction_From_Large_Scenes_Guided_by_Ga_TCSVT_2026_paper",
+      "title": "OMEGAS: Object Mesh Extraction From Large Scenes Guided by Gaussian Segmentation",
+      "authors": [
+        "Lizhi Wang",
+        "Feng Zhou",
+        "Bo Yu",
+        "Pu Cao",
+        "Jianqin Yin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3586755",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3586755"
+    },
+    {
+      "id": "Wang_OCC_Exoskeleton_A_Plug_and_Play_Module_to_Enhance_CNN_Based__TCSVT_2026_paper",
+      "title": "OCC-Exoskeleton: A Plug-and-Play Module to Enhance CNN-Based Occupancy Prediction Networks",
+      "authors": [
+        "Siyuan Wang",
+        "Yuejie Lu",
+        "Qiang Ling"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595582",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595582"
+    },
+    {
+      "id": "Yang_StarPose_3D_Human_Pose_Estimation_via_Spatial_Temporal_Autor_TCSVT_2026_paper",
+      "title": "StarPose: 3D Human Pose Estimation via Spatial-Temporal Autoregressive Diffusion",
+      "authors": [
+        "Haoxin Yang",
+        "Weihong Chen",
+        "Xuemiao Xu",
+        "Cheng Xu",
+        "Peng Xiao",
+        "Cuifeng Sun",
+        "Shaoyu Huang",
+        "Shengfeng He"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595900",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595900"
+    },
+    {
+      "id": "Zhang_Open_World_Point_Cloud_Semantic_Segmentation_A_Human_in_the__TCSVT_2026_paper",
+      "title": "Open-World Point Cloud Semantic Segmentation: A Human-in-the-Loop Framework",
+      "authors": [
+        "Peng Zhang",
+        "Songru Yang",
+        "Jinsheng Sun",
+        "Weiqing Li",
+        "Zhiyong Su"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596238",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596238"
+    },
+    {
+      "id": "Xu_TiGDistill_BEV_Multi_View_BEV_3D_Object_Detection_via_Target_TCSVT_2026_paper",
+      "title": "TiGDistill-BEV: Multi-View BEV 3D Object Detection via Target Inner-Geometry Learning Distillation",
+      "authors": [
+        "Shaoqing Xu",
+        "Fang Li",
+        "Peixiang Huang",
+        "Ziying Song",
+        "Zhi-Xin Yang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596322",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596322"
+    },
+    {
+      "id": "Gan_HandJoKe_Joint_Guided_Keypoint_Denoising_Transformer_for_Dep_TCSVT_2026_paper",
+      "title": "HandJoKe: Joint-Guided Keypoint Denoising Transformer for Depth-Based 3D Hand Pose Estimation",
+      "authors": [
+        "Ji Gan",
+        "Lei Chen",
+        "Ping Hu",
+        "Jiaxu Leng",
+        "Weisheng Li",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597981",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597981"
+    },
+    {
+      "id": "Ge_Boundary_Aware_Consistent_Normal_Orientation_for_Point_Cloud_TCSVT_2026_paper",
+      "title": "Boundary-Aware Consistent Normal Orientation for Point Clouds",
+      "authors": [
+        "Linlin Ge",
+        "Tianyu Song",
+        "Lei Wang",
+        "Jieqing Feng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598807",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598807"
+    },
+    {
+      "id": "Gan_XHand_Real_Time_Expressive_Hand_Avatar_TCSVT_2026_paper",
+      "title": "XHand: Real-Time Expressive Hand Avatar",
+      "authors": [
+        "Qijun Gan",
+        "Zijie Zhou",
+        "Jianke Zhu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601434",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601434"
+    },
+    {
+      "id": "Wang_AEA_FIRM_Adaptive_Elastic_Alignment_With_Fine_Grained_Repres_TCSVT_2026_paper",
+      "title": "AEA-FIRM: Adaptive Elastic Alignment With Fine-Grained Representation Mining for Text-Based Aerial Pedestrian Retrieval",
+      "authors": [
+        "Yihao Wang",
+        "Meng Yang",
+        "Rui Cao",
+        "Guangwei Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3586601",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3586601"
+    },
+    {
+      "id": "He_NavComposer_Composing_Language_Instructions_for_Navigation_T_TCSVT_2026_paper",
+      "title": "NavComposer: Composing Language Instructions for Navigation Trajectories Through Action-Scene-Object Modularization",
+      "authors": [
+        "Zongtao He",
+        "Liuyi Wang",
+        "Lu Chen",
+        "Chengju Liu",
+        "Qijun Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596386",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596386"
+    },
+    {
+      "id": "Tong_Can_Vision_Feel_Touch_Tactile_Aware_Visual_Grasping_for_Tran_TCSVT_2026_paper",
+      "title": "Can Vision Feel Touch? Tactile-Aware Visual Grasping for Transparent Objects",
+      "authors": [
+        "Ling Tong",
+        "Kun Qian",
+        "Zhaokun Yue",
+        "Shan Luo"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598373",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598373"
+    },
+    {
+      "id": "Ge_Adaptation_Follow_Human_Attention_Gaze_Assisted_Medical_Segm_TCSVT_2026_paper",
+      "title": "Adaptation Follow Human Attention: Gaze-Assisted Medical Segment Anything Model",
+      "authors": [
+        "Rongjun Ge",
+        "Ruiyi Li",
+        "Chong Wang",
+        "Yuxin Liu",
+        "Heng Zhu",
+        "Jean-Louis Coatrieux",
+        "Daoqiang Zhang",
+        "Jian Lu",
+        "Yang Chen",
+        "Shuo Li",
+        "Yuting He"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588671",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588671"
+    },
+    {
+      "id": "Wan_Out_of_Distribution_Semantic_Segmentation_With_Disentangled__TCSVT_2026_paper",
+      "title": "Out-of-Distribution Semantic Segmentation With Disentangled and Calibrated Representation",
+      "authors": [
+        "Maoxian Wan",
+        "Kaige Li",
+        "Qichuan Geng",
+        "Binyi Su",
+        "Zhong Zhou"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597071",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597071"
+    },
+    {
+      "id": "Alawode_Unsupervised_Background_Subtraction_Using_Generator_Discrimi_TCSVT_2026_paper",
+      "title": "Unsupervised Background Subtraction Using Generator-Discriminator Learning",
+      "authors": [
+        "Basit Alawode",
+        "Sajid Javed"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598078",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598078"
+    },
+    {
+      "id": "Shao_Dependability_Feature_Learning_Based_on_Sample_Generation_fo_TCSVT_2026_paper",
+      "title": "Dependability Feature Learning Based on Sample Generation for Unsupervised Text-to-Image Person Re-Identification",
+      "authors": [
+        "Chenglong Shao",
+        "Tongzhen Si",
+        "Xiaohui Yang",
+        "Hui Yuan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600759",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600759"
+    },
+    {
+      "id": "Tan_HyperTrack_A_Unified_Network_for_Hyperspectral_Video_Object__TCSVT_2026_paper",
+      "title": "HyperTrack: A Unified Network for Hyperspectral Video Object Tracking",
+      "authors": [
+        "Yuedong Tan",
+        "Wenfang Sun",
+        "Jingyuan Li",
+        "Shuwei Hou",
+        "Xiaobo Li",
+        "Zhe Wang",
+        "Beibei Song"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600907",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600907"
+    },
+    {
+      "id": "Xue_USVTrack_A_Benchmark_for_Multi_Object_Tracking_in_Complex_Wa_TCSVT_2026_paper",
+      "title": "USVTrack: A Benchmark for Multi-Object Tracking in Complex Water Surface Scenes",
+      "authors": [
+        "Bin Xue",
+        "Yuwei Cheng",
+        "Kun Ding",
+        "Chunhong Pan",
+        "Shiming Xiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595760",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595760"
+    },
+    {
+      "id": "Wang_HAhb_KG_Hierarchical_Augmented_Knowledge_Graph_for_Human_Beh_TCSVT_2026_paper",
+      "title": "HAhb-KG: Hierarchical Augmented Knowledge Graph for Human Behavior Assisting Cross-Modal Learning Action Detection",
+      "authors": [
+        "Xiaochen Wang",
+        "Dehui Kong",
+        "Jinghua Li",
+        "Jing Wang",
+        "Baocai Yin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595145",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595145"
+    },
+    {
+      "id": "Li_Hierarchical_Topology_Meets_Temporal_Occupancy_A_Comprehensi_TCSVT_2026_paper",
+      "title": "Hierarchical Topology Meets Temporal Occupancy: A Comprehensive Model for Multi-Person Pose Tracking",
+      "authors": [
+        "Muyu Li",
+        "Henan Hu",
+        "Yingfeng Wang",
+        "Sen Qiu",
+        "Xudong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595104",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595104"
+    },
+    {
+      "id": "Zhu_Fine_Detailed_Facial_Sketch_to_Photo_Synthesis_With_Detail_E_TCSVT_2026_paper",
+      "title": "Fine-Detailed Facial Sketch-to-Photo Synthesis With Detail-Enhanced Codebook Priors",
+      "authors": [
+        "Mingrui Zhu",
+        "Jianhang Chen",
+        "Xin Wei",
+        "Nannan Wang",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598016",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598016"
+    },
+    {
+      "id": "Yin_Generative_Human_Video_Compression_With_Multi_Granularity_Te_TCSVT_2026_paper",
+      "title": "Generative Human Video Compression With Multi-Granularity Temporal Trajectory Factorization",
+      "authors": [
+        "Shanzhi Yin",
+        "Bolin Chen",
+        "Shiqi Wang",
+        "Yan Ye"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596815",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596815"
+    },
+    {
+      "id": "Sheng_DRFC_An_End_to_End_Deep_Dynamic_RF_Signal_Compression_Framew_TCSVT_2026_paper",
+      "title": "DRFC: An End-to-End Deep Dynamic RF Signal Compression Framework",
+      "authors": [
+        "Xihua Sheng",
+        "Peilin Chen",
+        "Shiqi Wang",
+        "Dapeng Oliver Wu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596840",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596840"
+    },
+    {
+      "id": "Zhao_Spatial_Temporal_Correlation_Information_Based_Rate_Control__TCSVT_2026_paper",
+      "title": "Spatial-Temporal Correlation Information-Based Rate Control for Versatile Video Coding",
+      "authors": [
+        "Zeming Zhao",
+        "Xiaohai He",
+        "Shuhua Xiong",
+        "Meng Wang",
+        "Shiqi Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595555",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595555"
+    },
+    {
+      "id": "Wei_Hyperspectral_Image_Compression_With_Spectral_Spatial_Coupli_TCSVT_2026_paper",
+      "title": "Hyperspectral Image Compression With Spectral-Spatial Coupling and Group-Wise Context Modeling",
+      "authors": [
+        "Wei Wei",
+        "Chenxu Zhao",
+        "Shuyi Zhao",
+        "Lei Zhang",
+        "Yanning Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596061",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596061"
+    },
+    {
+      "id": "Li_Point_Cloud_Attribute_Compression_With_Geometry_Aware_Liftin_TCSVT_2026_paper",
+      "title": "Point Cloud Attribute Compression With Geometry-Aware Lifting-Based Multiscale Networks",
+      "authors": [
+        "Xin Li",
+        "Shaohui Li",
+        "Wenrui Dai",
+        "Han Li",
+        "Nuowen Kan",
+        "Chenglin Li",
+        "Junni Zou",
+        "Hongkai Xiong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597448",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597448"
+    },
+    {
+      "id": "Xing_Mining_Temporal_Priors_for_Template_Generated_Video_Compress_TCSVT_2026_paper",
+      "title": "Mining Temporal Priors for Template-Generated Video Compression",
+      "authors": [
+        "Feng Xing",
+        "Yingwen Zhang",
+        "Meng Wang",
+        "Hengyu Man",
+        "Yongbing Zhang",
+        "Shiqi Wang",
+        "Xiaopeng Fan",
+        "Wen Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3599239",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3599239"
+    },
+    {
+      "id": "Chen_Pixel_Level_Just_Noticeable_Difference_in_Sonar_Images_Model_TCSVT_2026_paper",
+      "title": "Pixel-Level Just Noticeable Difference in Sonar Images: Modeling and Applications",
+      "authors": [
+        "Weiling Chen",
+        "Weiming Lin",
+        "Qianxue Feng",
+        "Rongxin Zhang",
+        "Tiesong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596153",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596153"
+    },
+    {
+      "id": "Kan_MERINA_Improving_Generalization_for_Neural_Video_Adaptation__TCSVT_2026_paper",
+      "title": "MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning",
+      "authors": [
+        "Nuowen Kan",
+        "Chenglin Li",
+        "Yuankun Jiang",
+        "Wenrui Dai",
+        "Junni Zou",
+        "Hongkai Xiong",
+        "Laura Toni"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596636",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596636"
+    },
+    {
+      "id": "Gao_Generalized_Visual_Relation_Detection_With_Diffusion_Models_TCSVT_2026_paper",
+      "title": "Generalized Visual Relation Detection With Diffusion Models",
+      "authors": [
+        "Kaifeng Gao",
+        "Siqi Chen",
+        "Hanwang Zhang",
+        "Jun Xiao",
+        "Yueting Zhuang",
+        "Qianru Sun"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588357",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588357"
+    },
+    {
+      "id": "Li_A_Comprehensive_Survey_on_Video_Summarization_Challenges_and_TCSVT_2026_paper",
+      "title": "A Comprehensive Survey on Video Summarization: Challenges and Advances",
+      "authors": [
+        "Hongxi Li",
+        "Yubo Zhu",
+        "Zirui Shang",
+        "Ziyi Wang",
+        "Xinxiao Wu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596006",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596006"
+    },
+    {
+      "id": "Wang_VisualRAG_Knowledge_Guided_Retrieval_Augmentation_for_Image__TCSVT_2026_paper",
+      "title": "VisualRAG: Knowledge-Guided Retrieval Augmentation for Image-Text Matching",
+      "authors": [
+        "Hengchang Wang",
+        "Li Liu",
+        "Huaxiang Zhang",
+        "Lei Zhu",
+        "Xiaojun Chang",
+        "Hao Du"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597097",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597097"
+    },
+    {
+      "id": "Dai_Multi_Task_Learning_Network_for_Medical_Image_Analysis_Guide_TCSVT_2026_paper",
+      "title": "Multi-Task Learning Network for Medical Image Analysis Guided by Lesion Regions and Spatial Relationships of Tissues",
+      "authors": [
+        "Guowei Dai",
+        "Duwei Dai",
+        "Chaoyu Wang",
+        "Qingfeng Tang",
+        "Matthew Hamilton",
+        "Hu Chen",
+        "Yi Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596803",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596803"
+    },
+    {
+      "id": "Gao_Sparse_Hyperspectral_Band_Selection_Based_on_Expectation_Max_TCSVT_2026_paper",
+      "title": "Sparse Hyperspectral Band Selection Based on Expectation Maximization",
+      "authors": [
+        "Likun Gao",
+        "Xinhui Xue",
+        "Haowen Zheng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597604",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597604"
+    },
+    {
+      "id": "Zheng_Generalized_Document_Tampering_Localization_via_Color_and_Se_TCSVT_2026_paper",
+      "title": "Generalized Document Tampering Localization via Color and Semantic Disentanglement",
+      "authors": [
+        "Shiqiang Zheng",
+        "Changsheng Chen",
+        "Shen Chen",
+        "Taiping Yao",
+        "Shouhong Ding",
+        "Bin Li",
+        "Jiwu Huang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3597602",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3597602"
+    },
+    {
+      "id": "Yang_An_End_to_End_Framework_for_Joint_Makeup_Style_Transfer_and__TCSVT_2026_paper",
+      "title": "An End-to-End Framework for Joint Makeup Style Transfer and Image Steganography",
+      "authors": [
+        "Meihong Yang",
+        "Ziyi Feng",
+        "Bin Ma",
+        "Jian Xu",
+        "Yongjin Xian",
+        "Linna Zhou"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3599551",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3599551"
+    },
+    {
+      "id": "Liu_Domain_Consistency_Representation_Learning_for_Lifelong_Pers_TCSVT_2026_paper",
+      "title": "Domain Consistency Representation Learning for Lifelong Person Re-Identification",
+      "authors": [
+        "Shiben Liu",
+        "Huijie Fan",
+        "Qiang Wang",
+        "Weihong Ren",
+        "Yandong Tang",
+        "Yang Cong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595620",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595620"
+    },
+    {
+      "id": "Xue_Feature_Fusion_and_Enhancement_for_Lightweight_Visible_Therm_TCSVT_2026_paper",
+      "title": "Feature Fusion and Enhancement for Lightweight Visible-Thermal Infrared Tracking via Multiple Adapters",
+      "authors": [
+        "Hu Xue",
+        "Hao Zhu",
+        "Zhidan Ran",
+        "Xianlun Tang",
+        "Guanqiu Qi",
+        "Zhiqin Zhu",
+        "Sin-Chi Kuok",
+        "Henry Leung"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3595632",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3595632"
+    },
+    {
+      "id": "Chen_Vision_Semantics_Label_A_New_Two_Step_Paradigm_for_Action_Re_TCSVT_2026_paper",
+      "title": "Vision-Semantics-Label: A New Two-Step Paradigm for Action Recognition With Large Language Model",
+      "authors": [
+        "Xiaoyu Chen",
+        "Wanru Xu",
+        "Shichao Kan",
+        "Linna Zhang",
+        "Yi Jin",
+        "Yigang Cen",
+        "Yidong Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3548845",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3548845"
+    },
+    {
+      "id": "Liu_Toward_General_Purpose_Video_Reconstruction_Through_Synergy__TCSVT_2026_paper",
+      "title": "Toward General-Purpose Video Reconstruction Through Synergy of Grid-Splicing Diffusion and Large Language Models",
+      "authors": [
+        "Jinliang Liu",
+        "Jianwei Zhang",
+        "Sen Yang",
+        "Jinxi Xiang",
+        "Xiyue Wang",
+        "Jieqiong Zhao",
+        "Zongxin Yang",
+        "Junhan Zhao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3545795",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3545795"
+    },
+    {
+      "id": "Liu_M2IST_Multi_Modal_Interactive_Side_Tuning_for_Efficient_Refe_TCSVT_2026_paper",
+      "title": "M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension",
+      "authors": [
+        "Xuyang Liu",
+        "Ting Liu",
+        "Siteng Huang",
+        "Yi Xin",
+        "Yue Hu",
+        "Long Qin",
+        "Donglin Wang",
+        "Yuanyuan Wu",
+        "Honggang Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3551766",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3551766"
+    },
+    {
+      "id": "Tang_Video_Understanding_With_Large_Language_Models_A_Survey_TCSVT_2026_paper",
+      "title": "Video Understanding With Large Language Models: A Survey",
+      "authors": [
+        "Yunlong Tang",
+        "Jing Bi",
+        "Siting Xu",
+        "Luchuan Song",
+        "Susan Liang",
+        "Teng Wang",
+        "Daoan Zhang",
+        "Jie An",
+        "Jingyang Lin",
+        "Rongyi Zhu",
+        "Ali Vosoughi",
+        "Chao Huang",
+        "Zeliang Zhang",
+        "Pinxin Liu",
+        "Mingqian Feng",
+        "Feng Zheng",
+        "Jianguo Zhang",
+        "Ping Luo",
+        "Jiebo Luo",
+        "Chenliang Xu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3566695",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3566695"
+    },
+    {
+      "id": "Chen_Foreign_Object_Detection_Method_for_Railway_Catenary_Based_o_TCSVT_2026_paper",
+      "title": "Foreign Object Detection Method for Railway Catenary Based on a Scarce Image Generation Model and Lightweight Perception Architecture",
+      "authors": [
+        "Zhichao Chen",
+        "Jie Yang",
+        "Fan Li",
+        "Zhicheng Feng",
+        "Lifang Chen",
+        "Limin Jia",
+        "Pan Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3567319",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3567319"
+    },
+    {
+      "id": "Wang_DiViCo_Disentangled_Visual_Token_Compression_for_Efficient_L_TCSVT_2026_paper",
+      "title": "DiViCo: Disentangled Visual Token Compression for Efficient Large Vision-Language Model",
+      "authors": [
+        "Xin Wang",
+        "Zirui Pan",
+        "Hong Chen",
+        "Wenwu Zhu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3567138",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3567138"
+    },
+    {
+      "id": "Li_Efficient_Pre_Trained_Semantics_Refinement_for_Video_Tempora_TCSVT_2026_paper",
+      "title": "Efficient Pre-Trained Semantics Refinement for Video Temporal Grounding",
+      "authors": [
+        "Ao Li",
+        "Huijun Liu",
+        "Yiqing Zhu",
+        "Yongxin Ge"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3572567",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3572567"
+    },
+    {
+      "id": "Korkmaz_Leveraging_Vision_Language_Models_to_Select_Trustworthy_Supe_TCSVT_2026_paper",
+      "title": "Leveraging Vision-Language Models to Select Trustworthy Super-Resolution Samples Generated by Diffusion Models",
+      "authors": [
+        "Cansu Korkmaz",
+        "A. Murat Tekalp",
+        "Zafer Dogan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3585092",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3585092"
+    },
+    {
+      "id": "Wang_Audio_Visual_LLM_for_Augmenting_Accessibility_of_360_Video_TCSVT_2026_paper",
+      "title": "Audio-Visual LLM for Augmenting Accessibility of 360° Video",
+      "authors": [
+        "Yujia Wang",
+        "Qingyun Deng",
+        "Wei Liang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3588530",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3588530"
+    },
+    {
+      "id": "Wang_MMGT_Motion_Mask_Guided_Two_Stage_Network_for_Co_Speech_Gest_TCSVT_2026_paper",
+      "title": "MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation",
+      "authors": [
+        "Siyuan Wang",
+        "Jiawei Liu",
+        "Wei Wang",
+        "Yeying Jin",
+        "Jinsong Du",
+        "Zhi Han"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3604109",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3604109"
+    },
+    {
+      "id": "Fan_Beijing_Institute_of_TechnologyCMANet_A_TCN_RMamba_Attention_TCSVT_2026_paper",
+      "title": "Beijing Institute of TechnologyCMANet: A TCN-RMamba-Attention Network for Surgical Phase Online Recognition",
+      "authors": [
+        "Wenpei Fan",
+        "Yaonan Wang",
+        "Licheng Liu",
+        "Jiayi Zeng",
+        "Min Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3599391",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3599391"
+    },
+    {
+      "id": "Wang_NSBRNet_Non_Local_Spatio_Temporal_Bidirectional_Recurrent_Ne_TCSVT_2026_paper",
+      "title": "NSBRNet: Non-Local Spatio-Temporal Bidirectional Recurrent Network for Satellite Video Super-Resolution",
+      "authors": [
+        "Yu Wang",
+        "Zhenfeng Shao",
+        "Xiaolong Zuo",
+        "Tao Lu",
+        "Jiaming Wang",
+        "Yuankun Wang",
+        "Siyuan Wang",
+        "Zhizheng Zhang",
+        "Xiaojin Zhao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600910",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600910"
+    },
+    {
+      "id": "Zhang_LoME_LoRA_Driven_Multimodal_Extractor_for_RGB_X_Vision_Tasks_TCSVT_2026_paper",
+      "title": "LoME: LoRA-Driven Multimodal Extractor for RGB-X Vision Tasks",
+      "authors": [
+        "Yusi Zhang",
+        "Weiying Xie",
+        "Tianlin Hui",
+        "Daixun Li",
+        "Jiaqing Zhang",
+        "Jie Lei",
+        "Yunsong Li",
+        "Leyuan Fang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601340",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601340"
+    },
+    {
+      "id": "Ying_Diff_Transformer_Heterogeneous_Feature_Fusion_Network_for_Mu_TCSVT_2026_paper",
+      "title": "Diff-Transformer: Heterogeneous Feature Fusion Network for Multisource Remote Sensing Classification",
+      "authors": [
+        "Zhihao Ying",
+        "Jie Guo",
+        "Yunsong Li",
+        "Yu'e Gao",
+        "Chenyu Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601830",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601830"
+    },
+    {
+      "id": "Sun_CGSI_Context_Guided_and_UAV_s_Status_Informed_Multimodal_Fra_TCSVT_2026_paper",
+      "title": "CGSI: Context-Guided and UAV's Status Informed Multimodal Framework for Generalizable Cross-View Geo-Localization",
+      "authors": [
+        "Jian Sun",
+        "Junlang Huang",
+        "Xinyu Jiang",
+        "Yimin Zhou",
+        "Chi-Man Vong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3604002",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3604002"
+    },
+    {
+      "id": "Zhang_Decoupling_and_Aggregating_Dual_Layer_Light_Field_Depth_Esti_TCSVT_2026_paper",
+      "title": "Decoupling and Aggregating: Dual-Layer Light Field Depth Estimation With Reflective and Transparent Surfaces",
+      "authors": [
+        "Shuo Zhang",
+        "Yanlin Xie",
+        "Jiaxin Chen",
+        "Youfang Lin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3604451",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3604451"
+    },
+    {
+      "id": "Liu_Learning_Implicit_and_Detail_Enhanced_Network_for_Light_Fiel_TCSVT_2026_paper",
+      "title": "Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution",
+      "authors": [
+        "Deyang Liu",
+        "Shizheng Li",
+        "Yifan Mao",
+        "Xiaofei Zhou",
+        "Zeyu Xiao",
+        "Caifeng Shan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612939",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612939"
+    },
+    {
+      "id": "Liu_DDIP_Mutual_Regularized_Dual_Deep_Image_Prior_for_Self_Super_TCSVT_2026_paper",
+      "title": "DDIP: Mutual-Regularized Dual Deep Image Prior for Self-Supervised Compressive Spectral Imaging",
+      "authors": [
+        "Lizhu Liu",
+        "Yaonan Wang",
+        "Yurong Chen",
+        "Hui Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3598407",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3598407"
+    },
+    {
+      "id": "Kou_Tail_Aware_Reconstruction_of_Incomplete_Label_Distributions__TCSVT_2026_paper",
+      "title": "Tail-Aware Reconstruction of Incomplete Label Distributions With Low-Rank and Sparse Modeling",
+      "authors": [
+        "Zhiqiang Kou",
+        "Haoyuan Xuan",
+        "Jingyu Zhu",
+        "Hailin Wang",
+        "Ming-Kun Xie",
+        "Changwei Wang",
+        "Jing Wang",
+        "Yuheng Jia",
+        "Xin Geng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600067",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600067"
+    },
+    {
+      "id": "Zhou_Controllable_Relation_Disentanglement_for_Few_Shot_Class_Inc_TCSVT_2026_paper",
+      "title": "Controllable Relation Disentanglement for Few-Shot Class-Incremental Learning",
+      "authors": [
+        "Yuan Zhou",
+        "Richang Hong",
+        "Yanrong Guo",
+        "Lin Liu",
+        "Shijie Hao",
+        "Hanwang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600113",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600113"
+    },
+    {
+      "id": "Song_Prior_Distribution_Guided_Gaussian_Mixture_Variational_Autoe_TCSVT_2026_paper",
+      "title": "Prior Distribution Guided Gaussian Mixture Variational Autoencoder (PDGM-VAE) for Image Generation",
+      "authors": [
+        "Jingqi Song",
+        "Zhiqiang He",
+        "Yipeng Ning",
+        "Xiaoming Xi",
+        "Jie Guo",
+        "Guanzhong Chen",
+        "Xiushan Nie",
+        "Lishan Qiao",
+        "Yilong Yin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600919",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600919"
+    },
+    {
+      "id": "Zhou_Non_Local_Guided_Neural_Fields_for_4D_CT_Reconstruction_TCSVT_2026_paper",
+      "title": "Non-Local Guided Neural Fields for 4D CT Reconstruction",
+      "authors": [
+        "Qingyang Zhou",
+        "Yunfan Ye",
+        "Zhihuang Liu",
+        "Chang Liu",
+        "Zhiping Cai"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600922",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600922"
+    },
+    {
+      "id": "Tian_Progressive_Curriculum_Learning_With_Teacher_Student_Collabo_TCSVT_2026_paper",
+      "title": "Progressive Curriculum Learning With Teacher-Student Collaboration for Source-Free Unsupervised Domain Adaptation",
+      "authors": [
+        "Qing Tian",
+        "Junyu Shen",
+        "Lulu Kang",
+        "Weihua Ou",
+        "Jun Wan",
+        "Zhen Lei"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601438",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601438"
+    },
+    {
+      "id": "Dong_A_Two_Stage_Method_With_Lightweight_Network_and_Active_Conto_TCSVT_2026_paper",
+      "title": "A Two-Stage Method With Lightweight Network and Active Contour Model for Remote Sensing Image Segmentation",
+      "authors": [
+        "Bin Dong",
+        "Zicong Zhu",
+        "Qianqian Bu",
+        "Mengya Wu",
+        "Jingen Ni"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601688",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601688"
+    },
+    {
+      "id": "Xue_FMTrack_Frequency_Aware_Interaction_and_Multi_Expert_Fusion__TCSVT_2026_paper",
+      "title": "FMTrack: Frequency-Aware Interaction and Multi-Expert Fusion for RGB-T Tracking",
+      "authors": [
+        "Yuanliang Xue",
+        "Guodong Jin",
+        "Bineng Zhong",
+        "Tao Shen",
+        "Lining Tan",
+        "Chaocan Xue",
+        "Yaozong Zheng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601598",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601598"
+    },
+    {
+      "id": "Zhang_CDGR_Cross_Modal_Dual_Graph_Reasoning_for_Weakly_Supervised__TCSVT_2026_paper",
+      "title": "CDGR: Cross-Modal Dual Graph Reasoning for Weakly Supervised Semantic Segmentation",
+      "authors": [
+        "Jia Zhang",
+        "Bo Peng",
+        "Xi Wu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602416",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602416"
+    },
+    {
+      "id": "Wang_UAR_NVC_A_Unified_Autoregressive_Framework_for_Memory_Effici_TCSVT_2026_paper",
+      "title": "UAR-NVC: A Unified Autoregressive Framework for Memory-Efficient Neural Video Compression",
+      "authors": [
+        "Jia Wang",
+        "Xinfeng Zhang",
+        "Gai Zhang",
+        "Jun Zhu",
+        "Lv Tang",
+        "Li Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603282",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603282"
+    },
+    {
+      "id": "Zhang_FPGP_Increasing_Robustness_of_Flow_Based_Watermarking_to_Unk_TCSVT_2026_paper",
+      "title": "FPGP: Increasing Robustness of Flow-Based Watermarking to Unknown Noise Through Feature Preservation and Gradient Perturbation",
+      "authors": [
+        "Xiaorui Zhang",
+        "Rui Jiang",
+        "Wei Sun",
+        "Sunil Kr. Jha"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603195",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603195"
+    },
+    {
+      "id": "Liu_Visible_Infrared_Camouflaged_Object_Detection_TCSVT_2026_paper",
+      "title": "Visible-Infrared Camouflaged Object Detection",
+      "authors": [
+        "Cheng Liu",
+        "Zheng Wang",
+        "Xinyu Yan",
+        "Meijun Sun",
+        "Qinghua Hu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3608933",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3608933"
+    },
+    {
+      "id": "Zhang_Unsupervised_Untrained_and_Robust_Single_Image_Superpixel_Se_TCSVT_2026_paper",
+      "title": "Unsupervised, Untrained, and Robust Single Image Superpixel Segmentation Network",
+      "authors": [
+        "Yongxia Zhang",
+        "Qiang Guo",
+        "Caiming Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609336",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609336"
+    },
+    {
+      "id": "Yang_DAOcc_3D_Object_Detection_Assisted_Multi_Sensor_Fusion_for_3_TCSVT_2026_paper",
+      "title": "DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction",
+      "authors": [
+        "Zhen Yang",
+        "Yanpeng Dong",
+        "Jiayu Wang",
+        "Heng Wang",
+        "Lichao Ma",
+        "Zijian Cui",
+        "Qi Liu",
+        "Haoran Pei",
+        "Kexin Zhang",
+        "Chao Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3610634",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3610634"
+    },
+    {
+      "id": "Liang_APSam_An_Aggregating_Then_Pruning_Sampler_for_Question_Condi_TCSVT_2026_paper",
+      "title": "APSam: An Aggregating-Then-Pruning Sampler for Question-Conditional Denoising",
+      "authors": [
+        "Jiafeng Liang",
+        "Shixin Jiang",
+        "Wei Tang",
+        "Ning Wang",
+        "Zekun Wang",
+        "Xun Mao",
+        "Kai Lv",
+        "Ming Liu",
+        "Bing Qin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609803",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609803"
+    },
+    {
+      "id": "Gu_Discovering_Multi_Frequency_Embedding_for_Visible_Infrared_P_TCSVT_2026_paper",
+      "title": "Discovering Multi-Frequency Embedding for Visible-Infrared Person Re-Identification",
+      "authors": [
+        "Hongyang Gu",
+        "Xiaogang Yang",
+        "Ruitao Lu",
+        "Lei Pu",
+        "Siming Han",
+        "Ming Wu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612751",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612751"
+    },
+    {
+      "id": "Shi_SeFENet_Robust_Deep_Homography_Estimation_via_Semantic_Drive_TCSVT_2026_paper",
+      "title": "SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement",
+      "authors": [
+        "Zeru Shi",
+        "Zengxi Zhang",
+        "Kemeng Cui",
+        "Ruizhe An",
+        "Jinyuan Liu",
+        "Zhiying Jiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612762",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612762"
+    },
+    {
+      "id": "Chen_A_Novel_Multi_View_Perception_and_Shrinkage_Aggregation_Netw_TCSVT_2026_paper",
+      "title": "A Novel Multi-View Perception and Shrinkage Aggregation Network for Inharmonious Region Localization",
+      "authors": [
+        "Shenghao Chen",
+        "Chunjie Ma",
+        "Yibo Zhao",
+        "Meng Liu",
+        "Yanbing Xue",
+        "Zan Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614236",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614236"
+    },
+    {
+      "id": "Wang_TrajSV_A_Trajectory_Based_Model_for_Sports_Video_Representat_TCSVT_2026_paper",
+      "title": "TrajSV: A Trajectory-Based Model for Sports Video Representations and Applications",
+      "authors": [
+        "Zheng Wang",
+        "Shihao Xu",
+        "Wei Shi"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3599544",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3599544"
+    },
+    {
+      "id": "Li_SPCL_Semantic_Polymorphism_and_Commonality_Learning_for_Text_TCSVT_2026_paper",
+      "title": "SPCL: Semantic Polymorphism and Commonality Learning for Text-Based Person Retrieval",
+      "authors": [
+        "Jiayi Li",
+        "Jun Kong",
+        "Yunde Zhang",
+        "Ming Lu",
+        "Min Jiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601071",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601071"
+    },
+    {
+      "id": "Xu_Hierarchical_Contrastive_Consistency_for_Human_Pose_Estimati_TCSVT_2026_paper",
+      "title": "Hierarchical Contrastive Consistency for Human Pose Estimation in Images and Videos",
+      "authors": [
+        "Xixia Xu",
+        "Qi Zou",
+        "Jiamao Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602066",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602066"
+    },
+    {
+      "id": "Zhang_Underwater_Scene_Clarity_Reconstruction_via_Multilayer_Infor_TCSVT_2026_paper",
+      "title": "Underwater Scene Clarity Reconstruction via Multilayer Information Fusion and Self-Organized Stitching",
+      "authors": [
+        "Weibo Zhang",
+        "Hao Wang",
+        "Peng Ren",
+        "Weidong Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3608828",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3608828"
+    },
+    {
+      "id": "Yang_CSHNet_A_Novel_Information_Asymmetric_Image_Translation_Meth_TCSVT_2026_paper",
+      "title": "CSHNet: A Novel Information Asymmetric Image Translation Method",
+      "authors": [
+        "Xi Yang",
+        "Haoyuan Shi",
+        "Zihan Wang",
+        "Nannan Wang",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612484",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612484"
+    },
+    {
+      "id": "Zhang_Generative_Information_Guided_Heterogeneous_Cross_Fusion_Net_TCSVT_2026_paper",
+      "title": "Generative Information-Guided Heterogeneous Cross-Fusion Network With Contrastive Learning for Multimodal Remote Sensing Image Classification",
+      "authors": [
+        "Junjie Zhang",
+        "Feng Zhao",
+        "Hanqiang Liu",
+        "Jun Yu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614153",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614153"
+    },
+    {
+      "id": "Li_EveryBrain_Generate_EEG_Responses_From_Images_for_Specified__TCSVT_2026_paper",
+      "title": "EveryBrain: Generate EEG Responses From Images for Specified Individuals",
+      "authors": [
+        "Boang Li",
+        "Hui Cao",
+        "Badong Chen",
+        "Tao Wang",
+        "Jie Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3607971",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3607971"
+    },
+    {
+      "id": "Xiang_DFFormer_Capturing_Dynamic_Frequency_Features_to_Locate_Imag_TCSVT_2026_paper",
+      "title": "DFFormer: Capturing Dynamic Frequency Features to Locate Image Manipulation Through Adaptive Frequency Transformer and Prototype Learning",
+      "authors": [
+        "Yan Xiang",
+        "Kaiqi Zhao",
+        "Zhenghong Yu",
+        "Xiaochen Yuan",
+        "Guoheng Huang",
+        "Jinyu Tian",
+        "Jianqing Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601659",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601659"
+    },
+    {
+      "id": "Liu_Fearless_of_Noise_Robust_Image_in_Image_Hiding_Using_Dual_Tr_TCSVT_2026_paper",
+      "title": "Fearless of Noise: Robust Image-in-Image Hiding Using Dual-Tree Complex Wavelet Transform and State Space Model",
+      "authors": [
+        "Hao Liu",
+        "Fengyong Li",
+        "Chuan Qin",
+        "Xinpeng Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602508",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602508"
+    },
+    {
+      "id": "Zhu_ALL_IN_ONE_Divide_and_Conquer_Strategy_for_Multi_Manipulatio_TCSVT_2026_paper",
+      "title": "ALL-IN-ONE: Divide-and-Conquer Strategy for Multi-Manipulation Image Classification and Localization",
+      "authors": [
+        "Ye Zhu",
+        "Chang Ti",
+        "Gang Yan",
+        "Yingchun Guo",
+        "Bin Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603579",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603579"
+    },
+    {
+      "id": "Duan_EctFormer_High_Imperceptibility_Deep_Image_Steganography_Bas_TCSVT_2026_paper",
+      "title": "EctFormer: High-Imperceptibility Deep Image Steganography Based on Empirical Mode Decomposition",
+      "authors": [
+        "Xintao Duan",
+        "Sen Li",
+        "Zhao Wang",
+        "Bingxin Wei",
+        "Haewoon Nam",
+        "Chuan Qin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603961",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603961"
+    },
+    {
+      "id": "Sun_MePAT_Meta_Prior_Aided_Transformer_for_Adverse_Weather_Condi_TCSVT_2026_paper",
+      "title": "MePAT: Meta-Prior Aided Transformer for Adverse Weather Condition Restoration",
+      "authors": [
+        "Jianqiao Sun",
+        "Ziheng Cheng",
+        "Bo Chen",
+        "Xin Yuan",
+        "Chunhui Qu",
+        "Hongwei Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3587041",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3587041"
+    },
+    {
+      "id": "Zhang_Prompts_Libra_Enhanced_Image_Outpainting_Diffusion_Model_Wit_TCSVT_2026_paper",
+      "title": "Prompts Libra: Enhanced Image Outpainting Diffusion Model With Balanced Bimodal Guidance",
+      "authors": [
+        "Zongyan Zhang",
+        "C. L. Philip Chen",
+        "Zepeng Su",
+        "Tong Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601213",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601213"
+    },
+    {
+      "id": "Qiao_Parallel_Trajectory_Constraint_Sampling_for_Solving_Universa_TCSVT_2026_paper",
+      "title": "Parallel Trajectory Constraint Sampling for Solving Universal Medical Inverse Problems",
+      "authors": [
+        "Lihong Qiao",
+        "Jinbo Li",
+        "Rongxuan Wang",
+        "Yucheng Shu",
+        "Weisheng Li",
+        "Zhanchuan Cai",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601858",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601858"
+    },
+    {
+      "id": "Zhang_Underwater_Image_Enhancement_via_Advantage_Feature_Weighted__TCSVT_2026_paper",
+      "title": "Underwater Image Enhancement via Advantage Feature Weighted Fusion",
+      "authors": [
+        "Weidong Zhang",
+        "Muzi Wang",
+        "Peixian Zhuang",
+        "Dahai Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603059",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603059"
+    },
+    {
+      "id": "Ju_Illumination_Refinement_via_Textual_Cues_A_Prompt_Driven_App_TCSVT_2026_paper",
+      "title": "Illumination Refinement via Textual Cues: A Prompt-Driven Approach for Low-Light NeRF Enhancement",
+      "authors": [
+        "Xinrui Ju",
+        "Yang Zou",
+        "Xingyuan Li",
+        "Zirui Wang",
+        "Jun Ma",
+        "Zhiying Jiang",
+        "Jinyuan Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3604241",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3604241"
+    },
+    {
+      "id": "Wang_ZRID_Net_Zero_Reference_Real_World_Image_Dehazing_Framework__TCSVT_2026_paper",
+      "title": "ZRID-Net: Zero-Reference Real-World Image Dehazing Framework via Deep Self-Decoupling and Reverse Knowledge Transfer",
+      "authors": [
+        "Shilong Wang",
+        "Wenqi Ren",
+        "Peng Gao",
+        "Jiguo Yu",
+        "Jianlei Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609735",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609735"
+    },
+    {
+      "id": "Wang_Ultra_High_Definition_Image_Restoration_New_Benchmarks_and_a_TCSVT_2026_paper",
+      "title": "Ultra-High-Definition Image Restoration: New Benchmarks and a Dual Interaction Prior-Driven Solution",
+      "authors": [
+        "Liyan Wang",
+        "Cong Wang",
+        "Jinshan Pan",
+        "Xiaofeng Liu",
+        "Weixiang Zhou",
+        "Xiaoran Sun",
+        "Wei Wang",
+        "Zhixun Su"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613836",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613836"
+    },
+    {
+      "id": "Yu_Ensemble_Strategy_for_Underwater_Image_Quality_Assessment_an_TCSVT_2026_paper",
+      "title": "Ensemble Strategy for Underwater Image Quality Assessment and Dataset Construction",
+      "authors": [
+        "Yihan Yu",
+        "Liquan Shen",
+        "Junjie Zhu",
+        "Zhengyong Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613929",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613929"
+    },
+    {
+      "id": "Guo_Aligning_Normal_Representations_in_Diffusion_Model_for_Video_TCSVT_2026_paper",
+      "title": "Aligning Normal Representations in Diffusion Model for Video Anomaly Detection",
+      "authors": [
+        "Chongye Guo",
+        "Li Li",
+        "Yanli Ren",
+        "Xinpeng Zhang",
+        "Guorui Feng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602841",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602841"
+    },
+    {
+      "id": "Cao_Optimal_Proxy_Mining_Contrastive_Network_for_Unsupervised_Pe_TCSVT_2026_paper",
+      "title": "Optimal Proxy Mining Contrastive Network for Unsupervised Person Re-Identification",
+      "authors": [
+        "Ge Cao",
+        "Qing Tang",
+        "Xuan-Thuy Vo",
+        "Adri Priadana",
+        "Kang-Hyun Jo"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603199",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603199"
+    },
+    {
+      "id": "Song_MEF_GD_Multimodal_Enhancement_and_Fusion_Network_for_Garment_TCSVT_2026_paper",
+      "title": "MEF-GD: Multimodal Enhancement and Fusion Network for Garment Designer",
+      "authors": [
+        "Dan Song",
+        "Juan Zhou",
+        "Jianhao Zeng",
+        "Hongshuo Tian",
+        "Bolun Zheng",
+        "Rongbao Kang",
+        "An-An Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603967",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603967"
+    },
+    {
+      "id": "Liu_Multiple_Exit_Tuning_Towards_Inference_Efficient_Adaptation__TCSVT_2026_paper",
+      "title": "Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer",
+      "authors": [
+        "Zheng Liu",
+        "Jinchao Zhu",
+        "Nannan Li",
+        "Gao Huang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609549",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609549"
+    },
+    {
+      "id": "Tian_Part_Based_Feature_Complementary_Denoising_for_Unsupervised__TCSVT_2026_paper",
+      "title": "Part-Based Feature Complementary Denoising for Unsupervised Person Re-Identification",
+      "authors": [
+        "Qing Tian",
+        "Bin Wang",
+        "Xiang Liu",
+        "Jiashuo Shen",
+        "Keyang Cheng",
+        "Weihua Ou",
+        "Zhen Lei"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609570",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609570"
+    },
+    {
+      "id": "Liu_Unsupervised_Cross_Domain_3D_Human_Pose_Estimation_via_Pseud_TCSVT_2026_paper",
+      "title": "Unsupervised Cross-Domain 3D Human Pose Estimation via Pseudo-Label-Guided Global Transforms",
+      "authors": [
+        "Jingjing Liu",
+        "Zhiyong Wang",
+        "Xinyu Fan",
+        "Amirhossein Dadashzadeh",
+        "Honghai Liu",
+        "Majid Mirmehdi"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3610066",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3610066"
+    },
+    {
+      "id": "Peng_Modeling_Cross_Modal_Semantic_Transformations_From_Coarse_to_TCSVT_2026_paper",
+      "title": "Modeling Cross-Modal Semantic Transformations From Coarse to Fine in CLIP",
+      "authors": [
+        "Ziqi Peng",
+        "Zhenyu Qi",
+        "Yang Cao",
+        "Yu Kang",
+        "Wenjun Lv"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613997",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613997"
+    },
+    {
+      "id": "Ning_CMF_IoU_Multi_Stage_Cross_Modal_Fusion_3D_Object_Detection_W_TCSVT_2026_paper",
+      "title": "CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection With IoU Joint Prediction",
+      "authors": [
+        "Zhiwei Ning",
+        "Zhaojiang Liu",
+        "Xuanang Gao",
+        "Yifan Zuo",
+        "Jie Yang",
+        "Yuming Fang",
+        "Wei Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600527",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600527"
+    },
+    {
+      "id": "Gu_CrossTracker_Robust_Multi_Modal_3D_Multi_Object_Tracking_via_TCSVT_2026_paper",
+      "title": "CrossTracker: Robust Multi-Modal 3D Multi-Object Tracking via Cross Correction",
+      "authors": [
+        "Lipeng Gu",
+        "Xuefeng Yan",
+        "Weiming Wang",
+        "Honghua Chen",
+        "Dingkun Zhu",
+        "Liangliang Nan",
+        "Mingqiang Wei"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601667",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601667"
+    },
+    {
+      "id": "Zhong_Local_Global_Feature_Fusion_for_Enhancing_3D_Human_Pose_Esti_TCSVT_2026_paper",
+      "title": "Local-Global Feature Fusion for Enhancing 3D Human Pose Estimation",
+      "authors": [
+        "Yuanhong Zhong",
+        "Guangxia Yang",
+        "Daidi Zhong",
+        "Xun Yang",
+        "Shanshan Wang",
+        "Zhangling Duan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3608047",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3608047"
+    },
+    {
+      "id": "Zhang_ASCFormer_An_Adaptive_Structure_Aware_Cascaded_Transformer_f_TCSVT_2026_paper",
+      "title": "ASCFormer: An Adaptive Structure-Aware Cascaded Transformer for 3D Object Detection",
+      "authors": [
+        "Xiaowei Zhang",
+        "Xinglong Li",
+        "Mingliang Zhou",
+        "Min Gan",
+        "C. L. Philip Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612592",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612592"
+    },
+    {
+      "id": "Bao_ERFC_Energy_Aware_Reinforcement_Feedback_Calibration_for_Zer_TCSVT_2026_paper",
+      "title": "ERFC: Energy-Aware Reinforcement Feedback Calibration for Zero-Shot Captioning",
+      "authors": [
+        "Qianyue Bao",
+        "Fang Liu",
+        "Licheng Jiao",
+        "Yang Liu",
+        "Shuo Li",
+        "Lingling Li",
+        "Xu Liu",
+        "Puhua Chen",
+        "Wenping Ma"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601180",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601180"
+    },
+    {
+      "id": "Wen_Panacea_Panoramic_and_Controllable_Video_Generation_for_Auto_TCSVT_2026_paper",
+      "title": "Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving",
+      "authors": [
+        "Yuqing Wen",
+        "Yucheng Zhao",
+        "Yingfei Liu",
+        "Binyuan Huang",
+        "Fan Jia",
+        "Yanhui Wang",
+        "Chi Zhang",
+        "Tiancai Wang",
+        "Xiaoyan Sun",
+        "Xiangyu Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601553",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601553"
+    },
+    {
+      "id": "Gao_FADiaFrame_Improving_Fairness_and_Accuracy_of_Deep_Learning__TCSVT_2026_paper",
+      "title": "FADiaFrame: Improving Fairness and Accuracy of Deep Learning-Based Diagnosis for Dermatological Lesions via a Novel Post-Processing Framework",
+      "authors": [
+        "Yu Gao",
+        "Da-Wei Ding"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603409",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603409"
+    },
+    {
+      "id": "Jiang_Policy_Generalization_Enhancement_for_UAV_Active_Object_Dete_TCSVT_2026_paper",
+      "title": "Policy Generalization Enhancement for UAV Active Object Detection via Divide-and-Conquer Sharpness-Aware Gradient Matching",
+      "authors": [
+        "Xinhua Jiang",
+        "Tianpeng Liu",
+        "Li Liu",
+        "Zhenghui Gong",
+        "Yongxiang Liu",
+        "Xiang Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3608851",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3608851"
+    },
+    {
+      "id": "Liu_Enhancing_Reliability_in_Medical_Image_Classification_of_Imp_TCSVT_2026_paper",
+      "title": "Enhancing Reliability in Medical Image Classification of Imperfect Views",
+      "authors": [
+        "Wei Liu",
+        "Yufei Chen",
+        "Xiaodong Yue",
+        "Changqing Zhang",
+        "Shaorong Xie"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3610762",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3610762"
+    },
+    {
+      "id": "Li_Improving_Zero_Shot_Generalization_for_CLIP_With_Prompt_Ense_TCSVT_2026_paper",
+      "title": "Improving Zero-Shot Generalization for CLIP With Prompt Ensemble Self-Distillation",
+      "authors": [
+        "Mengwei Li",
+        "Zilei Wang",
+        "Yixin Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601895",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601895"
+    },
+    {
+      "id": "Li_Sparse_Unmixing_Guided_Adversarial_Attack_for_Hyperspectral__TCSVT_2026_paper",
+      "title": "Sparse Unmixing Guided Adversarial Attack for Hyperspectral Image Classification",
+      "authors": [
+        "Hao Li",
+        "Kelin Dang",
+        "Maoguo Gong",
+        "A. Kai Qin",
+        "Yu Zhou",
+        "Yue Wu",
+        "Lining Xing"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602604",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602604"
+    },
+    {
+      "id": "Du_TCFF_Adapter_Text_Driven_Adaption_of_CLIP_for_Few_Shot_Image_TCSVT_2026_paper",
+      "title": "TCFF-Adapter: Text-Driven Adaption of CLIP for Few-Shot Image Classification",
+      "authors": [
+        "Guanlin Du",
+        "Hanzi Wang",
+        "Xintao Xu",
+        "Yan Yan",
+        "Xuelong Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602826",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602826"
+    },
+    {
+      "id": "Qu_AdaptGCD_Multi_Expert_Adapter_Tuning_for_Generalized_Categor_TCSVT_2026_paper",
+      "title": "AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery",
+      "authors": [
+        "Yuxun Qu",
+        "Yongqiang Tang",
+        "Chenyang Zhang",
+        "Wensheng Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602981",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602981"
+    },
+    {
+      "id": "Wang_GOTrack_A_Deep_Learning_Framework_With_Graph_Optimal_Transpo_TCSVT_2026_paper",
+      "title": "GOTrack+: A Deep Learning Framework With Graph Optimal Transport for Particle Tracking Velocimetry",
+      "authors": [
+        "Zhi Wang",
+        "Zixuan Wang",
+        "Chao Xu",
+        "Shengze Cai"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3604034",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3604034"
+    },
+    {
+      "id": "Li_Toward_Complex_Backgrounds_A_Unified_Difference_Aware_Decode_TCSVT_2026_paper",
+      "title": "Toward Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation",
+      "authors": [
+        "Jiepan Li",
+        "Wei He",
+        "Fangxiao Lu",
+        "Hongyan Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612574",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612574"
+    },
+    {
+      "id": "Fang_Toward_Universal_Instance_Shadow_Detection_Based_on_Pairwise_TCSVT_2026_paper",
+      "title": "Toward Universal Instance Shadow Detection Based on Pairwise Grouping With Contrastive Morphological Alignment",
+      "authors": [
+        "Haopeng Fang",
+        "Fei Liu",
+        "Wenfeng Han",
+        "He Tang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614837",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614837"
+    },
+    {
+      "id": "Wu_Learning_an_Adaptive_and_View_Invariant_Vision_Transformer_f_TCSVT_2026_paper",
+      "title": "Learning an Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking",
+      "authors": [
+        "You Wu",
+        "Yongxin Li",
+        "Mengyuan Liu",
+        "Xucheng Wang",
+        "Xiangyang Yang",
+        "Hengzhou Ye",
+        "Dan Zeng",
+        "Qijun Zhao",
+        "Shuiwang Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3599856",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3599856"
+    },
+    {
+      "id": "Zhang_LEGO_Learning_and_Graph_Optimized_Modular_Tracker_for_Online_TCSVT_2026_paper",
+      "title": "LEGO: Learning and Graph-Optimized Modular Tracker for Online Multi-Object Tracking With Point Clouds",
+      "authors": [
+        "Zhenrong Zhang",
+        "Jianan Liu",
+        "Yuxuan Xia",
+        "Tao Huang",
+        "Qing-Long Han",
+        "Hongbin Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3600881",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3600881"
+    },
+    {
+      "id": "Song_Exploring_Pruning_Based_Efficient_Object_Tracking_via_Hybrid_TCSVT_2026_paper",
+      "title": "Exploring Pruning-Based Efficient Object Tracking via Hybrid Knowledge Distillation",
+      "authors": [
+        "Yidong Song",
+        "Shilei Wang",
+        "Zhaochuan Zeng",
+        "Jikai Zheng",
+        "Zhenhua Wang",
+        "Jifeng Ning"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609410",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609410"
+    },
+    {
+      "id": "Ma_Multi_Stage_Cross_Modality_Feature_Interaction_for_RGB_Therm_TCSVT_2026_paper",
+      "title": "Multi-Stage Cross-Modality Feature Interaction for RGB-Thermal Multi-Object Tracking",
+      "authors": [
+        "Jianbo Ma",
+        "Hui Luo",
+        "Shuaicheng Niu",
+        "Peilin Zhao",
+        "Yunfeng Liu",
+        "Yuxing Wei",
+        "Jianlin Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612499",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612499"
+    },
+    {
+      "id": "Luo_URA_Net_Uncertainty_Integrated_Anomaly_Perception_and_Restor_TCSVT_2026_paper",
+      "title": "URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection",
+      "authors": [
+        "Wei Luo",
+        "Peng Xing",
+        "Yunkang Cao",
+        "Haiming Yao",
+        "Weiming Shen",
+        "Zechao Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602391",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602391"
+    },
+    {
+      "id": "Lu_Medical_VLP_Model_Is_Vulnerable_Toward_Multimodal_Adversaria_TCSVT_2026_paper",
+      "title": "Medical VLP Model Is Vulnerable: Toward Multimodal Adversarial Attack on Large Medical Vision-Language Models",
+      "authors": [
+        "Zimu Lu",
+        "Ning Xu",
+        "Hongshuo Tian",
+        "Lanjun Wang",
+        "An-An Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602970",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602970"
+    },
+    {
+      "id": "Xie_Weakly_Supervised_Object_Detection_for_Aerial_Images_With_In_TCSVT_2026_paper",
+      "title": "Weakly Supervised Object Detection for Aerial Images With Instance-Aware Label Assignment",
+      "authors": [
+        "Xuan Xie",
+        "Xiang Yuan",
+        "Gong Cheng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609322",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609322"
+    },
+    {
+      "id": "Wang_Text_and_Non_Text_Latent_Feature_Disentanglement_for_Screen__TCSVT_2026_paper",
+      "title": "Text and Non-Text Latent Feature Disentanglement for Screen Content Image Compression",
+      "authors": [
+        "Hao Wang",
+        "Junyan Huo",
+        "Fei Yang",
+        "Shuai Wan",
+        "Gaoxing Chen",
+        "Kun Yang",
+        "Luis Herranz",
+        "Fuzheng Yang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602506",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602506"
+    },
+    {
+      "id": "Esenlik_An_Overview_of_the_JPEG_AI_Learning_Based_Image_Coding_Stand_TCSVT_2026_paper",
+      "title": "An Overview of the JPEG AI Learning-Based Image Coding Standard",
+      "authors": [
+        "Semih Esenlik",
+        "Yaojun Wu",
+        "Zhaobin Zhang",
+        "Ye-Kui Wang",
+        "Kai Zhang",
+        "Li Zhang",
+        "João Ascenso",
+        "Shan Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613244",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613244"
+    },
+    {
+      "id": "Huo_Deep_Network_Based_Adaptive_Quantization_for_Practical_Video_TCSVT_2026_paper",
+      "title": "Deep Network-Based Adaptive Quantization for Practical Video Coding",
+      "authors": [
+        "Shuai Huo",
+        "Hewei Liu",
+        "Jiawen Gu",
+        "Dengchao Jin",
+        "Meng Lei",
+        "Bo Huang",
+        "Chao Zhou"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3601718",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3601718"
+    },
+    {
+      "id": "Feng_High_Accuracy_Rate_Control_for_Neural_Video_Coding_Based_on__TCSVT_2026_paper",
+      "title": "High Accuracy Rate Control for Neural Video Coding Based on Rate-Distortion Modeling",
+      "authors": [
+        "Longtao Feng",
+        "Qian Yin",
+        "Jiaqi Zhang",
+        "Yuwen He",
+        "Siwei Ma"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3610946",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3610946"
+    },
+    {
+      "id": "Yu_FPAD_Fuzzy_Prototype_Guided_Adversarial_Attack_and_Defense_f_TCSVT_2026_paper",
+      "title": "FPAD: Fuzzy-Prototype-Guided Adversarial Attack and Defense for Deep Cross-Modal Hashing",
+      "authors": [
+        "Zhongqing Yu",
+        "Xin Liu",
+        "Yiu-Ming Cheung",
+        "Lei Zhu",
+        "Xing Xu",
+        "Nannan Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3604033",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3604033"
+    },
+    {
+      "id": "Shi_Beyond_One_and_Two_Tower_Cross_Modal_Consensus_Learning_for__TCSVT_2026_paper",
+      "title": "Beyond One and Two Tower: Cross-Modal Consensus Learning for Image-Text Retrieval",
+      "authors": [
+        "Zhangxiang Shi",
+        "Yunlai Ding",
+        "Junyu Dong",
+        "Tianzhu Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3605958",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3605958"
+    },
+    {
+      "id": "Dong_Annotation_Efficient_Hybrid_Learning_for_Temporal_Sentence_G_TCSVT_2026_paper",
+      "title": "Annotation-Efficient Hybrid Learning for Temporal Sentence Grounding",
+      "authors": [
+        "Jianxiang Dong",
+        "Zhaozheng Yin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3603110",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3603110"
+    },
+    {
+      "id": "Qiu_HOH_Net_High_Order_Hierarchical_Middle_Feature_Learning_Netw_TCSVT_2026_paper",
+      "title": "HOH-Net: High-Order Hierarchical Middle-Feature Learning Network for Visible-Infrared Person Re-Identification",
+      "authors": [
+        "Liuxiang Qiu",
+        "Si Chen",
+        "Jing-Hao Xue",
+        "Da-Han Wang",
+        "Shunzhi Zhu",
+        "Yan Yan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609840",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609840"
+    },
+    {
+      "id": "Abdelhedi_Phylogeny_Based_Traitor_Tracing_Method_for_Interleaving_Atta_TCSVT_2026_paper",
+      "title": "Phylogeny-Based Traitor Tracing Method for Interleaving Attacks",
+      "authors": [
+        "Karama Abdelhedi",
+        "Faten Chaabane",
+        "Walid Wannes",
+        "William Puech",
+        "Chokri Ben Amar"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3602214",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3602214"
+    },
+    {
+      "id": "He_FedDAAM_Federated_Domain_Adversarial_Learning_With_Attention_TCSVT_2026_paper",
+      "title": "FedDAAM: Federated Domain Adversarial Learning With Attention Mechanism for Privacy Preserving Multimodal Depression Assessment",
+      "authors": [
+        "Lang He",
+        "Weizhao Yang",
+        "Junnan Zhao",
+        "Haifeng Chen",
+        "Dongmei Jiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609776",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609776"
+    },
+    {
+      "id": "Niu_Multimodal_Local_Global_Interaction_Networks_for_Automatic_D_TCSVT_2026_paper",
+      "title": "Multimodal Local Global Interaction Networks for Automatic Depression Severity Estimation",
+      "authors": [
+        "Mingyue Niu",
+        "Zhuhong Shao",
+        "Yongjun He",
+        "Jianhua Tao",
+        "Björn W. Schuller"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612697",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612697"
+    },
+    {
+      "id": "Chen_Leveraging_Multi_View_Images_to_Learn_Domain_Invariant_Discr_TCSVT_2026_paper",
+      "title": "Leveraging Multi-View Images to Learn Domain-Invariant Discriminative Embeddings for Cross-View Geo-Localization",
+      "authors": [
+        "Ziyi Chen",
+        "Tingyu Li",
+        "Dilong Li",
+        "Jin Gou",
+        "Cheng Wang",
+        "Kyle Gao",
+        "Jonathan Li",
+        "Zheng Gong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613262",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613262"
+    },
+    {
+      "id": "Wang_Pathway_Detection_Using_Fusion_Polarization_Features_in_Pass_TCSVT_2026_paper",
+      "title": "Pathway Detection Using Fusion Polarization Features in Passive Millimeter-Wave Imaging",
+      "authors": [
+        "Yifei Wang",
+        "Yayun Cheng",
+        "Peiwen Tang",
+        "Hang Ma",
+        "Li Zhang",
+        "Yuzhong Wang",
+        "Jinghui Qiu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613515",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613515"
+    },
+    {
+      "id": "Hou_HyPSAM_Hybrid_Prompt_Driven_Segment_Anything_Model_for_RGB_T_TCSVT_2026_paper",
+      "title": "HyPSAM: Hybrid Prompt-Driven Segment Anything Model for RGB-Thermal Salient Object Detection",
+      "authors": [
+        "Ruichao Hou",
+        "Xingyuan Li",
+        "Tongwei Ren",
+        "Dongming Zhou",
+        "Gangshan Wu",
+        "Jinde Cao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613770",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613770"
+    },
+    {
+      "id": "Zhang_Dual_Net_Dual_Visual_Spectral_Affinity_Monitoring_Network_fo_TCSVT_2026_paper",
+      "title": "Dual-Net: Dual Visual Spectral Affinity Monitoring Network for Hyperspectral Anomaly Detection",
+      "authors": [
+        "Xiangrong Zhang",
+        "Rongxia Qiu",
+        "Shiqi Wu",
+        "Guanchun Wang",
+        "Xiao Han",
+        "Yifei Jiang",
+        "Jin Zhu",
+        "Licheng Jiao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3615166",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3615166"
+    },
+    {
+      "id": "Ju_A_Lightweight_Polarization_Guided_Plug_In_for_Underwater_Ima_TCSVT_2026_paper",
+      "title": "A Lightweight Polarization-Guided Plug-In for Underwater Image Enhancement",
+      "authors": [
+        "Guangyao Ju",
+        "Jiqing Zhang",
+        "Jingqi Zang",
+        "Yafeng Li",
+        "Yudong Li",
+        "Zetian Mi",
+        "Xin Yang",
+        "Huibing Wang",
+        "Jiarui Fan",
+        "Xianping Fu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621234",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621234"
+    },
+    {
+      "id": "Xu_TH_Mamba_Spatial_Temporal_Correlation_Learning_for_Mamba_Bas_TCSVT_2026_paper",
+      "title": "TH-Mamba: Spatial-Temporal Correlation Learning for Mamba-Based Talking Head Generation",
+      "authors": [
+        "Xin Xu",
+        "Zhixi Yu",
+        "Kui Jiang",
+        "Xiaocheng Feng",
+        "Chia-Wen Lin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3596747",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3596747"
+    },
+    {
+      "id": "Gong_Spatial_Temporal_Clue_Reasoning_Chain_for_Long_Video_Questio_TCSVT_2026_paper",
+      "title": "Spatial-Temporal Clue Reasoning Chain for Long Video Question Answering",
+      "authors": [
+        "Haibo Gong",
+        "Chenggang Yan",
+        "Jiehua Zhang",
+        "Yaoqi Sun",
+        "Yuhan Gao",
+        "Liang Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609441",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609441"
+    },
+    {
+      "id": "Wen_Rule_Semantic_Generative_Calibration_Blur_Detection_for_UAV__TCSVT_2026_paper",
+      "title": "Rule-Semantic Generative Calibration Blur Detection for UAV Imagery",
+      "authors": [
+        "Yihan Wen",
+        "Zhuo Zhang",
+        "Xianping Ma",
+        "Peipei Zhu",
+        "Jinglei Li",
+        "Guanchong Niu",
+        "Qiguang Miao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3610689",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3610689"
+    },
+    {
+      "id": "Yang_Open_IndDet_Advancing_Open_Set_Industrial_Surface_Defect_Det_TCSVT_2026_paper",
+      "title": "Open-IndDet: Advancing Open-Set Industrial Surface Defect Detection via Robust Class-Unique Feature Representation",
+      "authors": [
+        "Zhen Yang",
+        "Tianyong Zheng",
+        "Xuefeng Ni",
+        "Zhi Yan",
+        "Hong Chen",
+        "Yaonan Wang",
+        "Leyuan Fang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613374",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613374"
+    },
+    {
+      "id": "Guo_Fast_Multiview_Co_Clustering_in_Unified_Subspace_TCSVT_2026_paper",
+      "title": "Fast Multiview Co-Clustering in Unified Subspace",
+      "authors": [
+        "Shengzhao Guo",
+        "Zhenyu Ma",
+        "Jingyu Wang",
+        "Feiping Nie",
+        "Xuelong Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613381",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613381"
+    },
+    {
+      "id": "Tian_ILD_Image_Level_Labels_Driven_Active_Learning_Object_Detecti_TCSVT_2026_paper",
+      "title": "ILD: Image-Level Labels Driven Active Learning Object Detection",
+      "authors": [
+        "Rui Tian",
+        "Jiaxuan Zhang",
+        "Yongqiang Zhang",
+        "Man Zhang",
+        "Zian Zhang",
+        "Yin Zhang",
+        "Yongqiang Li",
+        "Wangmeng Zuo"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613389",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613389"
+    },
+    {
+      "id": "Liu_DS2VP_Dynamically_Selected_Spatially_Visual_Prompting_TCSVT_2026_paper",
+      "title": "DS2VP: Dynamically-Selected Spatially Visual Prompting",
+      "authors": [
+        "Yishu Liu",
+        "Jiale Liu",
+        "Bingzhi Chen",
+        "Guangming Lu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613936",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613936"
+    },
+    {
+      "id": "Wang_Visual_Evidence_Aware_for_Object_Hallucinations_Rectificatio_TCSVT_2026_paper",
+      "title": "Visual Evidence-Aware for Object Hallucinations Rectification in LLM-Based Video Captioning",
+      "authors": [
+        "Ye Wang",
+        "Jiancheng Zhou",
+        "Qun Liu",
+        "Feng Hu",
+        "Guoyin Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613993",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613993"
+    },
+    {
+      "id": "Li_Multimodal_Industrial_Anomaly_Detection_via_Geometric_Prior_TCSVT_2026_paper",
+      "title": "Multimodal Industrial Anomaly Detection via Geometric Prior",
+      "authors": [
+        "Min Li",
+        "Jinghui He",
+        "Gang Li",
+        "Jiachen Li",
+        "Jin Wan",
+        "Delong Han"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613708",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613708"
+    },
+    {
+      "id": "Li_OSAD_Open_Set_Supervised_Anomaly_Detection_in_Surveillance_V_TCSVT_2026_paper",
+      "title": "OSAD: Open-Set Supervised Anomaly Detection in Surveillance Videos Based on Margin Metric Learning",
+      "authors": [
+        "Nanjun Li",
+        "Dexin Wang",
+        "Xiushan Nie"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614193",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614193"
+    },
+    {
+      "id": "Qu_Anchor_Guided_Sample_and_Feature_Incremental_Alignment_Frame_TCSVT_2026_paper",
+      "title": "Anchor-Guided Sample-and-Feature Incremental Alignment Framework for Multi-View Clustering",
+      "authors": [
+        "Qian Qu",
+        "Xinhang Wan",
+        "Jiyuan Liu",
+        "Xinwang Liu",
+        "En Zhu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614344",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614344"
+    },
+    {
+      "id": "Sun_WDMamba_When_Wavelet_Degradation_Prior_Meets_Vision_Mamba_fo_TCSVT_2026_paper",
+      "title": "WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing",
+      "authors": [
+        "Jie Sun",
+        "Heng Liu",
+        "Yongzhen Wang",
+        "Xiao-Ping Zhang",
+        "Mingqiang Wei"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614173",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614173"
+    },
+    {
+      "id": "Ye_LXIE_Net_and_HLXray_A_Mamba_Based_Network_and_Real_World_Dat_TCSVT_2026_paper",
+      "title": "LXIE-Net and HLXray: A Mamba-Based Network and Real-World Dataset for Low-Dose X-Ray Image Enhancement in Industrial Inspection",
+      "authors": [
+        "Junqiang Ye",
+        "Yuqun Yang",
+        "Bo Wang",
+        "Xu Tang",
+        "Yao Ma",
+        "Zheng You"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614672",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614672"
+    },
+    {
+      "id": "Zhou_Exploring_Self_Image_and_Cross_Image_Consistency_Learning_fo_TCSVT_2026_paper",
+      "title": "Exploring Self-Image and Cross-Image Consistency Learning for Remote Sensing Burned Area Segmentation",
+      "authors": [
+        "Heng Zhou",
+        "Zhenxi Zhang",
+        "Chengyang Li",
+        "Chunna Tian",
+        "Yongqiang Xie",
+        "Zhongbo Li",
+        "Xiaojun Wu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3615718",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3615718"
+    },
+    {
+      "id": "Li_LPL3D_LVLM_Driven_Pseudo_Labeling_for_3D_Object_Detection_TCSVT_2026_paper",
+      "title": "LPL3D: LVLM-Driven Pseudo-Labeling for 3D Object Detection",
+      "authors": [
+        "Zechuan Li",
+        "Hongshan Yu",
+        "Yihao Ding",
+        "Shuai Yuan",
+        "Naveed Akhtar"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616500",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616500"
+    },
+    {
+      "id": "Ullah_DVFL_Net_A_Lightweight_Distilled_Video_Focal_Modulation_Netw_TCSVT_2026_paper",
+      "title": "DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition",
+      "authors": [
+        "Hayat Ullah",
+        "Muhammad Ali Shafique",
+        "Abbas Khan",
+        "Arslan Munir"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3615909",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3615909"
+    },
+    {
+      "id": "Yan_LTCA_Long_Range_Temporal_Context_Attention_for_Referring_Vid_TCSVT_2026_paper",
+      "title": "LTCA: Long-Range Temporal Context Attention for Referring Video Object Segmentation",
+      "authors": [
+        "Cilin Yan",
+        "Jingyun Wang",
+        "Guoliang Kang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3618119",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3618119"
+    },
+    {
+      "id": "Xu_SportSal_Hypernetwork_Based_Saliency_Prediction_for_Sports_V_TCSVT_2026_paper",
+      "title": "SportSal: Hypernetwork-Based Saliency Prediction for Sports Videos",
+      "authors": [
+        "Mai Xu",
+        "Shijie Wen",
+        "Lai Jiang",
+        "Minglang Qiao",
+        "Shengxi Li",
+        "Tao Xu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621424",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621424"
+    },
+    {
+      "id": "Tao_Unsupervised_Person_Re_Identification_With_Diffusion_Model_v_TCSVT_2026_paper",
+      "title": "Unsupervised Person Re-Identification With Diffusion Model via Semantic-Aware Disentanglement Representation Learning",
+      "authors": [
+        "Xuefeng Tao",
+        "Jun Kong",
+        "Min Jiang",
+        "Jiayi Li",
+        "Ajmal Mian"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621439",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621439"
+    },
+    {
+      "id": "Zhang_HiGS_Calib_A_Hierarchical_3D_Gaussian_Splatting_Based_Target_TCSVT_2026_paper",
+      "title": "HiGS-Calib: A Hierarchical 3D Gaussian Splatting-Based Targetless Local-Consistent LiDAR-Camera Calibration Method",
+      "authors": [
+        "Tianjun Zhang",
+        "Lin Zhang",
+        "Hesheng Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3622645",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3622645"
+    },
+    {
+      "id": "Liang_ChatStitch_Visualizing_Through_Structures_via_Surround_View__TCSVT_2026_paper",
+      "title": "ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching With Collaborative LLM-Agents",
+      "authors": [
+        "Hao Liang",
+        "Zhipeng Dong",
+        "Kaixin Chen",
+        "Hao Li",
+        "Jiyuan Guo",
+        "Yufeng Yue",
+        "Mengyin Fu",
+        "Yi Yang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3622736",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3622736"
+    },
+    {
+      "id": "Abbasi_Reinforcement_Learning_for_Unsupervised_Video_Summarization__TCSVT_2026_paper",
+      "title": "Reinforcement Learning for Unsupervised Video Summarization With Reward Generator Training",
+      "authors": [
+        "Mehryar Abbasi",
+        "Hadi Hadizadeh",
+        "Parvaneh Saeedi"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3623074",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3623074"
+    },
+    {
+      "id": "Zhang_Uncertainty_Aware_Local_Bayesian_Framework_for_Hyperspectral_TCSVT_2026_paper",
+      "title": "Uncertainty-Aware Local Bayesian Framework for Hyperspectral Image Classification With Noisy Labels",
+      "authors": [
+        "Mingyang Zhang",
+        "Ziqi Di",
+        "Hao Liu",
+        "Fenlong Jiang",
+        "Yu Zhou",
+        "Maoguo Gong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3623389",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3623389"
+    },
+    {
+      "id": "Fang_EdgeCLIP_Injecting_Edge_Awareness_Into_Visual_Language_Model_TCSVT_2026_paper",
+      "title": "EdgeCLIP: Injecting Edge-Awareness Into Visual-Language Models for Zero-Shot Semantic Segmentation",
+      "authors": [
+        "Jiaxiang Fang",
+        "Shiqiang Ma",
+        "Guihua Duan",
+        "Fei Guo",
+        "Shengfeng He"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3624233",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3624233"
+    },
+    {
+      "id": "Zhang_HySaDe_Mamba_A_Mamba_Based_Network_for_Hyperspectral_Salient_TCSVT_2026_paper",
+      "title": "HySaDe-Mamba: A Mamba-Based Network for Hyperspectral Salient Object Detection",
+      "authors": [
+        "Lei Zhang",
+        "Huijie Zhang",
+        "Xiaoyan Luo",
+        "Liheng Bian",
+        "Xiantong Zhen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625079",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625079"
+    },
+    {
+      "id": "An_An_MoE_Driven_Unified_Image_Restoration_Framework_for_Advers_TCSVT_2026_paper",
+      "title": "An MoE-Driven Unified Image Restoration Framework for Adverse Weather Conditions",
+      "authors": [
+        "Tao An",
+        "Hongbo Gao",
+        "Ruqi Liu",
+        "Kun Dai",
+        "Tao Xie",
+        "Ruifeng Li",
+        "Ke Wang",
+        "Lijun Zhao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625191",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625191"
+    },
+    {
+      "id": "Deng_Extended_Graph_Learning_for_Weakly_Supervised_Video_Anomaly__TCSVT_2026_paper",
+      "title": "Extended Graph Learning for Weakly Supervised Video Anomaly Detection",
+      "authors": [
+        "Jixiang Deng",
+        "Ying Liu",
+        "Chunguang Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625570",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625570"
+    },
+    {
+      "id": "Liu_Summarize_Before_Glimpse_Brain_Inspired_Non_Autoregressive_S_TCSVT_2026_paper",
+      "title": "Summarize Before Glimpse: Brain-Inspired Non-Autoregressive Scene Text Recognizer",
+      "authors": [
+        "Dekang Liu",
+        "Tianlei Wang",
+        "Zhiping Lin",
+        "Jiuwen Cao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625758",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625758"
+    },
+    {
+      "id": "Yang_Realistic_and_Stable_3D_Gaussian_Relighting_Semantic_Guided__TCSVT_2026_paper",
+      "title": "Realistic and Stable 3D Gaussian Relighting: Semantic-Guided Stable Material Estimation Through Object-Oriented Differentiable Gaussian Path Tracing",
+      "authors": [
+        "Jiahui Yang",
+        "Xinzhu Sang",
+        "Zhidong Chen",
+        "Hongkun Cao",
+        "Luyu Ji",
+        "Qing Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614243",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614243"
+    },
+    {
+      "id": "Song_Representation_Sampling_and_Hybrid_Transformer_Network_for_I_TCSVT_2026_paper",
+      "title": "Representation Sampling and Hybrid Transformer Network for Image Compressed Sensing",
+      "authors": [
+        "Heping Song",
+        "Jingyao Gong",
+        "Hongjie Jia",
+        "Xiangjun Shen",
+        "Jianping Gou",
+        "Hongying Meng",
+        "Le Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614371",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614371"
+    },
+    {
+      "id": "Wang_What_Makes_You_Unique_Attribute_Prompt_Composition_for_Objec_TCSVT_2026_paper",
+      "title": "What Makes You Unique? Attribute Prompt Composition for Object Re-Identification",
+      "authors": [
+        "Yingquan Wang",
+        "Pingping Zhang",
+        "Chong Sun",
+        "Dong Wang",
+        "Huchuan Lu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3615464",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3615464"
+    },
+    {
+      "id": "Jiang_Text_Conditional_Visual_Language_Alignment_for_Video_Caption_TCSVT_2026_paper",
+      "title": "Text-Conditional Visual-Language Alignment for Video Captioning",
+      "authors": [
+        "Wenhui Jiang",
+        "Wenbin Guan",
+        "Haijun Li",
+        "Zhizhen Li",
+        "Yuming Fang",
+        "Yuxin Peng",
+        "Xiaowei Zhao",
+        "Yang Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616201",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616201"
+    },
+    {
+      "id": "Chen_Self_Supervised_Disentangled_Representation_Learning_via_Com_TCSVT_2026_paper",
+      "title": "Self-Supervised Disentangled Representation Learning via Compositional Invariance",
+      "authors": [
+        "Haoqiang Chen",
+        "Jianxiang Sun",
+        "Yadong Liu",
+        "Hao Shi",
+        "Dewen Hu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625076",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625076"
+    },
+    {
+      "id": "Kamara_FAMAFuse_Functional_Anatomical_Multiscale_Attention_for_Mult_TCSVT_2026_paper",
+      "title": "FAMAFuse: Functional-Anatomical Multiscale Attention for Multimodal Image Fusion",
+      "authors": [
+        "Alpha Alimamy Kamara",
+        "Shiwen He",
+        "Abdul Joseph Fofanah"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3626562",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3626562"
+    },
+    {
+      "id": "Wan_Dynamic_Confidence_Variance_for_Generalized_Coreset_in_Activ_TCSVT_2026_paper",
+      "title": "Dynamic Confidence Variance for Generalized Coreset in Active Learning",
+      "authors": [
+        "Tianjiao Wan",
+        "Zijian Gao",
+        "Xudong Gong",
+        "Dawei Feng",
+        "Xingxing Zhang",
+        "Bo Ding",
+        "Yijie Wang",
+        "Huaimin Wang",
+        "Kele Xu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3622313",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3622313"
+    },
+    {
+      "id": "Zhao_DASS_Net_Degradation_Adaptive_Semi_Symmetric_Network_for_Rob_TCSVT_2026_paper",
+      "title": "DASS-Net: Degradation-Adaptive Semi-Symmetric Network for Robust Image Hiding",
+      "authors": [
+        "Junzhi Zhao",
+        "Hongjie He",
+        "Fan Chen",
+        "Lingfeng Qu",
+        "Bin Kang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613574",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613574"
+    },
+    {
+      "id": "Huo_DRSW_Dual_Stage_Robust_Semantic_Watermarking_for_Image_Seman_TCSVT_2026_paper",
+      "title": "DRSW: Dual-Stage Robust Semantic Watermarking for Image Semantic Communication",
+      "authors": [
+        "Yanhao Huo",
+        "Shijun Xiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613856",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613856"
+    },
+    {
+      "id": "Zhang_DC2MNet_Lightweight_and_Efficient_Discrete_Cosine_Channel_Mo_TCSVT_2026_paper",
+      "title": "DC2MNet: Lightweight and Efficient Discrete Cosine Channel Modulation Network for Image Restoration",
+      "authors": [
+        "Guoqing Zhang",
+        "Wenxuan Fang",
+        "Yupeng Shang",
+        "Yuhui Zheng",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613731",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613731"
+    },
+    {
+      "id": "Meng_DH_Mamba_Exploring_Dual_Domain_Hierarchical_State_Space_Mode_TCSVT_2026_paper",
+      "title": "DH-Mamba: Exploring Dual-Domain Hierarchical State Space Models for MRI Reconstruction",
+      "authors": [
+        "Yucong Meng",
+        "Zhiwei Yang",
+        "Kexue Fu",
+        "Zhijian Song",
+        "Yonghong Shi"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614828",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614828"
+    },
+    {
+      "id": "Li_Real_World_Nighttime_Dehazing_via_Score_Guided_Multi_Scale_F_TCSVT_2026_paper",
+      "title": "Real-World Nighttime Dehazing via Score-Guided Multi-Scale Fusion and Dual-Channel Enhancement",
+      "authors": [
+        "Tao Li",
+        "Yun Liu",
+        "Shirui Luo",
+        "Wenqi Ren",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614973",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614973"
+    },
+    {
+      "id": "Zhan_BGC_Net_Bilateral_Graph_Convolutional_Network_for_Weakly_Sup_TCSVT_2026_paper",
+      "title": "BGC-Net: Bilateral Graph Convolutional Network for Weakly Supervised Semantic Segmentation of Large-Scale Point Clouds",
+      "authors": [
+        "Lixin Zhan",
+        "Yukun Du",
+        "Jie Jiang",
+        "Yingmei Wei",
+        "Tianjian Zhou",
+        "Ziyuan Yang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616307",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616307"
+    },
+    {
+      "id": "Cao_UNQA_Unified_No_Reference_Quality_Assessment_for_Audio_Image_TCSVT_2026_paper",
+      "title": "UNQA: Unified No-Reference Quality Assessment for Audio, Image, Video, and Audio-Visual Content",
+      "authors": [
+        "Yuqin Cao",
+        "Xiongkuo Min",
+        "Yixuan Gao",
+        "Wei Sun",
+        "Long Ye",
+        "Weisi Lin",
+        "Guangtao Zhai"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616155",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616155"
+    },
+    {
+      "id": "Yang_Quality_Assessment_and_Distortion_Aware_Saliency_Prediction__TCSVT_2026_paper",
+      "title": "Quality Assessment and Distortion-Aware Saliency Prediction for AI-Generated Omnidirectional Images",
+      "authors": [
+        "Liu Yang",
+        "Huiyu Duan",
+        "Jiarui Wang",
+        "Jing Liu",
+        "Menghan Hu",
+        "Xiongkuo Min",
+        "Guangtao Zhai",
+        "Patrick Le Callet"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616234",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616234"
+    },
+    {
+      "id": "Zhang_LMVQ_Label_Free_Metric_Learning_for_General_AI_Generated_Vid_TCSVT_2026_paper",
+      "title": "LMVQ: Label-Free Metric-Learning for General AI-Generated Video Quality Assessment",
+      "authors": [
+        "Zhichao Zhang",
+        "Xinyue Li",
+        "Wei Sun",
+        "Zicheng Zhang",
+        "Xiaohong Liu",
+        "Xiongkuo Min",
+        "Guangtao Zhai"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3618655",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3618655"
+    },
+    {
+      "id": "Sun_Mitigating_Low_Level_Visual_Hallucinations_Requires_Self_Awa_TCSVT_2026_paper",
+      "title": "Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model, and Training Strategy",
+      "authors": [
+        "Yinan Sun",
+        "Xiongkuo Min",
+        "Zicheng Zhang",
+        "Yixuan Gao",
+        "Yuqin Cao",
+        "Guangtao Zhai"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3619558",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3619558"
+    },
+    {
+      "id": "Tang_SAT_UIR_Self_Assessment_Training_for_Semi_Supervised_Underwa_TCSVT_2026_paper",
+      "title": "SAT-UIR: Self-Assessment Training for Semi-Supervised Underwater Image Restoration",
+      "authors": [
+        "Qianying Tang",
+        "Xiaoyu Guo",
+        "Wei Xiang",
+        "Xinyu Li",
+        "Dongjin Wang",
+        "Shunli Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3620566",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3620566"
+    },
+    {
+      "id": "Xiong_Cellular_Aggregation_Graph_Convolutional_Network_for_Point_C_TCSVT_2026_paper",
+      "title": "Cellular Aggregation Graph Convolutional Network for Point Cloud Quality Assessment",
+      "authors": [
+        "Jian Xiong",
+        "Lingxia Jiang",
+        "Qiang Hu",
+        "Chao Zhang",
+        "Jiucheng Xie",
+        "Hao Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3624798",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3624798"
+    },
+    {
+      "id": "Nami_JNTD_Toward_Just_Noticeable_Frame_Rate_Based_Temporal_Differ_TCSVT_2026_paper",
+      "title": "JNTD: Toward Just Noticeable Frame Rate-Based Temporal Difference for Perceptual Video Coding",
+      "authors": [
+        "Sanaz Nami",
+        "Farhad Pakdaman",
+        "Mahmoud Reza Hashemi",
+        "Shervin Shirmohammadi",
+        "Moncef Gabbouj"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625666",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625666"
+    },
+    {
+      "id": "Wang_DICFusion_Infrared_and_Visible_Image_Fusion_via_a_Deep_Integ_TCSVT_2026_paper",
+      "title": "DICFusion: Infrared and Visible Image Fusion via a Deep Integrated and Semantic-Coordinated Network",
+      "authors": [
+        "Qinghua Wang",
+        "Ziwei Li",
+        "Tianyun Wang",
+        "Shuqi Zhang",
+        "Yuhong Luo",
+        "Feng Bao",
+        "Nan Chi",
+        "Qionghai Dai"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625990",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625990"
+    },
+    {
+      "id": "Xu_A_Framework_With_Multi_Scale_Hybrid_Mamba_Voxel_Flow_for_Vid_TCSVT_2026_paper",
+      "title": "A Framework With Multi-Scale Hybrid Mamba Voxel Flow for Video Prediction",
+      "authors": [
+        "Muhao Xu",
+        "Baochen Fu",
+        "Dongyu Liu",
+        "Wenzhi Deng",
+        "Wei Yi",
+        "Yi Wan",
+        "Hua Wei",
+        "Weiye Song"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612980",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612980"
+    },
+    {
+      "id": "Li_Domain_Invariant_Feature_Enhancement_Domain_Adaptation_for_C_TCSVT_2026_paper",
+      "title": "Domain-Invariant Feature Enhancement Domain Adaptation for Cross-Scene Road Damage Detection",
+      "authors": [
+        "Jie Li",
+        "Zhong Qu",
+        "Xuehui Yin"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613484",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613484"
+    },
+    {
+      "id": "Luo_Proxy_Based_Classification_Boundary_Alignment_for_Few_Shot_C_TCSVT_2026_paper",
+      "title": "Proxy-Based Classification Boundary Alignment for Few-Shot Class-Incremental Learning",
+      "authors": [
+        "Yong Luo",
+        "Hongwei Ge",
+        "Guozhi Tang",
+        "Jiulin Fan",
+        "Bin Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3617128",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3617128"
+    },
+    {
+      "id": "Bi_Asking_Questions_to_Alleviate_Object_Hallucination_in_Large__TCSVT_2026_paper",
+      "title": "Asking Questions to Alleviate Object Hallucination in Large Vision-Language Models",
+      "authors": [
+        "Chao Bi",
+        "Tiantian Dang",
+        "Shuhui Wang",
+        "Feng Cao",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3618949",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3618949"
+    },
+    {
+      "id": "Dong_Temporal_Consistency_and_Variation_Guided_Spatio_Temporal_Ag_TCSVT_2026_paper",
+      "title": "Temporal Consistency and Variation-Guided Spatio-Temporal Aggregation for Few-Shot Action Recognition",
+      "authors": [
+        "Kaiwen Dong",
+        "Quanyi Li",
+        "Yanjing Sun",
+        "Xiao Yun",
+        "Yu Zhou",
+        "Kévin Riou",
+        "Xiaofeng Hou",
+        "Patrick Le Callet"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621451",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621451"
+    },
+    {
+      "id": "Zhou_ResFlow_Fine_Tuning_Residual_Optical_Flow_for_Event_Based_Hi_TCSVT_2026_paper",
+      "title": "ResFlow: Fine-Tuning Residual Optical Flow for Event-Based High Temporal Resolution Motion Estimation",
+      "authors": [
+        "Qianang Zhou",
+        "Zhiyu Zhu",
+        "Junhui Hou",
+        "Yongjian Deng",
+        "You Fu Li",
+        "Junlin Xiong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613559",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613559"
+    },
+    {
+      "id": "Xu_Point_Cloud_Analysis_Under_Slight_Perturbations_A_Manifold_D_TCSVT_2026_paper",
+      "title": "Point Cloud Analysis Under Slight Perturbations: A Manifold Distillation Approach Using Raw Coordinates",
+      "authors": [
+        "Xinyu Xu",
+        "Tao Zhang",
+        "Huazhen Liu",
+        "Feiming Wei",
+        "Huilin Xiong",
+        "Wenxian Yu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3612367",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3612367"
+    },
+    {
+      "id": "Tang_Diff_COPE_Diffusion_Based_Category_Level_6D_Object_Pose_Esti_TCSVT_2026_paper",
+      "title": "Diff-COPE: Diffusion-Based Category-Level 6D Object Pose Estimation",
+      "authors": [
+        "Yingbo Tang",
+        "Zhiqiang Cao",
+        "Peiyu Guan",
+        "Xurong Gong",
+        "Mengyao Wang",
+        "Junzhi Yu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613733",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613733"
+    },
+    {
+      "id": "Wu_Digital_Video_Stabilization_Method_Based_on_Jitter_Analysis__TCSVT_2026_paper",
+      "title": "Digital Video Stabilization Method Based on Jitter Analysis of Flapping-Wing Flying Robots",
+      "authors": [
+        "Xiaoyang Wu",
+        "Shengnan Liu",
+        "Rongfeng Chang",
+        "Qiang Fu",
+        "Wei He"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614375",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614375"
+    },
+    {
+      "id": "Guo_Discrepancy_Controlled_Region_Adaptive_Learning_Handling_Int_TCSVT_2026_paper",
+      "title": "Discrepancy-Controlled Region-Adaptive Learning: Handling Intra-Domain Bias for Crowd Counting",
+      "authors": [
+        "Mingyue Guo",
+        "Zimo Liu",
+        "Zhiyuan Wen",
+        "Yaowei Wang",
+        "Qixiang Ye"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3623903",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3623903"
+    },
+    {
+      "id": "Liu_TDSN_GCN_Transformerify_Overall_Structure_Decaying_Static_Gr_TCSVT_2026_paper",
+      "title": "TDSN-GCN: Transformerify Overall Structure Decaying Static Graph Embedding NAS-Guided GCN for Skeleton Action Recognition",
+      "authors": [
+        "Dongjingdian Liu",
+        "Yan Hu",
+        "Kaiwen Hua",
+        "Yijing Lu",
+        "Zi Zhang",
+        "Xiaobo Ma",
+        "Zhaoman Zhong",
+        "Pengpeng Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613478",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613478"
+    },
+    {
+      "id": "Lu_Fine_Tuning_via_Linked_Domains_A_Closed_Form_Dual_Alignment__TCSVT_2026_paper",
+      "title": "Fine-Tuning via Linked Domains: A Closed-Form Dual Alignment Mechanism for Transferring Vision-Language Models",
+      "authors": [
+        "Peiyu Lu",
+        "Xiaoxu Li",
+        "Rui Zhu",
+        "Zhanyu Ma",
+        "Jie Cao",
+        "Jing-Hao Xue"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613794",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613794"
+    },
+    {
+      "id": "Zhu_Deep_Inductive_and_Scalable_Subspace_Clustering_via_Nonlocal_TCSVT_2026_paper",
+      "title": "Deep Inductive and Scalable Subspace Clustering via Nonlocal Contrastive Self-Distillation",
+      "authors": [
+        "Wenjie Zhu",
+        "Bo Peng",
+        "Wei Qi Yan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613980",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613980"
+    },
+    {
+      "id": "Zhao_IDSTT_Iterative_Dual_Sample_Teacher_for_Semi_Supervised_Visu_TCSVT_2026_paper",
+      "title": "IDSTT: Iterative Dual-Sample-Teacher for Semi-Supervised Visual Object Tracking",
+      "authors": [
+        "Kunlong Zhao",
+        "Dawei Zhao",
+        "Liang Xiao",
+        "Yiming Nie",
+        "Yulong Huang",
+        "Yonggang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614181",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614181"
+    },
+    {
+      "id": "Xiao_Temporal_Enhanced_Multimodal_Transformer_for_Referring_Multi_TCSVT_2026_paper",
+      "title": "Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation",
+      "authors": [
+        "Changcheng Xiao",
+        "Qiong Cao",
+        "Yujie Zhong",
+        "Xiang Zhang",
+        "Tao Wang",
+        "Canqun Yang",
+        "Long Lan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3615851",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3615851"
+    },
+    {
+      "id": "Chen_CLIP_to_Seg_Distillation_for_Zero_Shot_Semantic_Segmentation_TCSVT_2026_paper",
+      "title": "CLIP-to-Seg Distillation for Zero-Shot Semantic Segmentation",
+      "authors": [
+        "Jialei Chen",
+        "Zhenzhen Quan",
+        "Chenkai Zhang",
+        "Xu Zheng",
+        "Daisuke Deguchi",
+        "Hiroshi Murase"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616588",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616588"
+    },
+    {
+      "id": "Shi_LoDisc_Learning_Global_Local_Discriminative_Features_for_Sel_TCSVT_2026_paper",
+      "title": "LoDisc: Learning Global-Local Discriminative Features for Self-Supervised Fine-Grained Visual Recognition",
+      "authors": [
+        "Jialu Shi",
+        "Zhiqiang Wei",
+        "Jie Nie",
+        "Lei Huang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3618279",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3618279"
+    },
+    {
+      "id": "Tang_AsyReC_A_Multimodal_Graph_Based_Framework_for_Spatio_Tempora_TCSVT_2026_paper",
+      "title": "AsyReC: A Multimodal Graph-Based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification",
+      "authors": [
+        "Wang Tang",
+        "Fethiye Irmak Dogan",
+        "Linbo Qing",
+        "Hatice Gunes"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616347",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616347"
+    },
+    {
+      "id": "Feng_Partial_Label_Learning_via_Mutual_Information_Representation_TCSVT_2026_paper",
+      "title": "Partial Label Learning via Mutual Information Representation Learning",
+      "authors": [
+        "Jian Feng",
+        "Linqing Huang",
+        "JiangNan Li",
+        "Kangrui Ren",
+        "Jinfu Fan",
+        "QingKai Bu",
+        "Min Gan",
+        "C. L. Philip Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621307",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621307"
+    },
+    {
+      "id": "Huang_SeCoMIL_Semantic_Anchor_Based_Context_Aware_Multiple_Instanc_TCSVT_2026_paper",
+      "title": "SeCoMIL: Semantic Anchor-Based Context-Aware Multiple Instance Learning for Whole Slide Image Classification",
+      "authors": [
+        "Shenjin Huang",
+        "GuoJun Liu",
+        "Linghan Cai",
+        "Hailun Cheng",
+        "Zichun Huang",
+        "Yongbing Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621757",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621757"
+    },
+    {
+      "id": "Chi_Cross_Hierarchical_Decoding_With_SAM_for_Semi_Supervised_Med_TCSVT_2026_paper",
+      "title": "Cross-Hierarchical Decoding With SAM for Semi-Supervised Medical Image Segmentation",
+      "authors": [
+        "Hanyang Chi",
+        "Mengyu Liu",
+        "Jin Wang",
+        "Xuru Gao",
+        "Guixun Luo",
+        "Bingfeng Zhang",
+        "Weifeng Liu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625276",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625276"
+    },
+    {
+      "id": "Zeng_Low_Light_Image_Enhancement_via_Diffusion_Models_With_Semant_TCSVT_2026_paper",
+      "title": "Low-Light Image Enhancement via Diffusion Models With Semantic Priors of Any Region",
+      "authors": [
+        "Xiangrui Zeng",
+        "Lingyu Zhu",
+        "Wenhan Yang",
+        "Howard Leung",
+        "Shiqi Wang",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3617320",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3617320"
+    },
+    {
+      "id": "Zhou_MedSAM_U_Uncertainty_Guided_Auto_Multi_Prompt_Adaptation_for_TCSVT_2026_paper",
+      "title": "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM",
+      "authors": [
+        "Nan Zhou",
+        "Ke Zou",
+        "Kai Ren",
+        "Mengting Luo",
+        "Linchao He",
+        "Meng Wang",
+        "Yidi Chen",
+        "Yi Zhang",
+        "Hu Chen",
+        "Huazhu Fu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3620396",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3620396"
+    },
+    {
+      "id": "Xu_De_LightSAM_Modality_Decoupled_Lightweight_SAM_for_Generaliz_TCSVT_2026_paper",
+      "title": "De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation",
+      "authors": [
+        "Qing Xu",
+        "Jiaxuan Li",
+        "Xiangjian He",
+        "Chenxin Li",
+        "Fiseha Berhanu Tesema",
+        "Wenting Duan",
+        "Zhen Chen",
+        "Rong Qu",
+        "Jonathan M. Garibaldi",
+        "Chang Wen Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621309",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621309"
+    },
+    {
+      "id": "Zhang_MambaPTP_Exploring_the_Potential_of_Mamba_for_Pedestrian_Tra_TCSVT_2026_paper",
+      "title": "MambaPTP: Exploring the Potential of Mamba for Pedestrian Trajectory Prediction",
+      "authors": [
+        "Shuangqing Zhang",
+        "Gangming Zhao",
+        "Fan Lyu",
+        "Songping Wang",
+        "Zhang Zhang",
+        "Fang Zhao",
+        "Jinpeng Li",
+        "Caifeng Shan",
+        "Liang Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3617529",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3617529"
+    },
+    {
+      "id": "Gu_IFPs_Free_Marker_Design_and_Threshold_Free_Detection_for_Def_TCSVT_2026_paper",
+      "title": "IFPs-Free Marker Design and Threshold-Free Detection for Deformable Surface Tracking",
+      "authors": [
+        "Xianrui Gu",
+        "Mingzhu Zhu",
+        "Hong Zhang",
+        "Bingwei He"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621619",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621619"
+    },
+    {
+      "id": "Tang_State_Space_Models_for_Natural_Language_Tracking_Exploring_C_TCSVT_2026_paper",
+      "title": "State Space Models for Natural Language Tracking: Exploring Context-Adaptive Language Cues",
+      "authors": [
+        "Yuyang Tang",
+        "Yinchao Ma",
+        "Dengqing Yang",
+        "Jie Xiao",
+        "Tianzhu Zhang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3623281",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3623281"
+    },
+    {
+      "id": "Li_Improving_Transferability_of_Adversarial_Examples_via_Bayesi_TCSVT_2026_paper",
+      "title": "Improving Transferability of Adversarial Examples via Bayesian Attacks",
+      "authors": [
+        "Qizhang Li",
+        "Yiwen Guo",
+        "Xiaochen Yang",
+        "Wangmeng Zuo",
+        "Hao Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3609284",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3609284"
+    },
+    {
+      "id": "Peng_DeepFidelity_Perceptual_Forgery_Fidelity_Assessment_for_Deep_TCSVT_2026_paper",
+      "title": "DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection",
+      "authors": [
+        "Chunlei Peng",
+        "Huiqing Guo",
+        "Decheng Liu",
+        "Nannan Wang",
+        "Ruimin Hu",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621207",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621207"
+    },
+    {
+      "id": "Xiao_SGCNeRF_Few_Shot_Neural_Rendering_via_Sparse_Geometric_Consi_TCSVT_2026_paper",
+      "title": "SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance",
+      "authors": [
+        "Yuru Xiao",
+        "Xianming Liu",
+        "Deming Zhai",
+        "Kui Jiang",
+        "Junjun Jiang",
+        "Xiangyang Ji"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3610950",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3610950"
+    },
+    {
+      "id": "Wang_ViMAEdit_Vision_Guided_and_Mask_Enhanced_Adaptive_Editing_Al_TCSVT_2026_paper",
+      "title": "ViMAEdit: Vision-Guided and Mask-Enhanced Adaptive Editing Algorithm for Prompt-Based Image Editing",
+      "authors": [
+        "Kejie Wang",
+        "Xuemeng Song",
+        "Meng Liu",
+        "Jin Yuan",
+        "Weili Guan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3616964",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3616964"
+    },
+    {
+      "id": "Luo_Uncertainty_Adaptive_Volume_for_Unsupervised_Homography_Esti_TCSVT_2026_paper",
+      "title": "Uncertainty-Adaptive Volume for Unsupervised Homography Estimation",
+      "authors": [
+        "Jianqiao Luo",
+        "Yaonan Wang",
+        "Mingtao Feng",
+        "Zhen Zhou",
+        "Xuebing Liu",
+        "Yang Mo"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3620557",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3620557"
+    },
+    {
+      "id": "Huang_A_77_9_Cycle_Reduced_Bubble_Removing_Strategy_for_Hardware_R_TCSVT_2026_paper",
+      "title": "A 77.9%-Cycle-Reduced Bubble-Removing Strategy for Hardware RDO Supporting QTMTT in VVC",
+      "authors": [
+        "Chengkang Huang",
+        "Leilei Huang",
+        "Taoyu Zhang",
+        "Wei Li",
+        "Chang Liu",
+        "Shuocheng Wang",
+        "Ke Xu",
+        "Yibo Fan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3624844",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3624844"
+    },
+    {
+      "id": "Pan_An_Efficient_Neural_Rate_Control_for_JPEG_AI_TCSVT_2026_paper",
+      "title": "An Efficient Neural Rate Control for JPEG-AI",
+      "authors": [
+        "Xiang Pan",
+        "Guanchen Ding",
+        "Zhenzhong Chen",
+        "Chang Wen Chen"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3614007",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3614007"
+    },
+    {
+      "id": "Wang_Efficient_Occupancy_Prediction_Guided_Point_Cloud_Geometry_C_TCSVT_2026_paper",
+      "title": "Efficient Occupancy Prediction Guided Point Cloud Geometry Compression",
+      "authors": [
+        "Xinjie Wang",
+        "Yifan Zhang",
+        "Ting Liu",
+        "Xinpu Liu",
+        "Ke Xu",
+        "Jianwei Wan",
+        "Yulan Guo",
+        "Hanyun Wang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3624369",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3624369"
+    },
+    {
+      "id": "Liu_Evaluating_the_Adversarial_Robustness_of_Vision_Language_Mod_TCSVT_2026_paper",
+      "title": "Evaluating the Adversarial Robustness of Vision-Language Models via Internal Feature Perturbations",
+      "authors": [
+        "Chaohu Liu",
+        "Yubo Wang",
+        "Haoyu Cao",
+        "Bing Liu",
+        "Deqiang Jiang"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3625396",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3625396"
+    },
+    {
+      "id": "Wu_UDA_rPPG_Unsupervised_Geometric_Physiological_Domain_Anchori_TCSVT_2026_paper",
+      "title": "UDA-rPPG: Unsupervised Geometric-Physiological Domain Anchoring for Low-Light rPPG Measurement",
+      "authors": [
+        "Junjun Wu",
+        "Xu Cheng",
+        "Yan Jiang",
+        "Zhaodong Sun",
+        "Xiaobai Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3613370",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3613370"
+    },
+    {
+      "id": "Chen_Learning_a_Self_Supervised_Low_Rank_Decomposition_Network_fo_TCSVT_2026_paper",
+      "title": "Learning a Self-Supervised Low-Rank Decomposition Network for Hyperspectral Image Super-Resolution",
+      "authors": [
+        "Yong Chen",
+        "Min Zhou",
+        "Xinfeng Gui",
+        "Feiwang Yuan",
+        "Wei He",
+        "Jinshan Zeng"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3621300",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3621300"
+    },
+    {
+      "id": "Wang_Reversible_Unlearnable_Examples_Toward_the_Copyright_Protect_TCSVT_2026_paper",
+      "title": "Reversible Unlearnable Examples: Toward the Copyright Protection in Deep Learning Era",
+      "authors": [
+        "Binze Wang",
+        "Jinyu Tian",
+        "Xingrun Wang",
+        "Xiaochen Yuan",
+        "Jianqing Li"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3619199",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3619199"
+    },
+    {
+      "id": "Zhou_RCNet_Dual_Network_Resonance_Collaboration_via_Mutual_Learni_TCSVT_2026_paper",
+      "title": "RCNet: Dual-Network Resonance Collaboration via Mutual Learning for RGB-D Road Defect Detection",
+      "authors": [
+        "Wujie Zhou",
+        "Zijun Ju",
+        "Runmin Cong",
+        "Weiqing Yan"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3617769",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3617769"
+    },
+    {
+      "id": "Gao_MVFormer_UNet_Like_Transformer_With_Mix_Voxel_Attention_for__TCSVT_2026_paper",
+      "title": "MVFormer: UNet-Like Transformer With Mix-Voxel Attention for Camera-Based 3D Semantic Scene Completion",
+      "authors": [
+        "Feixiang Gao",
+        "Yang Chen",
+        "Ke Wang",
+        "Peng Zhou",
+        "Jianbo Lu"
+      ],
+      "year": "2026",
+      "venue": "tcsvt",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3619211",
+      "pdfUrl": "https://doi.org/10.1109/TCSVT.2025.3619211"
+    }
+  ]
+}

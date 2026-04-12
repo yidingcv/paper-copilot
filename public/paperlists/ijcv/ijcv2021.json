@@ -1,0 +1,2488 @@
+{
+  "papers": [
+    {
+      "id": "Nie_View_Transfer_on_Human_Skeleton_Pose_Automatically_Disentang_IJCV_2021_paper",
+      "title": "View Transfer on Human Skeleton Pose: Automatically Disentangle the View-Variant and View-Invariant Information for Pose Representation Learning",
+      "authors": [
+        "Qiang Nie",
+        "Yunhui Liu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01354-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01354-7.pdf"
+    },
+    {
+      "id": "Ma_Image_Matching_from_Handcrafted_to_Deep_Features_A_Survey_IJCV_2021_paper",
+      "title": "Image Matching from Handcrafted to Deep Features: A Survey",
+      "authors": [
+        "Jiayi Ma",
+        "Xingyu Jiang",
+        "Aoxiang Fan",
+        "Junjun Jiang",
+        "Junchi Yan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01359-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf"
+    },
+    {
+      "id": "Steger_A_Camera_Model_for_Line_Scan_Cameras_with_Telecentric_Lenses_IJCV_2021_paper",
+      "title": "A Camera Model for Line-Scan Cameras with Telecentric Lenses",
+      "authors": [
+        "Carsten Steger",
+        "Markus Ulrich"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01358-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01358-3.pdf"
+    },
+    {
+      "id": "Lao_Solving_Rolling_Shutter_3D_Vision_Problems_using_Analogies_w_IJCV_2021_paper",
+      "title": "Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity",
+      "authors": [
+        "Yizhen Lao",
+        "Omar Ait-Aider",
+        "Adrien Bartoli"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01368-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01368-1.pdf"
+    },
+    {
+      "id": "Mustafa_Temporally_Coherent_General_Dynamic_Scene_Reconstruction_IJCV_2021_paper",
+      "title": "Temporally Coherent General Dynamic Scene Reconstruction",
+      "authors": [
+        "Armin Mustafa",
+        "Marco Volino",
+        "Hansung Kim",
+        "Jean-Yves Guillemaut",
+        "Adrian Hilton"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01367-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01367-2.pdf"
+    },
+    {
+      "id": "Chen_Recursive_Context_Routing_for_Object_Detection_IJCV_2021_paper",
+      "title": "Recursive Context Routing for Object Detection",
+      "authors": [
+        "Zhe Chen",
+        "Jing Zhang",
+        "Dacheng Tao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01370-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01370-7.pdf"
+    },
+    {
+      "id": "Long_Scene_Text_Detection_and_Recognition_The_Deep_Learning_Era_IJCV_2021_paper",
+      "title": "Scene Text Detection and Recognition: The Deep Learning Era",
+      "authors": [
+        "Shangbang Long",
+        "Xin He",
+        "Cong Yao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01369-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01369-0.pdf"
+    },
+    {
+      "id": "Piasco_Improving_Image_Description_with_Auxiliary_Modality_for_Visu_IJCV_2021_paper",
+      "title": "Improving Image Description with Auxiliary Modality for Visual Localization in Challenging Conditions",
+      "authors": [
+        "Nathan Piasco",
+        "Désiré Sidibé",
+        "Valérie Gouet-Brunet",
+        "Cédric Demonceaux"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01363-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01363-6.pdf"
+    },
+    {
+      "id": "Jiang_DeepVS2_0_A_Saliency_Structured_Deep_Learning_Method_for_Pre_IJCV_2021_paper",
+      "title": "DeepVS2.0: A Saliency-Structured Deep Learning Method for Predicting Dynamic Visual Attention",
+      "authors": [
+        "Lai Jiang",
+        "Mai Xu",
+        "Zulin Wang",
+        "Leonid Sigal"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01371-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01371-6.pdf"
+    },
+    {
+      "id": "Wang_Pixel_Wise_Crowd_Understanding_via_Synthetic_Data_IJCV_2021_paper",
+      "title": "Pixel-Wise Crowd Understanding via Synthetic Data",
+      "authors": [
+        "Qi Wang",
+        "Junyu Gao",
+        "Wei Lin",
+        "Yuan Yuan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01365-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01365-4.pdf"
+    },
+    {
+      "id": "Vasudevan_Talk2Nav_Long_Range_Vision_and_Language_Navigation_with_Dual_IJCV_2021_paper",
+      "title": "Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory",
+      "authors": [
+        "Arun Balajee Vasudevan",
+        "Dengxin Dai",
+        "Luc Van Gool"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01374-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01374-3.pdf"
+    },
+    {
+      "id": "Li_Unsupervised_Domain_Adaptation_in_the_Wild_via_Disentangling_IJCV_2021_paper",
+      "title": "Unsupervised Domain Adaptation in the Wild via Disentangling Representation Learning",
+      "authors": [
+        "Haoliang Li",
+        "Renjie Wan",
+        "Shiqi Wang",
+        "Alex C. Kot"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01364-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01364-5.pdf"
+    },
+    {
+      "id": "Leroy_Volume_Sweeping_Learning_Photoconsistency_for_Multi_View_Sha_IJCV_2021_paper",
+      "title": "Volume Sweeping: Learning Photoconsistency for Multi-View Shape Reconstruction",
+      "authors": [
+        "Vincent Leroy",
+        "Jean-Sébastien Franco",
+        "Edmond Boyer"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01377-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01377-0.pdf"
+    },
+    {
+      "id": "Zhang_Beyond_Covariance_SICE_and_Kernel_Based_Visual_Feature_Repre_IJCV_2021_paper",
+      "title": "Beyond Covariance: SICE and Kernel Based Visual Feature Representation",
+      "authors": [
+        "Jianjia Zhang",
+        "Lei Wang",
+        "Luping Zhou",
+        "Wanqing Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01376-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01376-1.pdf"
+    },
+    {
+      "id": "Shao_J_A_Net_Joint_Facial_Action_Unit_Detection_and_Face_Alignmen_IJCV_2021_paper",
+      "title": "JÂA-Net: Joint Facial Action Unit Detection and Face Alignment Via Adaptive Attention",
+      "authors": [
+        "Zhiwen Shao",
+        "Zhilei Liu",
+        "Jianfei Cai",
+        "Lizhuang Ma"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01378-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01378-z.pdf"
+    },
+    {
+      "id": "Tremblay_Rain_Rendering_for_Evaluating_and_Improving_Robustness_to_Ba_IJCV_2021_paper",
+      "title": "Rain Rendering for Evaluating and Improving Robustness to Bad Weather",
+      "authors": [
+        "Maxime Tremblay",
+        "Shirsendu Sukanta Halder",
+        "Raoul de Charette",
+        "Jean-François Lalonde"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01366-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01366-3.pdf"
+    },
+    {
+      "id": "Chan_A_Comprehensive_Analysis_of_Weakly_Supervised_Semantic_Segme_IJCV_2021_paper",
+      "title": "A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains",
+      "authors": [
+        "Lyndon Chan",
+        "Mahdi S. Hosseini",
+        "Konstantinos N. Plataniotis"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01373-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01373-4.pdf"
+    },
+    {
+      "id": "Wan_Face_Image_Reflection_Removal_IJCV_2021_paper",
+      "title": "Face Image Reflection Removal",
+      "authors": [
+        "Renjie Wan",
+        "Boxin Shi",
+        "Haoliang Li",
+        "Ling-Yu Duan",
+        "Alex C. Kot"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01372-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01372-5.pdf"
+    },
+    {
+      "id": "Wang_Unsupervised_Deep_Representation_Learning_for_Real_Time_Trac_IJCV_2021_paper",
+      "title": "Unsupervised Deep Representation Learning for Real-Time Tracking",
+      "authors": [
+        "Ning Wang",
+        "Wengang Zhou",
+        "Yibing Song",
+        "Chao Ma",
+        "Wei Liu",
+        "Houqiang Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01357-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01357-4.pdf"
+    },
+    {
+      "id": "Morgado_Deep_Hashing_with_Hash_Consistent_Large_Margin_Proxy_Embeddi_IJCV_2021_paper",
+      "title": "Deep Hashing with Hash-Consistent Large Margin Proxy Embeddings",
+      "authors": [
+        "Pedro Morgado",
+        "Yunsheng Li",
+        "José Costa Pereira",
+        "Mohammad J. Saberian",
+        "Nuno Vasconcelos"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01362-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01362-7.pdf"
+    },
+    {
+      "id": "Fan_LaSOT_A_High_quality_Large_scale_Single_Object_Tracking_Benc_IJCV_2021_paper",
+      "title": "LaSOT: A High-quality Large-scale Single Object Tracking Benchmark",
+      "authors": [
+        "Heng Fan",
+        "Hexin Bai",
+        "Liting Lin",
+        "Fan Yang",
+        "Peng Chu",
+        "Ge Deng",
+        "Sijia Yu",
+        "Harshit",
+        "Mingzhen Huang",
+        "Juehuan Liu",
+        "Yong Xu",
+        "Chunyuan Liao",
+        "Lin Yuan",
+        "Haibin Ling"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01387-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01387-y.pdf"
+    },
+    {
+      "id": "Kamann_Benchmarking_the_Robustness_of_Semantic_Segmentation_Models__IJCV_2021_paper",
+      "title": "Benchmarking the Robustness of Semantic Segmentation Models with Respect to Common Corruptions",
+      "authors": [
+        "Christoph Kamann",
+        "Carsten Rother"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01383-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01383-2.pdf"
+    },
+    {
+      "id": "Yu_Fine_Grained_Instance_Level_Sketch_Based_Image_Retrieval_IJCV_2021_paper",
+      "title": "Fine-Grained Instance-Level Sketch-Based Image Retrieval",
+      "authors": [
+        "Qian Yu",
+        "Jifei Song",
+        "Yi-Zhe Song",
+        "Tao Xiang",
+        "Timothy M. Hospedales"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01382-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01382-3.pdf"
+    },
+    {
+      "id": "Chen_Binarized_Neural_Architecture_Search_for_Efficient_Object_Re_IJCV_2021_paper",
+      "title": "Binarized Neural Architecture Search for Efficient Object Recognition",
+      "authors": [
+        "Hanlin Chen",
+        "Li'an Zhuo",
+        "Baochang Zhang",
+        "Xiawu Zheng",
+        "Jianzhuang Liu",
+        "Rongrong Ji",
+        "David S. Doermann",
+        "Guodong Guo"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01379-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01379-y.pdf"
+    },
+    {
+      "id": "Jin_Image_Matching_Across_Wide_Baselines_From_Paper_to_Practice_IJCV_2021_paper",
+      "title": "Image Matching Across Wide Baselines: From Paper to Practice",
+      "authors": [
+        "Yuhe Jin",
+        "Dmytro Mishkin",
+        "Anastasiia Mishchuk",
+        "Jiri Matas",
+        "Pascal Fua",
+        "Kwang Moo Yi",
+        "Eduard Trulls"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01385-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01385-0.pdf"
+    },
+    {
+      "id": "Luiten_HOTA_A_Higher_Order_Metric_for_Evaluating_Multi_object_Track_IJCV_2021_paper",
+      "title": "HOTA: A Higher Order Metric for Evaluating Multi-object Tracking",
+      "authors": [
+        "Jonathon Luiten",
+        "Aljosa Osep",
+        "Patrick Dendorfer",
+        "Philip H. S. Torr",
+        "Andreas Geiger",
+        "Laura Leal-Taixé",
+        "Bastian Leibe"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01375-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01375-2.pdf"
+    },
+    {
+      "id": "Kim_Deformable_Kernel_Networks_for_Joint_Image_Filtering_IJCV_2021_paper",
+      "title": "Deformable Kernel Networks for Joint Image Filtering",
+      "authors": [
+        "Beomjun Kim",
+        "Jean Ponce",
+        "Bumsub Ham"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01386-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01386-z.pdf"
+    },
+    {
+      "id": "Xu_Progressive_Multi_granularity_Analysis_for_Video_Prediction_IJCV_2021_paper",
+      "title": "Progressive Multi-granularity Analysis for Video Prediction",
+      "authors": [
+        "Jingwei Xu",
+        "Bingbing Ni",
+        "Xiaokang Yang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01389-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01389-w.pdf"
+    },
+    {
+      "id": "Feng_Residual_Dual_Scale_Scene_Text_Spotting_by_Fusing_Bottom_Up__IJCV_2021_paper",
+      "title": "Residual Dual Scale Scene Text Spotting by Fusing Bottom-Up and Top-Down Processing",
+      "authors": [
+        "Wei Feng",
+        "Fei Yin",
+        "Xu-Yao Zhang",
+        "Wenhao He",
+        "Cheng-Lin Liu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01388-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01388-x.pdf"
+    },
+    {
+      "id": "Chen_Progressive_DARTS_Bridging_the_Optimization_Gap_for_NAS_in_t_IJCV_2021_paper",
+      "title": "Progressive DARTS: Bridging the Optimization Gap for NAS in the Wild",
+      "authors": [
+        "Xin Chen",
+        "Lingxi Xie",
+        "Jun Wu",
+        "Qi Tian"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01396-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01396-x.pdf"
+    },
+    {
+      "id": "Wegmayr_Entrack_Probabilistic_Spherical_Regression_with_Entropy_Regu_IJCV_2021_paper",
+      "title": "Entrack: Probabilistic Spherical Regression with Entropy Regularization for Fiber Tractography",
+      "authors": [
+        "Viktor Wegmayr",
+        "Joachim M. Buhmann"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01384-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01384-1.pdf"
+    },
+    {
+      "id": "Song_Weakly_Supervised_Group_Mask_Network_for_Object_Detection_IJCV_2021_paper",
+      "title": "Weakly Supervised Group Mask Network for Object Detection",
+      "authors": [
+        "Lingyun Song",
+        "Jun Liu",
+        "Mingxuan Sun",
+        "Xuequn Shang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01397-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01397-w.pdf"
+    },
+    {
+      "id": "Zhang_AdaFuse_Adaptive_Multiview_Fusion_for_Accurate_Human_Pose_Es_IJCV_2021_paper",
+      "title": "AdaFuse: Adaptive Multiview Fusion for Accurate Human Pose Estimation in the Wild",
+      "authors": [
+        "Zhe Zhang",
+        "Chunyu Wang",
+        "Weichao Qiu",
+        "Wenhu Qin",
+        "Wenjun Zeng"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01398-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01398-9.pdf"
+    },
+    {
+      "id": "Teng_Viewpoint_and_Scale_Consistency_Reinforcement_for_UAV_Vehicl_IJCV_2021_paper",
+      "title": "Viewpoint and Scale Consistency Reinforcement for UAV Vehicle Re-Identification",
+      "authors": [
+        "Shangzhi Teng",
+        "Shiliang Zhang",
+        "Qingming Huang",
+        "Nicu Sebe"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01402-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01402-2.pdf"
+    },
+    {
+      "id": "Kortylewski_Compositional_Convolutional_Neural_Networks_A_Robust_and_Int_IJCV_2021_paper",
+      "title": "Compositional Convolutional Neural Networks: A Robust and Interpretable Model for Object Recognition Under Occlusion",
+      "authors": [
+        "Adam Kortylewski",
+        "Qing Liu",
+        "Angtian Wang",
+        "Yihong Sun",
+        "Alan L. Yuille"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01401-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01401-3.pdf"
+    },
+    {
+      "id": "Shen_CDTD_A_Large_Scale_Cross_Domain_Benchmark_for_Instance_Level_IJCV_2021_paper",
+      "title": "CDTD: A Large-Scale Cross-Domain Benchmark for Instance-Level Image-to-Image Translation and Domain Adaptive Object Detection",
+      "authors": [
+        "Zhiqiang Shen",
+        "Mingyang Huang",
+        "Jianping Shi",
+        "Zechun Liu",
+        "Harsh Maheshwari",
+        "Yutong Zheng",
+        "Xiangyang Xue",
+        "Marios Savvides",
+        "Thomas S. Huang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01394-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01394-z.pdf"
+    },
+    {
+      "id": "Yuille_Deep_Nets_What_have_They_Ever_Done_for_Vision__IJCV_2021_paper",
+      "title": "Deep Nets: What have They Ever Done for Vision?",
+      "authors": [
+        "Alan L. Yuille",
+        "Chenxi Liu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01405-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01405-z.pdf"
+    },
+    {
+      "id": "Chai_Correction_to_Rooted_Spanning_Superpixels_IJCV_2021_paper",
+      "title": "Correction to: Rooted Spanning Superpixels",
+      "authors": [
+        "Dengfeng Chai"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01391-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01391-2.pdf"
+    },
+    {
+      "id": "Keller_Learning_Extremal_Representations_with_Deep_Archetypal_Analy_IJCV_2021_paper",
+      "title": "Learning Extremal Representations with Deep Archetypal Analysis",
+      "authors": [
+        "Sebastian Mathias Keller",
+        "Maxim Samarin",
+        "Fabricio Arend Torres",
+        "Mario Wieser",
+        "Volker Roth"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01390-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01390-3.pdf"
+    },
+    {
+      "id": "Zhang_Reference_Pose_Generation_for_Long_term_Visual_Localization__IJCV_2021_paper",
+      "title": "Reference Pose Generation for Long-term Visual Localization via Learned Features and View Synthesis",
+      "authors": [
+        "Zichao Zhang",
+        "Torsten Sattler",
+        "Davide Scaramuzza"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01399-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01399-8.pdf"
+    },
+    {
+      "id": "Dendorfer_MOTChallenge_A_Benchmark_for_Single_Camera_Multiple_Target_T_IJCV_2021_paper",
+      "title": "MOTChallenge: A Benchmark for Single-Camera Multiple Target Tracking",
+      "authors": [
+        "Patrick Dendorfer",
+        "Aljosa Osep",
+        "Anton Milan",
+        "Konrad Schindler",
+        "Daniel Cremers",
+        "Ian Reid",
+        "Stefan Roth",
+        "Laura Leal-Taixé"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01393-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01393-0.pdf"
+    },
+    {
+      "id": "Jensen_A_Benchmark_and_Evaluation_of_Non_Rigid_Structure_from_Motio_IJCV_2021_paper",
+      "title": "A Benchmark and Evaluation of Non-Rigid Structure from Motion",
+      "authors": [
+        "Sebastian Hoppe Nesgaard Jensen",
+        "Mads Emil Brix Doest",
+        "Henrik Aanæs",
+        "Alessio Del Bue"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01406-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01406-y.pdf"
+    },
+    {
+      "id": "I_Learning_to_Reconstruct_HDR_Images_from_Events_with_Applicat_IJCV_2021_paper",
+      "title": "Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction",
+      "authors": [
+        "S. Mohammad Mostafavi I.",
+        "Lin Wang",
+        "Kuk-Jin Yoon"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01410-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01410-2.pdf"
+    },
+    {
+      "id": "Peng_Hierarchical_Visual_Textual_Knowledge_Distillation_for_Life__IJCV_2021_paper",
+      "title": "Hierarchical Visual-Textual Knowledge Distillation for Life-Long Correlation Learning",
+      "authors": [
+        "Yuxin Peng",
+        "Jinwei Qi",
+        "Zhaoda Ye",
+        "Yunkan Zhuo"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01392-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01392-1.pdf"
+    },
+    {
+      "id": "Synakowski_Adding_Knowledge_to_Unsupervised_Algorithms_for_the_Recognit_IJCV_2021_paper",
+      "title": "Adding Knowledge to Unsupervised Algorithms for the Recognition of Intent",
+      "authors": [
+        "Stuart Synakowski",
+        "Qianli Feng",
+        "Aleix M. Martínez"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01404-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01404-0.pdf"
+    },
+    {
+      "id": "Luo_Separating_Content_from_Style_Using_Adversarial_Learning_for_IJCV_2021_paper",
+      "title": "Separating Content from Style Using Adversarial Learning for Recognizing Text in the Wild",
+      "authors": [
+        "Canjie Luo",
+        "Qingxiang Lin",
+        "Yuliang Liu",
+        "Lianwen Jin",
+        "Chunhua Shen"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01411-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01411-1.pdf"
+    },
+    {
+      "id": "Black_Evaluation_of_Inpainting_and_Augmentation_for_Censored_Image_IJCV_2021_paper",
+      "title": "Evaluation of Inpainting and Augmentation for Censored Image Queries",
+      "authors": [
+        "Samuel Black",
+        "Somayeh Keshavarz",
+        "Richard Souvenir"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01403-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01403-1.pdf"
+    },
+    {
+      "id": "Liu_Rectified_Binary_Convolutional_Networks_with_Generative_Adve_IJCV_2021_paper",
+      "title": "Rectified Binary Convolutional Networks with Generative Adversarial Learning",
+      "authors": [
+        "Chunlei Liu",
+        "Wenrui Ding",
+        "Yuan Hu",
+        "Baochang Zhang",
+        "Jianzhuang Liu",
+        "Guodong Guo",
+        "David S. Doermann"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01417-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01417-9.pdf"
+    },
+    {
+      "id": "Zhang_Beyond_Brightening_Low_light_Images_IJCV_2021_paper",
+      "title": "Beyond Brightening Low-light Images",
+      "authors": [
+        "Yonghua Zhang",
+        "Xiaojie Guo",
+        "Jiayi Ma",
+        "Wei Liu",
+        "Jiawan Zhang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01407-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01407-x.pdf"
+    },
+    {
+      "id": "Bergmann_The_MVTec_Anomaly_Detection_Dataset_A_Comprehensive_Real_Wor_IJCV_2021_paper",
+      "title": "The MVTec Anomaly Detection Dataset: A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection",
+      "authors": [
+        "Paul Bergmann",
+        "Kilian Batzner",
+        "Michael Fauser",
+        "David Sattlegger",
+        "Carsten Steger"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01400-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01400-4.pdf"
+    },
+    {
+      "id": "Jiang_Parallel_Single_Pixel_Imaging_A_General_Method_for_Direct_Gl_IJCV_2021_paper",
+      "title": "Parallel Single-Pixel Imaging: A General Method for Direct-Global Separation and 3D Shape Reconstruction Under Strong Global Illumination",
+      "authors": [
+        "Hongzhi Jiang",
+        "Yuxi Li",
+        "Huijie Zhao",
+        "Xudong Li",
+        "Yang Xu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01413-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01413-z.pdf"
+    },
+    {
+      "id": "Li_AutoDet_Pyramid_Network_Architecture_Search_for_Object_Detec_IJCV_2021_paper",
+      "title": "AutoDet: Pyramid Network Architecture Search for Object Detection",
+      "authors": [
+        "Zhihang Li",
+        "Teng Xi",
+        "Gang Zhang",
+        "Jingtuo Liu",
+        "Ran He"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01415-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01415-x.pdf"
+    },
+    {
+      "id": "Zheng_Rectifying_Pseudo_Label_Learning_via_Uncertainty_Estimation__IJCV_2021_paper",
+      "title": "Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation",
+      "authors": [
+        "Zhedong Zheng",
+        "Yi Yang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01395-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01395-y.pdf"
+    },
+    {
+      "id": "Chen_A_Shape_Transformation_based_Dataset_Augmentation_Framework__IJCV_2021_paper",
+      "title": "A Shape Transformation-based Dataset Augmentation Framework for Pedestrian Detection",
+      "authors": [
+        "Zhe Chen",
+        "Wanli Ouyang",
+        "Tongliang Liu",
+        "Dacheng Tao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01412-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01412-0.pdf"
+    },
+    {
+      "id": "Zunino_Excitation_Dropout_Encouraging_Plasticity_in_Deep_Neural_Net_IJCV_2021_paper",
+      "title": "Excitation Dropout: Encouraging Plasticity in Deep Neural Networks",
+      "authors": [
+        "Andrea Zunino",
+        "Sarah Adel Bargal",
+        "Pietro Morerio",
+        "Jianming Zhang",
+        "Stan Sclaroff",
+        "Vittorio Murino"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01422-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01422-y.pdf"
+    },
+    {
+      "id": "Liu_Benchmarking_Low_Light_Image_Enhancement_and_Beyond_IJCV_2021_paper",
+      "title": "Benchmarking Low-Light Image Enhancement and Beyond",
+      "authors": [
+        "Jiaying Liu",
+        "Dejia Xu",
+        "Wenhan Yang",
+        "Minhao Fan",
+        "Haofeng Huang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01418-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf"
+    },
+    {
+      "id": "Shekar_Label_Free_Robustness_Estimation_of_Object_Detection_CNNs_fo_IJCV_2021_paper",
+      "title": "Label-Free Robustness Estimation of Object Detection CNNs for Autonomous Driving Applications",
+      "authors": [
+        "Arvind Kumar Shekar",
+        "Liang Gou",
+        "Liu Ren",
+        "Axel Wendt"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01423-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01423-x.pdf"
+    },
+    {
+      "id": "Gao_Incremental_Rotation_Averaging_IJCV_2021_paper",
+      "title": "Incremental Rotation Averaging",
+      "authors": [
+        "Xiang Gao",
+        "Lingjie Zhu",
+        "Zexiao Xie",
+        "Hongmin Liu",
+        "Shuhan Shen"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01427-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01427-7.pdf"
+    },
+    {
+      "id": "PascualEscudero_Complete_Singularity_Analysis_for_the_Perspective_Four_Point_IJCV_2021_paper",
+      "title": "Complete Singularity Analysis for the Perspective-Four-Point Problem",
+      "authors": [
+        "Beatriz Pascual-Escudero",
+        "Abhilash Nayak",
+        "Sébastien Briot",
+        "Olivier Kermorgant",
+        "Philippe Martinet",
+        "Mohab Safey El Din",
+        "François Chaumette"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01420-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01420-0.pdf"
+    },
+    {
+      "id": "Li_Unified_Quality_Assessment_of_in_the_Wild_Videos_with_Mixed__IJCV_2021_paper",
+      "title": "Unified Quality Assessment of in-the-Wild Videos with Mixed Datasets Training",
+      "authors": [
+        "Dingquan Li",
+        "Tingting Jiang",
+        "Ming Jiang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01408-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01408-w.pdf"
+    },
+    {
+      "id": "Ding_Comparison_of_Full_Reference_Image_Quality_Models_for_Optimi_IJCV_2021_paper",
+      "title": "Comparison of Full-Reference Image Quality Models for Optimization of Image Processing Systems",
+      "authors": [
+        "Keyan Ding",
+        "Kede Ma",
+        "Shiqi Wang",
+        "Eero P. Simoncelli"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01419-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01419-7.pdf"
+    },
+    {
+      "id": "Huang_Selective_Wavelet_Attention_Learning_for_Single_Image_Derain_IJCV_2021_paper",
+      "title": "Selective Wavelet Attention Learning for Single Image Deraining",
+      "authors": [
+        "Huaibo Huang",
+        "Aijing Yu",
+        "Zhenhua Chai",
+        "Ran He",
+        "Tieniu Tan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01421-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01421-z.pdf"
+    },
+    {
+      "id": "Li_A_Comprehensive_Benchmark_Analysis_of_Single_Image_Deraining_IJCV_2021_paper",
+      "title": "A Comprehensive Benchmark Analysis of Single Image Deraining: Current Challenges and Future Perspectives",
+      "authors": [
+        "Siyuan Li",
+        "Wenqi Ren",
+        "Feng Wang",
+        "Iago Breno Araujo",
+        "Eric K. Tokuda",
+        "Roberto Hirata Junior",
+        "Roberto M. Cesar Jr.",
+        "Zhangyang Wang",
+        "Xiaochun Cao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01416-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf"
+    },
+    {
+      "id": "Xu_DeepFlux_for_Skeleton_Detection_in_the_Wild_IJCV_2021_paper",
+      "title": "DeepFlux for Skeleton Detection in the Wild",
+      "authors": [
+        "Yongchao Xu",
+        "Yukang Wang",
+        "Stavros Tsogkas",
+        "Jianqiang Wan",
+        "Xiang Bai",
+        "Sven J. Dickinson",
+        "Kaleem Siddiqi"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01430-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01430-6.pdf"
+    },
+    {
+      "id": "Nie_Deformable_Image_Registration_Based_on_Functions_of_Bounded__IJCV_2021_paper",
+      "title": "Deformable Image Registration Based on Functions of Bounded Generalized Deformation",
+      "authors": [
+        "Ziwei Nie",
+        "Chen Li",
+        "Hairong Liu",
+        "Xiaoping Yang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01439-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01439-x.pdf"
+    },
+    {
+      "id": "Xu_Adaptive_Channel_Selection_for_Robust_Visual_Object_Tracking_IJCV_2021_paper",
+      "title": "Adaptive Channel Selection for Robust Visual Object Tracking with Discriminative Correlation Filters",
+      "authors": [
+        "Tianyang Xu",
+        "Zhenhua Feng",
+        "Xiao-Jun Wu",
+        "Josef Kittler"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01435-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01435-1.pdf"
+    },
+    {
+      "id": "Pang_Towards_Balanced_Learning_for_Instance_Recognition_IJCV_2021_paper",
+      "title": "Towards Balanced Learning for Instance Recognition",
+      "authors": [
+        "Jiangmiao Pang",
+        "Kai Chen",
+        "Qi Li",
+        "Zhihai Xu",
+        "Huajun Feng",
+        "Jianping Shi",
+        "Wanli Ouyang",
+        "Dahua Lin"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01434-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01434-2.pdf"
+    },
+    {
+      "id": "Chen_Letter_Level_Online_Writer_Identification_IJCV_2021_paper",
+      "title": "Letter-Level Online Writer Identification",
+      "authors": [
+        "Zelin Chen",
+        "Hong-Xing Yu",
+        "Ancong Wu",
+        "Wei-Shi Zheng"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01414-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01414-y.pdf"
+    },
+    {
+      "id": "Zou_Manhattan_Room_Layout_Reconstruction_from_a_Single_360_circ__IJCV_2021_paper",
+      "title": "Manhattan Room Layout Reconstruction from a Single $360^{\\circ }$ Image: A Comparative Study of State-of-the-Art Methods",
+      "authors": [
+        "Chuhang Zou",
+        "Jheng-Wei Su",
+        "Chi-Han Peng",
+        "Alex Colburn",
+        "Qi Shan",
+        "Peter Wonka",
+        "Hung-Kuo Chu",
+        "Derek Hoiem"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01426-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01426-8.pdf"
+    },
+    {
+      "id": "Husain_ACTNET_End_to_End_Learning_of_Feature_Activations_and_Multi__IJCV_2021_paper",
+      "title": "ACTNET: End-to-End Learning of Feature Activations and Multi-stream Aggregation for Effective Instance Image Retrieval",
+      "authors": [
+        "Syed Sameed Husain",
+        "Eng-Jon Ong",
+        "Miroslaw Bober"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01444-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01444-0.pdf"
+    },
+    {
+      "id": "Yang_Semantic_Hierarchy_Emerges_in_Deep_Generative_Representation_IJCV_2021_paper",
+      "title": "Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis",
+      "authors": [
+        "Ceyuan Yang",
+        "Yujun Shen",
+        "Bolei Zhou"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01429-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01429-5.pdf"
+    },
+    {
+      "id": "Yu_LAMP_HQ_A_Large_Scale_Multi_pose_High_Quality_Database_and_B_IJCV_2021_paper",
+      "title": "LAMP-HQ: A Large-Scale Multi-pose High-Quality Database and Benchmark for NIR-VIS Face Recognition",
+      "authors": [
+        "Aijing Yu",
+        "Haoxue Wu",
+        "Huaibo Huang",
+        "Zhen Lei",
+        "Ran He"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01432-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01432-4.pdf"
+    },
+    {
+      "id": "Wu_Spatial_Temporal_Relation_Reasoning_for_Action_Prediction_in_IJCV_2021_paper",
+      "title": "Spatial-Temporal Relation Reasoning for Action Prediction in Videos",
+      "authors": [
+        "Xinxiao Wu",
+        "Ruiqi Wang",
+        "Jingyi Hou",
+        "Hanxi Lin",
+        "Jiebo Luo"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01409-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01409-9.pdf"
+    },
+    {
+      "id": "Sun_Real_Time_Semantic_Segmentation_via_Auto_Depth_Downsampling__IJCV_2021_paper",
+      "title": "Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation",
+      "authors": [
+        "Peng Sun",
+        "Jiaxiang Wu",
+        "Songyuan Li",
+        "Peiwen Lin",
+        "Junzhou Huang",
+        "Xi Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01433-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01433-3.pdf"
+    },
+    {
+      "id": "Constantin_Visual_Interestingness_Prediction_A_Benchmark_Framework_and__IJCV_2021_paper",
+      "title": "Visual Interestingness Prediction: A Benchmark Framework and Literature Review",
+      "authors": [
+        "Mihai Gabriel Constantin",
+        "Liviu-Daniel Stefan",
+        "Bogdan Ionescu",
+        "Ngoc Q. K. Duong",
+        "Claire-Hélène Demarty",
+        "Mats Sjöberg"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01443-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01443-1.pdf"
+    },
+    {
+      "id": "Mohan_EfficientPS_Efficient_Panoptic_Segmentation_IJCV_2021_paper",
+      "title": "EfficientPS: Efficient Panoptic Segmentation",
+      "authors": [
+        "Rohit Mohan",
+        "Abhinav Valada"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01445-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01445-z.pdf"
+    },
+    {
+      "id": "Zhu_Intra_Camera_Supervised_Person_Re_Identification_IJCV_2021_paper",
+      "title": "Intra-Camera Supervised Person Re-Identification",
+      "authors": [
+        "Xiangping Zhu",
+        "Xiatian Zhu",
+        "Minxian Li",
+        "Pietro Morerio",
+        "Vittorio Murino",
+        "Shaogang Gong"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01440-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01440-4.pdf"
+    },
+    {
+      "id": "Liu_Enhanced_3D_Human_Pose_Estimation_from_Videos_by_Using_Atten_IJCV_2021_paper",
+      "title": "Enhanced 3D Human Pose Estimation from Videos by Using Attention-Based Neural Network with Dilated Convolutions",
+      "authors": [
+        "Ruixu Liu",
+        "Ju Shen",
+        "He Wang",
+        "Chen Chen",
+        "Sen-Ching Samson Cheung",
+        "Vijayan K. Asari"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01436-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01436-0.pdf"
+    },
+    {
+      "id": "Ramakrishnan_An_Exploration_of_Embodied_Visual_Exploration_IJCV_2021_paper",
+      "title": "An Exploration of Embodied Visual Exploration",
+      "authors": [
+        "Santhosh K. Ramakrishnan",
+        "Dinesh Jayaraman",
+        "Kristen Grauman"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01437-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01437-z.pdf"
+    },
+    {
+      "id": "Wang_Context_Enhanced_Representation_Learning_for_Single_Image_De_IJCV_2021_paper",
+      "title": "Context-Enhanced Representation Learning for Single Image Deraining",
+      "authors": [
+        "Guoqing Wang",
+        "Changming Sun",
+        "Arcot Sowmya"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01425-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01425-9.pdf"
+    },
+    {
+      "id": "Weinzaepfel_Mimetics_Towards_Understanding_Human_Actions_Out_of_Context_IJCV_2021_paper",
+      "title": "Mimetics: Towards Understanding Human Actions Out of Context",
+      "authors": [
+        "Philippe Weinzaepfel",
+        "Grégory Rogez"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01446-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01446-y.pdf"
+    },
+    {
+      "id": "Fu_Successive_Graph_Convolutional_Network_for_Image_De_raining_IJCV_2021_paper",
+      "title": "Successive Graph Convolutional Network for Image De-raining",
+      "authors": [
+        "Xueyang Fu",
+        "Qi Qi",
+        "Zheng-Jun Zha",
+        "Xinghao Ding",
+        "Feng Wu",
+        "John W. Paisley"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01428-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01428-6.pdf"
+    },
+    {
+      "id": "Benny_Evaluation_Metrics_for_Conditional_Image_Generation_IJCV_2021_paper",
+      "title": "Evaluation Metrics for Conditional Image Generation",
+      "authors": [
+        "Yaniv Benny",
+        "Tomer Galanti",
+        "Sagie Benaim",
+        "Lior Wolf"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01424-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01424-w.pdf"
+    },
+    {
+      "id": "Xu_Evaluating_Visual_Properties_via_Robust_HodgeRank_IJCV_2021_paper",
+      "title": "Evaluating Visual Properties via Robust HodgeRank",
+      "authors": [
+        "Qianqian Xu",
+        "Jiechao Xiong",
+        "Xiaochun Cao",
+        "Qingming Huang",
+        "Yuan Yao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01438-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01438-y.pdf"
+    },
+    {
+      "id": "Li_You_Only_Look_Yourself_Unsupervised_and_Untrained_Single_Ima_IJCV_2021_paper",
+      "title": "You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network",
+      "authors": [
+        "Boyun Li",
+        "Yuanbiao Gou",
+        "Shuhang Gu",
+        "Zitao Liu",
+        "Joey Tianyi Zhou",
+        "Xi Peng"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01431-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01431-5.pdf"
+    },
+    {
+      "id": "Yan_Exposing_Semantic_Segmentation_Failures_via_Maximum_Discrepa_IJCV_2021_paper",
+      "title": "Exposing Semantic Segmentation Failures via Maximum Discrepancy Competition",
+      "authors": [
+        "Jiebin Yan",
+        "Yu Zhong",
+        "Yuming Fang",
+        "Zhangyang Wang",
+        "Kede Ma"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01450-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01450-2.pdf"
+    },
+    {
+      "id": "Jiang_Correction_to_Parallel_Single_Pixel_Imaging_A_General_Method_IJCV_2021_paper",
+      "title": "Correction to: Parallel Single-Pixel Imaging: A General Method for Direct-Global Separation and 3D Shape Reconstruction Under Strong Global Illumination",
+      "authors": [
+        "Hongzhi Jiang",
+        "Yuxi Li",
+        "Huijie Zhao",
+        "Xudong Li",
+        "Yang Xu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01441-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01441-3.pdf"
+    },
+    {
+      "id": "Gou_Knowledge_Distillation_A_Survey_IJCV_2021_paper",
+      "title": "Knowledge Distillation: A Survey",
+      "authors": [
+        "Jianping Gou",
+        "Baosheng Yu",
+        "Stephen J. Maybank",
+        "Dacheng Tao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01453-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01453-z.pdf"
+    },
+    {
+      "id": "Zhu_Learning_Deep_Patch_representation_for_Probabilistic_Graphic_IJCV_2021_paper",
+      "title": "Learning Deep Patch representation for Probabilistic Graphical Model-Based Face Sketch Synthesis",
+      "authors": [
+        "Mingrui Zhu",
+        "Jie Li",
+        "Nannan Wang",
+        "Xinbo Gao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01442-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01442-2.pdf"
+    },
+    {
+      "id": "Yan_Development_and_Validation_of_an_Unsupervised_Feature_Learni_IJCV_2021_paper",
+      "title": "Development and Validation of an Unsupervised Feature Learning System for Leukocyte Characterization and Classification: A Multi-Hospital Study",
+      "authors": [
+        "Hong Yan",
+        "Xuanyu Mao",
+        "Xu Yang",
+        "Yongquan Xia",
+        "Chengbin Wang",
+        "Junjun Wang",
+        "Rui Xia",
+        "Xuejing Xu",
+        "Zhiqiang Wang",
+        "Zhiyang Li",
+        "Xie Zhao",
+        "Yan Li",
+        "Guoye Liu",
+        "Li He",
+        "Zhongyu Wang",
+        "Zhiqiong Wang",
+        "Zhiqiang Li",
+        "Weidong Cai",
+        "Han Shen",
+        "Hang Chang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01449-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01449-9.pdf"
+    },
+    {
+      "id": "Xie_Vote_Based_3D_Object_Detection_with_Context_Modeling_and_SOB_IJCV_2021_paper",
+      "title": "Vote-Based 3D Object Detection with Context Modeling and SOB-3DNMS",
+      "authors": [
+        "Qian Xie",
+        "Yu-Kun Lai",
+        "Jing Wu",
+        "Zhoutao Wang",
+        "Yiming Zhang",
+        "Kai Xu",
+        "Jun Wang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01456-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01456-w.pdf"
+    },
+    {
+      "id": "Zhang_Guided_Attention_in_CNNs_for_Occluded_Pedestrian_Detection_a_IJCV_2021_paper",
+      "title": "Guided Attention in CNNs for Occluded Pedestrian Detection and Re-identification",
+      "authors": [
+        "Shanshan Zhang",
+        "Di Chen",
+        "Jian Yang",
+        "Bernt Schiele"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01461-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01461-z.pdf"
+    },
+    {
+      "id": "Wan_Visual_Structure_Constraint_for_Transductive_Zero_Shot_Learn_IJCV_2021_paper",
+      "title": "Visual Structure Constraint for Transductive Zero-Shot Learning in the Wild",
+      "authors": [
+        "Ziyu Wan",
+        "Dongdong Chen",
+        "Jing Liao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01451-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01451-1.pdf"
+    },
+    {
+      "id": "Zhong_Polysemy_Deciphering_Network_for_Robust_Human_Object_Interac_IJCV_2021_paper",
+      "title": "Polysemy Deciphering Network for Robust Human-Object Interaction Detection",
+      "authors": [
+        "Xubin Zhong",
+        "Changxing Ding",
+        "Xian Qu",
+        "Dacheng Tao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01458-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01458-8.pdf"
+    },
+    {
+      "id": "Ye_Learning_Adaptive_Classifiers_Synthesis_for_Generalized_Few__IJCV_2021_paper",
+      "title": "Learning Adaptive Classifiers Synthesis for Generalized Few-Shot Learning",
+      "authors": [
+        "Han-Jia Ye",
+        "Hexiang Hu",
+        "De-Chuan Zhan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01381-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01381-4.pdf"
+    },
+    {
+      "id": "Mettes_Object_Priors_for_Classifying_and_Localizing_Unseen_Actions_IJCV_2021_paper",
+      "title": "Object Priors for Classifying and Localizing Unseen Actions",
+      "authors": [
+        "Pascal Mettes",
+        "William Thong",
+        "Cees G. M. Snoek"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01454-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01454-y.pdf"
+    },
+    {
+      "id": "Liu_Exploring_the_Capacity_of_an_Orderless_Box_Discretization_Ne_IJCV_2021_paper",
+      "title": "Exploring the Capacity of an Orderless Box Discretization Network for Multi-orientation Scene Text Detection",
+      "authors": [
+        "Yuliang Liu",
+        "Tong He",
+        "Hao Chen",
+        "Xinyu Wang",
+        "Canjie Luo",
+        "Shuaitao Zhang",
+        "Chunhua Shen",
+        "Lianwen Jin"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01459-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01459-7.pdf"
+    },
+    {
+      "id": "Ma_Deep_Human_Interaction_and_Association_by_Graph_Based_Learni_IJCV_2021_paper",
+      "title": "Deep Human-Interaction and Association by Graph-Based Learning for Multiple Object Tracking in the Wild",
+      "authors": [
+        "Cong Ma",
+        "Fan Yang",
+        "Yuan Li",
+        "Huizhu Jia",
+        "Xiaodong Xie",
+        "Wen Gao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01460-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01460-0.pdf"
+    },
+    {
+      "id": "Micusik_Renormalization_for_Initialization_of_Rolling_Shutter_Visual_IJCV_2021_paper",
+      "title": "Renormalization for Initialization of Rolling Shutter Visual-Inertial Odometry",
+      "authors": [
+        "Branislav Micusik",
+        "Georgios Evangelidis"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01462-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01462-y.pdf"
+    },
+    {
+      "id": "Scharstein_Guest_Editorial_Special_Issue_on_Performance_Evaluation_in_C_IJCV_2021_paper",
+      "title": "Guest Editorial: Special Issue on Performance Evaluation in Computer Vision",
+      "authors": [
+        "Daniel Scharstein",
+        "Angela Dai",
+        "Daniel Kondermann",
+        "Torsten Sattler",
+        "Konrad Schindler"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01455-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01455-x.pdf"
+    },
+    {
+      "id": "Dai_Guest_Editorial_Special_Issue_on_Computer_Vision_for_All_Sea_IJCV_2021_paper",
+      "title": "Guest Editorial: Special Issue on \"Computer Vision for All Seasons: Adverse Weather and Lighting Conditions\"",
+      "authors": [
+        "Dengxin Dai",
+        "Robby T. Tan",
+        "Vishal Patel",
+        "Jiri Matas",
+        "Bernt Schiele",
+        "Luc Van Gool"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01464-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01464-w.pdf"
+    },
+    {
+      "id": "Xiao_Segmentation_by_Continuous_Latent_Semantic_Analysis_for_Mult_IJCV_2021_paper",
+      "title": "Segmentation by Continuous Latent Semantic Analysis for Multi-structure Model Fitting",
+      "authors": [
+        "Guobao Xiao",
+        "Hanzi Wang",
+        "Jiayi Ma",
+        "David Suter"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01468-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01468-6.pdf"
+    },
+    {
+      "id": "Gomes_A_Shape_Aware_Retargeting_Approach_to_Transfer_Human_Motion__IJCV_2021_paper",
+      "title": "A Shape-Aware Retargeting Approach to Transfer Human Motion and Appearance in Monocular Videos",
+      "authors": [
+        "Thiago L. Gomes",
+        "Renato Martins",
+        "João Pedro Moreira Ferreira",
+        "Rafael Azevedo",
+        "Guilherme Torres",
+        "Erickson R. Nascimento"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01471-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01471-x.pdf"
+    },
+    {
+      "id": "Chen_CNN_Based_RGB_D_Salient_Object_Detection_Learn_Select_and_Fu_IJCV_2021_paper",
+      "title": "CNN-Based RGB-D Salient Object Detection: Learn, Select, and Fuse",
+      "authors": [
+        "Hao Chen",
+        "Youfu Li",
+        "Yongjian Deng",
+        "Guosheng Lin"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01452-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01452-0.pdf"
+    },
+    {
+      "id": "Gupta_Quo_Vadis_Skeleton_Action_Recognition__IJCV_2021_paper",
+      "title": "Quo Vadis, Skeleton Action Recognition?",
+      "authors": [
+        "Pranay Gupta",
+        "Anirudh Thatipelli",
+        "Aditya Aggarwal",
+        "Shubh Maheshwari",
+        "Neel Trivedi",
+        "Sourav Das",
+        "Ravi Kiran Sarvadevabhatla"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01470-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01470-y.pdf"
+    },
+    {
+      "id": "Saunders_Continuous_3D_Multi_Channel_Sign_Language_Production_via_Pro_IJCV_2021_paper",
+      "title": "Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks",
+      "authors": [
+        "Ben Saunders",
+        "Necati Cihan Camgöz",
+        "Richard Bowden"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01457-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01457-9.pdf"
+    },
+    {
+      "id": "Zaffar_VPR_Bench_An_Open_Source_Visual_Place_Recognition_Evaluation_IJCV_2021_paper",
+      "title": "VPR-Bench: An Open-Source Visual Place Recognition Evaluation Framework with Quantifiable Viewpoint and Appearance Change",
+      "authors": [
+        "Mubariz Zaffar",
+        "Sourav Garg",
+        "Michael Milford",
+        "Julian F. P. Kooij",
+        "David Flynn",
+        "Klaus D. McDonald-Maier",
+        "Shoaib Ehsan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01469-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01469-5.pdf"
+    },
+    {
+      "id": "Lv_Attention_Guided_Low_Light_Image_Enhancement_with_a_Large_Sc_IJCV_2021_paper",
+      "title": "Attention Guided Low-Light Image Enhancement with a Large Scale Low-Light Simulation Dataset",
+      "authors": [
+        "Feifan Lv",
+        "Yu Li",
+        "Feng Lu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01466-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01466-8.pdf"
+    },
+    {
+      "id": "CasillasPerez_The_Isowarp_The_Template_Based_Visual_Geometry_of_Isometric__IJCV_2021_paper",
+      "title": "The Isowarp: The Template-Based Visual Geometry of Isometric Surfaces",
+      "authors": [
+        "David Casillas-Perez",
+        "Daniel Pizarro",
+        "David Fuentes-Jiménez",
+        "Manuel Mazo",
+        "Adrien Bartoli"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01472-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01472-w.pdf"
+    },
+    {
+      "id": "Chen_Scale_Aware_Domain_Adaptive_Faster_R_CNN_IJCV_2021_paper",
+      "title": "Scale-Aware Domain Adaptive Faster R-CNN",
+      "authors": [
+        "Yuhua Chen",
+        "Haoran Wang",
+        "Wen Li",
+        "Christos Sakaridis",
+        "Dengxin Dai",
+        "Luc Van Gool"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01447-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01447-x.pdf"
+    },
+    {
+      "id": "Huang_Unsupervised_Domain_Adaptation_with_Background_Shift_Mitigat_IJCV_2021_paper",
+      "title": "Unsupervised Domain Adaptation with Background Shift Mitigating for Person Re-Identification",
+      "authors": [
+        "Yan Huang",
+        "Qiang Wu",
+        "Jingsong Xu",
+        "Yi Zhong",
+        "Zhaoxiang Zhang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01474-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01474-8.pdf"
+    },
+    {
+      "id": "Varol_Synthetic_Humans_for_Action_Recognition_from_Unseen_Viewpoin_IJCV_2021_paper",
+      "title": "Synthetic Humans for Action Recognition from Unseen Viewpoints",
+      "authors": [
+        "Gül Varol",
+        "Ivan Laptev",
+        "Cordelia Schmid",
+        "Andrew Zisserman"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01467-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01467-7.pdf"
+    },
+    {
+      "id": "Georgopoulos_Mitigating_Demographic_Bias_in_Facial_Datasets_with_Style_Ba_IJCV_2021_paper",
+      "title": "Mitigating Demographic Bias in Facial Datasets with Style-Based Multi-attribute Transfer",
+      "authors": [
+        "Markos Georgopoulos",
+        "James Oldfield",
+        "Mihalis A. Nicolaou",
+        "Yannis Panagakis",
+        "Maja Pantic"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01448-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01448-w.pdf"
+    },
+    {
+      "id": "Du_Cross_Modal_Pyramid_Translation_for_RGB_D_Scene_Recognition_IJCV_2021_paper",
+      "title": "Cross-Modal Pyramid Translation for RGB-D Scene Recognition",
+      "authors": [
+        "Dapeng Du",
+        "Limin Wang",
+        "Zhaoyang Li",
+        "Gangshan Wu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01475-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01475-7.pdf"
+    },
+    {
+      "id": "Chen_Deep_CockTail_Networks_IJCV_2021_paper",
+      "title": "Deep CockTail Networks",
+      "authors": [
+        "Ziliang Chen",
+        "Pengxu Wei",
+        "Jingyu Zhuang",
+        "Guanbin Li",
+        "Liang Lin"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01463-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01463-x.pdf"
+    },
+    {
+      "id": "Peng_Saliency_Detection_Inspired_by_Topological_Perception_Theory_IJCV_2021_paper",
+      "title": "Saliency Detection Inspired by Topological Perception Theory",
+      "authors": [
+        "Peng Peng",
+        "Kai-Fu Yang",
+        "Fuya Luo",
+        "Yong-Jie Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01478-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01478-4.pdf"
+    },
+    {
+      "id": "Yuan_OCNet_Object_Context_for_Semantic_Segmentation_IJCV_2021_paper",
+      "title": "OCNet: Object Context for Semantic Segmentation",
+      "authors": [
+        "Yuhui Yuan",
+        "Lang Huang",
+        "Jianyuan Guo",
+        "Chao Zhang",
+        "Xilin Chen",
+        "Jingdong Wang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01465-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01465-9.pdf"
+    },
+    {
+      "id": "Zhao_MADAN_Multi_source_Adversarial_Domain_Aggregation_Network_fo_IJCV_2021_paper",
+      "title": "MADAN: Multi-source Adversarial Domain Aggregation Network for Domain Adaptation",
+      "authors": [
+        "Sicheng Zhao",
+        "Bo Li",
+        "Pengfei Xu",
+        "Xiangyu Yue",
+        "Guiguang Ding",
+        "Kurt Keutzer"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01479-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01479-3.pdf"
+    },
+    {
+      "id": "Bauer_A_Numerical_Framework_for_Elastic_Surface_Matching_Compariso_IJCV_2021_paper",
+      "title": "A Numerical Framework for Elastic Surface Matching, Comparison, and Interpolation",
+      "authors": [
+        "Martin Bauer",
+        "Nicolas Charon",
+        "Philipp Harms",
+        "Hsi-Wei Hsieh"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01476-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01476-6.pdf"
+    },
+    {
+      "id": "Baslamisli_ShadingNet_Image_Intrinsics_by_Fine_Grained_Shading_Decompos_IJCV_2021_paper",
+      "title": "ShadingNet: Image Intrinsics by Fine-Grained Shading Decomposition",
+      "authors": [
+        "Anil S. Baslamisli",
+        "Partha Das",
+        "Hoang-An Le",
+        "Sezer Karaoglu",
+        "Theo Gevers"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01477-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01477-5.pdf"
+    },
+    {
+      "id": "Zhao_SODA_Weakly_Supervised_Temporal_Action_Localization_Based_on_IJCV_2021_paper",
+      "title": "SODA: Weakly Supervised Temporal Action Localization Based on Astute Background Response and Self-Distillation Learning",
+      "authors": [
+        "Tao Zhao",
+        "Junwei Han",
+        "Le Yang",
+        "Binglu Wang",
+        "Dingwen Zhang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01473-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01473-9.pdf"
+    },
+    {
+      "id": "Madadi_Deep_Unsupervised_3D_Human_Body_Reconstruction_from_a_Sparse_IJCV_2021_paper",
+      "title": "Deep Unsupervised 3D Human Body Reconstruction from a Sparse set of Landmarks",
+      "authors": [
+        "Meysam Madadi",
+        "Hugo Bertiche",
+        "Sergio Escalera"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01488-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01488-2.pdf"
+    },
+    {
+      "id": "Mao_Multi_level_Motion_Attention_for_Human_Motion_Prediction_IJCV_2021_paper",
+      "title": "Multi-level Motion Attention for Human Motion Prediction",
+      "authors": [
+        "Wei Mao",
+        "Miaomiao Liu",
+        "Mathieu Salzmann",
+        "Hongdong Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01483-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01483-7.pdf"
+    },
+    {
+      "id": "Zhang_Learning_Regression_and_Verification_Networks_for_Robust_Lon_IJCV_2021_paper",
+      "title": "Learning Regression and Verification Networks for Robust Long-term Tracking",
+      "authors": [
+        "Yunhua Zhang",
+        "Lijun Wang",
+        "Dong Wang",
+        "Jinqing Qi",
+        "Huchuan Lu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01487-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01487-3.pdf"
+    },
+    {
+      "id": "Bian_Unsupervised_Scale_Consistent_Depth_Learning_from_Video_IJCV_2021_paper",
+      "title": "Unsupervised Scale-Consistent Depth Learning from Video",
+      "authors": [
+        "Jia-Wang Bian",
+        "Huangying Zhan",
+        "Naiyan Wang",
+        "Zhichao Li",
+        "Le Zhang",
+        "Chunhua Shen",
+        "Ming-Ming Cheng",
+        "Ian Reid"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01484-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01484-6.pdf"
+    },
+    {
+      "id": "Knbelreiter_Learned_Collaborative_Stereo_Refinement_IJCV_2021_paper",
+      "title": "Learned Collaborative Stereo Refinement",
+      "authors": [
+        "Patrick Knöbelreiter",
+        "Thomas Pock"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01485-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01485-5.pdf"
+    },
+    {
+      "id": "Rozumnyi_Tracking_by_Deblatting_IJCV_2021_paper",
+      "title": "Tracking by Deblatting",
+      "authors": [
+        "Denys Rozumnyi",
+        "Jan Kotera",
+        "Filip Sroubek",
+        "Jiri Matas"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01480-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01480-w.pdf"
+    },
+    {
+      "id": "Liu_Semantics_to_Signal_Scalable_Image_Compression_with_Learned__IJCV_2021_paper",
+      "title": "Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations",
+      "authors": [
+        "Kang Liu",
+        "Dong Liu",
+        "Li Li",
+        "Ning Yan",
+        "Houqiang Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01491-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01491-7.pdf"
+    },
+    {
+      "id": "Cheng_Structure_Measure_A_New_Way_to_Evaluate_Foreground_Maps_IJCV_2021_paper",
+      "title": "Structure-Measure: A New Way to Evaluate Foreground Maps",
+      "authors": [
+        "Ming-Ming Cheng",
+        "Deng-Ping Fan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01490-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01490-8.pdf"
+    },
+    {
+      "id": "Zhang_Towards_High_Performance_Human_Keypoint_Detection_IJCV_2021_paper",
+      "title": "Towards High Performance Human Keypoint Detection",
+      "authors": [
+        "Jing Zhang",
+        "Zhe Chen",
+        "Dacheng Tao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01482-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01482-8.pdf"
+    },
+    {
+      "id": "Chu_Learning_to_Caricature_via_Semantic_Shape_Transform_IJCV_2021_paper",
+      "title": "Learning to Caricature via Semantic Shape Transform",
+      "authors": [
+        "Wenqing Chu",
+        "Wei-Chih Hung",
+        "Yi-Hsuan Tsai",
+        "Yu-Ting Chang",
+        "Yijun Li",
+        "Deng Cai",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01489-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01489-1.pdf"
+    },
+    {
+      "id": "Bahri_Shape_My_Face_Registering_3D_Face_Scans_by_Surface_to_Surfac_IJCV_2021_paper",
+      "title": "Shape My Face: Registering 3D Face Scans by Surface-to-Surface Translation",
+      "authors": [
+        "Mehdi Bahri",
+        "Eimear O' Sullivan",
+        "Shunwang Gong",
+        "Feng Liu",
+        "Xiaoming Liu",
+        "Michael M. Bronstein",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01494-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01494-4.pdf"
+    },
+    {
+      "id": "Zhang_Learning_Adaptive_Attribute_Driven_Representation_for_Real_T_IJCV_2021_paper",
+      "title": "Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking",
+      "authors": [
+        "Pengyu Zhang",
+        "Dong Wang",
+        "Huchuan Lu",
+        "Xiaoyun Yang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01495-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01495-3.pdf"
+    },
+    {
+      "id": "Li_Correction_to_Long_Short_Temporal_Spatial_Clues_Excited_Netw_IJCV_2021_paper",
+      "title": "Correction to: Long-Short Temporal-Spatial Clues Excited Network for Robust Person Re-identification",
+      "authors": [
+        "Shuai Li",
+        "Wenfeng Song",
+        "Zheng Fang",
+        "Jiaying Shi",
+        "Aimin Hao",
+        "Qinping Zhao",
+        "Hong Qin"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01497-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01497-1.pdf"
+    },
+    {
+      "id": "Yang_Cascaded_Split_and_Aggregate_Learning_with_Feature_Recombina_IJCV_2021_paper",
+      "title": "Cascaded Split-and-Aggregate Learning with Feature Recombination for Pedestrian Attribute Recognition",
+      "authors": [
+        "Yang Yang",
+        "Zichang Tan",
+        "Prayag Tiwari",
+        "Hari Mohan Pandey",
+        "Jun Wan",
+        "Zhen Lei",
+        "Guodong Guo",
+        "Stan Z. Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01499-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01499-z.pdf"
+    },
+    {
+      "id": "Marin_Spectral_Shape_Recovery_and_Analysis_Via_Data_driven_Connect_IJCV_2021_paper",
+      "title": "Spectral Shape Recovery and Analysis Via Data-driven Connections",
+      "authors": [
+        "Riccardo Marin",
+        "Arianna Rampini",
+        "Umberto Castellani",
+        "Emanuele Rodolà",
+        "Maks Ovsjanikov",
+        "Simone Melzi"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01492-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01492-6.pdf"
+    },
+    {
+      "id": "Zhang_SDNet_A_Versatile_Squeeze_and_Decomposition_Network_for_Real_IJCV_2021_paper",
+      "title": "SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image Fusion",
+      "authors": [
+        "Hao Zhang",
+        "Jiayi Ma"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01501-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01501-8.pdf"
+    },
+    {
+      "id": "Zheng_Pluralistic_Free_Form_Image_Completion_IJCV_2021_paper",
+      "title": "Pluralistic Free-Form Image Completion",
+      "authors": [
+        "Chuanxia Zheng",
+        "Tat-Jen Cham",
+        "Jianfei Cai"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01502-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01502-7.pdf"
+    },
+    {
+      "id": "Huang_A_Decomposable_Winograd_Method_for_N_D_Convolution_Accelerat_IJCV_2021_paper",
+      "title": "A Decomposable Winograd Method for N-D Convolution Acceleration in Video Analysis",
+      "authors": [
+        "Di Huang",
+        "Rui Zhang",
+        "Xishan Zhang",
+        "Fan Wu",
+        "Xianzhuo Wang",
+        "Pengwei Jin",
+        "Shaoli Liu",
+        "Ling Li",
+        "Yunji Chen"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01500-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01500-9.pdf"
+    },
+    {
+      "id": "Sun_Deep_Maximum_a_Posterior_Estimator_for_Video_Denoising_IJCV_2021_paper",
+      "title": "Deep Maximum a Posterior Estimator for Video Denoising",
+      "authors": [
+        "Lu Sun",
+        "Weisheng Dong",
+        "Xin Li",
+        "Jinjian Wu",
+        "Leida Li",
+        "Guangming Shi"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01510-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01510-7.pdf"
+    },
+    {
+      "id": "Chen_SportsCap_Monocular_3D_Human_Motion_Capture_and_Fine_Grained_IJCV_2021_paper",
+      "title": "SportsCap: Monocular 3D Human Motion Capture and Fine-Grained Understanding in Challenging Sports Videos",
+      "authors": [
+        "Xin Chen",
+        "Anqi Pang",
+        "Wei Yang",
+        "Yuexin Ma",
+        "Lan Xu",
+        "Jingyi Yu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01486-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01486-4.pdf"
+    },
+    {
+      "id": "Gong_DLOW_Domain_Flow_and_Applications_IJCV_2021_paper",
+      "title": "DLOW: Domain Flow and Applications",
+      "authors": [
+        "Rui Gong",
+        "Wen Li",
+        "Yuhua Chen",
+        "Dengxin Dai",
+        "Luc Van Gool"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01496-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01496-2.pdf"
+    },
+    {
+      "id": "Zhang_Just_Recognizable_Distortion_for_Machine_Vision_Oriented_Ima_IJCV_2021_paper",
+      "title": "Just Recognizable Distortion for Machine Vision Oriented Image and Video Coding",
+      "authors": [
+        "Qi Zhang",
+        "Shanshe Wang",
+        "Xinfeng Zhang",
+        "Siwei Ma",
+        "Wen Gao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01505-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01505-4.pdf"
+    },
+    {
+      "id": "Wang_Adaptive_Dimension_Discriminative_Low_Rank_Tensor_Recovery_f_IJCV_2021_paper",
+      "title": "Adaptive Dimension-Discriminative Low-Rank Tensor Recovery for Computational Hyperspectral Imaging",
+      "authors": [
+        "Lizhi Wang",
+        "Shipeng Zhang",
+        "Hua Huang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01481-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01481-9.pdf"
+    },
+    {
+      "id": "Han_Context_and_Structure_Mining_Network_for_Video_Object_Detect_IJCV_2021_paper",
+      "title": "Context and Structure Mining Network for Video Object Detection",
+      "authors": [
+        "Liang Han",
+        "Pichao Wang",
+        "Zhaozheng Yin",
+        "Fan Wang",
+        "Hao Li"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01507-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01507-2.pdf"
+    },
+    {
+      "id": "Jia_Deep_Learning_Geometry_Compression_Artifacts_Removal_for_Vid_IJCV_2021_paper",
+      "title": "Deep Learning Geometry Compression Artifacts Removal for Video-Based Point Cloud Compression",
+      "authors": [
+        "Wei Jia",
+        "Li Li",
+        "Zhu Li",
+        "Shan Liu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01503-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01503-6.pdf"
+    },
+    {
+      "id": "Wu_A_Coarse_to_Fine_Framework_for_Resource_Efficient_Video_Reco_IJCV_2021_paper",
+      "title": "A Coarse-to-Fine Framework for Resource Efficient Video Recognition",
+      "authors": [
+        "Zuxuan Wu",
+        "Hengduo Li",
+        "Yingbin Zheng",
+        "Caiming Xiong",
+        "Yu-Gang Jiang",
+        "Larry S. Davis"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01508-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01508-1.pdf"
+    },
+    {
+      "id": "Thomas_Predicting_Visual_Political_Bias_Using_Webly_Supervised_Data_IJCV_2021_paper",
+      "title": "Predicting Visual Political Bias Using Webly Supervised Data and an Auxiliary Task",
+      "authors": [
+        "Christopher Thomas",
+        "Adriana Kovashka"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01506-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01506-3.pdf"
+    },
+    {
+      "id": "Frintrop_Guest_Editorial_Special_Issue_Computer_Vision_and_Pattern_Re_IJCV_2021_paper",
+      "title": "Guest Editorial: Special Issue: Computer Vision and Pattern Recognition (DAGM GCPR 2019)",
+      "authors": [
+        "Simone Frintrop",
+        "Gernot A. Fink",
+        "Xiaoyi Jiang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01509-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01509-0.pdf"
+    },
+    {
+      "id": "Zhang_3D_Scene_Reconstruction_with_an_Un_calibrated_Light_Field_Ca_IJCV_2021_paper",
+      "title": "3D Scene Reconstruction with an Un-calibrated Light Field Camera",
+      "authors": [
+        "Qi Zhang",
+        "Hongdong Li",
+        "Xue Wang",
+        "Qing Wang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01516-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01516-1.pdf"
+    },
+    {
+      "id": "Le_Hierarchical_Conditional_Relation_Networks_for_Multimodal_Vi_IJCV_2021_paper",
+      "title": "Hierarchical Conditional Relation Networks for Multimodal Video Question Answering",
+      "authors": [
+        "Thao Minh Le",
+        "Vuong Le",
+        "Svetha Venkatesh",
+        "Truyen Tran"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01514-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01514-3.pdf"
+    },
+    {
+      "id": "Yu_BiSeNet_V2_Bilateral_Network_with_Guided_Aggregation_for_Rea_IJCV_2021_paper",
+      "title": "BiSeNet V2: Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation",
+      "authors": [
+        "Changqian Yu",
+        "Changxin Gao",
+        "Jingbo Wang",
+        "Gang Yu",
+        "Chunhua Shen",
+        "Nong Sang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01515-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01515-2.pdf"
+    },
+    {
+      "id": "Zhang_FairMOT_On_the_Fairness_of_Detection_and_Re_identification_i_IJCV_2021_paper",
+      "title": "FairMOT: On the Fairness of Detection and Re-identification in Multiple Object Tracking",
+      "authors": [
+        "Yifu Zhang",
+        "Chunyu Wang",
+        "Xinggang Wang",
+        "Wenjun Zeng",
+        "Wenyu Liu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01513-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01513-4.pdf"
+    },
+    {
+      "id": "Sitenko_Assignment_Flow_for_Order_Constrained_OCT_Segmentation_IJCV_2021_paper",
+      "title": "Assignment Flow for Order-Constrained OCT Segmentation",
+      "authors": [
+        "Dmitrij Sitenko",
+        "Bastian Boll",
+        "Christoph Schnörr"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01520-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01520-5.pdf"
+    },
+    {
+      "id": "Blum_The_Fishyscapes_Benchmark_Measuring_Blind_Spots_in_Semantic__IJCV_2021_paper",
+      "title": "The Fishyscapes Benchmark: Measuring Blind Spots in Semantic Segmentation",
+      "authors": [
+        "Hermann Blum",
+        "Paul-Edouard Sarlin",
+        "Juan I. Nieto",
+        "Roland Siegwart",
+        "Cesar Cadena"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01511-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01511-6.pdf"
+    },
+    {
+      "id": "Losch_Semantic_Bottlenecks_Quantifying_and_Improving_Inspectabilit_IJCV_2021_paper",
+      "title": "Semantic Bottlenecks: Quantifying and Improving Inspectability of Deep Representations",
+      "authors": [
+        "Max Maria Losch",
+        "Mario Fritz",
+        "Bernt Schiele"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01498-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01498-0.pdf"
+    },
+    {
+      "id": "Chen_Norm_Aware_Embedding_for_Efficient_Person_Search_and_Trackin_IJCV_2021_paper",
+      "title": "Norm-Aware Embedding for Efficient Person Search and Tracking",
+      "authors": [
+        "Di Chen",
+        "Shanshan Zhang",
+        "Jian Yang",
+        "Bernt Schiele"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01512-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01512-5.pdf"
+    },
+    {
+      "id": "Akata_Computer_Vision_and_Pattern_Recognition_2020_IJCV_2021_paper",
+      "title": "Computer Vision and Pattern Recognition 2020",
+      "authors": [
+        "Zeynep Akata",
+        "Andreas Geiger",
+        "Torsten Sattler"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01522-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01522-3.pdf"
+    },
+    {
+      "id": "Xu_Guest_Editorial_Special_Issue_on_Deep_Learning_for_Video_Ana_IJCV_2021_paper",
+      "title": "Guest Editorial: Special Issue on Deep Learning for Video Analysis and Compression",
+      "authors": [
+        "Dong Xu",
+        "Rama Chellappa",
+        "Luc Van Gool",
+        "Guo Lu"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01530-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01530-3.pdf"
+    },
+    {
+      "id": "Jin_Pixel_in_Pixel_Net_Towards_Efficient_Facial_Landmark_Detecti_IJCV_2021_paper",
+      "title": "Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild",
+      "authors": [
+        "Haibo Jin",
+        "Shengcai Liao",
+        "Ling Shao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01521-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01521-4.pdf"
+    },
+    {
+      "id": "Zheng_Visiting_the_Invisible_Layer_by_Layer_Completed_Scene_Decomp_IJCV_2021_paper",
+      "title": "Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition",
+      "authors": [
+        "Chuanxia Zheng",
+        "Duy-Son Dao",
+        "Guoxian Song",
+        "Tat-Jen Cham",
+        "Jianfei Cai"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01517-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01517-0.pdf"
+    },
+    {
+      "id": "Bellitto_Hierarchical_Domain_Adapted_Feature_Learning_for_Video_Salie_IJCV_2021_paper",
+      "title": "Hierarchical Domain-Adapted Feature Learning for Video Saliency Prediction",
+      "authors": [
+        "Giovanni Bellitto",
+        "Federica Proietto Salanitri",
+        "Simone Palazzo",
+        "Francesco Rundo",
+        "Daniela Giordano",
+        "Concetto Spampinato"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01519-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01519-y.pdf"
+    },
+    {
+      "id": "Zhang_Dual_Constrained_Deep_Semi_Supervised_Coupled_Factorization__IJCV_2021_paper",
+      "title": "Dual-Constrained Deep Semi-Supervised Coupled Factorization Network with Enriched Prior",
+      "authors": [
+        "Yan Zhang",
+        "Zhao Zhang",
+        "Yang Wang",
+        "Zheng Zhang",
+        "Li Zhang",
+        "Shuicheng Yan",
+        "Meng Wang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01524-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01524-1.pdf"
+    },
+    {
+      "id": "Ma_Deep_Trajectory_Post_Processing_and_Position_Projection_for__IJCV_2021_paper",
+      "title": "Deep Trajectory Post-Processing and Position Projection for Single & Multiple Camera Multiple Object Tracking",
+      "authors": [
+        "Cong Ma",
+        "Fan Yang",
+        "Yuan Li",
+        "Huizhu Jia",
+        "Xiaodong Xie",
+        "Wen Gao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01527-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01527-y.pdf"
+    },
+    {
+      "id": "Lu_Dual_view_Snapshot_Compressive_Imaging_via_Optical_Flow_Aide_IJCV_2021_paper",
+      "title": "Dual-view Snapshot Compressive Imaging via Optical Flow Aided Recurrent Neural Network",
+      "authors": [
+        "Ruiying Lu",
+        "Bo Chen",
+        "Guanliang Liu",
+        "Ziheng Cheng",
+        "Mu Qiao",
+        "Xin Yuan"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01532-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01532-1.pdf"
+    },
+    {
+      "id": "Wang_NAS_FCOS_Efficient_Search_for_Object_Detection_Architectures_IJCV_2021_paper",
+      "title": "NAS-FCOS: Efficient Search for Object Detection Architectures",
+      "authors": [
+        "Ning Wang",
+        "Yang Gao",
+        "Hao Chen",
+        "Peng Wang",
+        "Zhi Tian",
+        "Chunhua Shen",
+        "Yanning Zhang"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01523-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01523-2.pdf"
+    },
+    {
+      "id": "Fu_3D_FUTURE_3D_Furniture_Shape_with_TextURE_IJCV_2021_paper",
+      "title": "3D-FUTURE: 3D Furniture Shape with TextURE",
+      "authors": [
+        "Huan Fu",
+        "Rongfei Jia",
+        "Lin Gao",
+        "Mingming Gong",
+        "Binqiang Zhao",
+        "Stephen J. Maybank",
+        "Dacheng Tao"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01534-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01534-z.pdf"
+    },
+    {
+      "id": "Chatzitofis_DeMoCap_Low_Cost_Marker_Based_Motion_Capture_IJCV_2021_paper",
+      "title": "DeMoCap: Low-Cost Marker-Based Motion Capture",
+      "authors": [
+        "Anargyros Chatzitofis",
+        "Dimitrios Zarpalas",
+        "Petros Daras",
+        "Stefanos D. Kollias"
+      ],
+      "year": "2021",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-021-01526-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-021-01526-z.pdf"
+    }
+  ]
+}

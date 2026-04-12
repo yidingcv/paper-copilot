@@ -1,0 +1,2611 @@
+{
+  "papers": [
+    {
+      "id": "Freitas_Visibility_Based_Geometry_Pruning_of_Neural_Plenoptic_Scene__TMM_2026_paper",
+      "title": "Visibility-Based Geometry Pruning of Neural Plenoptic Scene Representations",
+      "authors": [
+        "Davi Rabbouni Freitas",
+        "Ioan Tabus",
+        "Christine Guillemot"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618548",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618548"
+    },
+    {
+      "id": "Hu_CLIP_SR_Collaborative_Linguistic_and_Image_Processing_for_Su_TMM_2026_paper",
+      "title": "CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution",
+      "authors": [
+        "Bingwen Hu",
+        "Heng Liu",
+        "Zhedong Zheng",
+        "Ping Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618555",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618555"
+    },
+    {
+      "id": "Plantefol_CNN_Based_360_circ_Scene_Recognition_for_Automatic_Generatio_TMM_2026_paper",
+      "title": "CNN-Based 360$^{\\circ }$ Scene Recognition for Automatic Generation of Omnidirectional Scent Effects",
+      "authors": [
+        "Theo Plantefol",
+        "Anderson Augusto Simiscuka",
+        "Abid Yaqoob",
+        "Gabriel-Miro Muntean"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618574",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618574"
+    },
+    {
+      "id": "Chen_Tuning_Free_High_Resolution_Video_Diffusion_With_Spatial_Tem_TMM_2026_paper",
+      "title": "Tuning-Free High-Resolution Video Diffusion With Spatial-Temporal Latent Grouping",
+      "authors": [
+        "Zhikai Chen",
+        "Fuchen Long",
+        "Zhaofan Qiu",
+        "Ting Yao",
+        "Wengang Zhou",
+        "Jiebo Luo",
+        "Tao Mei"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618540",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618540"
+    },
+    {
+      "id": "Chen_Quality_Evaluation_of_AI_Generated_Images_Subjective_Study_a_TMM_2026_paper",
+      "title": "Quality Evaluation of AI-Generated Images: Subjective Study and Objective Methodology",
+      "authors": [
+        "Jianbo Chen",
+        "Feng Shao",
+        "Hangwei Chen",
+        "Xuejin Wang",
+        "Hui Guo",
+        "Qiuping Jiang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618562",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618562"
+    },
+    {
+      "id": "Ma_CMI_Net_Cross_View_Message_Token_Interaction_Network_for_3D__TMM_2026_paper",
+      "title": "CMI-Net: Cross-View Message Token Interaction Network for 3D Shape Recognition",
+      "authors": [
+        "Xiangyu Ma",
+        "Jing Bai",
+        "Zenghui Su"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618577",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618577"
+    },
+    {
+      "id": "Xu_Attribute_Centric_Cross_Modal_Alignment_for_Weakly_Supervise_TMM_2026_paper",
+      "title": "Attribute-Centric Cross-Modal Alignment for Weakly Supervised Text-Based Person Re-ID",
+      "authors": [
+        "Jiajia Xu",
+        "Weiwei Cai",
+        "Xuemiao Xu",
+        "Yi Xie",
+        "Huaidong Zhang",
+        "Shengfeng He"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3608947",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3608947"
+    },
+    {
+      "id": "Guo_Domain_Generalization_for_Face_Anti_Spoofing_via_Content_Awa_TMM_2026_paper",
+      "title": "Domain Generalization for Face Anti-Spoofing via Content-Aware Composite Prompt Engineering",
+      "authors": [
+        "Jiabao Guo",
+        "Ajian Liu",
+        "Yunfeng Diao",
+        "Jin Zhang",
+        "Hui Ma",
+        "Bo Zhao",
+        "Richang Hong",
+        "Meng Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618575",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618575"
+    },
+    {
+      "id": "Liu_DT_JRD_Deep_Transformer_Based_Just_Recognizable_Difference_P_TMM_2026_paper",
+      "title": "DT-JRD: Deep Transformer-Based Just Recognizable Difference Prediction Model for Video Coding for Machines",
+      "authors": [
+        "Junqi Liu",
+        "Yun Zhang",
+        "Xiaoqi Wang",
+        "Long Xu",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618532",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618532"
+    },
+    {
+      "id": "Fang_PseR_Pseudo_Label_Refinement_for_Point_Supervised_Temporal_A_TMM_2026_paper",
+      "title": "PseR: Pseudo-Label Refinement for Point-Supervised Temporal Action Detection",
+      "authors": [
+        "Zhenying Fang",
+        "Richang Hong"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618538",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618538"
+    },
+    {
+      "id": "Li_MSSG_Multi_Scale_Speaker_Graph_Network_for_Active_Speaker_De_TMM_2026_paper",
+      "title": "MSSG: Multi-Scale Speaker Graph Network for Active Speaker Detection",
+      "authors": [
+        "Guanjun Li",
+        "Jiangyan Yi",
+        "Zhengqi Wen",
+        "Ruibo Fu",
+        "Yuwang Wang",
+        "Jianhua Tao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3608949",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3608949"
+    },
+    {
+      "id": "Hu_Low_Light_Image_Enhancement_Using_a_Retinex_Based_Variationa_TMM_2026_paper",
+      "title": "Low-Light Image Enhancement Using a Retinex-Based Variational Model With Weighted $L_{p}$ Norm Constraint",
+      "authors": [
+        "Enping Hu",
+        "Yun Liu",
+        "Anzhi Wang",
+        "Babak Shiri",
+        "Wenqi Ren",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618567",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618567"
+    },
+    {
+      "id": "Xu_DeepFake_Detection_With_Multi_View_Fusion_and_Graph_Convolut_TMM_2026_paper",
+      "title": "DeepFake Detection With Multi-View Fusion and Graph Convolutional Network",
+      "authors": [
+        "Xu Xu",
+        "Junxin Chen",
+        "Yushu Zhang",
+        "Congsheng Li",
+        "Amit Kumar Singh",
+        "Zhihan Lyu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618565",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618565"
+    },
+    {
+      "id": "Zou_Topology_Aware_Modeling_for_Unsupervised_Simulation_to_Reali_TMM_2026_paper",
+      "title": "Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition",
+      "authors": [
+        "Longkun Zou",
+        "Kangjun Liu",
+        "Ke Chen",
+        "Kailing Guo",
+        "Kui Jia",
+        "Yaowei Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623518",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623518"
+    },
+    {
+      "id": "Wu_SOI_Net_Structural_Optimization_Inspired_Interpretable_Netwo_TMM_2026_paper",
+      "title": "SOI-Net: Structural Optimization-Inspired Interpretable Network for Incomplete Multi-View Clustering",
+      "authors": [
+        "Chunming Wu",
+        "Zihan Fang",
+        "Zhiling Cai",
+        "Shide Du",
+        "Wei Huang",
+        "Jinbo Li",
+        "Shiping Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623519",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623519"
+    },
+    {
+      "id": "Udora_A_Multidimensional_Media_Adaptation_Framework_for_Live_Holog_TMM_2026_paper",
+      "title": "A Multidimensional Media Adaptation Framework for Live Holographic Communication",
+      "authors": [
+        "Carl C. Udora",
+        "Peng Qian",
+        "Jingxuan Men",
+        "Ning Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623505",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623505"
+    },
+    {
+      "id": "Meng_Efficient_Approximation_of_Earth_Mover_s_Distance_Based_on_N_TMM_2026_paper",
+      "title": "Efficient Approximation of Earth Mover's Distance Based on Nearest Neighbor Search",
+      "authors": [
+        "Guangyu Meng",
+        "Ruyu Zhou",
+        "Liu Liu",
+        "Peixian Liang",
+        "Fang Liu",
+        "Danny Z. Chen",
+        "Michael T. Niemier",
+        "Xiaobo Sharon Hu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623529",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623529"
+    },
+    {
+      "id": "Tang_A_Novel_Robust_Reversible_Watermarking_Scheme_Using_Fraction_TMM_2026_paper",
+      "title": "A Novel Robust Reversible Watermarking Scheme Using Fractional-Order Polar Complex Exponential Transform",
+      "authors": [
+        "Yichao Tang",
+        "Shuai Wang",
+        "Ruowei Han",
+        "Chuntao Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623522",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623522"
+    },
+    {
+      "id": "Mishra_PixelBoost_Leveraging_Brownian_Motion_for_Realistic_Image_Su_TMM_2026_paper",
+      "title": "PixelBoost: Leveraging Brownian Motion for Realistic-Image Super-Resolution",
+      "authors": [
+        "Aradhana Mishra",
+        "Bumshik Lee"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623517",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623517"
+    },
+    {
+      "id": "Li_USTC_TD_A_Test_Dataset_and_Benchmark_for_Image_and_Video_Cod_TMM_2026_paper",
+      "title": "USTC-TD: A Test Dataset and Benchmark for Image and Video Coding in 2020s",
+      "authors": [
+        "Zhuoyuan Li",
+        "Junqi Liao",
+        "Chuanbo Tang",
+        "Haotian Zhang",
+        "Yuqi Li",
+        "Yifan Bian",
+        "Xihua Sheng",
+        "Xinmin Feng",
+        "Yao Li",
+        "Changsheng Gao",
+        "Li Li",
+        "Dong Liu",
+        "Feng Wu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3608643",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3608643"
+    },
+    {
+      "id": "Pan_CMANet_Context_Aware_Mutual_Attention_Network_for_Referring__TMM_2026_paper",
+      "title": "CMANet: Context-Aware Mutual Attention Network for Referring Image Segmentation",
+      "authors": [
+        "Xiong Pan",
+        "Xuemei Xie",
+        "Jianxiu Yang",
+        "Xiaodan Song",
+        "Guangming Shi"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623528",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623528"
+    },
+    {
+      "id": "Li_DIVE_Inverting_Conditional_Diffusion_Models_for_Discriminati_TMM_2026_paper",
+      "title": "DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks",
+      "authors": [
+        "Yinqi Li",
+        "Hong Chang",
+        "Ruibing Hou",
+        "Shiguang Shan",
+        "Xilin Chen"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623508",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623508"
+    },
+    {
+      "id": "Li_Separating_Domain_Private_Classes_for_Universal_Unsupervised_TMM_2026_paper",
+      "title": "Separating Domain-Private Classes for Universal Unsupervised Cross-Domain 3D Model Retrieval",
+      "authors": [
+        "Jiayu Li",
+        "Yuting Su",
+        "Dan Song",
+        "Wenhui Li",
+        "Zan Gao",
+        "An-An Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623513",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623513"
+    },
+    {
+      "id": "Xie_Next_Chain_Prediction_A_Generative_Recommendation_Model_With_TMM_2026_paper",
+      "title": "Next Chain Prediction: A Generative Recommendation Model With Sequence-Chain Attention",
+      "authors": [
+        "Yanwei Xie",
+        "Lanjun Wang",
+        "Weizhi Nie",
+        "Changtai Shi",
+        "Xiaofei Dong",
+        "Shuai Chen",
+        "Hongxi Sun",
+        "Wei Rao",
+        "An-An Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623521",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623521"
+    },
+    {
+      "id": "Wang_Self_Guided_Discriminative_Locality_Preserving_Projections_TMM_2026_paper",
+      "title": "Self-Guided Discriminative Locality Preserving Projections",
+      "authors": [
+        "Qianqian Wang",
+        "Mengping Jiang",
+        "Gan Sun",
+        "Wei Feng",
+        "Licheng Jiao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623514",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623514"
+    },
+    {
+      "id": "Liu_Scale_Aware_Attention_and_Multi_Modal_Prompt_Learning_With_F_TMM_2026_paper",
+      "title": "Scale-Aware Attention and Multi-Modal Prompt Learning With Fusion Adapter for RGBT Tracking",
+      "authors": [
+        "Xiang Liu",
+        "Haiyan Li",
+        "Victor S. Sheng",
+        "Yujun Ma",
+        "Xiaoguo Liang",
+        "Guanbo Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623526",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623526"
+    },
+    {
+      "id": "Li_Learning_Compact_Representations_With_an_Information_Bottlen_TMM_2026_paper",
+      "title": "Learning Compact Representations With an Information Bottleneck for Camouflaged Object Detection",
+      "authors": [
+        "Guanyi Li",
+        "Junjie Zhang",
+        "Rui Gao",
+        "Wubang Yuan",
+        "Gloria Jin",
+        "Dan Zeng"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623509",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623509"
+    },
+    {
+      "id": "Liu_Joint_JPEG_Compression_and_Encryption_With_DC_Groups_Random__TMM_2026_paper",
+      "title": "Joint JPEG Compression and Encryption With DC Groups' Random Cross-Permutation and ZRVs' Inter-Block Permutation",
+      "authors": [
+        "Xingbin Liu",
+        "Jing Yang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623554",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623554"
+    },
+    {
+      "id": "Ding_Contrastive_Diversity_Augmentation_for_Single_Domain_General_TMM_2026_paper",
+      "title": "Contrastive Diversity Augmentation for Single Domain Generalization",
+      "authors": [
+        "Rui Ding",
+        "Kehua Guo",
+        "Huiling Chen",
+        "Xiangyuan Zhu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3613123",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3613123"
+    },
+    {
+      "id": "Mahdizadeh_Mamba_Based_Progressive_Recovery_Framework_for_Multimodal_Lo_TMM_2026_paper",
+      "title": "Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement",
+      "authors": [
+        "Mohammad Mahdizadeh",
+        "Jianjian Cao",
+        "Peng Ye",
+        "Tao Chen"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623502",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623502"
+    },
+    {
+      "id": "Weng_DV_Net_Detecting_and_Distinguishing_Copy_Move_Regions_From_D_TMM_2026_paper",
+      "title": "DV-Net: Detecting and Distinguishing Copy-Move Regions From Dual Views",
+      "authors": [
+        "Shaowei Weng",
+        "Jianhao Zhang",
+        "Lifang Yu",
+        "Tangguo Zhu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623561",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623561"
+    },
+    {
+      "id": "Han_Balancing_Optimization_Strategies_and_Practical_Goals_An_Eff_TMM_2026_paper",
+      "title": "Balancing Optimization Strategies and Practical Goals: An Efficient Scene Text Detector",
+      "authors": [
+        "Xu Han",
+        "Chuang Yang",
+        "Junyu Gao",
+        "Qi Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623548",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623548"
+    },
+    {
+      "id": "Chen_Ambiguity_Aware_Point_Cloud_Segmentation_by_Adaptive_Margin__TMM_2026_paper",
+      "title": "Ambiguity-Aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning",
+      "authors": [
+        "Yang Chen",
+        "Yueqi Duan",
+        "Haowen Sun",
+        "Jiwen Lu",
+        "Yap-Peng Tan"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623494",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623494"
+    },
+    {
+      "id": "Chang_Useg_PanoDepth_Unified_360_circ_Depth_Estimation_for_Indoor__TMM_2026_paper",
+      "title": "Useg-PanoDepth:Unified $360^{\\circ }$ Depth Estimation for Indoor and Outdoor Scenes With Semantic Assistance",
+      "authors": [
+        "Qingling Chang",
+        "Jingheng Xu",
+        "Yan Cui",
+        "Yikui Zhai",
+        "Pasquale Coscia",
+        "Angelo Genovese",
+        "Vincenzo Piuri",
+        "Fabio Scotti"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623503",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623503"
+    },
+    {
+      "id": "Zheng_REPAIR_Rank_Correlation_and_Noisy_Pair_Half_Replacing_With_M_TMM_2026_paper",
+      "title": "REPAIR: Rank Correlation and Noisy Pair Half-Replacing With Memory for Noisy Correspondence",
+      "authors": [
+        "Ruochen Zheng",
+        "Jiahao Hong",
+        "Changxin Gao",
+        "Nong Sang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623547",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623547"
+    },
+    {
+      "id": "Xiong_VSIS_RDPA_Verifiable_Secret_Image_Sharing_Based_on_Polynomia_TMM_2026_paper",
+      "title": "VSIS-RDPA: Verifiable Secret Image Sharing Based on Polynomial Interpolation for Resisting Dishonest Participant Attacks",
+      "authors": [
+        "Lizhi Xiong",
+        "Hanying Li",
+        "Rui Ding",
+        "Ching-Nung Yang",
+        "Zhangjie Fu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623490",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623490"
+    },
+    {
+      "id": "Song_Efficient_Oriented_Object_Detection_via_Wavelet_Based_Energy_TMM_2026_paper",
+      "title": "Efficient Oriented Object Detection via Wavelet-Based Energy Label Reassignment and Dual Prediction Strategy",
+      "authors": [
+        "Beihang Song",
+        "Jing Li",
+        "Jia Wu",
+        "Jun Chang",
+        "Xuefei Li",
+        "Jun Wan"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623501",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623501"
+    },
+    {
+      "id": "Guo_LETTER_Self_Harmonized_Representation_Learning_for_Multimoda_TMM_2026_paper",
+      "title": "LETTER: Self-Harmonized Representation Learning for Multimodal Recommendation",
+      "authors": [
+        "Jie Guo",
+        "Longyu Wen",
+        "Yunfei Zhao",
+        "Bin Song",
+        "Yuhao Chi"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623549",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623549"
+    },
+    {
+      "id": "Huang_Knowledge_Enhanced_Dynamic_Scene_Graph_Attention_Network_for_TMM_2026_paper",
+      "title": "Knowledge-Enhanced Dynamic Scene Graph Attention Network for Fake News Video Detection",
+      "authors": [
+        "Xuejian Huang",
+        "Tinghuai Ma",
+        "Hao Tang",
+        "Huan Rong"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623491",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623491"
+    },
+    {
+      "id": "Guo_Bootstrap_Deep_Spectral_Clustering_With_Optimal_Transport_TMM_2026_paper",
+      "title": "Bootstrap Deep Spectral Clustering With Optimal Transport",
+      "authors": [
+        "Wengang Guo",
+        "Wei Ye",
+        "Chunchun Chen",
+        "Xin Sun",
+        "Christian Böhm",
+        "Claudia Plant",
+        "Susanto Rahardja"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623492",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623492"
+    },
+    {
+      "id": "Li_When_Multi_Focus_Image_Fusion_Meets_Nonlinear_Spiking_Neural_TMM_2026_paper",
+      "title": "When Multi-Focus Image Fusion Meets Nonlinear Spiking Neural P Systems",
+      "authors": [
+        "Bo Li",
+        "Lingling Zhang",
+        "Tingting Bao",
+        "Yunkuo Lei",
+        "Xiaoqing Zhang",
+        "Jun Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623493",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623493"
+    },
+    {
+      "id": "Mi_A_Plug_and_Play_Model_Agnostic_Embedding_Enhancement_Approac_TMM_2026_paper",
+      "title": "A Plug-and-Play Model-Agnostic Embedding Enhancement Approach for Explainable Recommendation",
+      "authors": [
+        "Yunqi Mi",
+        "Boyang Yan",
+        "Guoshuai Zhao",
+        "Jialie Shen",
+        "Xueming Qian"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623558",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623558"
+    },
+    {
+      "id": "Xue_KANM_2_L_Enhancing_Multi_Modal_Recommendation_With_KAN_and_D_TMM_2026_paper",
+      "title": "KANM$^{2}$L: Enhancing Multi-Modal Recommendation With KAN and Dilated Attention",
+      "authors": [
+        "Yi Xue",
+        "Qianqian Ren",
+        "Yong Liu",
+        "Jianguo Sun"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623555",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623555"
+    },
+    {
+      "id": "Chen_EdinoGait_Transferring_Large_Visual_Models_to_Event_Based_Vi_TMM_2026_paper",
+      "title": "EdinoGait: Transferring Large Visual Models to Event-Based Vision for Enhancing Gait Recognition",
+      "authors": [
+        "Liaogehao Chen",
+        "Zhenjun Zhang",
+        "Yaonan Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623551",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623551"
+    },
+    {
+      "id": "Li_ICPL_ReID_Identity_Conditional_Prompt_Learning_for_Multi_Spe_TMM_2026_paper",
+      "title": "ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification",
+      "authors": [
+        "Shihao Li",
+        "Chenglong Li",
+        "Aihua Zheng",
+        "Jin Tang",
+        "Bin Luo"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623556",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623556"
+    },
+    {
+      "id": "Zou_Interpretable_Multi_View_Representation_Learning_Towards_Com_TMM_2026_paper",
+      "title": "Interpretable Multi-View Representation Learning Towards Complex Scenes: From Homogeneity to Heterogeneity",
+      "authors": [
+        "Ying Zou",
+        "Zihan Fang",
+        "Shide Du",
+        "Yilin Wu",
+        "Hong Zhao",
+        "Shiping Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623557",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623557"
+    },
+    {
+      "id": "Dong_Multimodal_Multi_Graph_Fusion_Learning_for_Alzheimer_s_Disea_TMM_2026_paper",
+      "title": "Multimodal Multi-Graph Fusion Learning for Alzheimer's Disease Diagnosis",
+      "authors": [
+        "Aimei Dong",
+        "Yongxing Cai",
+        "Long Wang",
+        "Jingyuan Xu",
+        "Guohua Lv",
+        "Guixin Zhao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623553",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623553"
+    },
+    {
+      "id": "Saffi_Auto_DBPA_Density_Aware_Ball_Pivoting_Algorithm_With_Adaptiv_TMM_2026_paper",
+      "title": "Auto-DBPA: Density-Aware Ball-Pivoting Algorithm With Adaptive Radius Using Contextual Bandits for Object and Scene Reconstruction",
+      "authors": [
+        "Houda Saffi",
+        "Naima Otberdout",
+        "Youssef Hmamouche",
+        "Amal El Fallah Seghrouchni"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623546",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623546"
+    },
+    {
+      "id": "Qin_Deep_Semantic_Tuplet_Based_Hashing_by_Hypergraph_Modeling_fo_TMM_2026_paper",
+      "title": "Deep Semantic Tuplet-Based Hashing by Hypergraph Modeling for Cross-Modal Retrieval",
+      "authors": [
+        "Qibing Qin",
+        "Lei Wu",
+        "Wenfeng Zhang",
+        "Huihui Zhang",
+        "Lei Huang",
+        "Jie Nie"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623497",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623497"
+    },
+    {
+      "id": "Jiang_Rethinking_Vision_Transformer_for_Large_Scale_Fine_Grained_I_TMM_2026_paper",
+      "title": "Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval",
+      "authors": [
+        "Xin Jiang",
+        "Hao Tang",
+        "Yonghua Pan",
+        "Zechao Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623552",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623552"
+    },
+    {
+      "id": "Wang_Knowledge_Enhanced_Graph_Contrastive_Learning_for_Recommenda_TMM_2026_paper",
+      "title": "Knowledge-Enhanced Graph Contrastive Learning for Recommendations",
+      "authors": [
+        "Xiaofeng Wang",
+        "Zhengjie Zhang",
+        "Yuanyuan Qi",
+        "Guodong Shen",
+        "Shuaiming Lai",
+        "Yuntao Chen",
+        "Fang Zhou",
+        "Daying Quan"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3626976",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3626976"
+    },
+    {
+      "id": "Wu_SingingHead_A_Large_Scale_4D_Dataset_for_Singing_Head_Animat_TMM_2026_paper",
+      "title": "SingingHead: A Large-Scale 4D Dataset for Singing Head Animation",
+      "authors": [
+        "Sijing Wu",
+        "Yunhao Li",
+        "Weitian Zhang",
+        "Jun Jia",
+        "Yucheng Zhu",
+        "Yichao Yan",
+        "Guangtao Zhai",
+        "Xiaokang Yang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623560",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623560"
+    },
+    {
+      "id": "Xing_Temporal_Prompt_Learning_With_Depth_Memory_for_Video_Mirror__TMM_2026_paper",
+      "title": "Temporal Prompt Learning With Depth Memory for Video Mirror Detection",
+      "authors": [
+        "Zhaohu Xing",
+        "Tian Ye",
+        "Xin Yang",
+        "Sixiang Chen",
+        "Huazhu Fu",
+        "Yan Nei Law",
+        "Lei Zhu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3623544",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3623544"
+    },
+    {
+      "id": "Wei_MUVOD_A_Novel_Multi_View_Video_Object_Segm_entation_Dataset__TMM_2026_paper",
+      "title": "MUVOD: A Novel Multi-View Video Object Segm entation Dataset and a Benchmark for 3D Segmentation",
+      "authors": [
+        "Bangning Wei",
+        "Joshua Maraval",
+        "Meriem Outtas",
+        "Kidiyo Kpalma",
+        "Nicolas Ramin",
+        "Lu Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632697",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632697"
+    },
+    {
+      "id": "Chen_ASK_HOI_Affordance_Scene_Knowledge_Prompting_for_Human_Objec_TMM_2026_paper",
+      "title": "ASK-HOI: Affordance-Scene Knowledge Prompting for Human-Object Interaction Detection",
+      "authors": [
+        "Dongpan Chen",
+        "Dehui Kong",
+        "Junna Gao",
+        "Jinghua Li",
+        "Qianxing Li",
+        "Baocai Yin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632627",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632627"
+    },
+    {
+      "id": "Fang_Cas_OVD_Cascaded_Open_Vocabulary_Detection_of_Small_Objects__TMM_2026_paper",
+      "title": "Cas-OVD: Cascaded Open-Vocabulary Detection of Small Objects Using Multi-Refined Region Proposal Network in Autonomous Driving",
+      "authors": [
+        "Zhenyu Fang",
+        "Yulong Wu",
+        "Jinchang Ren",
+        "Jiangbin Zheng",
+        "Yijun Yan",
+        "Lixiang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632649",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632649"
+    },
+    {
+      "id": "Li_HMS2Net_Heterogeneous_Multimodal_State_Space_Network_via_CLI_TMM_2026_paper",
+      "title": "HMS2Net: Heterogeneous Multimodal State Space Network via CLIP for Dynamic Scene Classification in Livestreaming",
+      "authors": [
+        "Wensheng Li",
+        "Jing Zhang",
+        "Li Zhuo",
+        "Qi Tian"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632629",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632629"
+    },
+    {
+      "id": "Zou_Long_Short_Match_for_Lost_Control_in_UAV_Multi_Object_Tracki_TMM_2026_paper",
+      "title": "Long-Short Match for Lost Control in UAV Multi-Object Tracking",
+      "authors": [
+        "Zizhuang Zou",
+        "Mao Ye",
+        "Luping Ji",
+        "Lihua Zhou",
+        "Song Tang",
+        "Yan Gan",
+        "Shuai Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632642",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632642"
+    },
+    {
+      "id": "Shi_Feature_Dispersion_Adaptation_With_Pre_Pooling_Prototype_for_TMM_2026_paper",
+      "title": "Feature Dispersion Adaptation With Pre-Pooling Prototype for Continual Image Classification",
+      "authors": [
+        "Wuxuan Shi",
+        "Mang Ye",
+        "Wei Yu",
+        "Bo Du"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632692",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632692"
+    },
+    {
+      "id": "Chi_Cross_Modal_Spherical_Aggregation_for_Weakly_Supervised_Remo_TMM_2026_paper",
+      "title": "Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal",
+      "authors": [
+        "Kaichen Chi",
+        "Wei Jing",
+        "Junjie Li",
+        "Qiang Li",
+        "Qi Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618537",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618537"
+    },
+    {
+      "id": "Wang_Rethinking_Class_Incremental_Learning_From_a_Dynamic_Imbalan_TMM_2026_paper",
+      "title": "Rethinking Class-Incremental Learning From a Dynamic Imbalanced Learning Perspective",
+      "authors": [
+        "Leyuan Wang",
+        "Liuyu Xiang",
+        "Yunlong Wang",
+        "Huijia Wu",
+        "Huafeng Yang",
+        "Jingqian Liu",
+        "Zhaofeng He"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632688",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632688"
+    },
+    {
+      "id": "Luo_DiffW_Multi_Encoder_Based_on_Conditional_Diffusion_Model_for_TMM_2026_paper",
+      "title": "DiffW: Multi-Encoder Based on Conditional Diffusion Model for Robust Image Watermarking",
+      "authors": [
+        "Ting Luo",
+        "Renzhi Hu",
+        "Zhouyan He",
+        "Gangyi Jiang",
+        "Haiyong Xu",
+        "Yang Song",
+        "Chin-Chen Chang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632631",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632631"
+    },
+    {
+      "id": "Peng_Progressive_Learning_of_Instance_Level_Proxy_Semantics_for_F_TMM_2026_paper",
+      "title": "Progressive Learning of Instance-Level Proxy Semantics for Few-Shot Action Recognition",
+      "authors": [
+        "Fang Peng",
+        "Xiaoshan Yang",
+        "Yaowei Wang",
+        "Changsheng Xu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632652",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632652"
+    },
+    {
+      "id": "He_Long_Tailed_Continual_Learning_for_Visual_Food_Recognition_TMM_2026_paper",
+      "title": "Long-Tailed Continual Learning for Visual Food Recognition",
+      "authors": [
+        "Jiangpeng He",
+        "Xiaoyan Zhang",
+        "Luotao Lin",
+        "Jack Ma",
+        "Heather A. Eicher-Miller",
+        "Fengqing Zhu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632640",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632640"
+    },
+    {
+      "id": "Long_Multi_Granularity_Query_Network_With_Adaptive_Category_Featu_TMM_2026_paper",
+      "title": "Multi-Granularity Query Network With Adaptive Category Feature Embedding for Behavior Recognition",
+      "authors": [
+        "Nuoer Long",
+        "Yonghao Dang",
+        "Kaiwen Yang",
+        "Chengpeng Xiong",
+        "Shaobin Chen",
+        "Tao Tan",
+        "Wei Ke",
+        "Chan-Tong Lam",
+        "Jianqin Yin",
+        "Peter H. N. de With",
+        "Yue Sun"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632695",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632695"
+    },
+    {
+      "id": "Wang_UniAlign_A_Universal_Cross_Modality_Knowledge_Alignment_Fram_TMM_2026_paper",
+      "title": "UniAlign: A Universal Cross-Modality Knowledge Alignment Framework for Fine-Grained Action Recognition",
+      "authors": [
+        "Yihan Wang",
+        "Baoli Sun",
+        "Haojie Li",
+        "Xinzhu Ma",
+        "Zhihui Wang",
+        "Zhiyong Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632670",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632670"
+    },
+    {
+      "id": "Chen_Generic_to_Personalised_Learning_for_Multimodal_Image_Synthe_TMM_2026_paper",
+      "title": "Generic-to-Personalised Learning for Multimodal Image Synthesis With Bidirectional Variational GAN",
+      "authors": [
+        "Long Chen",
+        "Xirui Dong",
+        "Jiangrong Shen",
+        "Lu Zhang",
+        "Qi Xu",
+        "Gang Pan",
+        "Qiang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632663",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632663"
+    },
+    {
+      "id": "Wang_Adaptive_Multi_Modal_Visual_Tracking_With_Dynamic_Semantic_P_TMM_2026_paper",
+      "title": "Adaptive Multi-Modal Visual Tracking With Dynamic Semantic Prompts",
+      "authors": [
+        "Jiahao Wang",
+        "Fang Liu",
+        "Licheng Jiao",
+        "Hao Wang",
+        "Shuo Li",
+        "Lingling Li",
+        "Puhua Chen",
+        "Xu Liu",
+        "Wenping Ma",
+        "Xinyi Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632650",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632650"
+    },
+    {
+      "id": "Zhou_Purified_Zero_Shot_Sketch_Based_Image_Retrieval_TMM_2026_paper",
+      "title": "Purified Zero-Shot Sketch-Based Image Retrieval",
+      "authors": [
+        "Yang Zhou",
+        "Jingru Yang",
+        "Jin Wang",
+        "Kaixiang Huang",
+        "Guodong Lu",
+        "Shengfeng He"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632682",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632682"
+    },
+    {
+      "id": "Wang_Real_Scene_Image_Dehazing_via_Laplacian_Pyramid_Based_Condit_TMM_2026_paper",
+      "title": "Real-Scene Image Dehazing via Laplacian Pyramid-Based Conditional Diffusion Model",
+      "authors": [
+        "Yongzhen Wang",
+        "Jie Sun",
+        "Heng Liu",
+        "Xiao-Ping Zhang",
+        "Mingqiang Wei"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632694",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632694"
+    },
+    {
+      "id": "Sheng_AesPrompt_Zero_Shot_Image_Aesthetics_Assessment_With_Multi_G_TMM_2026_paper",
+      "title": "AesPrompt: Zero-Shot Image Aesthetics Assessment With Multi-Granularity Aesthetic Prompt Learning",
+      "authors": [
+        "Xiangfei Sheng",
+        "Leida Li",
+        "Pengfei Chen",
+        "Li Cai",
+        "Giuseppe Valenzise"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632637",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632637"
+    },
+    {
+      "id": "Liu_Unsupervised_Point_Cloud_Reconstruction_via_Recurrent_Multi__TMM_2026_paper",
+      "title": "Unsupervised Point Cloud Reconstruction via Recurrent Multi-Step Moving Strategy",
+      "authors": [
+        "Zheng Liu",
+        "Jianjun Zhang",
+        "Ming Zhang",
+        "Runze Ke",
+        "Chengcheng Yu",
+        "Ligang Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632687",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632687"
+    },
+    {
+      "id": "Liu_MDT_FI_Mask_Guided_Dual_Branch_Transformer_With_Texture_and__TMM_2026_paper",
+      "title": "MDT-FI: Mask-Guided Dual-Branch Transformer With Texture and Structure Feature Interaction for Image Inpainting",
+      "authors": [
+        "Dong Liu",
+        "Xiaofeng Wang",
+        "Ruidong Han",
+        "Jianghua Li",
+        "Shanmin Pang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632651",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632651"
+    },
+    {
+      "id": "Feng_Partition_Map_Based_Fast_Block_Partitioning_for_VVC_Inter_Co_TMM_2026_paper",
+      "title": "Partition Map-Based Fast Block Partitioning for VVC Inter Coding",
+      "authors": [
+        "Xinmin Feng",
+        "Zhuoyuan Li",
+        "Li Li",
+        "Dong Liu",
+        "Feng Wu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632639",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632639"
+    },
+    {
+      "id": "Xu_Exploiting_Temporal_Audio_Visual_Correlation_Embedding_for_A_TMM_2026_paper",
+      "title": "Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation",
+      "authors": [
+        "Zhihua Xu",
+        "Tianshui Chen",
+        "Zhijing Yang",
+        "Chunmei Qing",
+        "Keze Wang",
+        "Liang Lin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618536",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618536"
+    },
+    {
+      "id": "Jia_CAD_Mesher_A_Convenient_Accurate_Dense_Mesh_Based_Mapping_Mo_TMM_2026_paper",
+      "title": "CAD-Mesher: A Convenient, Accurate, Dense Mesh-Based Mapping Module in SLAM for Dynamic Environments",
+      "authors": [
+        "Yanpeng Jia",
+        "Fengkui Cao",
+        "Ting Wang",
+        "Yandong Tang",
+        "Shiliang Shao",
+        "Lianqing Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3618573",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3618573"
+    },
+    {
+      "id": "Song_Multi_Clue_Sliding_Window_Attention_for_Camouflaged_Object_D_TMM_2026_paper",
+      "title": "Multi-Clue Sliding Window Attention for Camouflaged Object Detection",
+      "authors": [
+        "Xiaogang Song",
+        "Haoyu Yuan",
+        "Xiaofeng Lu",
+        "Xinhong Hei",
+        "Rongrong Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632645",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632645"
+    },
+    {
+      "id": "Zeng_Accelerating_Adaptive_Diffusion_and_Uncertainty_Modeling_for_TMM_2026_paper",
+      "title": "Accelerating Adaptive Diffusion and Uncertainty Modeling for Underwater Image Enhancement",
+      "authors": [
+        "Xiuna Zeng",
+        "Jiaao Peng",
+        "Zhenqi Fu",
+        "Linyu Fan",
+        "Xiaotong Tu",
+        "Yue Huang",
+        "Xinghao Ding"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632678",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632678"
+    },
+    {
+      "id": "Shuai_Adversarial_Pruning_Networks_for_Compact_3D_Gaussian_Splatti_TMM_2026_paper",
+      "title": "Adversarial Pruning Networks for Compact 3D Gaussian Splatting",
+      "authors": [
+        "Hui Shuai",
+        "Yucheng Shi",
+        "Yubao Sun",
+        "Qingshan Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632681",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632681"
+    },
+    {
+      "id": "Qin_From_Sight_to_Insight_Unleashing_Eye_Tracking_in_Weakly_Supe_TMM_2026_paper",
+      "title": "From Sight to Insight: Unleashing Eye-Tracking in Weakly Supervised Video Salient Object Detection",
+      "authors": [
+        "Qi Qin",
+        "Runmin Cong",
+        "Gen Zhan",
+        "Yiting Liao",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632641",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632641"
+    },
+    {
+      "id": "Li_Fast_and_Effective_Overwrite_Attack_Against_DNN_Based_Image__TMM_2026_paper",
+      "title": "Fast and Effective Overwrite Attack Against DNN-Based Image Watermarking Models",
+      "authors": [
+        "Shaoxin Li",
+        "Xiaofeng Liao",
+        "Qiqi Zhang",
+        "Yuanqi Xue",
+        "Lingyang Chu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632696",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632696"
+    },
+    {
+      "id": "Liu_Multimodal_Industrial_Anomaly_Detection_via_Attention_Enhanc_TMM_2026_paper",
+      "title": "Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network",
+      "authors": [
+        "Shuaibo Liu",
+        "Xiaoli Luan",
+        "Yueyang Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632646",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632646"
+    },
+    {
+      "id": "Kang_Double_Chain_Graph_Convolution_Transformer_for_3D_Human_Pose_TMM_2026_paper",
+      "title": "Double-Chain Graph Convolution Transformer for 3D Human Pose Estimation",
+      "authors": [
+        "Hongbo Kang",
+        "Yong Wang",
+        "Mengyuan Liu",
+        "Doudou Wu",
+        "Peng Liu",
+        "Wenming Yang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632636",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632636"
+    },
+    {
+      "id": "Yang_Orientation_Aware_Task_Decoupled_Learning_for_Oriented_Objec_TMM_2026_paper",
+      "title": "Orientation-Aware Task-Decoupled Learning for Oriented Object Detection",
+      "authors": [
+        "Ting Yang",
+        "Qilong Wang",
+        "Qinghua Hu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632656",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632656"
+    },
+    {
+      "id": "Tian_Tensor_Wheel_Completion_With_Low_Rank_Factor_Prior_and_Adapt_TMM_2026_paper",
+      "title": "Tensor Wheel Completion With Low-Rank Factor Prior and Adaptive Graph Regularizer for Hyperspectral Image Recovery",
+      "authors": [
+        "Xin Tian",
+        "Kun Xie",
+        "Jigang Wen",
+        "Quan Feng"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632633",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632633"
+    },
+    {
+      "id": "Qi_How_Vision_Language_Tasks_Benefit_From_Large_Pre_Trained_Mod_TMM_2026_paper",
+      "title": "How Vision-Language Tasks Benefit From Large Pre-Trained Models: A Survey",
+      "authors": [
+        "Yayun Qi",
+        "Hongxi Li",
+        "Yiqi Song",
+        "Xinxiao Wu",
+        "Jiebo Luo"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632653",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632653"
+    },
+    {
+      "id": "Zhu_Fusion_Driven_Task_Mutual_Guidance_Network_for_Few_Shot_Hype_TMM_2026_paper",
+      "title": "Fusion-Driven Task Mutual-Guidance Network for Few-Shot Hyperspectral Image Classification",
+      "authors": [
+        "Yusen Zhu",
+        "Jiahui Qu",
+        "Wenqian Dong",
+        "Yunsong Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632632",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632632"
+    },
+    {
+      "id": "Jia_HDMDN_Hierarchical_Decoupling_Based_Meta_Knowledge_Single_Im_TMM_2026_paper",
+      "title": "HDMDN: Hierarchical-Decoupling Based Meta-Knowledge Single Image Dehazing Network",
+      "authors": [
+        "Tongyao Jia",
+        "Jiafeng Li",
+        "Li Zhuo",
+        "Jing Zhang",
+        "Tianjian Yu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632669",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632669"
+    },
+    {
+      "id": "Huang_Watch_Where_You_Move_Region_Aware_Dynamic_Aggregation_and_Ex_TMM_2026_paper",
+      "title": "Watch Where You Move: Region-Aware Dynamic Aggregation and Excitation for Gait Recognition",
+      "authors": [
+        "Binyuan Huang",
+        "Yongdong Luo",
+        "Xianda Guo",
+        "Xiawu Zheng",
+        "Zheng Zhu",
+        "Jiahui Pan",
+        "Chengju Zhou"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3613158",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3613158"
+    },
+    {
+      "id": "Chen_Exploring_Cross_Modal_Mutual_Prompt_Learning_for_Video_Quali_TMM_2026_paper",
+      "title": "Exploring Cross-Modal Mutual Prompt Learning for Video Quality Assessment",
+      "authors": [
+        "Pengfei Chen",
+        "Leida Li",
+        "Jinjian Wu",
+        "Jiebin Yan",
+        "Vinit Jakhetiya",
+        "Aladine Chetouani"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639890",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639890"
+    },
+    {
+      "id": "Zhang_Trustworthy_Continuous_Sign_Language_Recognition_TMM_2026_paper",
+      "title": "Trustworthy Continuous Sign Language Recognition",
+      "authors": [
+        "Yan Zhang",
+        "Wanli Xue",
+        "Leming Guo",
+        "Yuxi Zhou",
+        "Chao Wei",
+        "Yangcan Wu",
+        "Tiantian Yuan",
+        "Shengyong Chen"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3640024",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3640024"
+    },
+    {
+      "id": "Zhang_CrossHypergraph_Consistent_High_Order_Semantic_Network_for_F_TMM_2026_paper",
+      "title": "CrossHypergraph: Consistent High-Order Semantic Network for Few-Shot Image Classification",
+      "authors": [
+        "Yucheng Zhang",
+        "Hao Wang",
+        "Shuo Zhang",
+        "Biao Leng"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639903",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639903"
+    },
+    {
+      "id": "Cheng_Video_Based_Instantaneous_Heart_Rate_Measurement_With_Enhanc_TMM_2026_paper",
+      "title": "Video-Based Instantaneous Heart Rate Measurement With Enhanced Time-Frequency Representations",
+      "authors": [
+        "Juan Cheng",
+        "Xiwen Luo",
+        "Xiaowei Wu",
+        "Rencheng Song",
+        "Yu Liu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639906",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639906"
+    },
+    {
+      "id": "Hu_ICDSR_Integrated_Conditional_Diffusion_Model_for_Single_Imag_TMM_2026_paper",
+      "title": "ICDSR: Integrated Conditional Diffusion Model for Single Image Super-Resolution",
+      "authors": [
+        "Cong Hu",
+        "Xiao-Zhong Wei",
+        "Xiaojun Wu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639910",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639910"
+    },
+    {
+      "id": "Zeng_Fairness_Aware_Multicategory_360_circ_Video_Streaming_in_Clo_TMM_2026_paper",
+      "title": "Fairness-Aware Multicategory 360$^\\circ$ Video Streaming in Cloud-Edge Collaboration Networks",
+      "authors": [
+        "Jiaxin Zeng",
+        "Xiaobo Zhou",
+        "Keqiu Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3640004",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3640004"
+    },
+    {
+      "id": "Xiao_Dual_Feature_Fusion_for_Incomplete_Multi_View_Multi_Label_Le_TMM_2026_paper",
+      "title": "Dual Feature Fusion for Incomplete Multi-View Multi-Label Learning",
+      "authors": [
+        "Xinyu Xiao",
+        "Shuhan Qi",
+        "Yulin Wu",
+        "Bin Chen",
+        "Chao Xing",
+        "Xuan Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639981",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639981"
+    },
+    {
+      "id": "Shen_ErasableMask_A_Robust_and_Erasable_Privacy_Protection_Scheme_TMM_2026_paper",
+      "title": "ErasableMask: A Robust and Erasable Privacy Protection Scheme Against Black-Box Face Recognition Models",
+      "authors": [
+        "Sipeng Shen",
+        "Yunming Zhang",
+        "Dengpan Ye",
+        "Xiuwen Shi",
+        "Long Tang",
+        "Haoran Duan",
+        "Yueyun Shang",
+        "Zhihong Tian"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639912",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639912"
+    },
+    {
+      "id": "Xu_EEformer_Early_Exiting_for_Transformer_With_Global_Local_Exi_TMM_2026_paper",
+      "title": "EEformer: Early Exiting for Transformer With Global-Local Exits and Progressive Fine-Tuning",
+      "authors": [
+        "Guanyu Xu",
+        "Jiawei Hao",
+        "Yong Luo",
+        "Li Shen",
+        "Han Hu",
+        "Dan Zeng"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639997",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639997"
+    },
+    {
+      "id": "Chen_Toward_Multi_Source_Sky_Ground_Re_Identification_A_New_Bench_TMM_2026_paper",
+      "title": "Toward Multi-Source Sky-Ground Re-Identification: A New Benchmark and an Innovative Approach",
+      "authors": [
+        "Hongxu Chen",
+        "Zhizhi Lu",
+        "Nailong Zhao",
+        "Yuli Huang",
+        "Lingxiao Yang",
+        "Xiaohua Xie",
+        "Jianhuang Lai"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639913",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639913"
+    },
+    {
+      "id": "Kang_Toward_Copyright_Leakage_Mitigation_for_Spherical_Panoramic__TMM_2026_paper",
+      "title": "Toward Copyright Leakage Mitigation for Spherical Panoramic Images",
+      "authors": [
+        "Jihyeon Kang",
+        "Jong-Uk Hou"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639974",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639974"
+    },
+    {
+      "id": "Zhang_A_Semantic_Aware_and_Multi_Guided_Network_for_Infrared_Visib_TMM_2026_paper",
+      "title": "A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion",
+      "authors": [
+        "Xiaoli Zhang",
+        "Liying Wang",
+        "Libo Zhao",
+        "Xiongfei Li",
+        "Siwei Ma"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639988",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639988"
+    },
+    {
+      "id": "Li_Towards_Structure_Aware_Model_for_Multi_Modal_Knowledge_Grap_TMM_2026_paper",
+      "title": "Towards Structure-Aware Model for Multi-Modal Knowledge Graph Completion",
+      "authors": [
+        "LinYu Li",
+        "Zhi Jin",
+        "Yichi Zhang",
+        "Dongming Jin",
+        "Chengfeng Dou",
+        "Yuanpeng He",
+        "Xuan Zhang",
+        "Haiyan Zhao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639983",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639983"
+    },
+    {
+      "id": "Zhou_Scene_Text_Grounding_for_Text_Based_Video_Question_Answering_TMM_2026_paper",
+      "title": "Scene-Text Grounding for Text-Based Video Question Answering",
+      "authors": [
+        "Sheng Zhou",
+        "Junbin Xiao",
+        "Xun Yang",
+        "Peipei Song",
+        "Dan Guo",
+        "Angela Yao",
+        "Meng Wang",
+        "Tat-Seng Chua"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639956",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639956"
+    },
+    {
+      "id": "Zhao_S2ML_Spatio_Spectral_Mutual_Learning_for_Depth_Completion_TMM_2026_paper",
+      "title": "S2ML: Spatio-Spectral Mutual Learning for Depth Completion",
+      "authors": [
+        "Zihui Zhao",
+        "Yifei Zhang",
+        "Zheng Wang",
+        "Yang Li",
+        "Kui Jiang",
+        "Zihan Geng",
+        "Chia-Wen Lin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639949",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639949"
+    },
+    {
+      "id": "Zhang_PC_NSVC_An_End_to_End_Neural_Scalable_Vibrotactile_Codec_Wit_TMM_2026_paper",
+      "title": "PC-NSVC: An End-to-End Neural Scalable Vibrotactile Codec With Psychohaptic Calibration",
+      "authors": [
+        "Sheng-Yu Zhang",
+        "Qi Zhang",
+        "Xinkun Zheng",
+        "Tao Jiang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639938",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639938"
+    },
+    {
+      "id": "Guo_Prompt_Learning_With_Knowledge_Regularization_for_Pre_Traine_TMM_2026_paper",
+      "title": "Prompt Learning With Knowledge Regularization for Pre-Trained Vision-Language Models",
+      "authors": [
+        "Boyang Guo",
+        "Liang Li",
+        "Jiehua Zhang",
+        "Yaoqi Sun",
+        "Chenggang Yan",
+        "Xichun Sheng"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639886",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639886"
+    },
+    {
+      "id": "Liu_A_Fusion_Enhanced_Network_for_Infrared_and_Visible_High_Leve_TMM_2026_paper",
+      "title": "A Fusion-Enhanced Network for Infrared and Visible High-Level Vision Tasks",
+      "authors": [
+        "Fangcen Liu",
+        "Chenqiang Gao",
+        "Fang Chen",
+        "Pengcheng Li",
+        "Junjie Guo",
+        "Deyu Meng"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3640020",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3640020"
+    },
+    {
+      "id": "Shen_Cross_Modal_Explicit_Invariance_Coordinated_Dual_Constraint__TMM_2026_paper",
+      "title": "Cross-Modal Explicit Invariance Coordinated Dual Constraint Reconstruction for Heterogeneous Incomplete Multimodal Sentiment Analysis",
+      "authors": [
+        "Qi Shen",
+        "Junchang Xin",
+        "Bing Tian Dai",
+        "Zhihong Huang",
+        "Zhiqiong Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639945",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639945"
+    },
+    {
+      "id": "Huang_StructGS_Adaptive_Spherical_Harmonics_and_Rendering_Enhancem_TMM_2026_paper",
+      "title": "StructGS: Adaptive Spherical Harmonics and Rendering Enhancements for Superior 3D Gaussian Splatting",
+      "authors": [
+        "Zexu Huang",
+        "Min Xu",
+        "Stuart W. Perry"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639991",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639991"
+    },
+    {
+      "id": "Li_Triple_View_Knowledge_Distillation_for_Semi_Supervised_Seman_TMM_2026_paper",
+      "title": "Triple-View Knowledge Distillation for Semi-Supervised Semantic Segmentation",
+      "authors": [
+        "Ping Li",
+        "Junjie Chen",
+        "Li Yuan",
+        "Xianghua Xu",
+        "Mingli Song"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639923",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639923"
+    },
+    {
+      "id": "Chen_HAAP_Vision_Context_Hierarchical_Attention_Autoregressive_Wi_TMM_2026_paper",
+      "title": "HAAP: Vision-Context Hierarchical Attention Autoregressive With Adaptive Permutation for Scene Text Recognition",
+      "authors": [
+        "Honghui Chen",
+        "Yuhang Qiu",
+        "Jiabao Wang",
+        "Pingping Chen",
+        "Nam Ling"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639908",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639908"
+    },
+    {
+      "id": "Wang_MCSF_Net_A_Multi_Color_Space_Fusion_Network_for_Underwater_I_TMM_2026_paper",
+      "title": "MCSF-Net: A Multi-Color Space Fusion Network for Underwater Image Enhancement",
+      "authors": [
+        "Yijian Wang",
+        "Peixian Zhuang",
+        "Zhenqi Fu",
+        "Jiaquan Yan",
+        "Zuoyong Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639953",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639953"
+    },
+    {
+      "id": "Xu_DPAKS_Reliable_DETR_Guided_by_Prior_Auxiliary_Knowledge_for__TMM_2026_paper",
+      "title": "DPAKS: Reliable DETR Guided by Prior Auxiliary Knowledge for Small Object Detection",
+      "authors": [
+        "Haozhi Xu",
+        "Xiaofang Yuan",
+        "Yaonan Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651021",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651021"
+    },
+    {
+      "id": "Shi_Tensor_Based_Graph_Learning_With_Consistency_and_Specificity_TMM_2026_paper",
+      "title": "Tensor-Based Graph Learning With Consistency and Specificity for Multi-View Clustering",
+      "authors": [
+        "Long Shi",
+        "Yunshan Ye",
+        "Lei Cao",
+        "Yu Zhao",
+        "Badong Chen"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639979",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639979"
+    },
+    {
+      "id": "Li_Towards_General_Cross_Modal_Visual_Coding_for_Emergency_Comm_TMM_2026_paper",
+      "title": "Towards General Cross-Modal Visual Coding for Emergency Communications",
+      "authors": [
+        "Peilin Li",
+        "Yanan Chen",
+        "Lindong Zhao",
+        "Ang Li",
+        "Bin Kang",
+        "Dan Wu",
+        "Liang Zhou"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639942",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639942"
+    },
+    {
+      "id": "Xiao_DTSNet_Dynamic_Transformer_Slimming_for_Efficient_Vision_Rec_TMM_2026_paper",
+      "title": "DTSNet: Dynamic Transformer Slimming for Efficient Vision Recognition",
+      "authors": [
+        "Wenjing Xiao",
+        "Xianzhi Li",
+        "Long Hu",
+        "Yixue Hao",
+        "Min Chen"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3607796",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3607796"
+    },
+    {
+      "id": "Liu_Modality_Aware_Gated_Attention_Network_for_Audio_Visual_Even_TMM_2026_paper",
+      "title": "Modality-Aware Gated Attention Network for Audio-Visual Event Localization",
+      "authors": [
+        "Liang Liu",
+        "Shuaiyong Li",
+        "Yongqiang Zhu",
+        "Zhengxu Dai"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3640018",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3640018"
+    },
+    {
+      "id": "Gao_Investigate_Interactive_Semantic_Segmentation_via_an_Uncerta_TMM_2026_paper",
+      "title": "Investigate Interactive Semantic Segmentation via an Uncertainty Mining View",
+      "authors": [
+        "Yutong Gao",
+        "Congyan Lang",
+        "Fayao Liu",
+        "Xun Xu",
+        "Yuanzhouhan Cao",
+        "Lijuan Sun",
+        "Yunchao Wei"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639952",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639952"
+    },
+    {
+      "id": "Zong_SLSM_Net_Sparse_LiDAR_Point_Clouds_Supervised_Stereo_Matchin_TMM_2026_paper",
+      "title": "SLSM-Net: Sparse LiDAR Point Clouds Supervised Stereo Matching",
+      "authors": [
+        "Ze Zong",
+        "Cheng Wu",
+        "Jie Xie",
+        "Jin Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639911",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639911"
+    },
+    {
+      "id": "Yu_D3BSR_Blind_Super_Resolution_via_Diffusion_Based_Disentangle_TMM_2026_paper",
+      "title": "D3BSR: Blind Super-Resolution via Diffusion-Based Disentangled Degradation Representation",
+      "authors": [
+        "Wei Yu",
+        "Qinglin Liu",
+        "Quanling Meng",
+        "Chenyang Wang",
+        "Xin Sun"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639955",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639955"
+    },
+    {
+      "id": "Wang_Invisible_Backdoor_Attack_With_Siamese_Tuning_on_Pre_Trained_TMM_2026_paper",
+      "title": "Invisible Backdoor Attack With Siamese Tuning on Pre-Trained Vision-Language Models",
+      "authors": [
+        "Bing Wang",
+        "Shengsheng Qian",
+        "Changsheng Xu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639961",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639961"
+    },
+    {
+      "id": "Xu_Exploiting_Multimodal_Knowledge_Graph_for_Multimodal_Machine_TMM_2026_paper",
+      "title": "Exploiting Multimodal Knowledge Graph for Multimodal Machine Translation",
+      "authors": [
+        "Tianjiao Xu",
+        "Xuebo Liu",
+        "Derek F. Wong",
+        "Yue Zhang",
+        "Lidia S. Chao",
+        "Min Zhang",
+        "Tian Gan"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639995",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639995"
+    },
+    {
+      "id": "Guo_TransGOP_R_Transformer_Based_Real_World_Gaze_Object_Predicti_TMM_2026_paper",
+      "title": "TransGOP-R: Transformer-Based Real-World Gaze Object Prediction",
+      "authors": [
+        "Guangyu Guo",
+        "Chenxi Guo",
+        "Zhaozhong Wang",
+        "Binglu Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639891",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639891"
+    },
+    {
+      "id": "Huang_From_Sight_to_Insight_Enhancing_Confusable_Structure_Segment_TMM_2026_paper",
+      "title": "From Sight to Insight: Enhancing Confusable Structure Segmentation via Vision-Language Mutual Prompting",
+      "authors": [
+        "Yixiang Huang",
+        "Yihao Zuo",
+        "Mengqiu Xu",
+        "Kaixin Chen",
+        "Ming Wu",
+        "Chuang Zhang",
+        "Zhanyu Ma",
+        "Jun Guo"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639888",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639888"
+    },
+    {
+      "id": "Wu_On_the_Adversarial_Robustness_of_Learning_Based_Image_Compre_TMM_2026_paper",
+      "title": "On the Adversarial Robustness of Learning-Based Image Compression Against Rate-Distortion Attacks",
+      "authors": [
+        "Chenhao Wu",
+        "Qingbo Wu",
+        "Haoran Wei",
+        "Lei Wang",
+        "Fanman Meng",
+        "King Ngi Ngan",
+        "Li Zhuo",
+        "Hongliang Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639935",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639935"
+    },
+    {
+      "id": "Cao_Sparse_Transformer_for_Ultra_Sparse_Sampled_Video_Compressiv_TMM_2026_paper",
+      "title": "Sparse Transformer for Ultra-Sparse Sampled Video Compressive Sensing",
+      "authors": [
+        "Miao Cao",
+        "Siming Zheng",
+        "Lishun Wang",
+        "Ziyang Chen",
+        "David J. Brady",
+        "Xin Yuan"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639993",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639993"
+    },
+    {
+      "id": "Lu_Mitigating_Inherent_Bias_of_Answer_Heuristic_Based_Framework_TMM_2026_paper",
+      "title": "Mitigating Inherent Bias of Answer Heuristic Based Frameworks in Knowledge-Based Visual Question Answering",
+      "authors": [
+        "Jiachen Lu",
+        "Min Jiang",
+        "Jun Kong",
+        "Danfeng Zhuang",
+        "Ming Lu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645641",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645641"
+    },
+    {
+      "id": "Feng_C_CTX_Cubic_Checkerboard_Context_Entropy_Model_for_Learned_I_TMM_2026_paper",
+      "title": "C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression",
+      "authors": [
+        "Shiyu Feng",
+        "Linwei Zhu",
+        "Yun Zhang",
+        "Na Li",
+        "Shiqi Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645638",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645638"
+    },
+    {
+      "id": "Li_Signed_Relation_Graph_Based_Dynamical_Interacting_System_Mod_TMM_2026_paper",
+      "title": "Signed Relation Graph Based Dynamical Interacting System Modeling for Multi-Agent Trajectory Prediction",
+      "authors": [
+        "Cunyan Li",
+        "Hua Yang",
+        "Jun Sun"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645587",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645587"
+    },
+    {
+      "id": "Hu_Class_Aware_Diversified_Augmentation_for_Open_Set_Single_Dom_TMM_2026_paper",
+      "title": "Class-Aware Diversified Augmentation for Open-Set Single Domain Generalization",
+      "authors": [
+        "Jian Hu",
+        "Shaogang Gong",
+        "Weitong Cai",
+        "Junchi Yan"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645625",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645625"
+    },
+    {
+      "id": "Shin_SSMPD_Semi_Supervised_Learning_for_Multispectral_Pedestrian__TMM_2026_paper",
+      "title": "SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection",
+      "authors": [
+        "Seungho Shin",
+        "Chan Lee",
+        "Gyeong-Moon Park",
+        "Jung Uk Kim"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645626",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645626"
+    },
+    {
+      "id": "Lai_LEViT_Locally_Enhanced_Vision_Transformer_for_Efficient_Obje_TMM_2026_paper",
+      "title": "LEViT: Locally Enhanced Vision Transformer for Efficient Object Re-Identification",
+      "authors": [
+        "Shenqi Lai",
+        "Yuhui Wang",
+        "Mingyuan Fan",
+        "Junshi Huang",
+        "Haifeng Liu",
+        "Deng Cai",
+        "Xueming Qian",
+        "Yaxiong Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645621",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645621"
+    },
+    {
+      "id": "Wang_Adaptive_Visual_Prompting_for_Effective_Satellite_Video_Trac_TMM_2026_paper",
+      "title": "Adaptive Visual Prompting for Effective Satellite Video Tracking",
+      "authors": [
+        "Jiahao Wang",
+        "Fang Liu",
+        "Licheng Jiao",
+        "Hao Wang",
+        "Shuo Li",
+        "Yanbiao Ma",
+        "Lingling Li",
+        "Puhua Chen",
+        "Xu Liu",
+        "Mengjia Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645594",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645594"
+    },
+    {
+      "id": "Zhuang_Intra_Sample_and_Intra_Modal_Enhancement_for_Multimodal_Sent_TMM_2026_paper",
+      "title": "Intra-Sample and Intra-Modal Enhancement for Multimodal Sentiment Analysis With Missing Modalities",
+      "authors": [
+        "Yan Zhuang",
+        "Yanru Zhang",
+        "Jiawen Deng",
+        "Fuji Ren"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645559",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645559"
+    },
+    {
+      "id": "Wang_Hierarchical_Concept_Bottleneck_With_Compensation_Concept_Le_TMM_2026_paper",
+      "title": "Hierarchical Concept Bottleneck With Compensation Concept Learning",
+      "authors": [
+        "Chenhao Wang",
+        "Miao Shang",
+        "Kaige Mao",
+        "Xiaopeng Hong",
+        "Jinpeng Zhang",
+        "Xuhui Huang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645642",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645642"
+    },
+    {
+      "id": "Ma_StereoMamba_A_Novel_Stereo_Image_Super_Resolution_Framework__TMM_2026_paper",
+      "title": "StereoMamba+: A Novel Stereo Image Super-Resolution Framework With Adaptive Dependency Capture and Enhanced Feature Fusion",
+      "authors": [
+        "Zhenchao Ma",
+        "Hamid Reza Tohidypour",
+        "Panos Nasiopoulos",
+        "Victor C. M. Leung"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645632",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645632"
+    },
+    {
+      "id": "Era_Generalizing_Stylized_Motion_Generation_Method_by_Introducin_TMM_2026_paper",
+      "title": "Generalizing Stylized Motion Generation Method by Introducing Metadata-Independent Learning and Unified Multiple Motion Dataset",
+      "authors": [
+        "Yuki Era",
+        "Ren Togo",
+        "Keisuke Maeda",
+        "Takahiro Ogawa",
+        "Miki Haseyama"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645612",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645612"
+    },
+    {
+      "id": "Zhang_RegR_PCQA_Deep_Learning_Based_Colored_Point_Cloud_Quality_As_TMM_2026_paper",
+      "title": "RegR-PCQA: Deep Learning Based Colored Point Cloud Quality Assessment Using 3D-to-2D Regularized Representation",
+      "authors": [
+        "Yun Zhang",
+        "Mao Cui",
+        "Na Li",
+        "Chunling Fan",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645602",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645602"
+    },
+    {
+      "id": "Zhang_VikitaFusion_Object_Recognition_Based_on_Heterogeneous_Visua_TMM_2026_paper",
+      "title": "VikitaFusion: Object Recognition Based on Heterogeneous Visual-Kinesthetic-Tactile Information",
+      "authors": [
+        "Rouqi Zhang",
+        "Ting Zhang",
+        "Jinde Zhu",
+        "Weiling Chen",
+        "Tiesong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645596",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645596"
+    },
+    {
+      "id": "Wang_A_Multi_Modal_Prompt_Tuning_Framework_for_Non_Overlapping_Mu_TMM_2026_paper",
+      "title": "A Multi-Modal Prompt-Tuning Framework for Non-Overlapping Multi-Domain Recommendation",
+      "authors": [
+        "Li Wang",
+        "Shoujin Wang",
+        "Qiang Wu",
+        "Min Xu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645634",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645634"
+    },
+    {
+      "id": "Dong_Light_CNN_Transformer_Dual_Branch_Network_for_Real_Time_Sema_TMM_2026_paper",
+      "title": "Light CNN-Transformer Dual-Branch Network for Real-Time Semantic Segmentation",
+      "authors": [
+        "Yongsheng Dong",
+        "Siming Jia",
+        "Xuelong Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645624",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645624"
+    },
+    {
+      "id": "Chen_MoPD_Mixture_of_Prompts_Distillation_for_Vision_Language_Mod_TMM_2026_paper",
+      "title": "MoPD: Mixture-of-Prompts Distillation for Vision-Language Models",
+      "authors": [
+        "Yang Chen",
+        "Shuai Fu",
+        "Yu Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645615",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645615"
+    },
+    {
+      "id": "Li_CoLeQ_Improving_Data_Free_Quantization_via_Contrastive_Learn_TMM_2026_paper",
+      "title": "CoLeQ: Improving Data-Free Quantization via Contrastive Learning",
+      "authors": [
+        "Zhikai Li",
+        "Mengjuan Chen",
+        "Junrui Xiao",
+        "Qingyi Gu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645611",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645611"
+    },
+    {
+      "id": "Ghosh_Enhanced_Audio_Visual_Speech_Synthesis_via_Multi_Discriminat_TMM_2026_paper",
+      "title": "Enhanced Audio-Visual Speech Synthesis via Multi-Discriminative Learning",
+      "authors": [
+        "Subhayu Ghosh",
+        "Frank Zalkow",
+        "Nanda Dulal Jana"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3645648",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3645648"
+    },
+    {
+      "id": "Kim_TMT_Tri_Modal_Translation_Between_Speech_Image_and_Text_by_P_TMM_2026_paper",
+      "title": "TMT: Tri-Modal Translation Between Speech, Image, and Text by Processing Different Modalities as Different Languages",
+      "authors": [
+        "Minsu Kim",
+        "Jee-Weon Jung",
+        "Hyeongseop Rha",
+        "Soumi Maiti",
+        "Siddhant Arora",
+        "Xuankai Chang",
+        "Shinji Watanabe",
+        "Yong Man Ro"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3659297",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3659297"
+    },
+    {
+      "id": "Ma_Rectifying_Adversarial_Sample_With_Low_Entropy_Prior_for_Tes_TMM_2026_paper",
+      "title": "Rectifying Adversarial Sample With Low Entropy Prior for Test-Time Defense",
+      "authors": [
+        "Lina Ma",
+        "Xiaowei Fu",
+        "Fuxiang Huang",
+        "Xinbo Gao",
+        "Lei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632635",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632635"
+    },
+    {
+      "id": "Guo_ReE3D_Boosting_Novel_View_Synthesis_for_Monocular_Images_Usi_TMM_2026_paper",
+      "title": "ReE3D: Boosting Novel View Synthesis for Monocular Images Using Residual Encoders",
+      "authors": [
+        "Kehua Guo",
+        "Tianyu Chen",
+        "Sheng Ren",
+        "Bin Hu",
+        "Zheng Wu",
+        "Shaojun Guo",
+        "Hui Fang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2023.3347642",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2023.3347642"
+    },
+    {
+      "id": "Wan_Distributed_Two_Tier_Cache_Optimization_in_Metaverse_Scenari_TMM_2026_paper",
+      "title": "Distributed Two-Tier Cache Optimization in Metaverse Scenarios Combining MADDPG and GCN",
+      "authors": [
+        "Zheng Wan",
+        "Shenglu Zhao",
+        "Xiaogang Dong",
+        "Xuelin Liu",
+        "Yifeng Tan",
+        "Yuming Fang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3613168",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3613168"
+    },
+    {
+      "id": "Feng_Enhancing_Cross_Task_Transferability_of_Adversarial_Examples_TMM_2026_paper",
+      "title": "Enhancing Cross-Task Transferability of Adversarial Examples via Spatial and Channel Attention",
+      "authors": [
+        "Weiwei Feng",
+        "Nanqing Xu",
+        "Tianzhu Zhang",
+        "Yongdong Zhang",
+        "Feng Wu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2024.3349925",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2024.3349925"
+    },
+    {
+      "id": "Gu_DEER_Distribution_Divergence_Based_Graph_Contrast_for_Partia_TMM_2026_paper",
+      "title": "DEER: Distribution Divergence-Based Graph Contrast for Partial Label Learning on Graphs",
+      "authors": [
+        "Yiyang Gu",
+        "Zihao Chen",
+        "Yifang Qin",
+        "Zhengyang Mao",
+        "Zhiping Xiao",
+        "Wei Ju",
+        "Chong Chen",
+        "Xian-Sheng Hua",
+        "Yifan Wang",
+        "Xiao Luo",
+        "Ming Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2024.3408038",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2024.3408038"
+    },
+    {
+      "id": "Alkhateeb_JPEG_AI_Compressed_Domain_Face_Detection_A_Multi_Scale_Bridg_TMM_2026_paper",
+      "title": "JPEG AI Compressed Domain Face Detection: A Multi-Scale Bridging Perspective",
+      "authors": [
+        "Ayman Alkhateeb",
+        "Alessandro Gnutti",
+        "Fabrizio Guerrini",
+        "Riccardo Leonardi",
+        "João Ascenso",
+        "Fernando Pereira"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3609179",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3609179"
+    },
+    {
+      "id": "Afrabandpey_P_2_U_Progressive_Precision_Update_for_Efficient_Model_Distr_TMM_2026_paper",
+      "title": "P$^{2}$U: Progressive Precision Update for Efficient Model Distribution",
+      "authors": [
+        "Homayun Afrabandpey",
+        "Hamed Rezazadegan Tavakoli"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3642916",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3642916"
+    },
+    {
+      "id": "Li_Denoised_Semantic_Features_for_Local_Consistent_No_Reference_TMM_2026_paper",
+      "title": "Denoised Semantic Features for Local Consistent No-Reference Image Quality Assessment",
+      "authors": [
+        "Hui Li",
+        "Liang Liao",
+        "Chaofeng Chen",
+        "Xiaopeng Fan",
+        "Wangmeng Zuo",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3632644",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3632644"
+    },
+    {
+      "id": "Guo_Towards_Better_Distortion_Feature_Learning_for_Object_Detect_TMM_2026_paper",
+      "title": "Towards Better Distortion Feature Learning for Object Detection in Top-View Fisheye Cameras",
+      "authors": [
+        "Pengbo Guo",
+        "Chengxu Liu",
+        "Xingsong Hou",
+        "Xueming Qian"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2024.3521808",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2024.3521808"
+    },
+    {
+      "id": "Ghafari_Scalable_Graph_Guided_Transformer_for_Point_Cloud_Geometry_C_TMM_2026_paper",
+      "title": "Scalable Graph-Guided Transformer for Point Cloud Geometry Coding",
+      "authors": [
+        "Mohammadreza Ghafari",
+        "André F. R. Guarda",
+        "Nuno M. M. Rodrigues",
+        "Fernando Pereira"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3598605",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3598605"
+    },
+    {
+      "id": "Yuan_Seeing_With_Words_Interpretable_Language_Guided_Drone_Geo_Lo_TMM_2026_paper",
+      "title": "Seeing With Words: Interpretable Language-Guided Drone Geo-Localization via LLM-Enriched Semantic Attribute Alignment",
+      "authors": [
+        "Changsen Yuan",
+        "Yang-Hao Zhou",
+        "Cunhan Guo",
+        "Danjie Han",
+        "Ge Shi",
+        "Wenwu Wang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3642913",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3642913"
+    },
+    {
+      "id": "Liu_SkeFormer_Skeletal_Cues_Aware_Bone_Point_Relationship_Learni_TMM_2026_paper",
+      "title": "SkeFormer: Skeletal Cues-Aware Bone Point Relationship Learning for Efficient FBIC via Transformers",
+      "authors": [
+        "Hai Liu",
+        "Qiang Chen",
+        "Zhibing Liu",
+        "Tingting Liu",
+        "Li Zhao",
+        "Zhaoli Zhang",
+        "You-Fu Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3603431",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3603431"
+    },
+    {
+      "id": "Song_Dual_Supervised_Asymmetric_Co_Training_for_Semi_Supervised_M_TMM_2026_paper",
+      "title": "Dual-Supervised Asymmetric Co-Training for Semi-Supervised Medical Domain Generalization",
+      "authors": [
+        "Jincai Song",
+        "Haipeng Chen",
+        "Jun Qin",
+        "Na Zhao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3613080",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3613080"
+    },
+    {
+      "id": "Zhang_ViDR_GNN_Vision_Implicit_Discriminative_Reorganization_Graph_TMM_2026_paper",
+      "title": "ViDR-GNN: Vision Implicit Discriminative Reorganization Graph Neural Networks",
+      "authors": [
+        "Zeyang Zhang",
+        "Xiaofeng Cao",
+        "Xiang Zhang",
+        "Li Peng",
+        "Lijia Ma",
+        "Jielong Yang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2025.3639924",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2025.3639924"
+    },
+    {
+      "id": "Hou_Soundscape_Captioning_Using_Sound_Affective_Quality_Network__TMM_2026_paper",
+      "title": "Soundscape Captioning Using Sound Affective Quality Network and Large Language Model",
+      "authors": [
+        "Yuanbo Hou",
+        "Qiaoqiao Ren",
+        "Andrew Mitchell",
+        "Wenwu Wang",
+        "Jian Kang",
+        "Tony Belpaeme",
+        "Dick Botteldooren"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651023",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651023"
+    },
+    {
+      "id": "Wang_CLIP_SD_CLIP_Enhanced_Self_Distillation_for_Visual_Recogniti_TMM_2026_paper",
+      "title": "CLIP-SD: CLIP-Enhanced Self-Distillation for Visual Recognition",
+      "authors": [
+        "Xixi Wang",
+        "Xiong Yang",
+        "Zhenhua Huang",
+        "Yunwen Chen"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651026",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651026"
+    },
+    {
+      "id": "Li_SNH_SLAM_Implicit_Dense_SLAM_Based_on_Scalable_Neural_Hash_R_TMM_2026_paper",
+      "title": "SNH-SLAM: Implicit Dense SLAM Based on Scalable Neural-Hash Representation",
+      "authors": [
+        "Xiong Li",
+        "Zhenyu Wen",
+        "Zhanshuo Dong",
+        "Haoran Duan",
+        "Tianrun Chen",
+        "Zhen Hong"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651044",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651044"
+    },
+    {
+      "id": "Zhou_Efficient_Human_Feature_Refinement_for_Weakly_Supervised_Gro_TMM_2026_paper",
+      "title": "Efficient Human Feature Refinement for Weakly Supervised Group Activity Recognition",
+      "authors": [
+        "Yihui Zhou",
+        "Hao Chen",
+        "Zhanzhou Feng",
+        "Shiliang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651017",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651017"
+    },
+    {
+      "id": "Gu_Infrared_Image_Quality_Estimation_With_Node_to_Graph_Regress_TMM_2026_paper",
+      "title": "Infrared Image Quality Estimation With Node-to-Graph Regression",
+      "authors": [
+        "Ke Gu",
+        "Hongyan Liu",
+        "Yubin Gao",
+        "Chen Wang",
+        "Lai-Kuan Wong",
+        "Weisi Lin",
+        "Guangtao Zhai",
+        "Wenjun Zhang",
+        "Daniel Thalmann"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651047",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651047"
+    },
+    {
+      "id": "Dong_Weakly_Semi_Supervised_Temporal_Sentence_Grounding_in_Videos_TMM_2026_paper",
+      "title": "Weakly Semi-Supervised Temporal Sentence Grounding in Videos With Point Annotations",
+      "authors": [
+        "Jianxiang Dong",
+        "Zhaozheng Yin"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651062",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651062"
+    },
+    {
+      "id": "Jian_Hierarchy_Aware_Multimodal_Distillation_for_Recommendation_TMM_2026_paper",
+      "title": "Hierarchy-Aware Multimodal Distillation for Recommendation",
+      "authors": [
+        "Meng Jian",
+        "Tuo Wang",
+        "Meijuan Yang",
+        "Lifang Wu"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651049",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651049"
+    },
+    {
+      "id": "Li_CWRNN_INVR_A_Coupled_WarpRNN_Based_Implicit_Neural_Video_Rep_TMM_2026_paper",
+      "title": "CWRNN-INVR: A Coupled WarpRNN Based Implicit Neural Video Representation",
+      "authors": [
+        "Yiyang Li",
+        "Yanbo Gao",
+        "Shuai Li",
+        "Zhenyu Du",
+        "Jinglin Zhang",
+        "Hui Yuan",
+        "Mao Ye",
+        "Xingyu Gao"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651033",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651033"
+    },
+    {
+      "id": "Lu_Exploring_Generic_Knowledge_and_Reactivating_Source_Model_fo_TMM_2026_paper",
+      "title": "Exploring Generic Knowledge and Reactivating Source Model for Source-Free Universal Domain Adaptation",
+      "authors": [
+        "Yuwu Lu",
+        "Yifan Lan",
+        "Huan Yang",
+        "Zhihui Lai",
+        "Xuelong Li"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651024",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651024"
+    },
+    {
+      "id": "Peng_Uncertainty_Aware_Multi_View_Graph_Clustering_TMM_2026_paper",
+      "title": "Uncertainty-Aware Multi-View Graph Clustering",
+      "authors": [
+        "Bo Peng",
+        "Shaobo Bai",
+        "Jianjun Lei",
+        "Yuxuan Yao",
+        "Changqing Zhang",
+        "Nam Ling"
+      ],
+      "year": "2026",
+      "venue": "tmm",
+      "url": "https://doi.org/10.1109/TMM.2026.3651061",
+      "pdfUrl": "https://doi.org/10.1109/TMM.2026.3651061"
+    }
+  ]
+}

@@ -1,0 +1,1597 @@
+{
+  "papers": [
+    {
+      "id": "Liu_Privacy_Preserving_Video_Anomaly_Detection_A_Survey_TNNLS_2026_paper",
+      "title": "Privacy-Preserving Video Anomaly Detection: A Survey",
+      "authors": [
+        "Yang Liu",
+        "Siao Liu",
+        "Xiaoguang Zhu",
+        "Hao Yang",
+        "Jielin Li",
+        "Juncen Guo",
+        "Liangyu Teng",
+        "Dingkang Yang",
+        "Yan Wang",
+        "Jing Liu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3600252",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3600252"
+    },
+    {
+      "id": "Bi_SSPPI_Cross_Modality_Enhanced_Protein_Protein_Interaction_Pr_TNNLS_2026_paper",
+      "title": "SSPPI: Cross-Modality Enhanced Protein-Protein Interaction Prediction From Sequence and Structure Perspectives",
+      "authors": [
+        "Xiangpeng Bi",
+        "Wenjian Ma",
+        "Huasen Jiang",
+        "Weigang Lu",
+        "Zhiqiang Wei",
+        "Shugang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3599927",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3599927"
+    },
+    {
+      "id": "Wang_Integrating_Clinical_Knowledge_Graphs_and_Gradient_Based_Neu_TNNLS_2026_paper",
+      "title": "Integrating Clinical Knowledge Graphs and Gradient-Based Neural Systems for Enhanced Melanoma Diagnosis via the Seven-Point Checklist",
+      "authors": [
+        "Yuheng Wang",
+        "Tianze Yu",
+        "Jiayue Cai",
+        "Sunil Kalia",
+        "Harvey Lui",
+        "Zhen Wang",
+        "Tim K. Lee"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3600443",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3600443"
+    },
+    {
+      "id": "Fan_Fine_Grained_Audio_Visual_Event_Localization_TNNLS_2026_paper",
+      "title": "Fine-Grained Audio-Visual Event Localization",
+      "authors": [
+        "Baoyu Fan",
+        "Lu Liu",
+        "Xiaochuan Li",
+        "Runze Zhang",
+        "Liang Jin",
+        "Jin Zhang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3600878",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3600878"
+    },
+    {
+      "id": "Xu_DSPFL_A_Deep_Layer_Sign_Sharing_Personalized_Federated_Learn_TNNLS_2026_paper",
+      "title": "DSPFL: A Deep-Layer Sign Sharing Personalized Federated Learning Scheme for Mitigating Poisoning Attacks",
+      "authors": [
+        "Chenhao Xu",
+        "Nasrin Sohrabi",
+        "Youyang Qu",
+        "Hai Dong",
+        "Zahir Tari",
+        "Xun Yi"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601078",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601078"
+    },
+    {
+      "id": "Wang_Robust_Missing_Value_Imputation_With_Proximal_Optimal_Transp_TNNLS_2026_paper",
+      "title": "Robust Missing Value Imputation With Proximal Optimal Transport for Low-Quality IIoT Data",
+      "authors": [
+        "Hao Wang",
+        "Zhichao Chen",
+        "Yuan Shen",
+        "Hui Zheng",
+        "Degui Yang",
+        "Dangjun Zhao",
+        "Buge Liang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601130",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601130"
+    },
+    {
+      "id": "Huang_Multiagent_Inductive_Policy_Optimization_TNNLS_2026_paper",
+      "title": "Multiagent Inductive Policy Optimization",
+      "authors": [
+        "Yubo Huang",
+        "Xiaowei Zhao"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601360",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601360"
+    },
+    {
+      "id": "Gao_Efficient_High_Dimensional_Learning_With_Adaptive_Gaussian_R_TNNLS_2026_paper",
+      "title": "Efficient High-Dimensional Learning With Adaptive Gaussian RBF Networks",
+      "authors": [
+        "Xiaoyu Gao",
+        "Xuetao Xie",
+        "Jian Wang",
+        "Sergey V. Ablameyko",
+        "Nikhil R. Pal"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601366",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601366"
+    },
+    {
+      "id": "Jiang_Recurrent_Network_Expansion_for_Class_Incremental_Learning_TNNLS_2026_paper",
+      "title": "Recurrent Network Expansion for Class Incremental Learning",
+      "authors": [
+        "Kai Jiang",
+        "Xueru Bai",
+        "Feng Zhou"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601373",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601373"
+    },
+    {
+      "id": "Fang_Contrastive_Federated_Learning_for_Graph_Anomaly_Detection_TNNLS_2026_paper",
+      "title": "Contrastive Federated Learning for Graph Anomaly Detection",
+      "authors": [
+        "Hui Fang",
+        "Yang Gao",
+        "Peng Zhang",
+        "Sheng Zhou",
+        "Hongyang Chen",
+        "Jiajun Bu",
+        "Haishuai Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601449",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601449"
+    },
+    {
+      "id": "Xu_Robust_PID_Type_Iterative_Learning_Control_for_Nonlinear_Squ_TNNLS_2026_paper",
+      "title": "Robust PID-Type Iterative Learning Control for Nonlinear Square and Nonsquare Systems",
+      "authors": [
+        "Kechao Xu",
+        "Bo Meng",
+        "Zhen Wang",
+        "Xia Huang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601656",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601656"
+    },
+    {
+      "id": "Salazar_Unveiling_Group_Specific_Distributed_Concept_Drift_A_Fairnes_TNNLS_2026_paper",
+      "title": "Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning",
+      "authors": [
+        "Teresa Salazar",
+        "João Gama",
+        "Helder Araújo",
+        "Pedro Henriques Abreu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3601834",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3601834"
+    },
+    {
+      "id": "Sun_Toward_an_Effective_Action_Region_Tracking_Framework_for_Fin_TNNLS_2026_paper",
+      "title": "Toward an Effective Action-Region Tracking Framework for Fine-Grained Video Action Recognition",
+      "authors": [
+        "Baoli Sun",
+        "Yihan Wang",
+        "Xinzhu Ma",
+        "Zhi-Hui Wang",
+        "Kun Lu",
+        "Zhiyong Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3602089",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3602089"
+    },
+    {
+      "id": "Yan_Expandable_Residual_Approximation_for_Knowledge_Distillation_TNNLS_2026_paper",
+      "title": "Expandable Residual Approximation for Knowledge Distillation",
+      "authors": [
+        "Zhaoyi Yan",
+        "Binghui Chen",
+        "Yunfan Liu",
+        "Qixiang Ye"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3602118",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3602118"
+    },
+    {
+      "id": "Chen_Long_Tail_Class_Incremental_Learning_via_Bias_Calibration_Wi_TNNLS_2026_paper",
+      "title": "Long-Tail Class Incremental Learning via Bias Calibration With Application to Continuous Fault Diagnosis",
+      "authors": [
+        "Dongyue Chen",
+        "Zongxia Xie",
+        "Wenlong Yu",
+        "Qinghua Hu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3602182",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3602182"
+    },
+    {
+      "id": "Li_A_Decomposition_Optimization_Based_Multiobjective_Reinforcem_TNNLS_2026_paper",
+      "title": "A Decomposition Optimization-Based Multiobjective Reinforcement Learning Algorithm for Obtaining Nonconvex Pareto Fronts",
+      "authors": [
+        "Tianyang Li",
+        "Ying Meng",
+        "Lixin Tang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3603165",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3603165"
+    },
+    {
+      "id": "Zheng_Evidential_Graph_Contrastive_Alignment_for_Source_Free_Blend_TNNLS_2026_paper",
+      "title": "Evidential Graph Contrastive Alignment for Source-Free Blending-Target Domain Adaptation",
+      "authors": [
+        "Juepeng Zheng",
+        "Guowen Li",
+        "Yibin Wen",
+        "Jinxiao Zhang",
+        "Runmin Dong",
+        "Haohuan Fu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3603224",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3603224"
+    },
+    {
+      "id": "Su_Nesterov_Accelerated_Gradient_Tracking_With_Adam_for_Distrib_TNNLS_2026_paper",
+      "title": "Nesterov Accelerated Gradient Tracking With Adam for Distributed Online Optimization",
+      "authors": [
+        "Yanxu Su",
+        "Qingyang Sheng",
+        "Xiasheng Shi",
+        "Chaoxu Mu",
+        "Changyin Sun"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3604059",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3604059"
+    },
+    {
+      "id": "Yan_Virtual_Target_Oriented_Neural_Learning_for_Robust_Optimal_T_TNNLS_2026_paper",
+      "title": "Virtual Target-Oriented Neural Learning for Robust Optimal Tracking Control of Discrete Strict-Feedback Systems",
+      "authors": [
+        "Ying Yan",
+        "Huaguang Zhang",
+        "Jiayue Sun",
+        "Zhongyang Ming"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3604566",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3604566"
+    },
+    {
+      "id": "Li_Incremental_Learning_for_Defect_Segmentation_With_Efficient__TNNLS_2026_paper",
+      "title": "Incremental Learning for Defect Segmentation With Efficient Transformer Semantic Complement",
+      "authors": [
+        "Xiqi Li",
+        "Zhifu Huang",
+        "Ge Ma",
+        "Yu Liu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3604956",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3604956"
+    },
+    {
+      "id": "Zhou_Koopman_Driven_Linearized_Model_Based_Offline_Planning_With__TNNLS_2026_paper",
+      "title": "Koopman-Driven Linearized Model-Based Offline Planning With Application to Freeway Ramp Metering",
+      "authors": [
+        "Tao Zhou",
+        "Chuanye Gu",
+        "Chee Peng Lim",
+        "Jinlong Yuan"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3605015",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3605015"
+    },
+    {
+      "id": "Tian_Spatial_Temporal_Diffusion_Model_for_Matrix_Factorization_TNNLS_2026_paper",
+      "title": "Spatial-Temporal Diffusion Model for Matrix Factorization",
+      "authors": [
+        "Chenxi Tian",
+        "Wenming Wu",
+        "Lingling Li",
+        "Xu Liu",
+        "Fang Liu",
+        "Wenping Ma",
+        "Licheng Jiao",
+        "Shuyuan Yang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3605215",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3605215"
+    },
+    {
+      "id": "Zhan_Bicriteria_Policy_Optimization_for_High_Accuracy_Reinforceme_TNNLS_2026_paper",
+      "title": "Bicriteria Policy Optimization for High-Accuracy Reinforcement Learning",
+      "authors": [
+        "Guojian Zhan",
+        "Xiangteng Zhang",
+        "Feihong Zhang",
+        "Letian Tao",
+        "Shengbo Eben Li"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3605362",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3605362"
+    },
+    {
+      "id": "Li_Adaptive_Modality_Balanced_Online_Knowledge_Distillation_for_TNNLS_2026_paper",
+      "title": "Adaptive Modality Balanced Online Knowledge Distillation for Brain-Eye-Computer-Based Dim Object Detection",
+      "authors": [
+        "Zixing Li",
+        "Chao Yan",
+        "Zhen Lan",
+        "Xiaojia Xiang",
+        "Han Zhou",
+        "Jun Lai",
+        "Dengqing Tang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3605710",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3605710"
+    },
+    {
+      "id": "Guan_Peak_Padding_Clustering_by_Padding_Density_Peaks_With_the_Mi_TNNLS_2026_paper",
+      "title": "Peak-Padding: Clustering by Padding Density Peaks With the Minimum Padding Cost",
+      "authors": [
+        "Junyi Guan",
+        "Bingbing Jiang",
+        "Weiguo Sheng",
+        "Yangyang Zhao",
+        "Sheng Li",
+        "Xiongxiong He"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3606527",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3606527"
+    },
+    {
+      "id": "Lee_AMAP_Automatic_Multihead_Attention_Pruning_by_Similarity_Bas_TNNLS_2026_paper",
+      "title": "AMAP: Automatic Multihead Attention Pruning by Similarity-Based Pruning Indicator",
+      "authors": [
+        "Eunho Lee",
+        "Youngbae Hwang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3606750",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3606750"
+    },
+    {
+      "id": "Zhang_Enhancing_Reinforcement_Learning_With_Cross_Domain_Knowledge_TNNLS_2026_paper",
+      "title": "Enhancing Reinforcement Learning With Cross-Domain Knowledge Transfer via Seeded Graph Matching",
+      "authors": [
+        "Gengzhi Zhang",
+        "Liang Feng",
+        "Xuefeng Chen",
+        "Ke Tang",
+        "Kay Chen Tan"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3606751",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3606751"
+    },
+    {
+      "id": "Cai_Channelwise_Regional_Integrate_and_Multiple_Firing_Neuron_Im_TNNLS_2026_paper",
+      "title": "Channelwise Regional Integrate and Multiple Firing Neuron: Improving the Spatiotemporal Learning of Spiking Neural Networks",
+      "authors": [
+        "Mincheng Cai",
+        "Quan Liu",
+        "Kun Chen",
+        "Li Ma"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3606849",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3606849"
+    },
+    {
+      "id": "Chen_Restoring_Noisy_Demonstration_for_Imitation_Learning_With_Di_TNNLS_2026_paper",
+      "title": "Restoring Noisy Demonstration for Imitation Learning With Diffusion Models",
+      "authors": [
+        "Shang-Fu Chen",
+        "Co Yong",
+        "Shao-Hua Sun"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3607111",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3607111"
+    },
+    {
+      "id": "Zhang_Time_Series_Classification_Based_on_Supervised_Contrastive_L_TNNLS_2026_paper",
+      "title": "Time Series Classification Based on Supervised Contrastive Learning and Homoscedastic Uncertainty",
+      "authors": [
+        "Tao Zhang",
+        "Ke Li",
+        "Shaofan Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3607901",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3607901"
+    },
+    {
+      "id": "Sinha_Distill_to_Delete_Unlearning_in_Graph_Networks_With_Knowledg_TNNLS_2026_paper",
+      "title": "Distill to Delete: Unlearning in Graph Networks With Knowledge Distillation",
+      "authors": [
+        "Yash Sinha",
+        "Murari Mandal",
+        "Mohan Kankanhalli"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3607995",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3607995"
+    },
+    {
+      "id": "Li_Physics_Guided_Time_Interactive_Frequency_Network_for_Cross__TNNLS_2026_paper",
+      "title": "Physics-Guided Time-Interactive-Frequency Network for Cross-Domain Few-Shot Hyperspectral Image Classification",
+      "authors": [
+        "Jiaojiao Li",
+        "Hailong Wu",
+        "Rui Song",
+        "Haitao Xu",
+        "Yunsong Li",
+        "Qian Du"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3608294",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3608294"
+    },
+    {
+      "id": "Liu_DMutDE_Dual_View_Mutual_Distillation_Framework_for_Knowledge_TNNLS_2026_paper",
+      "title": "DMutDE: Dual-View Mutual Distillation Framework for Knowledge Graph Embeddings",
+      "authors": [
+        "Ruizhou Liu",
+        "Zhe Wu",
+        "Yiling Wu",
+        "Zongsheng Cao",
+        "Qianqian Xu",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3608503",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3608503"
+    },
+    {
+      "id": "Yan_Theoretical_Advances_on_Stochastic_Configuration_Networks_TNNLS_2026_paper",
+      "title": "Theoretical Advances on Stochastic Configuration Networks",
+      "authors": [
+        "Xiufeng Yan",
+        "Dianhui Wang",
+        "Ivan Yu. Tyukin"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3608555",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3608555"
+    },
+    {
+      "id": "Kang_Robust_Fine_Grained_Visual_Categorization_via_Cyclical_Atten_TNNLS_2026_paper",
+      "title": "Robust Fine-Grained Visual Categorization via Cyclical Attention",
+      "authors": [
+        "Bin Kang",
+        "Dong Liang",
+        "Daoyuan Chen",
+        "Tianyu Ding",
+        "Mingqiang Wei"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3608560",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3608560"
+    },
+    {
+      "id": "Darley_A_Unified_Framework_for_Matrix_Backpropagation_TNNLS_2026_paper",
+      "title": "A Unified Framework for Matrix Backpropagation",
+      "authors": [
+        "Gatien Darley",
+        "Stéphane Bonnet"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3607405",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3607405"
+    },
+    {
+      "id": "Liu_Vision_Mamba_A_Comprehensive_Survey_and_Taxonomy_TNNLS_2026_paper",
+      "title": "Vision Mamba: A Comprehensive Survey and Taxonomy",
+      "authors": [
+        "Xiao Liu",
+        "Chenxu Zhang",
+        "Fuxiang Huang",
+        "Shuyin Xia",
+        "Guoyin Wang",
+        "Lei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610435",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610435"
+    },
+    {
+      "id": "Liu_Hard_Sample_Mining_A_New_Paradigm_of_Efficient_and_Robust_Mo_TNNLS_2026_paper",
+      "title": "Hard Sample Mining: A New Paradigm of Efficient and Robust Model Training",
+      "authors": [
+        "Lei Liu",
+        "Yunji Liang",
+        "Xiaokai Yan",
+        "Luwen Huangfu",
+        "Sagar Samtani",
+        "Zhiwen Yu",
+        "Yanyong Zhang",
+        "Daniel Dajun Zeng"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610948",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610948"
+    },
+    {
+      "id": "Geng_FEU_Diff_A_Diffusion_Model_With_Fuzzy_Evidence_Driven_Dynami_TNNLS_2026_paper",
+      "title": "FEU-Diff: A Diffusion Model With Fuzzy Evidence-Driven Dynamic Uncertainty Fusion for Medical Image Segmentation",
+      "authors": [
+        "Sheng Geng",
+        "Shu Jiang",
+        "Tao Hou",
+        "Hongcheng Yao",
+        "Jiashuang Huang",
+        "Weiping Ding"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609085",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609085"
+    },
+    {
+      "id": "Yao_Reinforcement_Learning_Based_Boundary_Optimized_Control_of_F_TNNLS_2026_paper",
+      "title": "Reinforcement Learning-Based Boundary-Optimized Control of Flexible Manipulators Under Jointly Connected Switching Topologies",
+      "authors": [
+        "Xiangqian Yao",
+        "Lin Li",
+        "Yu Liu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609134",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609134"
+    },
+    {
+      "id": "Wu_Distributed_FilterNet_Reinforcement_Learning_for_Achieving_O_TNNLS_2026_paper",
+      "title": "Distributed FilterNet Reinforcement Learning for Achieving Output Consensus in Heterogeneous Multiplayer Multiagent Systems",
+      "authors": [
+        "Jiacheng Wu",
+        "Bosen Lian",
+        "Changyun Wen",
+        "Yang Zhu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609525",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609525"
+    },
+    {
+      "id": "Cheng_All_to_All_Connected_Oscillator_Ising_Machines_and_Their_App_TNNLS_2026_paper",
+      "title": "All-to-All Connected Oscillator Ising Machines and Their Application as Associative Memory",
+      "authors": [
+        "Yi Cheng",
+        "Zongli Lin"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609571",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609571"
+    },
+    {
+      "id": "Zhang_Fuzzy_Rule_Based_Differentiable_Representation_Learning_TNNLS_2026_paper",
+      "title": "Fuzzy Rule-Based Differentiable Representation Learning",
+      "authors": [
+        "Wei Zhang",
+        "Zhaohong Deng",
+        "Guanjin Wang",
+        "Kup-Sze Choi"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609722",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609722"
+    },
+    {
+      "id": "Pham_Coupled_Tensor_Decomposition_for_Compact_Network_Representat_TNNLS_2026_paper",
+      "title": "Coupled Tensor Decomposition for Compact Network Representation",
+      "authors": [
+        "Van Tien Pham",
+        "Yassine Zniyed",
+        "Thanh Phuong Nguyen"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609797",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609797"
+    },
+    {
+      "id": "Li_Syntax_Oriented_Shortcut_A_Syntax_Level_Perturbing_Algorithm_TNNLS_2026_paper",
+      "title": "Syntax-Oriented Shortcut: A Syntax Level Perturbing Algorithm for Preventing Text Data From Being Learned",
+      "authors": [
+        "Bo Li",
+        "Kun Zhang",
+        "Xi Chen",
+        "Richang Hong"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3609842",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3609842"
+    },
+    {
+      "id": "Aghayengejeh_Multiscale_Contrastive_Learning_for_Node_Clustering_Based_on_TNNLS_2026_paper",
+      "title": "Multiscale Contrastive Learning for Node Clustering Based on Variational Graph Auto-Encoder",
+      "authors": [
+        "Nazila Pourhaji Aghayengejeh",
+        "M. A. Balafar",
+        "Jafar Tanha",
+        "Narjes Nikzad-Khasmakhi",
+        "Shervin Minaee"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610024",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610024"
+    },
+    {
+      "id": "Chen_HSG_Net_Point_Cloud_Completion_via_Heuristic_Structure_Growi_TNNLS_2026_paper",
+      "title": "HSG-Net: Point Cloud Completion via Heuristic Structure Growing",
+      "authors": [
+        "Xiaojun Chen",
+        "Junxian Chen",
+        "Ying Liu",
+        "Ruihui Li"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610101",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610101"
+    },
+    {
+      "id": "Jin_Ape_Optimizer_A_p_Power_Adaptive_Filter_Based_Approach_for_D_TNNLS_2026_paper",
+      "title": "Ape Optimizer: A p-Power Adaptive Filter-Based Approach for Deep Learning Optimization",
+      "authors": [
+        "Yufei Jin",
+        "Han Yang",
+        "Xinrui Wang",
+        "Yingche Xu",
+        "Zhuoran Zhang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610665",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610665"
+    },
+    {
+      "id": "Xu_Granular_Ball_Guided_Disambiguation_for_Partial_Multilabel_F_TNNLS_2026_paper",
+      "title": "Granular Ball-Guided Disambiguation for Partial Multilabel Feature Selection via Maximum Consistency Minimum Uncertainty",
+      "authors": [
+        "Fankang Xu",
+        "Wenbin Qian",
+        "Wenhao Shu",
+        "Jintao Huang",
+        "Weiping Ding",
+        "Shuyin Xia"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610795",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610795"
+    },
+    {
+      "id": "Barati_On_Continuity_of_Robust_and_Accurate_Classifiers_TNNLS_2026_paper",
+      "title": "On Continuity of Robust and Accurate Classifiers",
+      "authors": [
+        "Ramin Barati",
+        "Reza Safabakhsh",
+        "Mohammad Rahmati"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610816",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610816"
+    },
+    {
+      "id": "Wei_Multimodal_Quaternion_Representation_Network_for_Multisource_TNNLS_2026_paper",
+      "title": "Multimodal Quaternion Representation Network for Multisource Remote Sensing Data Classification",
+      "authors": [
+        "Yu-Le Wei",
+        "Heng-Chao Li",
+        "Jian-Li Wang",
+        "Yu-Bang Zheng",
+        "Jie Pan",
+        "Qian Du"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610892",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610892"
+    },
+    {
+      "id": "Qin_A_Novel_Pattern_Learning_Framework_With_Enhanced_Scalability_TNNLS_2026_paper",
+      "title": "A Novel Pattern Learning Framework With Enhanced Scalability for Continuous Optimization",
+      "authors": [
+        "Jian Qin",
+        "Yuanqiu Mo",
+        "Hongzhe Liu",
+        "Zhi-Hui Zhan",
+        "Wenwu Yu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610993",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610993"
+    },
+    {
+      "id": "Qian_Mars_Express_Orbiter_Power_Consumption_Prediction_Based_on_B_TNNLS_2026_paper",
+      "title": "Mars Express Orbiter Power Consumption Prediction Based on Bionic Hierarchical Learning Network",
+      "authors": [
+        "Zhuoyi Qian",
+        "Zhen Chen",
+        "Ershun Pan"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3611001",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3611001"
+    },
+    {
+      "id": "Wong_An_Empirical_Study_of_Federated_Learning_on_IoT_Edge_Devices_TNNLS_2026_paper",
+      "title": "An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity",
+      "authors": [
+        "Kok-Seng Wong",
+        "Manh Nguyen-Duc",
+        "Khiem Le",
+        "Long Ho",
+        "Cuong Do",
+        "Danh Le Phuoc"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3611415",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3611415"
+    },
+    {
+      "id": "Wang_Unbiased_Semantic_Decoding_With_Vision_Foundation_Models_for_TNNLS_2026_paper",
+      "title": "Unbiased Semantic Decoding With Vision Foundation Models for Few-Shot Segmentation",
+      "authors": [
+        "Jin Wang",
+        "Bingfeng Zhang",
+        "Jian Pang",
+        "Weifeng Liu",
+        "Baodi Liu",
+        "Honglong Chen"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3611497",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3611497"
+    },
+    {
+      "id": "Yang_FedMPS_Federated_Learning_in_a_Synergy_of_Multi_Level_Protot_TNNLS_2026_paper",
+      "title": "FedMPS: Federated Learning in a Synergy of Multi-Level Prototype-Based Contrastive Learning and Soft Label Generation",
+      "authors": [
+        "Wenxin Yang",
+        "Xingchen Hu",
+        "Xiubin Zhu",
+        "Rouwan Wu",
+        "Witold Pedrycz",
+        "Xinwang Liu",
+        "Jincai Huang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3611832",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3611832"
+    },
+    {
+      "id": "Ntakaris_Optimizing_the_Output_of_Long_Short_Term_Memory_Cell_for_Hig_TNNLS_2026_paper",
+      "title": "Optimizing the Output of Long Short-Term Memory Cell for High-Frequency Forecasting in Financial Markets",
+      "authors": [
+        "Adamantios Ntakaris",
+        "Moncef Gabbouj",
+        "Juho Kanniainen"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3611887",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3611887"
+    },
+    {
+      "id": "Lin_Lightweight_Reparameterizable_Integral_Neural_Networks_for_M_TNNLS_2026_paper",
+      "title": "Lightweight Reparameterizable Integral Neural Networks for Mobile Applications",
+      "authors": [
+        "Jinhua Lin",
+        "Xin Li",
+        "Bowen Ren",
+        "Xiangdong Hao",
+        "Quan Wang",
+        "Yu Yao"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3612265",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3612265"
+    },
+    {
+      "id": "Zhang_Optical_Cue_Guided_Diffusion_Probabilistic_Model_for_Reflect_TNNLS_2026_paper",
+      "title": "Optical-Cue-Guided Diffusion Probabilistic Model for Reflection Removal",
+      "authors": [
+        "Feiyang Zhang",
+        "Yuenan Li",
+        "Xiaoliang Chang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3612402",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3612402"
+    },
+    {
+      "id": "Yu_Modal_Detection_Informed_Classification_Evaluation_via_Ensem_TNNLS_2026_paper",
+      "title": "Modal Detection Informed Classification Evaluation via Ensemble Networks for Expensive Constrained Multimodal Optimization",
+      "authors": [
+        "Kunjie Yu",
+        "Fan Chen",
+        "Mingyuan Yu",
+        "Jing Liang",
+        "Ke Chen"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3612490",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3612490"
+    },
+    {
+      "id": "Zhang_FedNK_RF_Federated_Kernel_Learning_With_Heterogeneous_Data_a_TNNLS_2026_paper",
+      "title": "FedNK-RF: Federated Kernel Learning With Heterogeneous Data and Optimal Rates",
+      "authors": [
+        "Xuning Zhang",
+        "Jian Li",
+        "Rong Yin",
+        "Weiping Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3612728",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3612728"
+    },
+    {
+      "id": "Li_Three_Dimensional_Multiobject_Tracking_Based_on_Voxel_Maskin_TNNLS_2026_paper",
+      "title": "Three-Dimensional Multiobject Tracking Based on Voxel Masking Encoder and Deep Hashing Paradigm",
+      "authors": [
+        "Saiyu Li",
+        "Zhong Chen",
+        "Hui Li",
+        "Ye Tao",
+        "Ying Gao",
+        "Jun Yan"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3613354",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3613354"
+    },
+    {
+      "id": "Xia_Learning_Counterfactual_Fair_Representation_Under_Covariate__TNNLS_2026_paper",
+      "title": "Learning Counterfactual Fair Representation Under Covariate Shift via Reflux",
+      "authors": [
+        "Yiliang Xia",
+        "Xiaohang Zhang",
+        "Zhengren Li"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3613549",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3613549"
+    },
+    {
+      "id": "Wang_Feature_Enhancement_Module_Based_on_Class_Centric_Loss_for_F_TNNLS_2026_paper",
+      "title": "Feature Enhancement Module Based on Class-Centric Loss for Fine-Grained Visual Classification",
+      "authors": [
+        "Daohui Wang",
+        "Xinyu He",
+        "Shujing Lyu",
+        "Tian Wei",
+        "Yue Lu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3613791",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3613791"
+    },
+    {
+      "id": "Xiao_Unsupervised_Skill_Discovery_Through_Skill_Regions_Different_TNNLS_2026_paper",
+      "title": "Unsupervised Skill Discovery Through Skill Regions Differentiation",
+      "authors": [
+        "Ting Xiao",
+        "Jiakun Zheng",
+        "Rushuai Yang",
+        "Kang Xu",
+        "Qiaosheng Zhang",
+        "Peng Liu",
+        "Zhe Wang",
+        "Chenjia Bai"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3613857",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3613857"
+    },
+    {
+      "id": "Yu_Sparse_Mixture_of_Mambas_for_Domain_Generalized_Atomic_Elect_TNNLS_2026_paper",
+      "title": "Sparse Mixture of Mambas for Domain Generalized Atomic Electron Tomography Augmentation",
+      "authors": [
+        "Yang Yu",
+        "Jingling Yuan",
+        "Xian Zhong",
+        "Qixuan Zhao",
+        "Wen Luo",
+        "Liqiang Mai"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3613878",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3613878"
+    },
+    {
+      "id": "Xiong_Theoretical_Convergence_Analysis_and_Initialization_Comparis_TNNLS_2026_paper",
+      "title": "Theoretical Convergence Analysis and Initialization Comparisons of Deep Soft-Thresholding Networks",
+      "authors": [
+        "Chunyan Xiong",
+        "Mengxue Zhang",
+        "Tong Wei",
+        "Yihui Huang",
+        "Jian Cao",
+        "Qingrui Cai",
+        "Zhong Chen",
+        "Xiaobo Qu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3614196",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3614196"
+    },
+    {
+      "id": "Zhang_HKANLP_Link_Prediction_With_Hyperspherical_Embeddings_and_Ko_TNNLS_2026_paper",
+      "title": "HKANLP: Link Prediction With Hyperspherical Embeddings and Kolmogorov-Arnold Networks",
+      "authors": [
+        "Wenchuan Zhang",
+        "Wentao Fan",
+        "Weifeng Su",
+        "Nizar Bouguila"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3614341",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3614341"
+    },
+    {
+      "id": "PoloMolina_A_Mathematical_Certification_for_Positivity_Conditions_in_Ne_TNNLS_2026_paper",
+      "title": "A Mathematical Certification for Positivity Conditions in Neural Networks With Applications to Partial Monotonicity and Trustworthy AI",
+      "authors": [
+        "Alejandro Polo-Molina",
+        "David Alfaya",
+        "José Portela"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3614431",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3614431"
+    },
+    {
+      "id": "Hu_A_Self_Supervised_Learning_Framework_for_Soft_Robot_Proprioc_TNNLS_2026_paper",
+      "title": "A Self-Supervised Learning Framework for Soft Robot Proprioception",
+      "authors": [
+        "Delin Hu",
+        "Huazhi Dong",
+        "Francesco Giorgio-Serchi",
+        "Yunjie Yang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3610759",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3610759"
+    },
+    {
+      "id": "Liang_Targeted_Mining_of_Time_Interval_Related_Patterns_TNNLS_2026_paper",
+      "title": "Targeted Mining of Time-Interval Related Patterns",
+      "authors": [
+        "Shuang Liang",
+        "Lili Chen",
+        "Wensheng Gan",
+        "Philip S. Yu",
+        "Shengjie Zhao"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3613966",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3613966"
+    },
+    {
+      "id": "Meng_Noise_Tolerant_CIM_DNNs_Explained_TNNLS_2026_paper",
+      "title": "Noise-Tolerant CIM-DNNs Explained",
+      "authors": [
+        "Fan-Hsuan Meng",
+        "Eric Yeu-Jer Lee",
+        "Yuting Wu",
+        "Ziyu Wang",
+        "Wei D. Lu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3621473",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3621473"
+    },
+    {
+      "id": "Li_PromptVAD_Abnormal_Prompt_via_Vision_Language_Model_TNNLS_2026_paper",
+      "title": "PromptVAD: Abnormal Prompt via Vision-Language Model",
+      "authors": [
+        "Shuo Li",
+        "Fang Liu",
+        "Licheng Jiao",
+        "Zehua Hao",
+        "Jiahao Wang",
+        "Long Sun",
+        "Lingling Li",
+        "Xu Liu",
+        "Puhua Chen"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3621336",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3621336"
+    },
+    {
+      "id": "Zhou_Multimodality_Image_Registration_With_Modality_Distillation_TNNLS_2026_paper",
+      "title": "Multimodality Image Registration With Modality Distillation",
+      "authors": [
+        "Xichuan Zhou",
+        "Jicheng Zhao",
+        "Lihui Chen",
+        "Gemine Vivone",
+        "Yanchun Liu",
+        "Jing Nie",
+        "Haijun Liu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3621065",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3621065"
+    },
+    {
+      "id": "Yang_Tensor_Multi_Subspace_Representation_for_Remote_Sensing_Imag_TNNLS_2026_paper",
+      "title": "Tensor Multi-Subspace Representation for Remote Sensing Image Mixed Noise Removal",
+      "authors": [
+        "Jing-Hua Yang",
+        "Heng-Chao Li",
+        "Meng Ding",
+        "Xi-Le Zhao",
+        "Wen-Yu Hu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3620863",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3620863"
+    },
+    {
+      "id": "Oh_FIESTA_Fourier_Based_Semantic_Augmentation_With_Uncertainty__TNNLS_2026_paper",
+      "title": "FIESTA: Fourier-Based Semantic Augmentation With Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation",
+      "authors": [
+        "Kwanseok Oh",
+        "Eunjin Jeon",
+        "Da-Woon Heo",
+        "Yooseung Shin",
+        "Heung-Il Suk"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3620853",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3620853"
+    },
+    {
+      "id": "Wang_Progressive_Feedforward_Collapse_of_ResNet_Training_TNNLS_2026_paper",
+      "title": "Progressive Feedforward Collapse of ResNet Training",
+      "authors": [
+        "Sicong Wang",
+        "Kuo Gai",
+        "Shihua Zhang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3620798",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3620798"
+    },
+    {
+      "id": "Chen_Treasure_Hunting_Embodied_Contrastive_Learning_Enhanced_Coar_TNNLS_2026_paper",
+      "title": "Treasure Hunting: Embodied Contrastive Learning-Enhanced Coarse-to-Fine Object Seeking With Explorer and Discriminator Cooperation",
+      "authors": [
+        "Bolei Chen",
+        "Jiaxu Kang",
+        "Haonan Yang",
+        "Ping Zhong",
+        "Rui Fan",
+        "Jianxin Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3619968",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3619968"
+    },
+    {
+      "id": "Cao_SAFT_Real_Time_Tracking_and_Mapping_With_Self_Supervised_Rob_TNNLS_2026_paper",
+      "title": "SAFT: Real-Time Tracking and Mapping With Self-Supervised Robust Stereo Matching for Underwater Vehicles",
+      "authors": [
+        "Yaozhong Cao",
+        "Xiaolong Hui",
+        "Xuejian Bai",
+        "Yu Wang",
+        "Shuo Wang",
+        "Min Tan"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3618666",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3618666"
+    },
+    {
+      "id": "Hao_Multimodal_Knowledge_Graph_Completion_by_Cross_Modal_Interac_TNNLS_2026_paper",
+      "title": "Multimodal Knowledge Graph Completion by Cross-Modal Interaction With Similarity Enhancing and Difference Embracing",
+      "authors": [
+        "Linjia Hao",
+        "Yongli Hu",
+        "Tong Bie",
+        "Huajie Jiang",
+        "Junbin Gao",
+        "Yanfeng Sun",
+        "Baocai Yin"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3618611",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3618611"
+    },
+    {
+      "id": "Fang_Be_Reliable_An_Interpretable_Attribute_Oriented_Representati_TNNLS_2026_paper",
+      "title": "Be Reliable: An Interpretable Attribute-Oriented Representation Learning Framework",
+      "authors": [
+        "Zihan Fang",
+        "Shide Du",
+        "Ying Zou",
+        "Yanchao Tan",
+        "Na Song",
+        "Shiping Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3618290",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3618290"
+    },
+    {
+      "id": "Ren_Generalizable_Multistage_Assembly_via_One_Shot_Category_Leve_TNNLS_2026_paper",
+      "title": "Generalizable Multistage Assembly via One-Shot Category-Level Demonstration",
+      "authors": [
+        "Yu Ren",
+        "Yang Cong",
+        "Ronghan Chen",
+        "Wei Cong",
+        "Gan Sun"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3618280",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3618280"
+    },
+    {
+      "id": "Du_PGFormer_A_Prototype_Graph_Transformer_for_Incomplete_Multiv_TNNLS_2026_paper",
+      "title": "PGFormer: A Prototype-Graph Transformer for Incomplete Multiview Clustering",
+      "authors": [
+        "Yiming Du",
+        "Yao Wang",
+        "Ziyu Wang",
+        "Rui Ning",
+        "Lusi Li"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617888",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617888"
+    },
+    {
+      "id": "Zhu_Multiscale_Spatiotemporal_Graph_Convolutional_Networks_With__TNNLS_2026_paper",
+      "title": "Multiscale Spatiotemporal Graph Convolutional Networks With Dynamic Delay Awareness for Traffic Forecasting",
+      "authors": [
+        "Guodong Zhu",
+        "Xingyi Zhang",
+        "Yunyun Niu",
+        "Songzhi Du"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617860",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617860"
+    },
+    {
+      "id": "Jin_A_Transfer_Learning_SSVEP_Decoding_Algorithm_Calibrated_With_TNNLS_2026_paper",
+      "title": "A Transfer Learning SSVEP Decoding Algorithm Calibrated With Single-Trial Data",
+      "authors": [
+        "Jing Jin",
+        "Ke Qin",
+        "Brendan Z. Allison",
+        "Shurui Li",
+        "Yutao Zhang",
+        "Xingyu Wang",
+        "Andrzej Cichocki"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617508",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617508"
+    },
+    {
+      "id": "Dong_Multimodal_Cross_City_Semantic_Segmentation_Based_on_Similar_TNNLS_2026_paper",
+      "title": "Multimodal Cross-City Semantic Segmentation Based on Similarity-Inspired Fusion and Invertible Transformation Learning Network",
+      "authors": [
+        "Lijia Dong",
+        "Wen Jiang",
+        "Zhengyi Xu",
+        "Jie Geng"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617345",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617345"
+    },
+    {
+      "id": "Liu_HomLLM_Exploiting_Semantic_Homology_Relationship_for_Fine_Gr_TNNLS_2026_paper",
+      "title": "HomLLM: Exploiting Semantic Homology Relationship for Fine-Grained Bird Image Classification via Large Language Models",
+      "authors": [
+        "Hai Liu",
+        "Yu Song",
+        "Tingting Liu",
+        "Hao Zheng",
+        "Lin Chen",
+        "Zhaoli Zhang",
+        "Youfu Li"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617339",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617339"
+    },
+    {
+      "id": "Sun_MDSF_YOLO_Advancing_Object_Detection_With_a_Multiscale_Dilat_TNNLS_2026_paper",
+      "title": "MDSF-YOLO: Advancing Object Detection With a Multiscale Dilated Sequence Fusion Network",
+      "authors": [
+        "Yu Sun",
+        "Chong Zhang",
+        "Xian Li",
+        "Xuyang Jing",
+        "Hui Kong",
+        "Qing-Guo Wang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617122",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617122"
+    },
+    {
+      "id": "Hao_Deep_Reinforcement_Learning_for_Online_Reconfiguration_of_Ac_TNNLS_2026_paper",
+      "title": "Deep Reinforcement Learning for Online Reconfiguration of Active Distribution Network",
+      "authors": [
+        "Guokai Hao",
+        "Yuanzheng Li",
+        "Yang Li",
+        "Yun-Feng Luo",
+        "Mohammad Shahidehpour",
+        "Zhigang Zeng"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3617113",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3617113"
+    },
+    {
+      "id": "Wang_Single_Domain_Generalization_via_Path_Flatness_Aware_Optimiz_TNNLS_2026_paper",
+      "title": "Single-Domain Generalization via Path Flatness-Aware Optimization of Loss Landscapes",
+      "authors": [
+        "Zizhou Wang",
+        "Yan Wang",
+        "Yangqin Feng",
+        "Jiawei Du",
+        "Joey Tianyi Zhou",
+        "Rick Siow Mong Goh",
+        "Yong Liu",
+        "Liangli Zhen"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616593",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616593"
+    },
+    {
+      "id": "Chen_Trend_and_Order_Features_for_Semi_Supervised_Time_Series_Cla_TNNLS_2026_paper",
+      "title": "Trend and Order Features for Semi-Supervised Time-Series Classification via Multitask Learning",
+      "authors": [
+        "Rongjun Chen",
+        "Xuanhui Yan",
+        "Guobao Xiao",
+        "Yi Hou",
+        "Shilin Zhou"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616340",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616340"
+    },
+    {
+      "id": "Jiang_Semi_Supervised_Breast_Lesion_Segmentation_Using_Confidence__TNNLS_2026_paper",
+      "title": "Semi-Supervised Breast Lesion Segmentation Using Confidence-Ranked Features and Bi-Level Prototypes",
+      "authors": [
+        "Siyao Jiang",
+        "Huisi Wu",
+        "Yu Zhou",
+        "Junyang Chen",
+        "Jing Qin"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616332",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616332"
+    },
+    {
+      "id": "Ma_Video_to_Video_Generative_Adversarial_Network_for_Few_Shot_L_TNNLS_2026_paper",
+      "title": "Video to Video Generative Adversarial Network for Few-Shot Learning Based on Policy Gradient",
+      "authors": [
+        "Yintai Ma",
+        "Diego Klabjan",
+        "Jean Utke"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616322",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616322"
+    },
+    {
+      "id": "Shang_Large_Scale_Multiview_Clustering_via_Joint_Learning_of_Ancho_TNNLS_2026_paper",
+      "title": "Large-Scale Multiview Clustering via Joint Learning of Anchor Representation and Multigraph Alignment",
+      "authors": [
+        "Ronghua Shang",
+        "Jingya Liu",
+        "Xinyuan Wang",
+        "Jingyu Zhong",
+        "Weitong Zhang",
+        "Songhua Xu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616320",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616320"
+    },
+    {
+      "id": "Wen_FGPLFA_Fine_Grained_Pseudo_Labeling_and_Feature_Alignment_fo_TNNLS_2026_paper",
+      "title": "FGPLFA: Fine-Grained Pseudo-Labeling and Feature Alignment for Source-Free Unsupervised Domain Adaptation",
+      "authors": [
+        "Zhongyi Wen",
+        "Qiang Li",
+        "Yatong Wang",
+        "Huaizong Shao",
+        "Guomin Sun"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616236",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616236"
+    },
+    {
+      "id": "Jiang_Toward_Reliable_Offline_Reinforcement_Learning_via_Lyapunov__TNNLS_2026_paper",
+      "title": "Toward Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control",
+      "authors": [
+        "Ke Jiang",
+        "Yao Li",
+        "Xiaoyang Tan"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3616159",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3616159"
+    },
+    {
+      "id": "Zhang_Inhibiting_Error_Exacerbation_in_Offline_Reinforcement_Learn_TNNLS_2026_paper",
+      "title": "Inhibiting Error Exacerbation in Offline Reinforcement Learning With Data Sparsity",
+      "authors": [
+        "Fan Zhang",
+        "Malu Zhang",
+        "Wenyu Chen",
+        "Siying Wang",
+        "Xin Zhang",
+        "Jiayin Li",
+        "Yang Yang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615982",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615982"
+    },
+    {
+      "id": "Song_IML_Spikeformer_Input_Aware_Multilevel_Spiking_Transformer_f_TNNLS_2026_paper",
+      "title": "IML-Spikeformer: Input-Aware Multilevel Spiking Transformer for Speech Processing",
+      "authors": [
+        "Zeyang Song",
+        "Shimin Zhang",
+        "Yuhong Chou",
+        "Jibin Wu",
+        "Haizhou Li"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615971",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615971"
+    },
+    {
+      "id": "Guo_Boosting_Few_Shot_Hyperspectral_Image_Classification_Through_TNNLS_2026_paper",
+      "title": "Boosting Few-Shot Hyperspectral Image Classification Through Dynamic Fusion and Hierarchical Enhancement",
+      "authors": [
+        "Ying Guo",
+        "Bin Fan",
+        "Yuchao Dai",
+        "Yan Feng",
+        "Mingyi He"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615950",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615950"
+    },
+    {
+      "id": "Jiang_CRL_MM_Context_Aware_Relational_Learning_and_Multidimensiona_TNNLS_2026_paper",
+      "title": "CRL-MM: Context-Aware Relational Learning and Multidimensional Matching for Few-Shot Knowledge Graph Completion",
+      "authors": [
+        "Wenchao Jiang",
+        "Fangyue Wu",
+        "Fanlong Zhang",
+        "Quan Chen",
+        "Zhiming Zhao",
+        "Song Guo"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615900",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615900"
+    },
+    {
+      "id": "Yu_Multigranularity_Deep_Graph_Convolutional_Neural_Network_Nod_TNNLS_2026_paper",
+      "title": "Multigranularity Deep Graph Convolutional Neural Network Node Clustering Leveraging Spatial Information",
+      "authors": [
+        "Bin Yu",
+        "Haibo Yang"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615830",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615830"
+    },
+    {
+      "id": "Yang_Generative_Fuzzy_System_for_Sequence_to_Sequence_Learning_vi_TNNLS_2026_paper",
+      "title": "Generative Fuzzy System for Sequence-to-Sequence Learning via Rule-Based Inference",
+      "authors": [
+        "Hailong Yang",
+        "Zhaohong Deng",
+        "Wei Zhang",
+        "Zhuangzhuang Zhao",
+        "Guanjin Wang",
+        "Kup-Sze Choi"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615650",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615650"
+    },
+    {
+      "id": "Wang_PID_A_Parameter_Efficient_Isolation_Domain_Incremental_Learn_TNNLS_2026_paper",
+      "title": "PID: A Parameter-Efficient Isolation Domain-Incremental Learning Framework for Signal Modulation Classification",
+      "authors": [
+        "Guanchun Wang",
+        "Ziyi Liu",
+        "Xiangrong Zhang",
+        "Yifan Chen",
+        "Yifang Zhang",
+        "Jin Zhu",
+        "Licheng Jiao"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615307",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615307"
+    },
+    {
+      "id": "Han_FedMKD_Hybrid_Feature_Guided_Multilayer_Fusion_Knowledge_Dis_TNNLS_2026_paper",
+      "title": "FedMKD: Hybrid Feature Guided Multilayer Fusion Knowledge Distillation in Heterogeneous Federated Learning",
+      "authors": [
+        "Peng Han",
+        "Han Xiao",
+        "Shenhai Zheng",
+        "Yuanyuan Li",
+        "Guanqiu Qi",
+        "Zhiqin Zhu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3615230",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3615230"
+    },
+    {
+      "id": "Li_Enhancing_the_Policy_Generalization_on_OOD_Tasks_via_Latent__TNNLS_2026_paper",
+      "title": "Enhancing the Policy Generalization on OOD Tasks via Latent Variable Distribution Enhancement Sampler",
+      "authors": [
+        "Shaobo Li",
+        "Jie Lin",
+        "Xiangyuan Yang",
+        "Hanlin Zhang",
+        "Peng Zhao"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3614724",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3614724"
+    },
+    {
+      "id": "Guo_Contrastive_Driven_Diversity_and_Consistency_Exploration_in__TNNLS_2026_paper",
+      "title": "Contrastive-Driven Diversity and Consistency Exploration in Tensorized Multiview Subspace Clustering",
+      "authors": [
+        "Xiaoxing Guo",
+        "Gui-Fu Lu"
+      ],
+      "year": "2026",
+      "venue": "tnnls",
+      "url": "https://doi.org/10.1109/TNNLS.2025.3614464",
+      "pdfUrl": "https://doi.org/10.1109/TNNLS.2025.3614464"
+    }
+  ]
+}

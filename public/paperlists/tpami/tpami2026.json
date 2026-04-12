@@ -1,0 +1,4888 @@
+{
+  "papers": [
+    {
+      "id": "Li_Weakly_and_Self_Supervised_Class_Agnostic_Motion_Prediction__TPAMI_2026_paper",
+      "title": "Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving",
+      "authors": [
+        "Ruibo Li",
+        "Hanyu Shi",
+        "Zhe Wang",
+        "Guosheng Lin"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3604036",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Communication_Efficient_Federated_Multi_View_Clustering_TPAMI_2026_paper",
+      "title": "Communication-Efficient Federated Multi-View Clustering",
+      "authors": [
+        "Jiyuan Liu",
+        "Xinwang Liu",
+        "Siqi Wang",
+        "Xinhang Wan",
+        "Dongsheng Li",
+        "Kai Lu",
+        "Kunlun He"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3601533",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Efficient_High_Order_Spatial_Interactions_for_Visual_Percept_TPAMI_2026_paper",
+      "title": "Efficient High-Order Spatial Interactions for Visual Perception",
+      "authors": [
+        "Zuyan Liu",
+        "Yongming Rao",
+        "Wenliang Zhao",
+        "Jie Zhou",
+        "Jiwen Lu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603181",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Foundation_Model_for_Skeleton_Based_Human_Action_Understandi_TPAMI_2026_paper",
+      "title": "Foundation Model for Skeleton-Based Human Action Understanding",
+      "authors": [
+        "Hongsong Wang",
+        "Wanjiang Weng",
+        "Junbo Wang",
+        "Fang Zhao",
+        "Guo-Sen Xie",
+        "Xin Geng",
+        "Liang Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3600658",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sun_Unsupervised_Gaze_Representation_Learning_by_Switching_Featu_TPAMI_2026_paper",
+      "title": "Unsupervised Gaze Representation Learning by Switching Features",
+      "authors": [
+        "Yunjia Sun",
+        "Jiabei Zeng",
+        "Shiguang Shan",
+        "Xilin Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3600680",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Alhawwary_An_End_to_End_Depth_Based_Pipeline_for_Selfie_Image_Rectific_TPAMI_2026_paper",
+      "title": "An End-to-End Depth-Based Pipeline for Selfie Image Rectification",
+      "authors": [
+        "Ahmed Alhawwary",
+        "Janne Mustaniemi",
+        "Phong Nguyen",
+        "Janne Heikkilä"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3604574",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xuanyuan_Creating_Multimodal_Interactive_Digital_Twin_Characters_From_TPAMI_2026_paper",
+      "title": "Creating Multimodal Interactive Digital Twin Characters From Videos: A Dataset and Baseline",
+      "authors": [
+        "Meidai Xuanyuan",
+        "Yuwang Wang",
+        "Honglei Guo",
+        "Hanshi Qu",
+        "Kun Zhang",
+        "Zhongming Li",
+        "Danping Yan",
+        "Tao Yu",
+        "Jianhua Tao",
+        "Qionghai Dai"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603653",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_I_Filtering_Implicit_Filtering_for_Learning_Neural_Distance__TPAMI_2026_paper",
+      "title": "I-Filtering: Implicit Filtering for Learning Neural Distance Functions From 3D Point Clouds",
+      "authors": [
+        "Shengtao Li",
+        "Yudong Liu",
+        "Ge Gao",
+        "Ming Gu",
+        "Yu-Shen Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3602830",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Make_Identity_Indistinguishable_Utility_Preserving_Face_Data_TPAMI_2026_paper",
+      "title": "Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication With Provable Privacy Guarantees",
+      "authors": [
+        "Yushu Zhang",
+        "Junhao Ji",
+        "Tao Wang",
+        "Ruoyu Zhao",
+        "Wenying Wen",
+        "Yong Xiang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3605195",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Huang_Active_Learning_for_Multiple_Target_Models_TPAMI_2026_paper",
+      "title": "Active Learning for Multiple Target Models",
+      "authors": [
+        "Sheng-Jun Huang",
+        "Yi Li",
+        "Ying-Peng Tang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3602682",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tan_Graph_Oriented_Instruction_Tuning_of_Large_Language_Models_f_TPAMI_2026_paper",
+      "title": "Graph-Oriented Instruction Tuning of Large Language Models for Generic Graph Mining",
+      "authors": [
+        "Yanchao Tan",
+        "Hang Lv",
+        "Pengxiang Zhan",
+        "Shiping Wang",
+        "Carl Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603062",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lin_SparseTSF_Lightweight_and_Robust_Time_Series_Forecasting_via_TPAMI_2026_paper",
+      "title": "SparseTSF: Lightweight and Robust Time Series Forecasting via Sparse Modeling",
+      "authors": [
+        "Shengsheng Lin",
+        "Weiwei Lin",
+        "Wentai Wu",
+        "Haojun Chen",
+        "C. L. Philip Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3602445",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_GAN_Based_Domain_Adaptation_for_Image_Aware_Layout_Generatio_TPAMI_2026_paper",
+      "title": "GAN-Based Domain Adaptation for Image-Aware Layout Generation in Advertising Poster Design",
+      "authors": [
+        "Chenchen Xu",
+        "Min Zhou",
+        "Tiezheng Ge",
+        "Weiwei Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3602846",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Guo_Deep_Lookup_Network_TPAMI_2026_paper",
+      "title": "Deep Lookup Network",
+      "authors": [
+        "Yulan Guo",
+        "Longguang Wang",
+        "Wendong Mao",
+        "Xiaoyu Dong",
+        "Yingqian Wang",
+        "Li Liu",
+        "Wei An"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3605660",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Structure_Induced_Gradient_Regulation_for_Generalizable_Visi_TPAMI_2026_paper",
+      "title": "Structure-Induced Gradient Regulation for Generalizable Vision-Language Models",
+      "authors": [
+        "Juncheng Li",
+        "Minghe Gao",
+        "Siliang Tang",
+        "Longhui Wei",
+        "Jun Xiao",
+        "Fei Wu",
+        "Richang Hong",
+        "Meng Wang",
+        "Qi Tian"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3604454",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wen_Partial_Multiview_Incomplete_Multilabel_Learning_via_Uncerta_TPAMI_2026_paper",
+      "title": "Partial Multiview Incomplete Multilabel Learning via Uncertainty-Driven Reliable Dynamic Fusion",
+      "authors": [
+        "Jie Wen",
+        "Jiang Long",
+        "Xiaohuan Lu",
+        "Chengliang Liu",
+        "Xiaozhao Fang",
+        "Yong Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603677",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Hierarchical_Spherical_CNNs_With_Lifting_Based_Adaptive_Wave_TPAMI_2026_paper",
+      "title": "Hierarchical Spherical CNNs With Lifting-Based Adaptive Wavelets for Pooling and Unpooling",
+      "authors": [
+        "Mingxing Xu",
+        "Chenglin Li",
+        "Wenrui Dai",
+        "Siheng Chen",
+        "Junni Zou",
+        "Pascal Frossard",
+        "Hongkai Xiong"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603601",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Han_Hypergraph_Based_High_Order_Correlation_Analysis_for_Large_S_TPAMI_2026_paper",
+      "title": "Hypergraph-Based High-Order Correlation Analysis for Large-Scale Long-Tailed Data Classification",
+      "authors": [
+        "Xiangmin Han",
+        "Yubo Zhang",
+        "Shihui Ying",
+        "Yue Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603631",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_PRANCE_Joint_Token_Optimization_and_Structural_Channel_Pruni_TPAMI_2026_paper",
+      "title": "PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference",
+      "authors": [
+        "Ye Li",
+        "Chen Tang",
+        "Yuan Meng",
+        "Jiajun Fan",
+        "Zenghao Chai",
+        "Xinzhu Ma",
+        "Zhi Wang",
+        "Wenwu Zhu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3605239",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xing_Sentence_Level_Relation_Semantics_Learning_via_Contrastive_S_TPAMI_2026_paper",
+      "title": "Sentence-Level Relation Semantics Learning via Contrastive Sentences",
+      "authors": [
+        "Bowen Xing",
+        "Ivor W. Tsang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3607794",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xie_Compositional_Generative_Model_of_Unbounded_4D_Cities_TPAMI_2026_paper",
+      "title": "Compositional Generative Model of Unbounded 4D Cities",
+      "authors": [
+        "Haozhe Xie",
+        "Zhaoxi Chen",
+        "Fangzhou Hong",
+        "Ziwei Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603078",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cokelek_Spherical_Vision_Transformers_for_Audio_Visual_Saliency_Pred_TPAMI_2026_paper",
+      "title": "Spherical Vision Transformers for Audio-Visual Saliency Prediction in 360$^{\\circ }$∘ Videos",
+      "authors": [
+        "Mert Cokelek",
+        "Halit Ozsoy",
+        "Nevrez Imamoglu",
+        "Cagri Ozcinar",
+        "Inci Ayhan",
+        "Erkut Erdem",
+        "Aykut Erdem"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3604091",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wolf_EBSnoR_Event_Based_Snow_Removal_by_Optimal_Dwell_Time_Thresh_TPAMI_2026_paper",
+      "title": "EBSnoR: Event-Based Snow Removal by Optimal Dwell Time Thresholding",
+      "authors": [
+        "Abigail Wolf",
+        "Osama Alsattam",
+        "Shannon Brooks-Lehnert",
+        "Keigo Hirakawa"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603854",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zheng_Bidirectional_Beta_Tuned_Diffusion_Model_TPAMI_2026_paper",
+      "title": "Bidirectional Beta-Tuned Diffusion Model",
+      "authors": [
+        "Tianyi Zheng",
+        "Jiayang Zou",
+        "Peng-Tao Jiang",
+        "Hao Zhang",
+        "Jinwei Chen",
+        "Jia Wang",
+        "Bo Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3604039",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Song_MovieChat_Question_Aware_Sparse_Memory_for_Long_Video_Questi_TPAMI_2026_paper",
+      "title": "MovieChat+: Question-Aware Sparse Memory for Long Video Question Answering",
+      "authors": [
+        "Enxin Song",
+        "Wenhao Chai",
+        "Tian Ye",
+        "Jenq-Neng Hwang",
+        "Xi Li",
+        "Gaoang Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3604614",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Mi_Learning_Heterogeneous_Mixture_of_Scene_Experts_for_Large_Sc_TPAMI_2026_paper",
+      "title": "Learning Heterogeneous Mixture of Scene Experts for Large-Scale Neural Radiance Fields",
+      "authors": [
+        "Zhenxing Mi",
+        "Ping Yin",
+        "Xue Xiao",
+        "Dan Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3603305",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ye_PMGT_VR_A_Decentralized_Proximal_Gradient_Algorithmic_Framew_TPAMI_2026_paper",
+      "title": "PMGT-VR: A Decentralized Proximal-Gradient Algorithmic Framework With Variance Reduction",
+      "authors": [
+        "Haishan Ye",
+        "Wei Xiong",
+        "Tong Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3606874",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Mao_Parse_Trees_Guided_LLM_Prompt_Compression_TPAMI_2026_paper",
+      "title": "Parse Trees Guided LLM Prompt Compression",
+      "authors": [
+        "Wenhao Mao",
+        "Chengbin Hou",
+        "Tianyu Zhang",
+        "Xinyu Lin",
+        "Ke Tang",
+        "Hairong Lv"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609956",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Hu_Task_Distributionally_Robust_Data_Free_Meta_Learning_TPAMI_2026_paper",
+      "title": "Task-Distributionally Robust Data-Free Meta-Learning",
+      "authors": [
+        "Zixuan Hu",
+        "Yongxian Wei",
+        "Li Shen",
+        "Zhenyi Wang",
+        "Baoyuan Wu",
+        "Chun Yuan",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609625",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Dai_Improving_Generalized_Visual_Grounding_With_Instance_Aware_J_TPAMI_2026_paper",
+      "title": "Improving Generalized Visual Grounding With Instance-Aware Joint Learning",
+      "authors": [
+        "Ming Dai",
+        "Wenxuan Cheng",
+        "Jiang-Jiang Liu",
+        "Lingfeng Yang",
+        "Zhenhua Feng",
+        "Wankou Yang",
+        "Jingdong Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3607387",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Reinterpreting_Hypergraph_Kernels_Insights_Through_Homomorph_TPAMI_2026_paper",
+      "title": "Reinterpreting Hypergraph Kernels: Insights Through Homomorphism Analysis",
+      "authors": [
+        "Yifan Zhang",
+        "Shaoyi Du",
+        "Yifan Feng",
+        "Shihui Ying",
+        "Yue Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3608902",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ding_ADA_Track_End_to_End_Multi_Camera_3D_Multi_Object_Tracking_W_TPAMI_2026_paper",
+      "title": "ADA-Track++: End-to-End Multi-Camera 3D Multi-Object Tracking With Alternating Detection and Association",
+      "authors": [
+        "Shuxiao Ding",
+        "Lukas Schneider",
+        "Marius Cordts",
+        "Juergen Gall"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3613269",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Meunier_Segmenting_the_Motion_Components_of_a_Video_A_Long_Term_Unsu_TPAMI_2026_paper",
+      "title": "Segmenting the Motion Components of a Video: A Long-Term Unsupervised Model",
+      "authors": [
+        "Etienne Meunier",
+        "Patrick Bouthemy"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3608065",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_H2OT_Hierarchical_Hourglass_Tokenizer_for_Efficient_Video_Po_TPAMI_2026_paper",
+      "title": "H2OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers",
+      "authors": [
+        "Wenhao Li",
+        "Mengyuan Liu",
+        "Hong Liu",
+        "Pichao Wang",
+        "Shijian Lu",
+        "Nicu Sebe"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3608284",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yao_Transfer_Learning_of_Stochastic_Kriging_for_Individualized_P_TPAMI_2026_paper",
+      "title": "Transfer Learning of Stochastic Kriging for Individualized Prediction",
+      "authors": [
+        "Jinwei Yao",
+        "Jianguo Wu",
+        "Yongxiang Li",
+        "Chao Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3607773",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Hao_Toward_Effective_Knowledge_Distillation_Navigating_Beyond_Sm_TPAMI_2026_paper",
+      "title": "Toward Effective Knowledge Distillation: Navigating Beyond Small-Data Pitfall",
+      "authors": [
+        "Zhiwei Hao",
+        "Jianyuan Guo",
+        "Kai Han",
+        "Han Hu",
+        "Chang Xu",
+        "Yunhe Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3607982",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhu_Object_Detection_Data_Synthesis_via_Box_to_Image_Generation__TPAMI_2026_paper",
+      "title": "Object Detection Data Synthesis via Box-to-Image Generation Based on Diffusion Models",
+      "authors": [
+        "Jingyuan Zhu",
+        "Huimin Ma",
+        "Jiansheng Chen",
+        "Jian Yuan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609962",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Semantic_Assisted_Object_Clustering_for_Multi_Modal_Referrin_TPAMI_2026_paper",
+      "title": "Semantic-Assisted Object Clustering for Multi-Modal Referring Video Segmentation",
+      "authors": [
+        "Yong Liu",
+        "Zhuoyan Luo",
+        "Yicheng Xiao",
+        "Yitong Wang",
+        "Shuyan Li",
+        "Xiu Li",
+        "Yujiu Yang",
+        "Yansong Tang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612474",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tang_Mask_DiFuser_A_Masked_Diffusion_Model_for_Unified_Unsupervis_TPAMI_2026_paper",
+      "title": "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion",
+      "authors": [
+        "Linfeng Tang",
+        "Chunyu Li",
+        "Jiayi Ma"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609323",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_MV2DFusion_Leveraging_Modality_Specific_Object_Semantics_for_TPAMI_2026_paper",
+      "title": "MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection",
+      "authors": [
+        "Zitian Wang",
+        "Zehao Huang",
+        "Yulu Gao",
+        "Naiyan Wang",
+        "Si Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609348",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zheng_SNNTracker_Online_High_Speed_Multi_Object_Tracking_With_Spik_TPAMI_2026_paper",
+      "title": "SNNTracker: Online High-Speed Multi-Object Tracking With Spike Camera",
+      "authors": [
+        "Yajing Zheng",
+        "Chengen Li",
+        "Jiyuan Zhang",
+        "Zhaofei Yu",
+        "Tie-Jun Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610696",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_A_Unified_Perspective_for_Loss_Oriented_Imbalanced_Learning__TPAMI_2026_paper",
+      "title": "A Unified Perspective for Loss-Oriented Imbalanced Learning via Localization",
+      "authors": [
+        "Zitai Wang",
+        "Qianqian Xu",
+        "Zhiyong Yang",
+        "Zhikang Xu",
+        "Linchao Zhang",
+        "Xiaochun Cao",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609440",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lu_Translating_Images_to_Road_Network_A_Sequence_to_Sequence_Pe_TPAMI_2026_paper",
+      "title": "Translating Images to Road Network: A Sequence-to-Sequence Perspective",
+      "authors": [
+        "Jiachen Lu",
+        "Ming Nie",
+        "Bozhou Zhang",
+        "Renyuan Peng",
+        "Xinyue Cai",
+        "Hang Xu",
+        "Feng Wen",
+        "Wei Zhang",
+        "Li Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612940",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Guo_End_to_End_Autonomous_Driving_Without_Costly_Modularization__TPAMI_2026_paper",
+      "title": "End-to-End Autonomous Driving Without Costly Modularization and 3D Manual Annotation",
+      "authors": [
+        "Mingzhe Guo",
+        "Zhipeng Zhang",
+        "Yuan He",
+        "Ke Wang",
+        "Liping Jing",
+        "Haibin Ling"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610517",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_REST_Holistic_Learning_for_End_to_End_Semantic_Segmentation__TPAMI_2026_paper",
+      "title": "REST: Holistic Learning for End-to-End Semantic Segmentation of Whole-Scene Remote Sensing Imagery",
+      "authors": [
+        "Wei Chen",
+        "Lorenzo Bruzzone",
+        "Bo Dang",
+        "Yuan Gao",
+        "Youming Deng",
+        "Jin-Gang Yu",
+        "Liangqi Yuan",
+        "Yansheng Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609767",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Luo_Bayesian_Unsupervised_Disentanglement_of_Anatomy_and_Geometr_TPAMI_2026_paper",
+      "title": "Bayesian Unsupervised Disentanglement of Anatomy and Geometry for Deep Groupwise Image Registration",
+      "authors": [
+        "Xinzhe Luo",
+        "Xin Wang",
+        "Linda G. Shapiro",
+        "Chun Yuan",
+        "Jianfeng Feng",
+        "Xiahai Zhuang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609521",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Pang_HSIGene_A_Foundation_Model_for_Hyperspectral_Image_Generatio_TPAMI_2026_paper",
+      "title": "HSIGene: A Foundation Model for Hyperspectral Image Generation",
+      "authors": [
+        "Li Pang",
+        "Xiangyong Cao",
+        "Datao Tang",
+        "Shuang Xu",
+        "Xueru Bai",
+        "Feng Zhou",
+        "Deyu Meng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610927",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Efficient_3D_Surface_Super_Resolution_via_Normal_Based_Multi_TPAMI_2026_paper",
+      "title": "Efficient 3D Surface Super-Resolution via Normal-Based Multimodal Restoration",
+      "authors": [
+        "Miaohui Wang",
+        "Yunheng Liu",
+        "Wuyuan Xie",
+        "Boxin Shi",
+        "Jianmin Jiang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614184",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhao_Revisiting_Transferable_Adversarial_Images_Systemization_Eva_TPAMI_2026_paper",
+      "title": "Revisiting Transferable Adversarial Images: Systemization, Evaluation, and New Insights",
+      "authors": [
+        "Zhengyu Zhao",
+        "Hanwei Zhang",
+        "Renjue Li",
+        "Ronan Sicre",
+        "Laurent Amsaleg",
+        "Michael Backes",
+        "Qi Li",
+        "Qian Wang",
+        "Chao Shen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610085",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Self_Guidance_Boosting_Flow_and_Diffusion_Generation_on_Thei_TPAMI_2026_paper",
+      "title": "Self-Guidance: Boosting Flow and Diffusion Generation on Their Own",
+      "authors": [
+        "Tiancheng Li",
+        "Weijian Luo",
+        "Zhiyang Chen",
+        "Liyuan Ma",
+        "Guo-Jun Qi"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611831",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liang_Data_And_Knowledge_Driven_Visual_Abductive_Reasoning_TPAMI_2026_paper",
+      "title": "Data-And Knowledge-Driven Visual Abductive Reasoning",
+      "authors": [
+        "Chen Liang",
+        "Wenguan Wang",
+        "Ling Chen",
+        "Yi Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3613712",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_M_3_3D_A_Multimodal_Multilingual_and_Multitask_Dataset_for_G_TPAMI_2026_paper",
+      "title": "M$^{3}$3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-Level Information Extraction",
+      "authors": [
+        "Jiang Liu",
+        "Bobo Li",
+        "Xinran Yang",
+        "Na Yang",
+        "Hao Fei",
+        "Mingyao Zhang",
+        "Fei Li",
+        "Donghong Ji"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609288",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fan_MGAF_LiDAR_Camera_3D_Object_Detection_With_Multiple_Guidance_TPAMI_2026_paper",
+      "title": "MGAF: LiDAR-Camera 3D Object Detection With Multiple Guidance and Adaptive Fusion",
+      "authors": [
+        "Baojie Fan",
+        "Xiaotian Li",
+        "Yuhan Zhou",
+        "Caixia Xia",
+        "Huijie Fan",
+        "Fengyu Xu",
+        "Jiandong Tian"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612958",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liang_SOOD_Leveraging_Unlabeled_Data_to_Boost_Oriented_Object_Dete_TPAMI_2026_paper",
+      "title": "SOOD++: Leveraging Unlabeled Data to Boost Oriented Object Detection",
+      "authors": [
+        "Dingkang Liang",
+        "Wei Hua",
+        "Chunsheng Shi",
+        "Zhikang Zou",
+        "Xiaoqing Ye",
+        "Xiang Bai"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611519",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Jiang_MSFA_Image_Denoising_Using_Physics_Based_Noise_Model_and_Noi_TPAMI_2026_paper",
+      "title": "MSFA Image Denoising Using Physics-Based Noise Model and Noise-Decoupled Network",
+      "authors": [
+        "Yuqi Jiang",
+        "Ying Fu",
+        "Qiankun Liu",
+        "Jun Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610243",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_Defenses_in_Adversarial_Machine_Learning_A_Systematic_Survey_TPAMI_2026_paper",
+      "title": "Defenses in Adversarial Machine Learning: A Systematic Survey From the Lifecycle Perspective",
+      "authors": [
+        "Baoyuan Wu",
+        "Mingli Zhu",
+        "Meixi Zheng",
+        "Zihao Zhu",
+        "Shaokui Wei",
+        "Mingda Zhang",
+        "Hongrui Chen",
+        "Danni Yuan",
+        "Li Liu",
+        "Qingshan Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611340",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yan_Pathway_Aware_Multimodal_Transformer_PAMT_Integrating_Pathol_TPAMI_2026_paper",
+      "title": "Pathway-Aware Multimodal Transformer (PAMT): Integrating Pathological Image and Gene Expression for Interpretable Cancer Survival Analysis",
+      "authors": [
+        "Rui Yan",
+        "Xueyuan Zhang",
+        "Zihang Jiang",
+        "Baizhi Wang",
+        "Xiuwu Bian",
+        "Fei Ren",
+        "S. Kevin Zhou"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611531",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Toward_Optimal_Mixture_of_Experts_System_for_3D_Object_Detec_TPAMI_2026_paper",
+      "title": "Toward Optimal Mixture of Experts System for 3D Object Detection: A Game of Accuracy, Efficiency and Adaptivity",
+      "authors": [
+        "Linshen Liu",
+        "Pu Wang",
+        "Guanlin Wu",
+        "Junyue Jiang",
+        "Hao (Frank) Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611795",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tofigh_ACLI_A_CNN_Pruning_Framework_Leveraging_Adjacent_Convolution_TPAMI_2026_paper",
+      "title": "ACLI: A CNN Pruning Framework Leveraging Adjacent Convolutional Layer Interdependence and $\\gamma$γ-Weakly Submodularity",
+      "authors": [
+        "Sadegh Tofigh",
+        "Mohammad Askarizadeh",
+        "M. Omair Ahmad",
+        "M. N. S. Swamy",
+        "Kim Khoa Nguyen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610113",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Hong_LVOS_A_Benchmark_for_Large_Scale_Long_Term_Video_Object_Segm_TPAMI_2026_paper",
+      "title": "LVOS: A Benchmark for Large-Scale Long-Term Video Object Segmentation",
+      "authors": [
+        "Lingyi Hong",
+        "Zhongying Liu",
+        "Wenchao Chen",
+        "Chenzhi Tan",
+        "Yuang Feng",
+        "Xinyu Zhou",
+        "Pinxue Guo",
+        "Jinglun Li",
+        "Zhaoyu Chen",
+        "Shuyong Gao",
+        "Wei Zhang",
+        "Wenqiang Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611020",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Shi_PlaneRecTR_Unified_Query_Learning_for_Joint_3D_Planar_Recons_TPAMI_2026_paper",
+      "title": "PlaneRecTR++: Unified Query Learning for Joint 3D Planar Reconstruction and Pose Estimation",
+      "authors": [
+        "Jingjia Shi",
+        "Shuaifeng Zhi",
+        "Kai Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610500",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Jiang_3D_Hand_Pose_Estimation_via_Articulated_Anchor_to_Joint_3D_L_TPAMI_2026_paper",
+      "title": "3D Hand Pose Estimation via Articulated Anchor-to-Joint 3D Local Regressors",
+      "authors": [
+        "Changlong Jiang",
+        "Yang Xiao",
+        "Jinghong Zheng",
+        "Haohong Kuang",
+        "Cunlin Wu",
+        "Mingyang Zhang",
+        "Zhiguo Cao",
+        "Min Du",
+        "Joey Tianyi Zhou",
+        "Junsong Yuan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609907",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Efficient_Nearest_Neighbor_Search_Using_Dynamic_Programming_TPAMI_2026_paper",
+      "title": "Efficient Nearest Neighbor Search Using Dynamic Programming",
+      "authors": [
+        "Pengfei Wang",
+        "Jiantao Song",
+        "Shiqing Xin",
+        "Shuangmin Chen",
+        "Changhe Tu",
+        "Wenping Wang",
+        "Jiaye Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610211",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_SS_NeRF_Physically_Based_Sparse_Spectral_Rendering_With_Neur_TPAMI_2026_paper",
+      "title": "SS-NeRF: Physically Based Sparse Spectral Rendering With Neural Radiance Field",
+      "authors": [
+        "Ru Li",
+        "Jia Liu",
+        "Guanghui Liu",
+        "Shengping Zhang",
+        "Bing Zeng",
+        "Shuaicheng Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611376",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lin_Generative_Causality_Driven_Network_for_Graph_Multi_Task_Lea_TPAMI_2026_paper",
+      "title": "Generative Causality-Driven Network for Graph Multi-Task Learning",
+      "authors": [
+        "Xixun Lin",
+        "Qing Yu",
+        "Yanan Cao",
+        "Lixin Zou",
+        "Chuan Zhou",
+        "Jia Wu",
+        "Chenliang Li",
+        "Peng Zhang",
+        "Shirui Pan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610096",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ouala_Enhanced_Computational_Complexity_in_Continuous_Depth_Models_TPAMI_2026_paper",
+      "title": "Enhanced Computational Complexity in Continuous-Depth Models: Neural Ordinary Differential Equations With Trainable Numerical Schemes",
+      "authors": [
+        "Said Ouala",
+        "Laurent Debreu",
+        "Bertrand Chapron",
+        "Fabrice Collard",
+        "Lucile Gaultier",
+        "Ronan Fablet"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3599629",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xing_DXA_Net_Dual_Task_Cross_Lingual_Alignment_Network_for_Zero_S_TPAMI_2026_paper",
+      "title": "DXA-Net: Dual-Task Cross-Lingual Alignment Network for Zero-Shot Cross-Lingual Spoken Language Understanding",
+      "authors": [
+        "Bowen Xing",
+        "Libo Qin",
+        "Zhihong Zhu",
+        "Zhou Yu",
+        "Ivor W. Tsang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3597726",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhong_I_S_ViT_An_Inclusive_Stable_Method_for_Post_Training_ViTs_Qu_TPAMI_2026_paper",
+      "title": "I&S-ViT: An Inclusive & Stable Method for Post-Training ViTs Quantization",
+      "authors": [
+        "Yunshan Zhong",
+        "Jiawei Hu",
+        "Mingbao Lin",
+        "Mengzhao Chen",
+        "Rongrong Ji"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610466",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Quan_Single_Voter_Spreading_for_Efficient_Correspondence_Grouping_TPAMI_2026_paper",
+      "title": "Single Voter Spreading for Efficient Correspondence Grouping and 3D Registration",
+      "authors": [
+        "Siwen Quan",
+        "Zhao Zeng",
+        "Xiyu Zhang",
+        "Jiaqi Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609474",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Step_Wise_Distribution_Aligned_Style_Prompt_Tuning_for_Sourc_TPAMI_2026_paper",
+      "title": "Step-Wise Distribution-Aligned Style Prompt Tuning for Source-Free Cross-Domain Few-Shot Learning",
+      "authors": [
+        "Huali Xu",
+        "Li Liu",
+        "Tianpeng Liu",
+        "Shuaifeng Zhi",
+        "Shuzhou Sun",
+        "Ming-Ming Cheng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610039",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Bao_Toward_Size_Invariant_Salient_Object_Detection_A_Generic_Eva_TPAMI_2026_paper",
+      "title": "Toward Size-Invariant Salient Object Detection: A Generic Evaluation",
+      "authors": [
+        "Shilong Bao",
+        "Qianqian Xu",
+        "Feiran Li",
+        "Boyu Han",
+        "Zhiyong Yang",
+        "Xiaochun Cao",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609882",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Meng_Sample_Level_Prototypical_Federated_Learning_TPAMI_2026_paper",
+      "title": "Sample-Level Prototypical Federated Learning",
+      "authors": [
+        "Chuizheng Meng",
+        "Jianke Yang",
+        "Hao Niu",
+        "Guillaume Habault",
+        "Roberto Legaspi",
+        "Shinya Wada",
+        "Chihiro Ono",
+        "Yan Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612302",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tang_Zero_Shot_Sparse_Mixture_of_Low_Rank_Experts_Construction_Fr_TPAMI_2026_paper",
+      "title": "Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models",
+      "authors": [
+        "Anke Tang",
+        "Li Shen",
+        "Yong Luo",
+        "Shuai Xie",
+        "Han Hu",
+        "Lefei Zhang",
+        "Bo Du",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612480",
+      "pdfUrl": ""
+    },
+    {
+      "id": "An_Adaptive_Batch_Size_Time_Evolving_Stochastic_Gradient_Descen_TPAMI_2026_paper",
+      "title": "Adaptive Batch Size Time Evolving Stochastic Gradient Descent for Federated Learning",
+      "authors": [
+        "Xuming An",
+        "Li Shen",
+        "Yong Luo",
+        "Han Hu",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610169",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Lagrangian_Motion_Fields_for_Long_Term_Motion_Generation_TPAMI_2026_paper",
+      "title": "Lagrangian Motion Fields for Long-Term Motion Generation",
+      "authors": [
+        "Yifei Yang",
+        "Zikai Huang",
+        "Chenshu Xu",
+        "Shengfeng He"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612380",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wen_Semantic_Concentration_for_Self_Supervised_Dense_Representat_TPAMI_2026_paper",
+      "title": "Semantic Concentration for Self-Supervised Dense Representations Learning",
+      "authors": [
+        "Peisong Wen",
+        "Qianqian Xu",
+        "Siran Dai",
+        "Runmin Cong",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3609758",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Nguyen_BRACTIVE_A_Brain_Activation_Approach_to_Human_Visual_Brain_L_TPAMI_2026_paper",
+      "title": "BRACTIVE: A Brain Activation Approach to Human Visual Brain Learning",
+      "authors": [
+        "Xuan-Bac Nguyen",
+        "Hojin Jang",
+        "Xin Li",
+        "Samee U. Khan",
+        "Pawan Sinha",
+        "Khoa Luu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612582",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gao_StyleShot_A_Snapshot_on_Any_Style_TPAMI_2026_paper",
+      "title": "StyleShot: A Snapshot on Any Style",
+      "authors": [
+        "Junyao Gao",
+        "Yanan Sun",
+        "Yanchen Liu",
+        "Yinhao Tang",
+        "Yanhong Zeng",
+        "Ding Qi",
+        "Kai Chen",
+        "Cairong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3610614",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Revisiting_Deformable_Convolution_on_Graphs_Large_Range_Mode_TPAMI_2026_paper",
+      "title": "Revisiting Deformable Convolution on Graphs: Large-Range Modeling and Robustness",
+      "authors": [
+        "Ziyan Zhang",
+        "Bo Jiang",
+        "Jin Tang",
+        "Bin Luo"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3611386",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Dan_TransFace_Rethinking_the_Face_Recognition_Paradigm_With_a_Fo_TPAMI_2026_paper",
+      "title": "TransFace++: Rethinking the Face Recognition Paradigm With a Focus on Accuracy, Efficiency, and Security",
+      "authors": [
+        "Jun Dan",
+        "Yang Liu",
+        "Baigui Sun",
+        "Jiankang Deng",
+        "Shan Luo"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616149",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_PRVR_Partially_Relevant_Video_Retrieval_TPAMI_2026_paper",
+      "title": "PRVR: Partially Relevant Video Retrieval",
+      "authors": [
+        "Xianke Chen",
+        "Daizong Liu",
+        "Xun Yang",
+        "Xirong Li",
+        "Jianfeng Dong",
+        "Meng Wang",
+        "Xun Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614169",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_An_Enhanced_Adaptive_Confidence_Margin_for_Semi_Supervised_F_TPAMI_2026_paper",
+      "title": "An Enhanced Adaptive Confidence Margin for Semi-Supervised Facial Expression Recognition",
+      "authors": [
+        "Hangyu Li",
+        "Nannan Wang",
+        "Xi Yang",
+        "Xiaoyu Wang",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612953",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Kong_LargeAD_Large_Scale_Cross_Sensor_Data_Pretraining_for_Autono_TPAMI_2026_paper",
+      "title": "LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving",
+      "authors": [
+        "Lingdong Kong",
+        "Xiang Xu",
+        "Youquan Liu",
+        "Jun Cen",
+        "Runnan Chen",
+        "Wenwei Zhang",
+        "Liang Pan",
+        "Kai Chen",
+        "Ziwei Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3617126",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Zero_Shot_Learning_for_Limited_Photon_Budget_Denoising_in_St_TPAMI_2026_paper",
+      "title": "Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy",
+      "authors": [
+        "Hong Yang",
+        "Xianqiang Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3612886",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Jiang_Learning_Knowledge_Based_Prompts_for_Robust_3D_Mask_Presenta_TPAMI_2026_paper",
+      "title": "Learning Knowledge-Based Prompts for Robust 3D Mask Presentation Attack Detection",
+      "authors": [
+        "Fangling Jiang",
+        "Qi Li",
+        "Bing Liu",
+        "Weining Wang",
+        "Caifeng Shan",
+        "Zhenan Sun",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618630",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_IPF_RDA_An_Information_Preserving_Framework_for_Robust_Data__TPAMI_2026_paper",
+      "title": "IPF-RDA: An Information-Preserving Framework for Robust Data Augmentation",
+      "authors": [
+        "Suorong Yang",
+        "Hongchao Yang",
+        "Suhan Guo",
+        "Furao Shen",
+        "Jian Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3613005",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Luo_Learning_Efficient_Meshflow_and_Optical_Flow_From_Event_Came_TPAMI_2026_paper",
+      "title": "Learning Efficient Meshflow and Optical Flow From Event Cameras",
+      "authors": [
+        "Xinglong Luo",
+        "Ao Luo",
+        "Kunming Luo",
+        "Zhengning Wang",
+        "Ping Tan",
+        "Bing Zeng",
+        "Shuaicheng Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3615144",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_CAIT_Triple_Win_Compression_Toward_High_Accuracy_Fast_Infere_TPAMI_2026_paper",
+      "title": "CAIT: Triple-Win Compression Toward High Accuracy, Fast Inference, and Favorable Transferability for ViTs",
+      "authors": [
+        "Ao Wang",
+        "Hui Chen",
+        "Zijia Lin",
+        "Sicheng Zhao",
+        "Jungong Han",
+        "Guiguang Ding"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616854",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fu_M3C_Resist_Agnostic_Attacks_by_Mitigating_Consistent_Class_C_TPAMI_2026_paper",
+      "title": "M3C: Resist Agnostic Attacks by Mitigating Consistent Class Confusion Prior",
+      "authors": [
+        "Xiaowei Fu",
+        "Fuxiang Huang",
+        "Guoyin Wang",
+        "Xinbo Gao",
+        "Lei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614495",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ye__beta_DARTS_Bi_Level_Regularization_for_Proxy_Robust_Differe_TPAMI_2026_paper",
+      "title": "$\\beta $-DARTS++: Bi-Level Regularization for Proxy-Robust Differentiable Architecture Search",
+      "authors": [
+        "Peng Ye",
+        "Tong He",
+        "Baopu Li",
+        "Tao Chen",
+        "Lei Bai",
+        "Wanli Ouyang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616249",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Schedule_Robust_Continual_Learning_TPAMI_2026_paper",
+      "title": "Schedule-Robust Continual Learning",
+      "authors": [
+        "Ruohan Wang",
+        "Marco Ciccone",
+        "Massimiliano Pontil",
+        "Carlo Ciliberto"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614868",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_To_Fold_or_Not_to_Fold_Graph_Regularized_Tensor_Train_for_Vi_TPAMI_2026_paper",
+      "title": "To Fold or Not to Fold: Graph Regularized Tensor Train for Visual Data Completion",
+      "authors": [
+        "Le Xu",
+        "Lei Cheng",
+        "Ngai Wong",
+        "Yik-Chung Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3615445",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhao_CDTFusion_Crossing_Domain_and_Task_for_Infrared_and_Visible__TPAMI_2026_paper",
+      "title": "CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion",
+      "authors": [
+        "Wenda Zhao",
+        "Wenbo Wang",
+        "Haipeng Wang",
+        "You He",
+        "Huchuan Lu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614704",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lu_Toward_Free_Form_Local_Feature_Matching_TPAMI_2026_paper",
+      "title": "Toward Free-Form Local Feature Matching",
+      "authors": [
+        "Xiaoyong Lu",
+        "Songlin Du",
+        "Yaping Yan",
+        "Xiaobo Lu",
+        "Takeshi Ikenaga"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614652",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fan_Data_Dependent_Rectangular_Bounding_Processes_TPAMI_2026_paper",
+      "title": "Data-Dependent Rectangular Bounding Processes",
+      "authors": [
+        "Xuhui Fan",
+        "Bin Li",
+        "Prosha Rahman",
+        "Scott A. Sisson"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618585",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cheng_Clustering_Diffusion_Model_With_Frequency_Signal_Modulation__TPAMI_2026_paper",
+      "title": "Clustering Diffusion Model With Frequency-Signal Modulation for Variational Graph Autoencoders",
+      "authors": [
+        "Junwei Cheng",
+        "Ke Liang",
+        "Pengxing Feng",
+        "Weixiong Liu",
+        "Yong Tang",
+        "Chaobo He"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3614385",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_A_Survey_on_Video_Temporal_Grounding_With_Multimodal_Large_L_TPAMI_2026_paper",
+      "title": "A Survey on Video Temporal Grounding With Multimodal Large Language Model",
+      "authors": [
+        "Jianlong Wu",
+        "Wei Liu",
+        "Ye Liu",
+        "Meng Liu",
+        "Liqiang Nie",
+        "Zhouchen Lin",
+        "Chang Wen Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3615586",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Model_Free_Test_Time_Adaptation_for_Out_of_Distribution_Dete_TPAMI_2026_paper",
+      "title": "Model-Free Test Time Adaptation for Out-of-Distribution Detection",
+      "authors": [
+        "Yifan Zhang",
+        "Xue Wang",
+        "Tian Zhou",
+        "Kun Yuan",
+        "Zhang Zhang",
+        "Liang Wang",
+        "Rong Jin"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3615192",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ma_UniSOT_A_Unified_Framework_for_Multi_Modality_Single_Object__TPAMI_2026_paper",
+      "title": "UniSOT: A Unified Framework for Multi-Modality Single Object Tracking",
+      "authors": [
+        "Yinchao Ma",
+        "Yuyang Tang",
+        "Wenfei Yang",
+        "Tianzhu Zhang",
+        "Xu Zhou",
+        "Feng Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3615714",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gong_Specific_Emitter_Identification_by_Edge_Pattern_Detection_an_TPAMI_2026_paper",
+      "title": "Specific Emitter Identification by Edge Pattern Detection and Incremental Open-World Learning",
+      "authors": [
+        "Jialiang Gong",
+        "Xiaodong Xu",
+        "Guo Wei"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3615797",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhu_CFSM_A_Novel_Causal_Feature_Selection_Module_for_Two_Dimensi_TPAMI_2026_paper",
+      "title": "CFSM: A Novel Causal Feature Selection Module for Two-Dimensional Out-of-Distribution Generalization",
+      "authors": [
+        "Lin Zhu",
+        "Weihan Yin",
+        "Yiyao Yang",
+        "Yifei Wu",
+        "Qinying Gu",
+        "Xinbing Wang",
+        "Chenghu Zhou",
+        "Nanyang Ye"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616163",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_EvLight_Low_Light_Video_Enhancement_With_an_Event_Camera_A_L_TPAMI_2026_paper",
+      "title": "EvLight++: Low-Light Video Enhancement With an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More",
+      "authors": [
+        "Kanghao Chen",
+        "Guoqiang Liang",
+        "Yunfan Lu",
+        "Hangyu Li",
+        "Lin Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3617801",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sheng_Multi_Matrix_Completion_A_Novel_Framework_for_Structurally_M_TPAMI_2026_paper",
+      "title": "Multi-Matrix Completion: A Novel Framework for Structurally Missing Elements",
+      "authors": [
+        "Hao Nan Sheng",
+        "Zhi-Yong Wang",
+        "Hing Cheung So",
+        "Abdelhak M. Zoubir"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616607",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Dorent_Unified_Cross_Modal_Medical_Image_Synthesis_With_Hierarchica_TPAMI_2026_paper",
+      "title": "Unified Cross-Modal Medical Image Synthesis With Hierarchical Mixture of Product-of-Experts",
+      "authors": [
+        "Reuben Dorent",
+        "Nazim Haouchine",
+        "Alexandra J. Golby",
+        "Sarah F. Frisken",
+        "Tina Kapur",
+        "William M. Wells III"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616632",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Learning_Roles_With_Emergent_Social_Value_Orientations_TPAMI_2026_paper",
+      "title": "Learning Roles With Emergent Social Value Orientations",
+      "authors": [
+        "Wenhao Li",
+        "Xiangfeng Wang",
+        "Bo Jin",
+        "Jingyi Lu",
+        "Hongyuan Zha"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3620954",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Wonder3D_Cross_Domain_Diffusion_for_High_Fidelity_3D_Generat_TPAMI_2026_paper",
+      "title": "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
+      "authors": [
+        "Yuxiao Yang",
+        "Xiaoxiao Long",
+        "Zhiyang Dou",
+        "Cheng Lin",
+        "Yuan Liu",
+        "Qingsong Yan",
+        "Yuexin Ma",
+        "Haoqian Wang",
+        "Zhiqiang Wu",
+        "Wei Yin"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618675",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Leng_PiercingEye_Dual_Space_Video_Violence_Detection_With_Hyperbo_TPAMI_2026_paper",
+      "title": "PiercingEye: Dual-Space Video Violence Detection With Hyperbolic Vision-Language Guidance",
+      "authors": [
+        "Jiaxu Leng",
+        "Zhanjie Wu",
+        "Mingpi Tan",
+        "Mengjingcheng Mo",
+        "Jiankang Zheng",
+        "Qingqing Li",
+        "Ji Gan",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3617460",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Deeper_Insights_Into_Deep_Graph_Convolutional_Networks_Stabi_TPAMI_2026_paper",
+      "title": "Deeper Insights Into Deep Graph Convolutional Networks: Stability and Generalization",
+      "authors": [
+        "Guangrui Yang",
+        "Ming Li",
+        "Han Feng",
+        "Xiaosheng Zhuang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616350",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qu_ID_Guard_A_Universal_Framework_for_Combating_Facial_Manipula_TPAMI_2026_paper",
+      "title": "ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification",
+      "authors": [
+        "Zuomin Qu",
+        "Wei Lu",
+        "Xiangyang Luo",
+        "Qian Wang",
+        "Xiaochun Cao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616232",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fu_DTL_Parameter_and_Memory_Efficient_Disentangled_Vision_Learn_TPAMI_2026_paper",
+      "title": "DTL: Parameter- and Memory-Efficient Disentangled Vision Learning",
+      "authors": [
+        "Minghao Fu",
+        "Ke Zhu",
+        "Zonghao Ding",
+        "Jianxin Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3616318",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Layer_Adaptive_Augmentation_Based_Graph_Contrastive_Learning_TPAMI_2026_paper",
+      "title": "Layer-Adaptive-Augmentation-Based Graph Contrastive Learning With Feature Decorrelation",
+      "authors": [
+        "Yuhua Xu",
+        "Junli Wang",
+        "Rui Duan",
+        "Changjun Jiang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618329",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Explicit_Visual_Prompting_for_Universal_Foreground_Segmentat_TPAMI_2026_paper",
+      "title": "Explicit Visual Prompting for Universal Foreground Segmentations",
+      "authors": [
+        "Weihuang Liu",
+        "Xi Shen",
+        "Chi-Man Pun",
+        "Xiaodong Cun"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3619490",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yin_SMPLest_X_Ultimate_Scaling_for_Expressive_Human_Pose_and_Sha_TPAMI_2026_paper",
+      "title": "SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation",
+      "authors": [
+        "Wanqi Yin",
+        "Zhongang Cai",
+        "Ruisi Wang",
+        "Ailing Zeng",
+        "Chen Wei",
+        "Qingping Sun",
+        "Haiyi Mei",
+        "Yanjun Wang",
+        "Hui En Pang",
+        "Mingyuan Zhang",
+        "Lei Zhang",
+        "Chen Change Loy",
+        "Atsushi Yamashita",
+        "Lei Yang",
+        "Ziwei Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618174",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Neural_Prediction_Errors_as_a_Unified_Cue_for_Abstract_Visua_TPAMI_2026_paper",
+      "title": "Neural Prediction Errors as a Unified Cue for Abstract Visual Reasoning",
+      "authors": [
+        "Lingxiao Yang",
+        "Xiaohua Xie",
+        "Wei-Shi Zheng",
+        "Fang Fang",
+        "Ru-Yuan Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3623461",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Release_the_Potential_of_Memory_Buffer_in_Continual_Learning_TPAMI_2026_paper",
+      "title": "Release the Potential of Memory Buffer in Continual Learning: A Dynamic System Perspective",
+      "authors": [
+        "Zhenyi Wang",
+        "Li Shen",
+        "Tiehang Duan",
+        "Yanjun Zhu",
+        "Tongliang Liu",
+        "Mingchen Gao",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3619883",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ong_Fixing_Background_Misclassification_in_Few_Shot_Object_Detec_TPAMI_2026_paper",
+      "title": "Fixing Background Misclassification in Few-Shot Object Detection via Product of Experts",
+      "authors": [
+        "Ding Sheng Ong",
+        "Yi Liu",
+        "Changjing Shang",
+        "Guiguang Ding",
+        "Qiang Shen",
+        "Jungong Han"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3622983",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Orthogonal_Decoupling_Contrastive_Regularization_Toward_Unco_TPAMI_2026_paper",
+      "title": "Orthogonal Decoupling Contrastive Regularization: Toward Uncorrelated Feature Decoupling for Unpaired Image Restoration",
+      "authors": [
+        "Zhongze Wang",
+        "Jingchao Peng",
+        "Haitao Zhao",
+        "Lujian Yao",
+        "Kaijie Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3620803",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Deng_Deep_Neural_Network_Parameter_Selection_via_Dataset_Similari_TPAMI_2026_paper",
+      "title": "Deep Neural Network Parameter Selection via Dataset Similarity Under Meta-Learning Framework",
+      "authors": [
+        "Liping Deng",
+        "Maziar Raissi",
+        "Mingqing Xiao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618991",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ye_A_Unified_Masked_Jigsaw_Puzzle_Framework_for_Vision_and_Lang_TPAMI_2026_paper",
+      "title": "A Unified Masked Jigsaw Puzzle Framework for Vision and Language Models",
+      "authors": [
+        "Weixin Ye",
+        "Wei Wang",
+        "Yahui Liu",
+        "Yue Song",
+        "Bin Ren",
+        "Wei Bi",
+        "Rita Cucchiara",
+        "Nicu Sebe"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621246",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Discourse_Aware_Language_Representation_TPAMI_2026_paper",
+      "title": "Discourse-Aware Language Representation",
+      "authors": [
+        "Zhuosheng Zhang",
+        "Siru Ouyang",
+        "Hai Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621229",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Dong_Probabilistically_Aligned_View_Unaligned_Clustering_With_Ada_TPAMI_2026_paper",
+      "title": "Probabilistically Aligned View-Unaligned Clustering With Adaptive Template Selection",
+      "authors": [
+        "Wenhua Dong",
+        "Xiaojun Wu",
+        "Zhenhua Feng",
+        "Sara Atito",
+        "Muhammad Awais",
+        "Josef Kittler"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3618984",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Peirone_Hier_EgoPack_Hierarchical_Egocentric_Video_Understanding_Wit_TPAMI_2026_paper",
+      "title": "Hier-EgoPack: Hierarchical Egocentric Video Understanding With Diverse Task Perspectives",
+      "authors": [
+        "Simone Alberto Peirone",
+        "Francesca Pistilli",
+        "Antonio Alliegro",
+        "Tatiana Tommasi",
+        "Giuseppe Averta"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621326",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lian_IRNet_Iterative_Refinement_Network_for_Noisy_Partial_Label_L_TPAMI_2026_paper",
+      "title": "IRNet: Iterative Refinement Network for Noisy Partial Label Learning",
+      "authors": [
+        "Zheng Lian",
+        "Mingyu Xu",
+        "Lan Chen",
+        "Licai Sun",
+        "Bin Liu",
+        "Lei Feng",
+        "Jianhua Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3620388",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Jiang_Optimizing_Unnormalized_Statistical_Models_Through_Compositi_TPAMI_2026_paper",
+      "title": "Optimizing Unnormalized Statistical Models Through Compositional Optimization",
+      "authors": [
+        "Wei Jiang",
+        "Jiayu Qin",
+        "Lingyu Wu",
+        "Changyou Chen",
+        "Tianbao Yang",
+        "Lijun Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621320",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cao_Multilingual_Text_to_Image_Person_Retrieval_via_Bidirectiona_TPAMI_2026_paper",
+      "title": "Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning",
+      "authors": [
+        "Min Cao",
+        "Xinyu Zhou",
+        "Ding Jiang",
+        "Bo Du",
+        "Mang Ye",
+        "Min Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3620139",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wen_Causal_Interventional_Prompt_Tuning_for_Few_Shot_Out_of_Dist_TPAMI_2026_paper",
+      "title": "Causal Interventional Prompt Tuning for Few-Shot Out-of-Distribution Generalization",
+      "authors": [
+        "Jie Wen",
+        "Yicheng Liu",
+        "Chao Huang",
+        "Chengliang Liu",
+        "Yong Xu",
+        "Xiaochun Cao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621250",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tian_SMC_Masked_Learning_of_Unsupervised_Video_Semantic_Compressi_TPAMI_2026_paper",
+      "title": "SMC++: Masked Learning of Unsupervised Video Semantic Compression",
+      "authors": [
+        "Yuan Tian",
+        "Xiaoyue Ling",
+        "Cong Geng",
+        "Qiang Hu",
+        "Guo Lu",
+        "Guangtao Zhai"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3625063",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Guan_Affine_Correspondences_Between_Multi_Camera_Systems_for_Rela_TPAMI_2026_paper",
+      "title": "Affine Correspondences Between Multi-Camera Systems for Relative Pose Estimation",
+      "authors": [
+        "Banglei Guan",
+        "Ji Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626134",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Vicinal_Gaussian_Transform_Rethinking_Source_Free_Domain_Ada_TPAMI_2026_paper",
+      "title": "Vicinal Gaussian Transform: Rethinking Source-Free Domain Adaptation Through Source-Informed Label Consistency",
+      "authors": [
+        "Jing Wang",
+        "Yongchao Xu",
+        "Jing Tang",
+        "Zeyu Gong",
+        "Bo Tao",
+        "Clarence W. de Silva",
+        "Xiang Bai"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621631",
+      "pdfUrl": ""
+    },
+    {
+      "id": "HaPhan_Exploiting_the_Benefits_of_Temporal_Information_in_the_Realm_TPAMI_2026_paper",
+      "title": "Exploiting the Benefits of Temporal Information in the Realm of LiDAR Panoptic Segmentation",
+      "authors": [
+        "Ngoc-Quan Ha-Phan",
+        "Myungsik Yoo"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621650",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Corsetti_High_Resolution_Open_Vocabulary_Object_6D_Pose_Estimation_TPAMI_2026_paper",
+      "title": "High-Resolution Open-Vocabulary Object 6D Pose Estimation",
+      "authors": [
+        "Jaime Corsetti",
+        "Davide Boscaini",
+        "Francesco Giuliari",
+        "Changjae Oh",
+        "Andrea Cavallaro",
+        "Fabio Poiesi"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3624589",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Mao_RealCustom_Representing_Images_as_Real_Textual_Word_for_Real_TPAMI_2026_paper",
+      "title": "RealCustom++: Representing Images as Real Textual Word for Real-Time Customization",
+      "authors": [
+        "Zhendong Mao",
+        "Mengqi Huang",
+        "Fei Ding",
+        "Mingcong Liu",
+        "Qian He",
+        "Yongdong Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3623025",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qin_Learning_Dynamic_Graph_Embeddings_With_Neural_Controlled_Dif_TPAMI_2026_paper",
+      "title": "Learning Dynamic Graph Embeddings With Neural Controlled Differential Equations",
+      "authors": [
+        "Tiexin Qin",
+        "Benjamin Walker",
+        "Terry J. Lyons",
+        "Hong Yan",
+        "Haoliang Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3617660",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lei_Toward_Better_Generalization_Bounds_of_Stochastic_Optimizati_TPAMI_2026_paper",
+      "title": "Toward Better Generalization Bounds of Stochastic Optimization for Nonconvex Learning",
+      "authors": [
+        "Yunwen Lei"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3621591",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gao_A_Comprehensive_Survey_on_Evidential_Deep_Learning_and_its_A_TPAMI_2026_paper",
+      "title": "A Comprehensive Survey on Evidential Deep Learning and its Applications",
+      "authors": [
+        "Junyu Gao",
+        "Mengyuan Chen",
+        "Liangyu Xiang",
+        "Changsheng Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3625258",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Mller_Examining_the_Impact_of_Optical_Aberrations_to_Image_Classif_TPAMI_2026_paper",
+      "title": "Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models",
+      "authors": [
+        "Patrick Müller",
+        "Alexander Braun",
+        "Margret Keuper"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3622234",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ding_Estimating_Fog_Parameters_From_a_Sequence_of_Stereo_Images_TPAMI_2026_paper",
+      "title": "Estimating Fog Parameters From a Sequence of Stereo Images",
+      "authors": [
+        "Yining Ding",
+        "João F. C. Mota",
+        "Andrew M. Wallace",
+        "Sen Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626275",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_High_Resolution_Photo_Enhancement_in_Real_Time_A_Laplacian_P_TPAMI_2026_paper",
+      "title": "High-Resolution Photo Enhancement in Real-Time: A Laplacian Pyramid Network",
+      "authors": [
+        "Feng Zhang",
+        "Haoyou Deng",
+        "Zhiqiang Li",
+        "Lida Li",
+        "Bin Xu",
+        "Qingbo Lu",
+        "Zisheng Cao",
+        "Minchen Wei",
+        "Changxin Gao",
+        "Nong Sang",
+        "Xiang Bai"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3622041",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Improving_Model_Fusion_by_Training_Time_Neuron_Alignment_Wit_TPAMI_2026_paper",
+      "title": "Improving Model Fusion by Training-Time Neuron Alignment With Fixed Neuron Anchors",
+      "authors": [
+        "Zexi Li",
+        "Zhiqi Li",
+        "Jie Lin",
+        "Tao Shen",
+        "Jun Xiao",
+        "Yike Guo",
+        "Tao Lin",
+        "Chao Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3624314",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Uncertainty_Aware_Disentangled_Dynamic_Graph_Attention_Netwo_TPAMI_2026_paper",
+      "title": "Uncertainty-Aware Disentangled Dynamic Graph Attention Network for Out-of-Distribution Generalization",
+      "authors": [
+        "Xin Wang",
+        "Haoyang Li",
+        "Zeyang Zhang",
+        "Haibo Chen",
+        "Tong Xiao",
+        "Kehan Li",
+        "Wenwu Zhu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3622503",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Marinoni_Improving_Embedding_of_Graphs_With_Missing_Data_by_Soft_Mani_TPAMI_2026_paper",
+      "title": "Improving Embedding of Graphs With Missing Data by Soft Manifolds",
+      "authors": [
+        "Andrea Marinoni",
+        "Pietro Liò",
+        "Alessandro Barp",
+        "Mark Girolami"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627795",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yan_Graph_Quality_Matters_on_Revealing_the_Semantics_Behind_the__TPAMI_2026_paper",
+      "title": "Graph Quality Matters on Revealing the Semantics Behind the Data in Physical World",
+      "authors": [
+        "Jielong Yan",
+        "Shihui Ying",
+        "Shaoyi Du",
+        "Yue Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630605",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lu_Causality_Driven_Convolutional_Manifold_Attention_Network_fo_TPAMI_2026_paper",
+      "title": "Causality-Driven Convolutional Manifold Attention Network for Electroencephalogram Signal Decoding",
+      "authors": [
+        "Bin Lu",
+        "Junxiang Chen",
+        "Fuwang Wang",
+        "Guilin Wen",
+        "Rongrong Fu",
+        "Changchun Hua"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3625631",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qu_NVS_SQA_Exploring_Self_Supervised_Quality_Representation_Lea_TPAMI_2026_paper",
+      "title": "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes Without References",
+      "authors": [
+        "Qiang Qu",
+        "Yiran Shen",
+        "Xiaoming Chen",
+        "Yuk Ying Chung",
+        "Weidong Cai",
+        "Tongliang Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626550",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_PAVM_Progressive_and_Adaptive_Variance_Minimization_Algorith_TPAMI_2026_paper",
+      "title": "PAVM: Progressive and Adaptive Variance Minimization Algorithm for Robust Registration",
+      "authors": [
+        "Hao Wu",
+        "Hongdi Liu",
+        "Tao Ding",
+        "Lin Hua",
+        "Dahu Zhu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3625992",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xing_Refine_Control_and_Distill_A_Text_to_Image_Framework_for_Fai_TPAMI_2026_paper",
+      "title": "Refine, Control and Distill: A Text-to-Image Framework for Faithful Image Generation",
+      "authors": [
+        "Peng Xing",
+        "Ning Wang",
+        "Yanpeng Sun",
+        "Jinhui Tang",
+        "Zechao Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3628109",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cheng_Topo4D_Realistic_Physically_Based_4D_Head_Capture_With_Topol_TPAMI_2026_paper",
+      "title": "Topo4D++: Realistic Physically Based 4D Head Capture With Topology-Preserving Gaussian Splatting and Expression Priors",
+      "authors": [
+        "Yuhao Cheng",
+        "Xuanchen Li",
+        "Xingyu Ren",
+        "Jianyu Wang",
+        "Haozhe Jia",
+        "Di Xu",
+        "Wenhan Zhu",
+        "Bingbing Ni",
+        "Yichao Yan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627431",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Shen_Efficient_and_Effective_Weight_Ensembling_Mixture_of_Experts_TPAMI_2026_paper",
+      "title": "Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging",
+      "authors": [
+        "Li Shen",
+        "Anke Tang",
+        "Enneng Yang",
+        "Guibing Guo",
+        "Yong Luo",
+        "Lefei Zhang",
+        "Xiaochun Cao",
+        "Bo Du",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3629605",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Gaussian_Mixture_Conditional_Variational_Recurrent_Neural_Ne_TPAMI_2026_paper",
+      "title": "Gaussian Mixture Conditional Variational Recurrent Neural Network for Unified Trajectory Imputation and Prediction",
+      "authors": [
+        "Yi Xu",
+        "Yun Fu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627470",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Piccinelli_UniDepthV2_Universal_Monocular_Metric_Depth_Estimation_Made__TPAMI_2026_paper",
+      "title": "UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler",
+      "authors": [
+        "Luigi Piccinelli",
+        "Christos Sakaridis",
+        "Yung-Hsu Yang",
+        "Mattia Segù",
+        "Siyuan Li",
+        "Wim Abbeloos",
+        "Luc Van Gool"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3628473",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gao_Data_Augmentation_With_Regularization_for_Multi_Labeled_Comp_TPAMI_2026_paper",
+      "title": "Data Augmentation With Regularization for Multi-Labeled Complementary Label Learning",
+      "authors": [
+        "Yi Gao",
+        "Yuan-Yuan Meng",
+        "Miao Xu",
+        "Min-Ling Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626850",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_A_Gravity_Informed_Spatiotemporal_Transformer_for_Human_Acti_TPAMI_2026_paper",
+      "title": "A Gravity-Informed Spatiotemporal Transformer for Human Activity Intensity Prediction",
+      "authors": [
+        "Yi Wang",
+        "Zhenghong Wang",
+        "Fan Zhang",
+        "Chaogui Kang",
+        "Sijie Ruan",
+        "Di Zhu",
+        "Chengling Tang",
+        "Zhongfu Ma",
+        "Weiyu Zhang",
+        "Yu Zheng",
+        "Philip S. Yu",
+        "Yu Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3625859",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zheng_Good_Performance_Estimation_Strategies_are_All_You_Need_in_N_TPAMI_2026_paper",
+      "title": "Good Performance Estimation Strategies are All You Need in Neural Architecture Search",
+      "authors": [
+        "Xiawu Zheng",
+        "Lei Zhang",
+        "Binghan Chen",
+        "Mingkai Wang",
+        "Fei Chao",
+        "Chenglin Wu",
+        "Shanshan Wang",
+        "Rongrong Ji",
+        "Yonghong Tian"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3629288",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Hu_DynamicPAE_Generating_Scene_Aware_Physical_Adversarial_Examp_TPAMI_2026_paper",
+      "title": "DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time",
+      "authors": [
+        "Jin Hu",
+        "Xianglong Liu",
+        "Jiakai Wang",
+        "Junkai Zhang",
+        "Xianqi Yang",
+        "Haotong Qin",
+        "Yuqing Ma",
+        "Ke Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626068",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xiao_Bayesian_Window_Transformer_for_Image_Restoration_TPAMI_2026_paper",
+      "title": "Bayesian Window Transformer for Image Restoration",
+      "authors": [
+        "Jie Xiao",
+        "Xueyang Fu",
+        "Yurui Zhu",
+        "Zheng-Jun Zha"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626947",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Deng_Neural_Eigenfunctions_are_Structured_Representation_Learners_TPAMI_2026_paper",
+      "title": "Neural Eigenfunctions are Structured Representation Learners",
+      "authors": [
+        "Zhijie Deng",
+        "Jiaxin Shi",
+        "Hao Zhang",
+        "Peng Cui",
+        "Cewu Lu",
+        "Jun Zhu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3625728",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Joint_Short_Term_Origin_Destination_Demand_Prediction_for_Mu_TPAMI_2026_paper",
+      "title": "Joint Short-Term Origin-Destination Demand Prediction for Multimodal Transport Systems",
+      "authors": [
+        "Jinlei Zhang",
+        "Yongjie Yang",
+        "Lixing Yang",
+        "Ziyou Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627280",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_A_Review_of_Uncertainty_Representation_and_Quantification_in_TPAMI_2026_paper",
+      "title": "A Review of Uncertainty Representation and Quantification in Neural Networks",
+      "authors": [
+        "Kaizheng Wang",
+        "Fabio Cuzzolin",
+        "Keivan Shariatmadar",
+        "David Moens",
+        "Hans Hallez"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626645",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lu_Energy_Based_Model_for_Accurate_Estimation_of_Shapley_Values_TPAMI_2026_paper",
+      "title": "Energy-Based Model for Accurate Estimation of Shapley Values in Feature Attribution",
+      "authors": [
+        "Cheng Lu",
+        "Jiusun Zeng",
+        "Yu Xia",
+        "Jinhui Cai",
+        "Shihua Luo"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626404",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qi_Robust_Disentangled_Counterfactual_Learning_for_Physical_Aud_TPAMI_2026_paper",
+      "title": "Robust Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning",
+      "authors": [
+        "Mengshi Qi",
+        "Changsheng Lv",
+        "Huadong Ma"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627224",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhu_SED_A_Simple_Encoder_Decoder_for_Improved_Open_Vocabulary_Se_TPAMI_2026_paper",
+      "title": "SED++: A Simple Encoder-Decoder for Improved Open-Vocabulary Semantic Segmentation",
+      "authors": [
+        "Wenqi Zhu",
+        "Bin Xie",
+        "Jiale Cao",
+        "Jin Xie",
+        "Fahad Shahbaz Khan",
+        "Yanwei Pang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626757",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Besta_Demystifying_Higher_Order_Graph_Neural_Networks_TPAMI_2026_paper",
+      "title": "Demystifying Higher-Order Graph Neural Networks",
+      "authors": [
+        "Maciej Besta",
+        "Florian Scheidl",
+        "Lukas Gianinazzi",
+        "Grzegorz Kwasniewski",
+        "Shachar Klaiman",
+        "Jürgen Müller",
+        "Torsten Hoefler"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637114",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ye_OoDBench_Quantifying_and_Understanding_Two_Dimensions_of_Out_TPAMI_2026_paper",
+      "title": "OoDBench+: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization",
+      "authors": [
+        "Nanyang Ye",
+        "Kaican Li",
+        "Fan Wu",
+        "Jundong Zhou",
+        "Haoyue Bai",
+        "Runpeng Yu",
+        "Lanqing Hong",
+        "Fengwei Zhou",
+        "Zhenguo Li",
+        "Jun Zhu",
+        "Xinbing Wang",
+        "Chenghu Zhou"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3628027",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Structural_Similarity_in_Deep_Features_Unified_Image_Quality_TPAMI_2026_paper",
+      "title": "Structural Similarity in Deep Features: Unified Image Quality Assessment Robust to Geometrically Disparate Reference",
+      "authors": [
+        "Keke Zhang",
+        "Weiling Chen",
+        "Tiesong Zhao",
+        "Zhou Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627285",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_SpeechPalette_A_Comprehensive_Speech_Editing_Method_for_Text_TPAMI_2026_paper",
+      "title": "SpeechPalette: A Comprehensive Speech Editing Method for Text-Based Speech Editing, One-Shot TTS and Attributes Editing",
+      "authors": [
+        "Tao Wang",
+        "Jiangyan Yi",
+        "Ruibo Fu",
+        "Chunyu Qiang",
+        "Dading Chong",
+        "Chao Wang",
+        "Dongyang Dai",
+        "Zhengqi Wen",
+        "Jianhua Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626793",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Shi_Sparse_Trajectory_Prediction_TPAMI_2026_paper",
+      "title": "Sparse Trajectory Prediction",
+      "authors": [
+        "Liushuai Shi",
+        "Le Wang",
+        "Sanping Zhou",
+        "Wei Tang",
+        "Gang Hua"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626815",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_MECD_Unlocking_Event_Level_Causal_Graph_Discovery_for_Video__TPAMI_2026_paper",
+      "title": "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning",
+      "authors": [
+        "Tieyuan Chen",
+        "Huabin Liu",
+        "Yi Wang",
+        "Yihang Chen",
+        "Tianyao He",
+        "Chaofan Gan",
+        "Huanyu He",
+        "Weiyao Lin"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626549",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Revisiting_Transformation_Invariant_Geometric_Deep_Learning__TPAMI_2026_paper",
+      "title": "Revisiting Transformation Invariant Geometric Deep Learning: An Initial Representation Perspective",
+      "authors": [
+        "Ziwei Zhang",
+        "Xin Wang",
+        "Zeyang Zhang",
+        "Peng Cui",
+        "Wenwu Zhu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626735",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Joint_Sparse_Optical_Flow_Estimation_and_Keypoint_Detection__TPAMI_2026_paper",
+      "title": "Joint Sparse Optical Flow Estimation and Keypoint Detection via Dual-task Imperative Learning",
+      "authors": [
+        "Qiang Liu",
+        "Baojia Chen",
+        "Zhiqiang Hao",
+        "Xinlong Li",
+        "Leilei Xiang",
+        "Juan Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3627192",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_HAT_Hybrid_Attention_Transformer_for_Image_Restoration_TPAMI_2026_paper",
+      "title": "HAT: Hybrid Attention Transformer for Image Restoration",
+      "authors": [
+        "Xiangyu Chen",
+        "Xintao Wang",
+        "Wenlong Zhang",
+        "Xiangtao Kong",
+        "Yu Qiao",
+        "Jiantao Zhou",
+        "Chao Dong"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3628275",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ni_AdaGen_Learning_Adaptive_Policy_for_Image_Synthesis_TPAMI_2026_paper",
+      "title": "AdaGen: Learning Adaptive Policy for Image Synthesis",
+      "authors": [
+        "Zanlin Ni",
+        "Yulin Wang",
+        "Yeguo Hua",
+        "Renping Zhou",
+        "Jiayi Guo",
+        "Jun Song",
+        "Bo Zheng",
+        "Gao Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3626772",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sun_Evolving_Graph_Learning_for_Out_of_Distribution_Generalizati_TPAMI_2026_paper",
+      "title": "Evolving Graph Learning for Out-of-Distribution Generalization in Non-Stationary Environments",
+      "authors": [
+        "Qingyun Sun",
+        "Jiayi Luo",
+        "Haonan Yuan",
+        "Xingcheng Fu",
+        "Hao Peng",
+        "Jianxin Li",
+        "Philip S. Yu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3631584",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lu_SelaVPR_Towards_Seamless_Adaptation_of_Foundation_Models_for_TPAMI_2026_paper",
+      "title": "SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition",
+      "authors": [
+        "Feng Lu",
+        "Tong Jin",
+        "Xiangyuan Lan",
+        "Lijun Zhang",
+        "Yunpeng Liu",
+        "Yaowei Wang",
+        "Chun Yuan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3629287",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xiao_Toward_Visual_Grounding_A_Survey_TPAMI_2026_paper",
+      "title": "Toward Visual Grounding: A Survey",
+      "authors": [
+        "Linhui Xiao",
+        "Xiaoshan Yang",
+        "Xiangyuan Lan",
+        "Yaowei Wang",
+        "Changsheng Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630635",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhao_FlexPara_Flexible_Neural_Surface_Parameterization_TPAMI_2026_paper",
+      "title": "FlexPara: Flexible Neural Surface Parameterization",
+      "authors": [
+        "Yuming Zhao",
+        "Qijian Zhang",
+        "Junhui Hou",
+        "Jiazhi Xia",
+        "Wenping Wang",
+        "Ying He"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3628727",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Hu_Variational_Bayesian_Semi_Supervised_Keyword_Extraction_TPAMI_2026_paper",
+      "title": "Variational Bayesian Semi-Supervised Keyword Extraction",
+      "authors": [
+        "Yaofang Hu",
+        "Yichen Cheng",
+        "Yusen Xia",
+        "Xinlei Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630577",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lee__text_CA_2_text_ST_Cross_Attention_in_Audio_Space_and_Time_f_TPAMI_2026_paper",
+      "title": "${\\text{CA}^{2}\\text{ST}}$: Cross-Attention in Audio, Space, and Time for Holistic Video Recognition",
+      "authors": [
+        "Jongseo Lee",
+        "Joohyun Chang",
+        "Dongho Lee",
+        "Jinwoo Choi"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3628653",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Song_UniVST_A_Unified_Framework_for_Training_Free_Localized_Video_TPAMI_2026_paper",
+      "title": "UniVST: A Unified Framework for Training-Free Localized Video Style Transfer",
+      "authors": [
+        "Quanjian Song",
+        "Mingbao Lin",
+        "Wengyi Zhan",
+        "Shuicheng Yan",
+        "Liujuan Cao",
+        "Rongrong Ji"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630010",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_DifFlow3D_Hierarchical_Diffusion_Models_for_Uncertainty_Awar_TPAMI_2026_paper",
+      "title": "DifFlow3D: Hierarchical Diffusion Models for Uncertainty-Aware 3D Scene Flow Estimation",
+      "authors": [
+        "Jiuming Liu",
+        "Weicai Ye",
+        "Guangming Wang",
+        "Chaokang Jiang",
+        "Lei Pan",
+        "Jinru Han",
+        "Zhe Liu",
+        "Guofeng Zhang",
+        "Hesheng Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3629570",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fan_Condition_Numbers_in_Multiview_Geometry_Instability_in_Relat_TPAMI_2026_paper",
+      "title": "Condition Numbers in Multiview Geometry, Instability in Relative Pose Estimation, and RANSAC",
+      "authors": [
+        "Hongyi Fan",
+        "Joe Kileel",
+        "Benjamin B. Kimia"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3629643",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Large_Scale_Omnidirectional_Person_Positioning_TPAMI_2026_paper",
+      "title": "Large-Scale Omnidirectional Person Positioning",
+      "authors": [
+        "Lu Yang",
+        "Liulei Li",
+        "Jianan Wei",
+        "Pu Cao",
+        "Yujia Wang",
+        "Wenguan Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630317",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cong_SPAN_Learning_Similarity_Between_Scene_Graphs_and_Images_Wit_TPAMI_2026_paper",
+      "title": "SPAN: Learning Similarity Between Scene Graphs and Images With Transformers",
+      "authors": [
+        "Yuren Cong",
+        "Wentong Liao",
+        "Bodo Rosenhahn",
+        "Michael Ying Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630242",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_A_Visual_Benchmark_for_Autonomous_Driving_in_Open_Pit_Mines_TPAMI_2026_paper",
+      "title": "A Visual Benchmark for Autonomous Driving in Open-Pit Mines",
+      "authors": [
+        "Yuchen Li",
+        "Luxi Li",
+        "Zhenshan Bing",
+        "Libo Sun",
+        "Alois Christian Knoll",
+        "Fei-Yue Wang",
+        "Long Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3632357",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Hou_Large_Scale_Logo_Detection_TPAMI_2026_paper",
+      "title": "Large-Scale Logo Detection",
+      "authors": [
+        "Sujuan Hou",
+        "Jiacheng Li",
+        "Weiqing Min",
+        "Jianxin Zhan",
+        "Mengmeng Zhang",
+        "Peng Li",
+        "Shuqiang Jiang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630505",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Kang_Grid_Convolution_for_3D_Human_Pose_Estimation_TPAMI_2026_paper",
+      "title": "Grid Convolution for 3D Human Pose Estimation",
+      "authors": [
+        "Yangyuxuan Kang",
+        "Dongqi Cai",
+        "Yuyang Liu",
+        "Anbang Yao",
+        "Shandong Wang",
+        "Yurong Chen",
+        "Enhua Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3632829",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tan_Dynamic_Bit_Wise_Semantic_Transformer_Hashing_for_Multi_Moda_TPAMI_2026_paper",
+      "title": "Dynamic Bit-Wise Semantic Transformer Hashing for Multi-Modal Retrieval",
+      "authors": [
+        "Wentao Tan",
+        "Fengling Li",
+        "Lei Zhu",
+        "Weili Guan",
+        "Jingjing Li",
+        "Zhiyong Cheng",
+        "Heng Tao Shen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630209",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sakaridis_ACDC_The_Adverse_Conditions_Dataset_With_Correspondences_for_TPAMI_2026_paper",
+      "title": "ACDC: The Adverse Conditions Dataset With Correspondences for Robust Semantic Driving Scene Perception",
+      "authors": [
+        "Christos Sakaridis",
+        "Haoran Wang",
+        "Ke Li",
+        "René Zurbrügg",
+        "Arpit Jadon",
+        "Wim Abbeloos",
+        "Daniel Olmeda Reino",
+        "Luc Van Gool",
+        "Dengxin Dai"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3633063",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Optimal_Control_Theoretic_Neural_Optimizer_From_Backpropagat_TPAMI_2026_paper",
+      "title": "Optimal Control Theoretic Neural Optimizer: From Backpropagation to Dynamic Programming",
+      "authors": [
+        "Guan-Horng Liu",
+        "Tianrong Chen",
+        "Evangelos A. Theodorou"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634391",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lan_LN3Diff_Scalable_Latent_Neural_Fields_Diffusion_for_Speedy_3_TPAMI_2026_paper",
+      "title": "LN3Diff++: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation",
+      "authors": [
+        "Yushi Lan",
+        "Fangzhou Hong",
+        "Shangchen Zhou",
+        "Shuai Yang",
+        "Xuyi Meng",
+        "Yongwei Chen",
+        "Zhaoyang Lyu",
+        "Bo Dai",
+        "Xingang Pan",
+        "Chen Change Loy"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3633073",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_DELTA_Deep_Low_Rank_Tensor_Representation_for_Multi_Dimensio_TPAMI_2026_paper",
+      "title": "DELTA: Deep Low-Rank Tensor Representation for Multi-Dimensional Data Recovery",
+      "authors": [
+        "Guowei Yang",
+        "Liqiao Yang",
+        "Tai-Xiang Jiang",
+        "Guisong Liu",
+        "Michael K. Ng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630339",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ju_A_Survey_of_Graph_Neural_Networks_in_Real_World_Imbalance_No_TPAMI_2026_paper",
+      "title": "A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges",
+      "authors": [
+        "Wei Ju",
+        "Siyu Yi",
+        "Yifan Wang",
+        "Zhiping Xiao",
+        "Zhengyang Mao",
+        "Hourun Li",
+        "Yiyang Gu",
+        "Yifang Qin",
+        "Nan Yin",
+        "Senzhang Wang",
+        "Xinwang Liu",
+        "Philip S. Yu",
+        "Ming Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630673",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhong_Sparse_PGD_A_Unified_Framework_for_Sparse_Adversarial_Pertur_TPAMI_2026_paper",
+      "title": "Sparse-PGD: A Unified Framework for Sparse Adversarial Perturbations Generation",
+      "authors": [
+        "Xuyang Zhong",
+        "Chen Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630185",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Jiang_J_Mac_Jacobian_Matrix_Meets_Masked_Contrastive_Learning_for__TPAMI_2026_paper",
+      "title": "J-Mac: Jacobian Matrix Meets Masked Contrastive Learning for Generalization in Reinforcement Learning",
+      "authors": [
+        "Yi Jiang",
+        "Wengang Zhou",
+        "Yufeng Shi",
+        "Mingxiao Feng",
+        "Houqiang Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3631231",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhou_Semi_Supervised_Unconstrained_Head_Pose_Estimation_in_the_Wi_TPAMI_2026_paper",
+      "title": "Semi-Supervised Unconstrained Head Pose Estimation in the Wild",
+      "authors": [
+        "Huayi Zhou",
+        "Fei Jiang",
+        "Jin Yuan",
+        "Yong Rui",
+        "Hongtao Lu",
+        "Kui Jia"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3631642",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Enhancing_Mathematical_Reasoning_Through_Autonomously_Learni_TPAMI_2026_paper",
+      "title": "Enhancing Mathematical Reasoning Through Autonomously Learning Knowledge",
+      "authors": [
+        "Jiayu Liu",
+        "Zhenya Huang",
+        "Enhong Chen",
+        "Qi Liu",
+        "Hongke Zhao",
+        "Xin Lin",
+        "Jing Sha",
+        "Shijin Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634507",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Synergy_of_Sight_and_Semantics_Holistic_Visual_Understanding_TPAMI_2026_paper",
+      "title": "Synergy of Sight and Semantics: Holistic Visual Understanding With CLIP",
+      "authors": [
+        "Qu Yang",
+        "Mang Ye",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634165",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Luo_VSCode_v2_Dynamic_Prompt_Learning_for_General_Visual_Salient_TPAMI_2026_paper",
+      "title": "VSCode-v2: Dynamic Prompt Learning for General Visual Salient and Camouflaged Object Detection With Two-Stage Optimization",
+      "authors": [
+        "Ziyang Luo",
+        "Nian Liu",
+        "Xuguang Yang",
+        "Dingwen Zhang",
+        "Deng-Ping Fan",
+        "Fahad Shahbaz Khan",
+        "Junwei Han"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3635136",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sun_Learning_Task_Preferred_Inference_Routes_for_Gradient_De_Con_TPAMI_2026_paper",
+      "title": "Learning Task-Preferred Inference Routes for Gradient De-Conflict in Multi-Output DNNs",
+      "authors": [
+        "Yi Sun",
+        "Xiaochang Hu",
+        "Xin Xu",
+        "Jian Li",
+        "Yifei Shi",
+        "Ling-Li Zeng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3635844",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Oriented_Tiny_Object_Detection_A_Dataset_Benchmark_and_Dynam_TPAMI_2026_paper",
+      "title": "Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning",
+      "authors": [
+        "Chang Xu",
+        "Ruixiang Zhang",
+        "Wen Yang",
+        "Haoran Zhu",
+        "Fang Xu",
+        "Jian Ding",
+        "Gui-Song Xia"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634161",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Rethinking_Rotation_Invariant_Recognition_of_Fine_Grained_Sh_TPAMI_2026_paper",
+      "title": "Rethinking Rotation-Invariant Recognition of Fine-Grained Shapes From the Perspective of Contour Points",
+      "authors": [
+        "Yanjie Xu",
+        "Yunzhi Chen",
+        "Handing Xu",
+        "Tianmu Wang",
+        "Yaguan Li",
+        "Zhenguo Nie"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3635480",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sengupta_Convex_Solutions_to_SfT_and_NRSfM_Under_Algebraic_Deformatio_TPAMI_2026_paper",
+      "title": "Convex Solutions to SfT and NRSfM Under Algebraic Deformation Models",
+      "authors": [
+        "Agniva Sengupta",
+        "Adrien Bartoli"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3635039",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Language_Guided_Graph_Representation_Learning_for_Video_Summ_TPAMI_2026_paper",
+      "title": "Language-Guided Graph Representation Learning for Video Summarization",
+      "authors": [
+        "Wenrui Li",
+        "Wei Han",
+        "Hengyu Man",
+        "Wangmeng Zuo",
+        "Xiaopeng Fan",
+        "Yonghong Tian"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3633657",
+      "pdfUrl": ""
+    },
+    {
+      "id": "An_AniMer_Unified_Pose_and_Shape_Estimation_Across_Mammalia_and_TPAMI_2026_paper",
+      "title": "AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer",
+      "authors": [
+        "Liang An",
+        "Jin Lyu",
+        "Li Lin",
+        "Pujin Cheng",
+        "Yebin Liu",
+        "Xiaoying Tang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3633828",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ma_MADiff_Motion_Aware_Mamba_Diffusion_Models_for_Hand_Trajecto_TPAMI_2026_paper",
+      "title": "MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos",
+      "authors": [
+        "Junyi Ma",
+        "Xieyuanli Chen",
+        "Wentao Bao",
+        "Jingyi Xu",
+        "Hesheng Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3633453",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Huang_VBench_Comprehensive_and_Versatile_Benchmark_Suite_for_Video_TPAMI_2026_paper",
+      "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+      "authors": [
+        "Ziqi Huang",
+        "Fan Zhang",
+        "Xiaojie Xu",
+        "Yinan He",
+        "Jiashuo Yu",
+        "Ziyue Dong",
+        "Qianli Ma",
+        "Nattapol Chanpaisit",
+        "Chenyang Si",
+        "Yuming Jiang",
+        "Yaohui Wang",
+        "Xinyuan Chen",
+        "Ying-Cong Chen",
+        "Limin Wang",
+        "Dahua Lin",
+        "Yu Qiao",
+        "Ziwei Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3633890",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Human_Inspired_Scene_Understanding_A_Grounded_Cognition_Meth_TPAMI_2026_paper",
+      "title": "Human-Inspired Scene Understanding: A Grounded Cognition Method for Unbiased Scene Graph Generation",
+      "authors": [
+        "Ruonan Zhang",
+        "Yiqing Hao",
+        "Feng Zhang",
+        "Gaoyun An",
+        "Binyang Song",
+        "Dapeng Oliver Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3635152",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zheng_BiKT_Unleashing_the_Potential_of_GNNs_via_Bi_Directional_Kno_TPAMI_2026_paper",
+      "title": "BiKT: Unleashing the Potential of GNNs via Bi-Directional Knowledge Transfer",
+      "authors": [
+        "Shuai Zheng",
+        "Zhizhe Liu",
+        "Zhenfeng Zhu",
+        "Xingxing Zhang",
+        "Jianxin Li",
+        "Yao Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3636549",
+      "pdfUrl": ""
+    },
+    {
+      "id": "He_FreeEdit_Mask_Free_Reference_Based_Image_Editing_With_Multi__TPAMI_2026_paper",
+      "title": "FreeEdit: Mask-Free Reference-Based Image Editing With Multi-Modal Instruction",
+      "authors": [
+        "Runze He",
+        "Kai Ma",
+        "Linjiang Huang",
+        "Shaofei Huang",
+        "Jialin Gao",
+        "Xiaoming Wei",
+        "Jiao Dai",
+        "Jizhong Han",
+        "Si Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3636582",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_From_System_1_to_System_2_A_Survey_of_Reasoning_Large_Langua_TPAMI_2026_paper",
+      "title": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
+      "authors": [
+        "Duzhen Zhang",
+        "Zhong-Zhi Li",
+        "Ming-Liang Zhang",
+        "Jiaxin Zhang",
+        "Zengyan Liu",
+        "Yuxuan Yao",
+        "Haotian Xu",
+        "Junhao Zheng",
+        "Xiuyi Chen",
+        "Yingying Zhang",
+        "Fei Yin",
+        "Jiahua Dong",
+        "Zhijiang Guo",
+        "Le Song",
+        "Cheng-Lin Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637037",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Peng_Street_Gaussians_Modeling_Dynamic_Urban_Scenes_With_Gaussian_TPAMI_2026_paper",
+      "title": "Street Gaussians: Modeling Dynamic Urban Scenes With Gaussian Primitives",
+      "authors": [
+        "Sida Peng",
+        "Yushi Long",
+        "Yunzhi Yan",
+        "Haotong Lin",
+        "Chenxu Zhou",
+        "Haiyang Sun",
+        "Kun Zhan",
+        "Xianpeng Lang",
+        "Hujun Bao",
+        "Xiaowei Zhou"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634385",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ye_Deep_Tabular_Representation_Corrector_TPAMI_2026_paper",
+      "title": "Deep Tabular Representation Corrector",
+      "authors": [
+        "Hangting Ye",
+        "Peng Wang",
+        "Wei Fan",
+        "Xiaozhuang Song",
+        "He Zhao",
+        "Dandan Guo",
+        "Yi Chang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637810",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Huang_QuadPrior_Multi_Dimension_Augmented_Physical_Prior_for_Zero__TPAMI_2026_paper",
+      "title": "QuadPrior++: Multi-Dimension Augmented Physical Prior for Zero-Reference Illumination Enhancement",
+      "authors": [
+        "Haofeng Huang",
+        "Yifan Li",
+        "Wenjing Wang",
+        "Wenhan Yang",
+        "Ling-Yu Duan",
+        "Jiaying Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637277",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhu_SNI_SLAM_Tightly_Coupled_Semantic_Neural_Implicit_SLAM_TPAMI_2026_paper",
+      "title": "SNI-SLAM++: Tightly-Coupled Semantic Neural Implicit SLAM",
+      "authors": [
+        "Siting Zhu",
+        "Guangming Wang",
+        "Hermann Blum",
+        "Zhong Wang",
+        "Ganlin Zhang",
+        "Daniel Cremers",
+        "Marc Pollefeys",
+        "Hesheng Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634528",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Shi_Dynamic_Deep_Factor_Graph_for_Multi_Agent_Reinforcement_Lear_TPAMI_2026_paper",
+      "title": "Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Yuchen Shi",
+        "Shihong Duan",
+        "Cheng Xu",
+        "Ran Wang",
+        "Fangwen Ye",
+        "Chau Yuen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634378",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Contrastive_Learning_for_Semi_Supervised_Deep_Regression_Wit_TPAMI_2026_paper",
+      "title": "Contrastive Learning for Semi-Supervised Deep Regression With Generalized Ordinal Rankings From Spectral Seriation",
+      "authors": [
+        "Ce Wang",
+        "Weihang Dai",
+        "Hanru Bai",
+        "Xiaomeng Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3635904",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Kim_Graph_Frequency_Domain_Factor_Modeling_TPAMI_2026_paper",
+      "title": "Graph Frequency-Domain Factor Modeling",
+      "authors": [
+        "Kyusoon Kim",
+        "Hee-Seok Oh"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3634622",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Tao_Deep_Learning_With_Data_Privacy_via_Residual_Perturbation_TPAMI_2026_paper",
+      "title": "Deep Learning With Data Privacy via Residual Perturbation",
+      "authors": [
+        "Wenqi Tao",
+        "Huaming Ling",
+        "Zuoqiang Shi",
+        "Bao Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637239",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_A_Bayesian_Framework_for_Clustered_Federated_Learning_TPAMI_2026_paper",
+      "title": "A Bayesian Framework for Clustered Federated Learning",
+      "authors": [
+        "Peng Wu",
+        "Tales Imbiriba",
+        "Pau Closas"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637562",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Jiang_Closing_the_Approximation_Gap_of_Partial_AUC_Optimization_A__TPAMI_2026_paper",
+      "title": "Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations",
+      "authors": [
+        "Yangbangyan Jiang",
+        "Qianqian Xu",
+        "Huiyang Shao",
+        "Zhiyong Yang",
+        "Shilong Bao",
+        "Xiaochun Cao",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637063",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_Learning_Deep_ISP_for_High_Speed_Cameras_Achieving_DSLR_Qual_TPAMI_2026_paper",
+      "title": "Learning Deep ISP for High-Speed Cameras: Achieving DSLR-Quality Imaging Under High Frame Rates",
+      "authors": [
+        "Huaian Chen",
+        "Tianle Liu",
+        "Tao Tu",
+        "Wenjun Wei",
+        "Yi Jin",
+        "Enhong Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637771",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Community_Aware_Multi_View_Representation_Learning_With_Inco_TPAMI_2026_paper",
+      "title": "Community-Aware Multi-View Representation Learning With Incomplete Information",
+      "authors": [
+        "Haobin Li",
+        "Yijie Lin",
+        "Peng Hu",
+        "Mouxing Yang",
+        "Xi Peng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639582",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Mini_Gemini_Mining_the_Potential_of_Multi_Modality_Vision_La_TPAMI_2026_paper",
+      "title": "Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models",
+      "authors": [
+        "Yanwei Li",
+        "Yuechen Zhang",
+        "Chengyao Wang",
+        "Zhisheng Zhong",
+        "Yixin Chen",
+        "Ruihang Chu",
+        "Shaoteng Liu",
+        "Jiaya Jia"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3637265",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ma_A_Unified_Decision_Rule_for_Generalized_Out_of_Distribution__TPAMI_2026_paper",
+      "title": "A Unified Decision Rule for Generalized Out-of-Distribution Detection",
+      "authors": [
+        "Xinsong Ma",
+        "Jie Wu",
+        "Xin Zou",
+        "Weiwei Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642151",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_Physics_Informed_Matrix_Factorization_Operator_TPAMI_2026_paper",
+      "title": "Physics-Informed Matrix Factorization Operator",
+      "authors": [
+        "Wenming Wu",
+        "Chenxi Tian",
+        "Licheng Jiao",
+        "Lingling Li",
+        "Xu Liu",
+        "Fang Liu",
+        "Wenping Ma",
+        "Shuyuan Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640844",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gong_CMKD_CNN_Transformer_Based_Cross_Model_Knowledge_Distillatio_TPAMI_2026_paper",
+      "title": "CMKD: CNN/Transformer-Based Cross-Model Knowledge Distillation for Audio Classification",
+      "authors": [
+        "Yuan Gong",
+        "Sameer Khurana",
+        "Andrew Rouditchenko",
+        "James Glass"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3644853",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhao_Alliance_All_in_One_Spectral_Spatial_Frequency_Awareness_Fou_TPAMI_2026_paper",
+      "title": "Alliance: All-in-One Spectral-Spatial-Frequency Awareness Foundation Model",
+      "authors": [
+        "Boyu Zhao",
+        "Wei Li",
+        "Junjie Wang",
+        "Yuxiang Zhang",
+        "Hong Yang",
+        "Haitao Zhao",
+        "Ran Tao",
+        "Qian Du"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639595",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wen_Cost_Aware_AUC_Optimization_via_Adaptive_Kernel_Density_Esti_TPAMI_2026_paper",
+      "title": "Cost-Aware AUC Optimization via Adaptive Kernel Density Estimation",
+      "authors": [
+        "Peisong Wen",
+        "Qianqian Xu",
+        "Zhiyong Yang",
+        "Huiyang Shao",
+        "Linchao Zhang",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640236",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cai_Time_Series_Domain_Adaptation_via_Latent_Invariant_Causal_Me_TPAMI_2026_paper",
+      "title": "Time Series Domain Adaptation via Latent Invariant Causal Mechanism",
+      "authors": [
+        "Ruichu Cai",
+        "Junxian Huang",
+        "Zhenhui Yang",
+        "Zijian Li",
+        "Emadeldeen Eldele",
+        "Min Wu",
+        "Fuchun Sun"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642245",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zou_USF_A_Unified_Sampling_Framework_for_Solver_Searching_of_Dif_TPAMI_2026_paper",
+      "title": "USF++: A Unified Sampling Framework for Solver Searching of Diffusion Probabilistic Models",
+      "authors": [
+        "Dongyun Zou",
+        "Enshu Liu",
+        "Xuefei Ning",
+        "Huazhong Yang",
+        "Yu Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639602",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Dynamic_Attention_Analysis_for_Backdoor_Detection_in_Text_to_TPAMI_2026_paper",
+      "title": "Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models",
+      "authors": [
+        "Zhongqi Wang",
+        "Jie Zhang",
+        "Shiguang Shan",
+        "Xilin Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3644016",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Test_Time_Correction_An_Online_3D_Detection_System_via_Visua_TPAMI_2026_paper",
+      "title": "Test-Time Correction: An Online 3D Detection System via Visual Prompting",
+      "authors": [
+        "Hanxue Zhang",
+        "Zetong Yang",
+        "Yanan Sun",
+        "Li Chen",
+        "Fei Xia",
+        "Fatma Güney",
+        "Hongyang Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642076",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Versatile_Backdoor_Attack_With_Visible_Semantic_Sample_Speci_TPAMI_2026_paper",
+      "title": "Versatile Backdoor Attack With Visible, Semantic, Sample-Specific and Compatible Triggers",
+      "authors": [
+        "Ruotong Wang",
+        "Hongrui Chen",
+        "Zihao Zhu",
+        "Li Liu",
+        "Baoyuan Wu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642161",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Generating_Any_Changes_in_the_Noise_Domain_TPAMI_2026_paper",
+      "title": "Generating Any Changes in the Noise Domain",
+      "authors": [
+        "Qiang Liu",
+        "Yang Kuang",
+        "Jun Yue",
+        "Pedram Ghamisi",
+        "Weiying Xie",
+        "Leyuan Fang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643733",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhou_FedFask_Fast_Sketching_Distributed_PCA_for_Large_Scale_Feder_TPAMI_2026_paper",
+      "title": "FedFask: Fast Sketching Distributed PCA for Large-Scale Federated Data",
+      "authors": [
+        "Xingcai Zhou",
+        "Guang Yang",
+        "Haotian Zheng",
+        "Linglong Kong",
+        "Jinde Cao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639635",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Heatmap_Pooling_Network_for_Action_Recognition_From_RGB_Vide_TPAMI_2026_paper",
+      "title": "Heatmap Pooling Network for Action Recognition From RGB Videos",
+      "authors": [
+        "Mengyuan Liu",
+        "Jinfu Liu",
+        "Yongkang Jiang",
+        "Bin He"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640697",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Two_Decades_of_Multi_View_Clustering_Taxonomy_Application_an_TPAMI_2026_paper",
+      "title": "Two Decades of Multi-View Clustering: Taxonomy, Application, and Challenge",
+      "authors": [
+        "Xinwang Liu",
+        "Ke Liang",
+        "Jun Wang",
+        "Suyuan Liu",
+        "Xiangke Wang",
+        "Huaimin Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640109",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Toward_Efficient_Semi_Supervised_Object_Detection_With_Detec_TPAMI_2026_paper",
+      "title": "Toward Efficient Semi-Supervised Object Detection With Detection Transformer",
+      "authors": [
+        "Jiacheng Zhang",
+        "Jiaming Li",
+        "Xiangru Lin",
+        "Wei Zhang",
+        "Xiao Tan",
+        "Hongbo Gao",
+        "Jingdong Wang",
+        "Guanbin Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642123",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Physics_Driven_Neural_Compensation_for_Electrical_Impedance__TPAMI_2026_paper",
+      "title": "Physics-Driven Neural Compensation for Electrical Impedance Tomography",
+      "authors": [
+        "Chuyu Wang",
+        "Huiting Deng",
+        "Dong Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639647",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_Large_Scale_3D_Medical_Image_Pre_Training_With_Geometric_Con_TPAMI_2026_paper",
+      "title": "Large-Scale 3D Medical Image Pre-Training With Geometric Context Priors",
+      "authors": [
+        "Linshan Wu",
+        "Jiaxin Zhuang",
+        "Hao Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639593",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_Enhanced_Spatiotemporal_Consistency_for_Image_to_LiDAR_Data__TPAMI_2026_paper",
+      "title": "Enhanced Spatiotemporal Consistency for Image-to-LiDAR Data Pretraining",
+      "authors": [
+        "Xiang Xu",
+        "Lingdong Kong",
+        "Hui Shuai",
+        "Wenwei Zhang",
+        "Liang Pan",
+        "Kai Chen",
+        "Ziwei Liu",
+        "Qingshan Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640589",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Guang_Homophily_Edge_Augment_Graph_Neural_Network_for_High_Class_H_TPAMI_2026_paper",
+      "title": "Homophily Edge Augment Graph Neural Network for High-Class Homophily Variance Learning",
+      "authors": [
+        "Mingjian Guang",
+        "Rui Zhang",
+        "Dawei Cheng",
+        "Xiaoyang Wang",
+        "Xin Liu",
+        "Jie Yang",
+        "Yi Ouyang",
+        "Xian Wu",
+        "Yefeng Zheng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640635",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Harnessing_Lightweight_Transformer_With_Contextual_Synergic__TPAMI_2026_paper",
+      "title": "Harnessing Lightweight Transformer With Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation",
+      "authors": [
+        "Xinyu Liu",
+        "Zhen Chen",
+        "Wuyang Li",
+        "Chenxin Li",
+        "Yixuan Yuan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640233",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Le_Toward_an_Advanced_Temporal_Graph_Network_in_Hyperbolic_Spac_TPAMI_2026_paper",
+      "title": "Toward an Advanced Temporal Graph Network in Hyperbolic Space",
+      "authors": [
+        "Viet Quan Le",
+        "Viet Cuong Ta"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640172",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Lindsey_The_Value_of_Corrective_Feedback_in_the_Online_Active_Learni_TPAMI_2026_paper",
+      "title": "The Value of Corrective Feedback in the Online Active Learning Paradigm",
+      "authors": [
+        "Mark Lindsey",
+        "Francis Kubala",
+        "Richard M. Stern"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3639522",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhai_Decentralized_Federated_Learning_With_Distributed_Aggregatio_TPAMI_2026_paper",
+      "title": "Decentralized Federated Learning With Distributed Aggregation Weight Optimization",
+      "authors": [
+        "Zhiyuan Zhai",
+        "Xiaojun Yuan",
+        "Xin Wang",
+        "Geoffrey Ye Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640709",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Semantic_Correspondence_Unified_Benchmarking_and_a_Strong_Ba_TPAMI_2026_paper",
+      "title": "Semantic Correspondence: Unified Benchmarking and a Strong Baseline",
+      "authors": [
+        "Kaiyan Zhang",
+        "Xinghui Li",
+        "Jingyi Lu",
+        "Kai Han"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3640429",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Deng_Meta_Learning_Based_Surrogate_Models_for_Efficient_Hyperpara_TPAMI_2026_paper",
+      "title": "Meta-Learning-Based Surrogate Models for Efficient Hyperparameter Optimization",
+      "authors": [
+        "Liping Deng",
+        "Maziar Raissi",
+        "Mingqing Xiao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3630178",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_LFSRM_Few_Shot_Diagram_Sentence_Matching_via_Local_Feedback__TPAMI_2026_paper",
+      "title": "LFSRM: Few-Shot Diagram-Sentence Matching via Local-Feedback Self-Regulating Memory",
+      "authors": [
+        "Lingling Zhang",
+        "Wenjun Wu",
+        "Jun Liu",
+        "Xiaojun Chang",
+        "Xin Hu",
+        "Xuan Luo",
+        "Yaqiang Wu",
+        "Qinghua Zheng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3528723",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Feng_Learning_Physics_Informed_Noise_Models_from_Dark_Frames_for__TPAMI_2026_paper",
+      "title": "Learning Physics-Informed Noise Models from Dark Frames for Low-Light Raw Image Denoising",
+      "authors": [
+        "Hansen Feng",
+        "Lizhi Wang",
+        "Yiqi Huang",
+        "Yuzhi Wang",
+        "Lin Zhu",
+        "Hua Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2026.3651447",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Li_Towards_Unified_Semantic_and_Controllable_Image_Fusion_A_Dif_TPAMI_2026_paper",
+      "title": "Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach",
+      "authors": [
+        "Jiayang Li",
+        "Chengjie Jiang",
+        "Junjun Jiang",
+        "Pengwei Liang",
+        "Jiayi Ma",
+        "Liqiang Nie"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642842",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gong_Armor_Shielding_Unlearnable_Examples_Against_Data_Augmentati_TPAMI_2026_paper",
+      "title": "Armor: Shielding Unlearnable Examples Against Data Augmentation",
+      "authors": [
+        "Xueluan Gong",
+        "Yuji Wang",
+        "Yanjiao Chen",
+        "Haocheng Dong",
+        "Yiming Li",
+        "Mengyuan Sun",
+        "Shuaike Li",
+        "Qian Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2026.3652456",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_Beyond_Degradation_Redundancy_Contrastive_Prompt_Learning_fo_TPAMI_2026_paper",
+      "title": "Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration",
+      "authors": [
+        "Gang Wu",
+        "Junjun Jiang",
+        "Kui Jiang",
+        "Xianming Liu",
+        "Liqiang Nie"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642852",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qi_Detection_of_Model_Based_Planted_Pseudo_Cliques_in_Random_Do_TPAMI_2026_paper",
+      "title": "Detection of Model-Based Planted Pseudo-Cliques in Random Dot Product Graphs by the Adjacency Spectral Embedding and the Graph Encoder Embedding",
+      "authors": [
+        "Tong Qi",
+        "Vince Lyzinski"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643798",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fang_Toward_Accurate_Procedure_Planning_in_Instructional_Videos_V_TPAMI_2026_paper",
+      "title": "Toward Accurate Procedure Planning in Instructional Videos: Visual State Generation Helps Task-Selective Diffusion",
+      "authors": [
+        "Fen Fang",
+        "Muli Yang",
+        "Min Wu",
+        "Yanhua Yang",
+        "Qianli Xu",
+        "Joo-Hwee Lim",
+        "Xulei Yang",
+        "Hongyuan Zhu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3641798",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhao_Unified_Granularity_Controller_for_Interactive_Segmentation_TPAMI_2026_paper",
+      "title": "Unified Granularity Controller for Interactive Segmentation",
+      "authors": [
+        "Yian Zhao",
+        "Kehan Li",
+        "Pengchong Qiao",
+        "Chang Liu",
+        "Rongrong Ji",
+        "Jie Chen"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642834",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Gao_Hypergraph_Foundation_Model_TPAMI_2026_paper",
+      "title": "Hypergraph Foundation Model",
+      "authors": [
+        "Yue Gao",
+        "Yifan Feng",
+        "Shiquan Liu",
+        "Xiangmin Han",
+        "Shaoyi Du",
+        "Zongze Wu",
+        "Han Hu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647504",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Panda__ell_0_0_Regularized_Sparse_Coding_Based_Interpretable_Netwo_TPAMI_2026_paper",
+      "title": "$\\ell _{0}$ℓ0-Regularized Sparse Coding-Based Interpretable Network for Multi-Modal Image Fusion",
+      "authors": [
+        "Gargi Panda",
+        "Soumitra Kundu",
+        "Saumik Bhattacharya",
+        "Aurobinda Routray"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643898",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Kang_Temporal_Stereo_Matching_From_Event_Cameras_via_Joint_Learni_TPAMI_2026_paper",
+      "title": "Temporal Stereo Matching From Event Cameras via Joint Learning With Stereoscopic Flow",
+      "authors": [
+        "Jae-Young Kang",
+        "Hoonhee Cho",
+        "Kuk-Jin Yoon"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3645734",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sun_Reinforcement_Learning_Based_Sequential_Parameter_Tuning_for_TPAMI_2026_paper",
+      "title": "Reinforcement Learning-Based Sequential Parameter Tuning for Image Signal Processing",
+      "authors": [
+        "Xinyu Sun",
+        "Bing Li",
+        "Congyan Lang",
+        "Zhikun Zhao",
+        "Juan Wang",
+        "Weihua Xiong",
+        "Weiming Hu",
+        "Long Cheng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642837",
+      "pdfUrl": ""
+    },
+    {
+      "id": "He_Unveiling_Fine_Grained_Deceptive_Patterns_in_Multimodal_Fake_TPAMI_2026_paper",
+      "title": "Unveiling Fine-Grained Deceptive Patterns in Multimodal Fake News: An Explainable Neuro-Symbolic Framework With LVLMs",
+      "authors": [
+        "Dongxiao He",
+        "Yiqi Dong",
+        "Xiaobao Wang",
+        "Meng Ge",
+        "Carl Yang",
+        "Di Jin",
+        "Witold Pedrycz"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642831",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Luo_A_Theoretical_Perspective_on_Streaming_Noisy_Data_With_Distr_TPAMI_2026_paper",
+      "title": "A Theoretical Perspective on Streaming Noisy Data With Distribution Shift",
+      "authors": [
+        "Wenshui Luo",
+        "Shuo Chen",
+        "Tao Zhou",
+        "Chen Gong"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643174",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cong_Breaking_Barriers_Localizing_Saliency_A_Large_Scale_Benchmar_TPAMI_2026_paper",
+      "title": "Breaking Barriers, Localizing Saliency: A Large-Scale Benchmark and Baseline for Condition-Constrained Salient Object Detection",
+      "authors": [
+        "Runmin Cong",
+        "Zhiyang Chen",
+        "Hao Fang",
+        "Sam Kwong",
+        "Wei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642893",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Guo_Recent_Advances_in_Discrete_Speech_Tokens_A_Review_TPAMI_2026_paper",
+      "title": "Recent Advances in Discrete Speech Tokens: A Review",
+      "authors": [
+        "Yiwei Guo",
+        "Zhihan Li",
+        "Hankun Wang",
+        "Bohan Li",
+        "Chongtian Shao",
+        "Hanglei Zhang",
+        "Chenpeng Du",
+        "Xie Chen",
+        "Shujie Liu",
+        "Kai Yu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643619",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Feng_HGNN_Shield_Defending_Hypergraph_Neural_Networks_Against_Hig_TPAMI_2026_paper",
+      "title": "HGNN Shield: Defending Hypergraph Neural Networks Against High-Order Structure Attack",
+      "authors": [
+        "Yifan Feng",
+        "Yifan Zhang",
+        "Shaoyi Du",
+        "Shihui Ying",
+        "Jun-Hai Yong",
+        "Yue Gao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3648431",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhou_Mettle_Meta_Token_Learning_for_Memory_Efficient_Audio_Visual_TPAMI_2026_paper",
+      "title": "Mettle: Meta-Token Learning for Memory-Efficient Audio-Visual Adaptation",
+      "authors": [
+        "Jinxing Zhou",
+        "Zhihui Li",
+        "Yongqiang Yu",
+        "Yanghao Zhou",
+        "Ruohao Guo",
+        "Guangyao Li",
+        "Yuxin Mao",
+        "Mingfei Han",
+        "Xiaojun Chang",
+        "Meng Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642821",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Augmenting_Iterative_Trajectory_for_Bilevel_Optimization_Met_TPAMI_2026_paper",
+      "title": "Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, Analysis and Extensions",
+      "authors": [
+        "Risheng Liu",
+        "Yaohua Liu",
+        "Shangzhi Zeng",
+        "Jin Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3644443",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhu_Developing_Evolving_Adaptability_in_Biological_Intelligence__TPAMI_2026_paper",
+      "title": "Developing Evolving Adaptability in Biological Intelligence: A Novel Biologically-Inspired Continual Learning Model for Video Saliency Prediction",
+      "authors": [
+        "Dandan Zhu",
+        "Kaiwei Zhang",
+        "Kun Zhu",
+        "Nana Zhang",
+        "Xiongkuo Min",
+        "Guangtao Zhai",
+        "Xiaokang Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643517",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xu_A_Unified_Experience_Replay_Framework_for_Spiking_Deep_Reinf_TPAMI_2026_paper",
+      "title": "A Unified Experience Replay Framework for Spiking Deep Reinforcement Learning",
+      "authors": [
+        "Meng Xu",
+        "Xinhong Chen",
+        "Bingyi Liu",
+        "Yi-Rong Lin",
+        "Yung-Hui Li",
+        "Jianping Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642900",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Evolutionary_Dimension_Specific_Feature_Selection_for_Multi__TPAMI_2026_paper",
+      "title": "Evolutionary Dimension-Specific Feature Selection for Multi-Dimensional Classification",
+      "authors": [
+        "Yu-Yang Zhang",
+        "Bin-Bin Jia",
+        "Min-Ling Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642978",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Toward_Deeper_Emotional_Reflection_Crafting_Affective_Image__TPAMI_2026_paper",
+      "title": "Toward Deeper Emotional Reflection: Crafting Affective Image Filters With Generative Priors",
+      "authors": [
+        "Peixuan Zhang",
+        "Shuchen Weng",
+        "Jiajun Tang",
+        "Si Li",
+        "Boxin Shi"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643911",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_VPT_NSP2_Importance_Aware_Visual_Prompt_Tuning_in_Null_Space_TPAMI_2026_paper",
+      "title": "VPT-NSP2++: Importance-Aware Visual Prompt Tuning in Null Space for Continual Learning",
+      "authors": [
+        "Shizhou Zhang",
+        "Yue Lu",
+        "De Cheng",
+        "Yinghui Xing",
+        "Nannan Wang",
+        "Peng Wang",
+        "Yanning Zhang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3642298",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_Complexity_Control_Facilitates_Reasoning_Based_Compositional_TPAMI_2026_paper",
+      "title": "Complexity Control Facilitates Reasoning-Based Compositional Generalization in Transformers",
+      "authors": [
+        "Zhongwang Zhang",
+        "Pengxiao Lin",
+        "Zhiwei Wang",
+        "Yaoyu Zhang",
+        "Zhi-Qin John Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646483",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_DSwinIR_Rethinking_Window_Based_Attention_for_Image_Restorat_TPAMI_2026_paper",
+      "title": "DSwinIR: Rethinking Window-Based Attention for Image Restoration",
+      "authors": [
+        "Gang Wu",
+        "Junjun Jiang",
+        "Kui Jiang",
+        "Xianming Liu",
+        "Liqiang Nie"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646016",
+      "pdfUrl": ""
+    },
+    {
+      "id": "GarridoMunoz_Handwritten_Text_Recognition_A_Survey_TPAMI_2026_paper",
+      "title": "Handwritten Text Recognition: A Survey",
+      "authors": [
+        "Carlos Garrido-Munoz",
+        "Antonio Ríos-Vila",
+        "Jorge Calvo-Zaragoza"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646002",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Bi_RingMoE_Mixture_of_Modality_Experts_Multi_Modal_Foundation_M_TPAMI_2026_paper",
+      "title": "RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation",
+      "authors": [
+        "Hanbo Bi",
+        "Yingchao Feng",
+        "Boyuan Tong",
+        "Mengyu Wang",
+        "Haichen Yu",
+        "Yongqiang Mao",
+        "Hao Chang",
+        "Wenhui Diao",
+        "Peijin Wang",
+        "Yue Yu",
+        "Hanyang Peng",
+        "Yehong Zhang",
+        "Kun Fu",
+        "Xian Sun"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3643453",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_Condition_Guided_Diffusion_for_Multi_Modal_Pedestrian_Trajec_TPAMI_2026_paper",
+      "title": "Condition-Guided Diffusion for Multi-Modal Pedestrian Trajectory Prediction Incorporating Intention and Interaction Priors",
+      "authors": [
+        "Yanghong Liu",
+        "Xingping Dong",
+        "Yutian Lin",
+        "Mang Ye",
+        "Kaihao Zhang",
+        "Bo Du"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3645918",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhu_Slack_Federated_Adversarial_Training_TPAMI_2026_paper",
+      "title": "Slack Federated Adversarial Training",
+      "authors": [
+        "Jianing Zhu",
+        "Bo Han",
+        "Jiangchao Yao",
+        "Quanming Yao",
+        "Tongliang Liu",
+        "Jianliang Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646649",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Liu_CompleMatch_Boosting_Time_Series_Semi_Supervised_Classificat_TPAMI_2026_paper",
+      "title": "CompleMatch: Boosting Time-Series Semi-Supervised Classification With Temporal-Frequency Complementarity",
+      "authors": [
+        "Zhen Liu",
+        "Kun Zeng",
+        "Qianli Ma",
+        "James T. Kwok"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3644603",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_MESA_Effective_Matching_Redundancy_Reduction_by_Semantic_Are_TPAMI_2026_paper",
+      "title": "MESA: Effective Matching Redundancy Reduction by Semantic Area Segmentation",
+      "authors": [
+        "Yesheng Zhang",
+        "Shuhan Shen",
+        "Xu Zhao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3644296",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cai_MoEGAD_A_Mixture_of_Experts_Framework_With_Pseudo_Anomaly_Ge_TPAMI_2026_paper",
+      "title": "MoEGAD: A Mixture-of-Experts Framework With Pseudo-Anomaly Generation for Graph-Level Anomaly Detection",
+      "authors": [
+        "Jinyu Cai",
+        "Yunhe Zhang",
+        "Pengyang Wang",
+        "See-Kiong Ng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646069",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Shi_Learning_Positive_Incentive_Point_Sampling_in_Neural_Implici_TPAMI_2026_paper",
+      "title": "Learning Positive-Incentive Point Sampling in Neural Implicit Fields for Object Pose Estimation",
+      "authors": [
+        "Yifei Shi",
+        "Boyan Wan",
+        "Xin Xu",
+        "Kai Xu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647829",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhang_A_Novel_Approach_to_GNN_Explainability_Distilling_Knowledge__TPAMI_2026_paper",
+      "title": "A Novel Approach to GNN Explainability: Distilling Knowledge With Inter-Layer Alignment",
+      "authors": [
+        "Xiaoxia Zhang",
+        "Xingyu Liu",
+        "Guoyin Wang",
+        "Yongduan Song"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3645279",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Ma_Boosting_Multi_Modal_Large_Language_Model_With_Enhanced_Visu_TPAMI_2026_paper",
+      "title": "Boosting Multi-Modal Large Language Model With Enhanced Visual Features",
+      "authors": [
+        "Yiwei Ma",
+        "Weihuang Lin",
+        "Zhibin Wang",
+        "Jiayi Ji",
+        "Xiaoshuai Sun",
+        "Chia-Wen Lin",
+        "Rongrong Ji"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3644851",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Song_Unsupervised_Representation_Learning_From_Sparse_Transformat_TPAMI_2026_paper",
+      "title": "Unsupervised Representation Learning From Sparse Transformation Analysis",
+      "authors": [
+        "Yue Song",
+        "T. Anderson Keller",
+        "Yisong Yue",
+        "Pietro Perona",
+        "Max Welling"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3645586",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_Data_Driven_Bidirectional_Spatial_Adaptive_Network_for_Weakl_TPAMI_2026_paper",
+      "title": "Data-Driven Bidirectional Spatial-Adaptive Network for Weakly Supervised Object Detection in Remote Sensing Images",
+      "authors": [
+        "Zebin Wu",
+        "Shangdong Zheng",
+        "Yang Xu",
+        "Le Wang",
+        "Zhihui Wei",
+        "Gang Hua"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646464",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cui_Bi_C2R_Bidirectional_Continual_Compatible_Representation_for_TPAMI_2026_paper",
+      "title": "Bi-C2R: Bidirectional Continual Compatible Representation for Re-Indexing Free Lifelong Person Re-Identification",
+      "authors": [
+        "Zhenyu Cui",
+        "Jiahuan Zhou",
+        "Yuxin Peng"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3649078",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yuan_Robust_Semi_Supervised_Feature_Selection_With_Multi_Granular_TPAMI_2026_paper",
+      "title": "Robust Semi-Supervised Feature Selection With Multi-Granularity Zentropy Modeling",
+      "authors": [
+        "Kehua Yuan",
+        "Duoqian Miao",
+        "Weiping Ding",
+        "Witold Pedrycz",
+        "Yiyu Yao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647921",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_DirMixE_Harnessing_Test_Agnostic_Long_Tail_Recognition_With__TPAMI_2026_paper",
+      "title": "DirMixE: Harnessing Test Agnostic Long-Tail Recognition With Hierarchical Label Vartiations",
+      "authors": [
+        "Zhiyong Yang",
+        "Qianqian Xu",
+        "Sicong Li",
+        "Zitai Wang",
+        "Xiaochun Cao",
+        "Qingming Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647124",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Fang_Efficient_Scene_Modeling_via_Structure_Aware_and_Region_Prio_TPAMI_2026_paper",
+      "title": "Efficient Scene Modeling via Structure-Aware and Region-Prioritized 3D Gaussians",
+      "authors": [
+        "Guangchi Fang",
+        "Bing Wang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646473",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qi_DC_SAM_In_Context_Segment_Anything_in_Images_and_Videos_via__TPAMI_2026_paper",
+      "title": "DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency",
+      "authors": [
+        "Mengshi Qi",
+        "Pengfei Zhu",
+        "Xiangtai Li",
+        "Xiaoyang Bi",
+        "Lu Qi",
+        "Huadong Ma",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646919",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Noisy_Correspondence_Rectification_in_Multimodal_Clustering__TPAMI_2026_paper",
+      "title": "Noisy Correspondence Rectification in Multimodal Clustering Space for Cross-Modal Matching",
+      "authors": [
+        "Shuo Yang",
+        "Yancheng Long",
+        "Yujie Wei",
+        "Zeke Xie",
+        "Hongxun Yao",
+        "Min Xu",
+        "Liqiang Nie"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646184",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhou_HUGSIM_A_Real_Time_Photo_Realistic_and_Closed_Loop_Simulator_TPAMI_2026_paper",
+      "title": "HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving",
+      "authors": [
+        "Hongyu Zhou",
+        "Longzhong Lin",
+        "Jiabao Wang",
+        "Yichong Lu",
+        "Dongfeng Bai",
+        "Bingbing Liu",
+        "Yue Wang",
+        "Andreas Geiger",
+        "Yiyi Liao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647952",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Xing_Breaking_the_Multi_Enhancement_Bottleneck_Domain_Consistent__TPAMI_2026_paper",
+      "title": "Breaking the Multi-Enhancement Bottleneck: Domain-Consistent Quality Enhancement for Compressed Images",
+      "authors": [
+        "Qunliang Xing",
+        "Ce Zheng",
+        "Mai Xu",
+        "Jing Yang",
+        "Shengxi Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646223",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sun_Jo_SNC_Combating_Noisy_Labels_Through_Fostering_Self_and_Nei_TPAMI_2026_paper",
+      "title": "Jo-SNC: Combating Noisy Labels Through Fostering Self- and Neighbor-Consistency",
+      "authors": [
+        "Zeren Sun",
+        "Yazhou Yao",
+        "Tongliang Liu",
+        "Zechao Li",
+        "Fumin Shen",
+        "Jinhui Tang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646737",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zeng_Proactive_Bot_Detection_Based_on_Structural_Information_Prin_TPAMI_2026_paper",
+      "title": "Proactive Bot Detection Based on Structural Information Principles",
+      "authors": [
+        "Xianghua Zeng",
+        "Hao Peng",
+        "Angsheng Li"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646644",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Sun_Toward_Understanding_Generalization_and_Stability_Gaps_Betwe_TPAMI_2026_paper",
+      "title": "Toward Understanding Generalization and Stability Gaps Between Centralized and Decentralized Federated Learning",
+      "authors": [
+        "Yan Sun",
+        "Li Shen",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647762",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Zhao_Spike_Camera_Optical_Flow_Estimation_Based_on_Continuous_Spi_TPAMI_2026_paper",
+      "title": "Spike Camera Optical Flow Estimation Based on Continuous Spike Streams",
+      "authors": [
+        "Rui Zhao",
+        "Ruiqin Xiong",
+        "Dongkai Wang",
+        "Shiyu Xuan",
+        "Jian Zhang",
+        "Xiaopeng Fan",
+        "Tiejun Huang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3649050",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Cao_Controllable_Generation_With_Text_to_Image_Diffusion_Models__TPAMI_2026_paper",
+      "title": "Controllable Generation With Text-to-Image Diffusion Models: A Survey",
+      "authors": [
+        "Pu Cao",
+        "Feng Zhou",
+        "Qing Song",
+        "Lu Yang"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646548",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wu_The_CUR_Decomposition_of_Self_Attention_Matrices_in_Vision_T_TPAMI_2026_paper",
+      "title": "The CUR Decomposition of Self-Attention Matrices in Vision Transformers",
+      "authors": [
+        "Chong Wu",
+        "Maolin Che",
+        "Hong Yan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646452",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Guo_Exploring_the_Vulnerabilities_of_Federated_Learning_A_Deep_D_TPAMI_2026_paper",
+      "title": "Exploring the Vulnerabilities of Federated Learning: A Deep Dive Into Gradient Inversion Attacks",
+      "authors": [
+        "Pengxin Guo",
+        "Runxi Wang",
+        "Shuang Zeng",
+        "Jinjing Zhu",
+        "Haoning Jiang",
+        "Yanran Wang",
+        "Yuyin Zhou",
+        "Feifei Wang",
+        "Hui Xiong",
+        "Liangqiong Qu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646639",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yang_Hyperbolic_Kernel_Graph_Neural_Networks_for_Neurocognitive_D_TPAMI_2026_paper",
+      "title": "Hyperbolic Kernel Graph Neural Networks for Neurocognitive Decline Analysis From Multimodal Brain Imaging",
+      "authors": [
+        "Meimei Yang",
+        "Yongheng Sun",
+        "Qianqian Wang",
+        "Andrea Bozoki",
+        "Maureen Kohi",
+        "Mingxia Liu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3646188",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Qian_BEVTrack_Multi_View_Multi_Human_Registration_and_Tracking_in_TPAMI_2026_paper",
+      "title": "BEVTrack: Multi-View Multi-Human Registration and Tracking in the Bird's Eye View",
+      "authors": [
+        "Zekun Qian",
+        "Wei Feng",
+        "Feifan Wang",
+        "Ruize Han"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647707",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Peng_Adaptive_and_Robust_DBSCAN_With_Multi_Agent_Reinforcement_Le_TPAMI_2026_paper",
+      "title": "Adaptive and Robust DBSCAN With Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Hao Peng",
+        "Xiang Huang",
+        "Shuo Sun",
+        "Ruitong Zhang",
+        "Xizhao Wang",
+        "Philip S. Yu"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3648017",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Mei_SAM_I2V_Efficiently_Upgrading_SAM_for_Promptable_Video_Segme_TPAMI_2026_paper",
+      "title": "SAM-I2V++: Efficiently Upgrading SAM for Promptable Video Segmentation",
+      "authors": [
+        "Haiyang Mei",
+        "Pengyu Zhang",
+        "Mike Zheng Shou"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3648863",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Chen_Toward_Unified_Expertise_Learning_a_Single_Vision_Model_From_TPAMI_2026_paper",
+      "title": "Toward Unified Expertise: Learning a Single Vision Model From Diverse Perception",
+      "authors": [
+        "Zitian Chen",
+        "Mingyu Ding",
+        "Yikang Shen",
+        "Erik G. Learned-Miller",
+        "Chuang Gan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3647880",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Yuan_A_Survey_of_Behavior_Foundation_Model_Next_Generation_Whole__TPAMI_2026_paper",
+      "title": "A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots",
+      "authors": [
+        "Mingqi Yuan",
+        "Tao Yu",
+        "Wenqi Ge",
+        "Xiuyong Yao",
+        "Dapeng Li",
+        "Huijiang Wang",
+        "Jiayu Chen",
+        "Bo Li",
+        "Wei Zhang",
+        "Wenjun Zeng",
+        "Hua Chen",
+        "Xin Jin"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3649177",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Language_Embedded_3D_Gaussians_for_Open_Vocabulary_Scene_Que_TPAMI_2026_paper",
+      "title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Querying",
+      "authors": [
+        "Miao Wang",
+        "Jin-Chuan Shi",
+        "Shao-Hua Guan",
+        "Hao-Bin Duan"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3648837",
+      "pdfUrl": ""
+    },
+    {
+      "id": "Wang_Causal_HyperPrompter_A_Framework_for_Unbiased_Hyperspectral__TPAMI_2026_paper",
+      "title": "Causal HyperPrompter: A Framework for Unbiased Hyperspectral Camouflaged Object Tracking",
+      "authors": [
+        "Hanzheng Wang",
+        "Wei Li",
+        "Xiang-Gen Xia",
+        "Qian Du"
+      ],
+      "year": "2026",
+      "venue": "tpami",
+      "url": "https://doi.org/10.1109/TPAMI.2025.3648020",
+      "pdfUrl": ""
+    }
+  ]
+}

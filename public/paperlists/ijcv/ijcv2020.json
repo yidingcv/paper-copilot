@@ -1,0 +1,2222 @@
+{
+  "papers": [
+    {
+      "id": "Luo_ARBEE_Towards_Automated_Recognition_of_Bodily_Expression_of__IJCV_2020_paper",
+      "title": "ARBEE: Towards Automated Recognition of Bodily Expression of Emotion in the Wild",
+      "authors": [
+        "Yu Luo",
+        "Jianbo Ye",
+        "Reginald B. Adams Jr.",
+        "Jia Li",
+        "Michelle G. Newman",
+        "James Z. Wang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01215-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01215-y.pdf"
+    },
+    {
+      "id": "Arrigoni_Synchronization_Problems_in_Computer_Vision_with_Closed_Form_IJCV_2020_paper",
+      "title": "Synchronization Problems in Computer Vision with Closed-Form Solutions",
+      "authors": [
+        "Federica Arrigoni",
+        "Andrea Fusiello"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01240-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01240-x.pdf"
+    },
+    {
+      "id": "Yang_Robust_Attentional_Aggregation_of_Deep_Feature_Sets_for_Mult_IJCV_2020_paper",
+      "title": "Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction",
+      "authors": [
+        "Bo Yang",
+        "Sen Wang",
+        "Andrew Markham",
+        "Niki Trigoni"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01217-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01217-w.pdf"
+    },
+    {
+      "id": "Zhao_Temporal_Action_Detection_with_Structured_Segment_Networks_IJCV_2020_paper",
+      "title": "Temporal Action Detection with Structured Segment Networks",
+      "authors": [
+        "Yue Zhao",
+        "Yuanjun Xiong",
+        "Limin Wang",
+        "Zhirong Wu",
+        "Xiaoou Tang",
+        "Dahua Lin"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01211-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01211-2.pdf"
+    },
+    {
+      "id": "Zhang_Tracking_Persons_of_Interest_via_Unsupervised_Representation_IJCV_2020_paper",
+      "title": "Tracking Persons-of-Interest via Unsupervised Representation Adaptation",
+      "authors": [
+        "Shun Zhang",
+        "Jia-Bin Huang",
+        "Jongwoo Lim",
+        "Yihong Gong",
+        "Jinjun Wang",
+        "Narendra Ahuja",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01212-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01212-1.pdf"
+    },
+    {
+      "id": "Gallardo_Shape_From_Template_with_Curves_IJCV_2020_paper",
+      "title": "Shape-From-Template with Curves",
+      "authors": [
+        "Mathias Gallardo",
+        "Daniel Pizarro",
+        "Toby Collins",
+        "Adrien Bartoli"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01214-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01214-z.pdf"
+    },
+    {
+      "id": "Changpinyo_Classifier_and_Exemplar_Synthesis_for_Zero_Shot_Learning_IJCV_2020_paper",
+      "title": "Classifier and Exemplar Synthesis for Zero-Shot Learning",
+      "authors": [
+        "Soravit Changpinyo",
+        "Wei-Lun Chao",
+        "Boqing Gong",
+        "Fei Sha"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01193-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01193-1.pdf"
+    },
+    {
+      "id": "Liu_Bi_Real_Net_Binarizing_Deep_Network_Towards_Real_Network_Per_IJCV_2020_paper",
+      "title": "Bi-Real Net: Binarizing Deep Network Towards Real-Network Performance",
+      "authors": [
+        "Zechun Liu",
+        "Wenhan Luo",
+        "Baoyuan Wu",
+        "Xin Yang",
+        "Wei Liu",
+        "Kwang-Ting Cheng"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01227-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01227-8.pdf"
+    },
+    {
+      "id": "Zunino_Predicting_Intentions_from_Motion_The_Subject_Adversarial_Ad_IJCV_2020_paper",
+      "title": "Predicting Intentions from Motion: The Subject-Adversarial Adaptation Approach",
+      "authors": [
+        "Andrea Zunino",
+        "Jacopo Cavazza",
+        "Riccardo Volpi",
+        "Pietro Morerio",
+        "Andrea Cavallo",
+        "Cristina Becchio",
+        "Vittorio Murino"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01234-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01234-9.pdf"
+    },
+    {
+      "id": "Ren_Single_Image_Dehazing_via_Multi_scale_Convolutional_Neural_N_IJCV_2020_paper",
+      "title": "Single Image Dehazing via Multi-scale Convolutional Neural Networks with Holistic Edges",
+      "authors": [
+        "Wenqi Ren",
+        "Jinshan Pan",
+        "Hua Zhang",
+        "Xiaochun Cao",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01235-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01235-8.pdf"
+    },
+    {
+      "id": "Liu_Deep_Learning_for_Generic_Object_Detection_A_Survey_IJCV_2020_paper",
+      "title": "Deep Learning for Generic Object Detection: A Survey",
+      "authors": [
+        "Li Liu",
+        "Wanli Ouyang",
+        "Xiaogang Wang",
+        "Paul W. Fieguth",
+        "Jie Chen",
+        "Xinwang Liu",
+        "Matti Pietikäinen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01247-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf"
+    },
+    {
+      "id": "Mustafa_Semantically_Coherent_4D_Scene_Flow_of_Dynamic_Scenes_IJCV_2020_paper",
+      "title": "Semantically Coherent 4D Scene Flow of Dynamic Scenes",
+      "authors": [
+        "Armin Mustafa",
+        "Adrian Hilton"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01241-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01241-w.pdf"
+    },
+    {
+      "id": "Selvaraju_Grad_CAM_Visual_Explanations_from_Deep_Networks_via_Gradient_IJCV_2020_paper",
+      "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+      "authors": [
+        "Ramprasaath R. Selvaraju",
+        "Michael Cogswell",
+        "Abhishek Das",
+        "Ramakrishna Vedantam",
+        "Devi Parikh",
+        "Dhruv Batra"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01228-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01228-7.pdf"
+    },
+    {
+      "id": "Hu_Dual_L1_Normalized_Context_Aware_Tensor_Power_Iteration_and__IJCV_2020_paper",
+      "title": "Dual L1-Normalized Context Aware Tensor Power Iteration and Its Applications to Multi-object Tracking and Multi-graph Matching",
+      "authors": [
+        "Weiming Hu",
+        "Xinchu Shi",
+        "Zongwei Zhou",
+        "Junliang Xing",
+        "Haibin Ling",
+        "Stephen J. Maybank"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01231-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01231-y.pdf"
+    },
+    {
+      "id": "Khowaja_Semantic_Image_Networks_for_Human_Action_Recognition_IJCV_2020_paper",
+      "title": "Semantic Image Networks for Human Action Recognition",
+      "authors": [
+        "Sunder Ali Khowaja",
+        "Seok-Lyong Lee"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01248-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01248-3.pdf"
+    },
+    {
+      "id": "Feichtenhofer_Deep_Insights_into_Convolutional_Networks_for_Video_Recognit_IJCV_2020_paper",
+      "title": "Deep Insights into Convolutional Networks for Video Recognition",
+      "authors": [
+        "Christoph Feichtenhofer",
+        "Axel Pinz",
+        "Richard P. Wildes",
+        "Andrew Zisserman"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01225-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01225-w.pdf"
+    },
+    {
+      "id": "Zhang_Corner_Detection_Using_Multi_directional_Structure_Tensor_wi_IJCV_2020_paper",
+      "title": "Corner Detection Using Multi-directional Structure Tensor with Multiple Scales",
+      "authors": [
+        "Weichuan Zhang",
+        "Changming Sun"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01257-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01257-2.pdf"
+    },
+    {
+      "id": "Zhao_Recognizing_Profile_Faces_by_Imagining_Frontal_View_IJCV_2020_paper",
+      "title": "Recognizing Profile Faces by Imagining Frontal View",
+      "authors": [
+        "Jian Zhao",
+        "Junliang Xing",
+        "Lin Xiong",
+        "Shuicheng Yan",
+        "Jiashi Feng"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01252-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01252-7.pdf"
+    },
+    {
+      "id": "Zhang_Adaptive_Importance_Learning_for_Improving_Lightweight_Image_IJCV_2020_paper",
+      "title": "Adaptive Importance Learning for Improving Lightweight Image Super-Resolution Network",
+      "authors": [
+        "Lei Zhang",
+        "Peng Wang",
+        "Chunhua Shen",
+        "Lingqiao Liu",
+        "Wei Wei",
+        "Yanning Zhang",
+        "Anton van den Hengel"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01253-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01253-6.pdf"
+    },
+    {
+      "id": "Yu_Hallucinating_Unaligned_Face_Images_by_Multiscale_Transforma_IJCV_2020_paper",
+      "title": "Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks",
+      "authors": [
+        "Xin Yu",
+        "Fatih Porikli",
+        "Basura Fernando",
+        "Richard Hartley"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01254-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01254-5.pdf"
+    },
+    {
+      "id": "Schuster_SceneFlowFields_Multi_frame_Matching_Visibility_Prediction_a_IJCV_2020_paper",
+      "title": "SceneFlowFields++: Multi-frame Matching, Visibility Prediction, and Robust Interpolation for Scene Flow Estimation",
+      "authors": [
+        "René Schuster",
+        "Oliver Wasenmüller",
+        "Christian Unger",
+        "Georg Kuschk",
+        "Didier Stricker"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01258-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01258-1.pdf"
+    },
+    {
+      "id": "Dai_Statistical_Modeling_of_Craniofacial_Shape_and_Texture_IJCV_2020_paper",
+      "title": "Statistical Modeling of Craniofacial Shape and Texture",
+      "authors": [
+        "Hang Dai",
+        "Nick E. Pears",
+        "William A. P. Smith",
+        "Christian Duncan"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01260-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01260-7.pdf"
+    },
+    {
+      "id": "Weiss_Special_Issue_Advances_in_Architectures_and_Theories_for_Com_IJCV_2020_paper",
+      "title": "Special Issue: Advances in Architectures and Theories for Computer Vision",
+      "authors": [
+        "Yair Weiss",
+        "Vittorio Ferrari",
+        "Cristian Sminchisescu",
+        "Martial Hebert"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01289-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01289-8.pdf"
+    },
+    {
+      "id": "Chin_Robust_Fitting_in_Computer_Vision_Easy_or_Hard__IJCV_2020_paper",
+      "title": "Robust Fitting in Computer Vision: Easy or Hard?",
+      "authors": [
+        "Tat-Jun Chin",
+        "Zhipeng Cai",
+        "Frank Neumann"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01207-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01207-y.pdf"
+    },
+    {
+      "id": "Esteves_Learning_SO_3_Equivariant_Representations_with_Spherical_CNN_IJCV_2020_paper",
+      "title": "Learning SO(3) Equivariant Representations with Spherical CNNs",
+      "authors": [
+        "Carlos Esteves",
+        "Christine Allen-Blanchette",
+        "Ameesh Makadia",
+        "Kostas Daniilidis"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01220-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01220-1.pdf"
+    },
+    {
+      "id": "Gehrig_EKLT_Asynchronous_Photometric_Feature_Tracking_Using_Events__IJCV_2020_paper",
+      "title": "EKLT: Asynchronous Photometric Feature Tracking Using Events and Frames",
+      "authors": [
+        "Daniel Gehrig",
+        "Henri Rebecq",
+        "Guillermo Gallego",
+        "Davide Scaramuzza"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01209-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01209-w.pdf"
+    },
+    {
+      "id": "Gehrig_Correction_to_EKLT_Asynchronous_Photometric_Feature_Tracking_IJCV_2020_paper",
+      "title": "Correction to: EKLT: Asynchronous Photometric Feature Tracking Using Events and Frames",
+      "authors": [
+        "Daniel Gehrig",
+        "Henri Rebecq",
+        "Guillermo Gallego",
+        "Davide Scaramuzza"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01233-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01233-w.pdf"
+    },
+    {
+      "id": "Harwath_Jointly_Discovering_Visual_Objects_and_Spoken_Words_from_Raw_IJCV_2020_paper",
+      "title": "Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input",
+      "authors": [
+        "David Harwath",
+        "Adrià Recasens",
+        "Dídac Surís",
+        "Galen Chuang",
+        "Antonio Torralba",
+        "James R. Glass"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01205-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01205-0.pdf"
+    },
+    {
+      "id": "Law_CornerNet_Detecting_Objects_as_Paired_Keypoints_IJCV_2020_paper",
+      "title": "CornerNet: Detecting Objects as Paired Keypoints",
+      "authors": [
+        "Hei Law",
+        "Jia Deng"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01204-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01204-1.pdf"
+    },
+    {
+      "id": "Li_DeepIM_Deep_Iterative_Matching_for_6D_Pose_Estimation_IJCV_2020_paper",
+      "title": "DeepIM: Deep Iterative Matching for 6D Pose Estimation",
+      "authors": [
+        "Yi Li",
+        "Gu Wang",
+        "Xiangyang Ji",
+        "Yu Xiang",
+        "Dieter Fox"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01250-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01250-9.pdf"
+    },
+    {
+      "id": "Ma_Differential_Scene_Flow_from_Light_Field_Gradients_IJCV_2020_paper",
+      "title": "Differential Scene Flow from Light Field Gradients",
+      "authors": [
+        "Sizhuo Ma",
+        "Brandon M. Smith",
+        "Mohit Gupta"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01230-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01230-z.pdf"
+    },
+    {
+      "id": "Pumarola_GANimation_One_Shot_Anatomically_Consistent_Facial_Animation_IJCV_2020_paper",
+      "title": "GANimation: One-Shot Anatomically Consistent Facial Animation",
+      "authors": [
+        "Albert Pumarola",
+        "Antonio Agudo",
+        "Aleix M. Martínez",
+        "Alberto Sanfeliu",
+        "Francesc Moreno-Noguer"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01210-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01210-3.pdf"
+    },
+    {
+      "id": "Sundermeyer_Augmented_Autoencoders_Implicit_3D_Orientation_Learning_for__IJCV_2020_paper",
+      "title": "Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection",
+      "authors": [
+        "Martin Sundermeyer",
+        "Zoltan-Csaba Marton",
+        "Maximilian Durner",
+        "Rudolph Triebel"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01243-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01243-8.pdf"
+    },
+    {
+      "id": "Veit_Convolutional_Networks_with_Adaptive_Inference_Graphs_IJCV_2020_paper",
+      "title": "Convolutional Networks with Adaptive Inference Graphs",
+      "authors": [
+        "Andreas Veit",
+        "Serge J. Belongie"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01190-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01190-4.pdf"
+    },
+    {
+      "id": "Wu_Group_Normalization_IJCV_2020_paper",
+      "title": "Group Normalization",
+      "authors": [
+        "Yuxin Wu",
+        "Kaiming He"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01198-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01198-w.pdf"
+    },
+    {
+      "id": "Zhou_DeepTAM_Deep_Tracking_and_Mapping_with_Convolutional_Neural__IJCV_2020_paper",
+      "title": "DeepTAM: Deep Tracking and Mapping with Convolutional Neural Networks",
+      "authors": [
+        "Huizhong Zhou",
+        "Benjamin Ummenhofer",
+        "Thomas Brox"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01221-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01221-0.pdf"
+    },
+    {
+      "id": "Shao_Editorial_Special_Issue_on_Machine_Vision_with_Deep_Learning_IJCV_2020_paper",
+      "title": "Editorial: Special Issue on Machine Vision with Deep Learning",
+      "authors": [
+        "Ling Shao",
+        "Hubert P. H. Shum",
+        "Timothy M. Hospedales"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01317-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01317-y.pdf"
+    },
+    {
+      "id": "Innamorati_Learning_on_the_Edge_Investigating_Boundary_Filters_in_CNNs_IJCV_2020_paper",
+      "title": "Learning on the Edge: Investigating Boundary Filters in CNNs",
+      "authors": [
+        "Carlo Innamorati",
+        "Tobias Ritschel",
+        "Tim Weyrich",
+        "Niloy J. Mitra"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01223-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01223-y.pdf"
+    },
+    {
+      "id": "Park_A_Simple_and_Light_Weight_Attention_Module_for_Convolutional_IJCV_2020_paper",
+      "title": "A Simple and Light-Weight Attention Module for Convolutional Neural Networks",
+      "authors": [
+        "Jongchan Park",
+        "Sanghyun Woo",
+        "Joon-Young Lee",
+        "In So Kweon"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01283-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01283-0.pdf"
+    },
+    {
+      "id": "Song_Simultaneous_Deep_Stereo_Matching_and_Dehazing_with_Feature__IJCV_2020_paper",
+      "title": "Simultaneous Deep Stereo Matching and Dehazing with Feature Attention",
+      "authors": [
+        "Taeyong Song",
+        "Youngjung Kim",
+        "Changjae Oh",
+        "Hyunsung Jang",
+        "Namkoo Ha",
+        "Kwanghoon Sohn"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01294-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01294-2.pdf"
+    },
+    {
+      "id": "Zhao_Pixelated_Semantic_Colorization_IJCV_2020_paper",
+      "title": "Pixelated Semantic Colorization",
+      "authors": [
+        "Jiaojiao Zhao",
+        "Jungong Han",
+        "Ling Shao",
+        "Cees G. M. Snoek"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01271-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01271-4.pdf"
+    },
+    {
+      "id": "Henderson_Learning_Single_Image_3D_Reconstruction_by_Generative_Modell_IJCV_2020_paper",
+      "title": "Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading",
+      "authors": [
+        "Paul Henderson",
+        "Vittorio Ferrari"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01219-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01219-8.pdf"
+    },
+    {
+      "id": "Pavllo_Modeling_Human_Motion_with_Quaternion_Based_Neural_Networks_IJCV_2020_paper",
+      "title": "Modeling Human Motion with Quaternion-Based Neural Networks",
+      "authors": [
+        "Dario Pavllo",
+        "Christoph Feichtenhofer",
+        "Michael Auli",
+        "David Grangier"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01245-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01245-6.pdf"
+    },
+    {
+      "id": "Ranjan_Learning_Multi_human_Optical_Flow_IJCV_2020_paper",
+      "title": "Learning Multi-human Optical Flow",
+      "authors": [
+        "Anurag Ranjan",
+        "David T. Hoffmann",
+        "Dimitrios Tzionas",
+        "Siyu Tang",
+        "Javier Romero",
+        "Michael J. Black"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01279-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01279-w.pdf"
+    },
+    {
+      "id": "Stoll_Text2Sign_Towards_Sign_Language_Production_Using_Neural_Mach_IJCV_2020_paper",
+      "title": "Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks",
+      "authors": [
+        "Stephanie Stoll",
+        "Necati Cihan Camgöz",
+        "Simon Hadfield",
+        "Richard Bowden"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01281-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01281-2.pdf"
+    },
+    {
+      "id": "Jawahar_Guest_Editorial_Special_Issue_on_ACCV_2018_IJCV_2020_paper",
+      "title": "Guest Editorial: Special Issue on ACCV 2018",
+      "authors": [
+        "C. V. Jawahar",
+        "Hongdong Li",
+        "Greg Mori",
+        "Konrad Schindler"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01296-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01296-0.pdf"
+    },
+    {
+      "id": "Song_EdgeStereo_An_Effective_Multi_task_Learning_Network_for_Ster_IJCV_2020_paper",
+      "title": "EdgeStereo: An Effective Multi-task Learning Network for Stereo Matching and Edge Detection",
+      "authors": [
+        "Xiao Song",
+        "Xu Zhao",
+        "Liangji Fang",
+        "Hanwen Hu",
+        "Yizhou Yu"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01287-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01287-w.pdf"
+    },
+    {
+      "id": "Chen_VOSTR_Video_Object_Segmentation_via_Transferable_Representat_IJCV_2020_paper",
+      "title": "VOSTR: Video Object Segmentation via Transferable Representations",
+      "authors": [
+        "Yi-Wen Chen",
+        "Yi-Hsuan Tsai",
+        "Yen-Yu Lin",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01224-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01224-x.pdf"
+    },
+    {
+      "id": "Pritts_Minimal_Solvers_for_Rectifying_from_Radially_Distorted_Scale_IJCV_2020_paper",
+      "title": "Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales",
+      "authors": [
+        "James Pritts",
+        "Zuzana Kukelova",
+        "Viktor Larsson",
+        "Yaroslava Lochman",
+        "Ondrej Chum"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01216-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01216-x.pdf"
+    },
+    {
+      "id": "Sun_KS_conf_A_Light_Weight_Test_if_a_Multiclass_Classifier_Opera_IJCV_2020_paper",
+      "title": "KS(conf): A Light-Weight Test if a Multiclass Classifier Operates Outside of Its Specifications",
+      "authors": [
+        "Rémy Sun",
+        "Christoph H. Lampert"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01232-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01232-x.pdf"
+    },
+    {
+      "id": "Sun_Correction_to_KS_conf_A_Light_Weight_Test_if_a_Multiclass_Cl_IJCV_2020_paper",
+      "title": "Correction to: KS(conf): A Light-Weight Test if a Multiclass Classifier Operates Outside of Its Specifications",
+      "authors": [
+        "Rémy Sun",
+        "Christoph H. Lampert"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01262-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01262-5.pdf"
+    },
+    {
+      "id": "Hehn_End_to_End_Learning_of_Decision_Trees_and_Forests_IJCV_2020_paper",
+      "title": "End-to-End Learning of Decision Trees and Forests",
+      "authors": [
+        "Thomas M. Hehn",
+        "Julian F. P. Kooij",
+        "Fred A. Hamprecht"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01237-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01237-6.pdf"
+    },
+    {
+      "id": "Lasinger_3D_Fluid_Flow_Estimation_with_Integrated_Particle_Reconstruc_IJCV_2020_paper",
+      "title": "3D Fluid Flow Estimation with Integrated Particle Reconstruction",
+      "authors": [
+        "Katrin Lasinger",
+        "Christoph Vogel",
+        "Thomas Pock",
+        "Konrad Schindler"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01261-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01261-6.pdf"
+    },
+    {
+      "id": "Croce_Scaling_up_the_Randomized_Gradient_Free_Adversarial_Attack_R_IJCV_2020_paper",
+      "title": "Scaling up the Randomized Gradient-Free Adversarial Attack Reveals Overestimation of Robustness Using Established Attacks",
+      "authors": [
+        "Francesco Croce",
+        "Jonas Rauber",
+        "Matthias Hein"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01213-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01213-0.pdf"
+    },
+    {
+      "id": "Hackel_Inference_Learning_and_Attention_Mechanisms_that_Exploit_and_IJCV_2020_paper",
+      "title": "Inference, Learning and Attention Mechanisms that Exploit and Preserve Sparsity in CNNs",
+      "authors": [
+        "Timo Hackel",
+        "Mikhail Usvyatsov",
+        "Silvano Galliani",
+        "Jan D. Wegner",
+        "Konrad Schindler"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01302-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01302-5.pdf"
+    },
+    {
+      "id": "Gygli_Efficient_Object_Annotation_via_Speaking_and_Pointing_IJCV_2020_paper",
+      "title": "Efficient Object Annotation via Speaking and Pointing",
+      "authors": [
+        "Michael Gygli",
+        "Vittorio Ferrari"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01255-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01255-4.pdf"
+    },
+    {
+      "id": "Zhao_Learning_to_Draw_Sight_Lines_IJCV_2020_paper",
+      "title": "Learning to Draw Sight Lines",
+      "authors": [
+        "Hao Zhao",
+        "Ming Lu",
+        "Anbang Yao",
+        "Yurong Chen",
+        "Li Zhang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01263-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01263-4.pdf"
+    },
+    {
+      "id": "Chadebecq_Refractive_Two_View_Reconstruction_for_Underwater_3D_Vision_IJCV_2020_paper",
+      "title": "Refractive Two-View Reconstruction for Underwater 3D Vision",
+      "authors": [
+        "François Chadebecq",
+        "Francisco Vasconcelos",
+        "Rene M. Lacher",
+        "Efthymios Maneas",
+        "Adrien E. Desjardins",
+        "Sébastien Ourselin",
+        "Tom Vercauteren",
+        "Danail Stoyanov"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01218-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01218-9.pdf"
+    },
+    {
+      "id": "Qi_Loss_Sensitive_Generative_Adversarial_Networks_on_Lipschitz__IJCV_2020_paper",
+      "title": "Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities",
+      "authors": [
+        "Guo-Jun Qi"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01265-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01265-2.pdf"
+    },
+    {
+      "id": "Yu_The_Unmanned_Aerial_Vehicle_Benchmark_Object_Detection_Track_IJCV_2020_paper",
+      "title": "The Unmanned Aerial Vehicle Benchmark: Object Detection, Tracking and Baseline",
+      "authors": [
+        "Hongyang Yu",
+        "Guorong Li",
+        "Weigang Zhang",
+        "Qingming Huang",
+        "Dawei Du",
+        "Qi Tian",
+        "Nicu Sebe"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01266-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01266-1.pdf"
+    },
+    {
+      "id": "Angelova_Special_Issue_on_Deep_Learning_for_Robotic_Vision_IJCV_2020_paper",
+      "title": "Special Issue on Deep Learning for Robotic Vision",
+      "authors": [
+        "Anelia Angelova",
+        "Gustavo Carneiro",
+        "Niko Sünderhauf",
+        "Jürgen Leitner"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01324-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01324-z.pdf"
+    },
+    {
+      "id": "Stutz_Learning_3D_Shape_Completion_Under_Weak_Supervision_IJCV_2020_paper",
+      "title": "Learning 3D Shape Completion Under Weak Supervision",
+      "authors": [
+        "David Stutz",
+        "Andreas Geiger"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-018-1126-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-018-1126-y.pdf"
+    },
+    {
+      "id": "Dai_Curriculum_Model_Adaptation_with_Synthetic_and_Real_Data_for_IJCV_2020_paper",
+      "title": "Curriculum Model Adaptation with Synthetic and Real Data for Semantic Foggy Scene Understanding",
+      "authors": [
+        "Dengxin Dai",
+        "Christos Sakaridis",
+        "Simon Hecker",
+        "Luc Van Gool"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01182-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01182-4.pdf"
+    },
+    {
+      "id": "Hu_Image_Based_Geo_Localization_Using_Satellite_Imagery_IJCV_2020_paper",
+      "title": "Image-Based Geo-Localization Using Satellite Imagery",
+      "authors": [
+        "Sixing Hu",
+        "Gim Hee Lee"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01186-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01186-0.pdf"
+    },
+    {
+      "id": "Rosu_Semi_supervised_Semantic_Mapping_Through_Label_Propagation_w_IJCV_2020_paper",
+      "title": "Semi-supervised Semantic Mapping Through Label Propagation with Semantic Texture Meshes",
+      "authors": [
+        "Radu Alexandru Rosu",
+        "Jan Quenzel",
+        "Sven Behnke"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01187-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01187-z.pdf"
+    },
+    {
+      "id": "Valada_Self_Supervised_Model_Adaptation_for_Multimodal_Semantic_Seg_IJCV_2020_paper",
+      "title": "Self-Supervised Model Adaptation for Multimodal Semantic Segmentation",
+      "authors": [
+        "Abhinav Valada",
+        "Rohit Mohan",
+        "Wolfram Burgard"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01188-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01188-y.pdf"
+    },
+    {
+      "id": "Mendez_SeDAR_Reading_Floorplans_Like_a_Human_Using_Deep_Learning_to_IJCV_2020_paper",
+      "title": "SeDAR: Reading Floorplans Like a Human - Using Deep Learning to Enable Human-Inspired Localisation",
+      "authors": [
+        "Oscar Mendez",
+        "Simon Hadfield",
+        "Nicolas Pugeault",
+        "Richard Bowden"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01239-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01239-4.pdf"
+    },
+    {
+      "id": "Gupta_Cognitive_Mapping_and_Planning_for_Visual_Navigation_IJCV_2020_paper",
+      "title": "Cognitive Mapping and Planning for Visual Navigation",
+      "authors": [
+        "Saurabh Gupta",
+        "Varun Tolani",
+        "James Davidson",
+        "Sergey Levine",
+        "Rahul Sukthankar",
+        "Jitendra Malik"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01236-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01236-7.pdf"
+    },
+    {
+      "id": "Grard_Deep_Multicameral_Decoding_for_Localizing_Unoccluded_Object__IJCV_2020_paper",
+      "title": "Deep Multicameral Decoding for Localizing Unoccluded Object Instances from a Single RGB Image",
+      "authors": [
+        "Matthieu Grard",
+        "Emmanuel Dellandréa",
+        "Liming Chen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01323-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01323-0.pdf"
+    },
+    {
+      "id": "Wu_Model_Based_Robot_Imitation_with_Future_Image_Similarity_IJCV_2020_paper",
+      "title": "Model-Based Robot Imitation with Future Image Similarity",
+      "authors": [
+        "Alan Wu",
+        "A. J. Piergiovanni",
+        "Michael S. Ryoo"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01238-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01238-5.pdf"
+    },
+    {
+      "id": "Wu_Correction_to_Model_Based_Robot_Imitation_with_Future_Image__IJCV_2020_paper",
+      "title": "Correction to: Model-Based Robot Imitation with Future Image Similarity",
+      "authors": [
+        "Alan Wu",
+        "A. J. Piergiovanni",
+        "Michael S. Ryoo"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01272-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01272-3.pdf"
+    },
+    {
+      "id": "AlamedaPineda_Special_Issue_on_Generating_Realistic_Visual_Data_of_Human_B_IJCV_2020_paper",
+      "title": "Special Issue on Generating Realistic Visual Data of Human Behavior",
+      "authors": [
+        "Xavier Alameda-Pineda",
+        "Elisa Ricci",
+        "Albert Ali Salah",
+        "Nicu Sebe",
+        "Shuicheng Yan"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01319-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01319-w.pdf"
+    },
+    {
+      "id": "Spampinato_Adversarial_Framework_for_Unsupervised_Learning_of_Motion_Dy_IJCV_2020_paper",
+      "title": "Adversarial Framework for Unsupervised Learning of Motion Dynamics in Videos",
+      "authors": [
+        "Concetto Spampinato",
+        "Simone Palazzo",
+        "P. D'Oro",
+        "Daniela Giordano",
+        "Mubarak Shah"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01246-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01246-5.pdf"
+    },
+    {
+      "id": "Vougioukas_Realistic_Speech_Driven_Facial_Animation_with_GANs_IJCV_2020_paper",
+      "title": "Realistic Speech-Driven Facial Animation with GANs",
+      "authors": [
+        "Konstantinos Vougioukas",
+        "Stavros Petridis",
+        "Maja Pantic"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01251-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01251-8.pdf"
+    },
+    {
+      "id": "Yan_A_Weakly_Supervised_Multi_task_Ranking_Framework_for_Actor_A_IJCV_2020_paper",
+      "title": "A Weakly Supervised Multi-task Ranking Framework for Actor-Action Semantic Segmentation",
+      "authors": [
+        "Yan Yan",
+        "Chenliang Xu",
+        "Dawen Cai",
+        "Jason J. Corso"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01244-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01244-7.pdf"
+    },
+    {
+      "id": "Khan_Masked_Linear_Regression_for_Learning_Local_Receptive_Fields_IJCV_2020_paper",
+      "title": "Masked Linear Regression for Learning Local Receptive Fields for Facial Expression Synthesis",
+      "authors": [
+        "Nazar Khan",
+        "Arbish Akram",
+        "Arif Mahmood",
+        "Sania Ashraf",
+        "Kashif Murtaza"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01256-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01256-3.pdf"
+    },
+    {
+      "id": "Kollias_Deep_Neural_Network_Augmentation_Generating_Faces_for_Affect_IJCV_2020_paper",
+      "title": "Deep Neural Network Augmentation: Generating Faces for Affect Analysis",
+      "authors": [
+        "Dimitrios Kollias",
+        "Shiyang Cheng",
+        "Evangelos Ververas",
+        "Irene Kotsia",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01304-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01304-3.pdf"
+    },
+    {
+      "id": "Cao_Towards_High_Fidelity_Face_Frontalization_in_the_Wild_IJCV_2020_paper",
+      "title": "Towards High Fidelity Face Frontalization in the Wild",
+      "authors": [
+        "Jie Cao",
+        "Yibo Hu",
+        "Hongwen Zhang",
+        "Ran He",
+        "Zhenan Sun"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01229-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01229-6.pdf"
+    },
+    {
+      "id": "Souza_Generating_Human_Action_Videos_by_Coupling_3D_Game_Engines_a_IJCV_2020_paper",
+      "title": "Generating Human Action Videos by Coupling 3D Game Engines and Probabilistic Graphical Models",
+      "authors": [
+        "César Roberto de Souza",
+        "Adrien Gaidon",
+        "Yohann Cabon",
+        "Naila Murray",
+        "Antonio M. López"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01222-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01222-z.pdf"
+    },
+    {
+      "id": "Bem_DGPose_Deep_Generative_Models_for_Human_Body_Analysis_IJCV_2020_paper",
+      "title": "DGPose: Deep Generative Models for Human Body Analysis",
+      "authors": [
+        "Rodrigo Andrade de Bem",
+        "Arnab Ghosh",
+        "Thalaiyasingam Ajanthan",
+        "Ondrej Miksik",
+        "Adnane Boukhayma",
+        "N. Siddharth",
+        "Philip H. S. Torr"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01306-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01306-1.pdf"
+    },
+    {
+      "id": "Haque_A_Face_Fairness_Framework_for_3D_Meshes_IJCV_2020_paper",
+      "title": "A Face Fairness Framework for 3D Meshes",
+      "authors": [
+        "Sk. Mohammadul Haque",
+        "Venu Madhav Govindu"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01268-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01268-z.pdf"
+    },
+    {
+      "id": "Bian_GMS_Grid_Based_Motion_Statistics_for_Fast_Ultra_robust_Featu_IJCV_2020_paper",
+      "title": "GMS: Grid-Based Motion Statistics for Fast, Ultra-robust Feature Correspondence",
+      "authors": [
+        "Jia-Wang Bian",
+        "Wen-Yan Lin",
+        "Yun Liu",
+        "Le Zhang",
+        "Sai-Kit Yeung",
+        "Ming-Ming Cheng",
+        "Ian Reid"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01280-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01280-3.pdf"
+    },
+    {
+      "id": "Malleson_Real_Time_Multi_person_Motion_Capture_from_Multi_view_Video__IJCV_2020_paper",
+      "title": "Real-Time Multi-person Motion Capture from Multi-view Video and IMUs",
+      "authors": [
+        "Charles Malleson",
+        "John P. Collomosse",
+        "Adrian Hilton"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01270-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01270-5.pdf"
+    },
+    {
+      "id": "Ramasinghe_Representation_Learning_on_Unit_Ball_with_3D_Roto_translatio_IJCV_2020_paper",
+      "title": "Representation Learning on Unit Ball with 3D Roto-translational Equivariance",
+      "authors": [
+        "Sameera Ramasinghe",
+        "Salman H. Khan",
+        "Nick Barnes",
+        "Stephen Gould"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01278-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01278-x.pdf"
+    },
+    {
+      "id": "Li_Scalable_Person_Re_Identification_by_Harmonious_Attention_IJCV_2020_paper",
+      "title": "Scalable Person Re-Identification by Harmonious Attention",
+      "authors": [
+        "Wei Li",
+        "Xiatian Zhu",
+        "Shaogang Gong"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01274-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01274-1.pdf"
+    },
+    {
+      "id": "Yin_Fine_Grained_Person_Re_identification_IJCV_2020_paper",
+      "title": "Fine-Grained Person Re-identification",
+      "authors": [
+        "Jiahang Yin",
+        "Ancong Wu",
+        "Wei-Shi Zheng"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01259-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01259-0.pdf"
+    },
+    {
+      "id": "Chang_Siamese_Dense_Network_for_Reflection_Removal_with_Flash_and__IJCV_2020_paper",
+      "title": "Siamese Dense Network for Reflection Removal with Flash and No-Flash Image Pairs",
+      "authors": [
+        "Yakun Chang",
+        "Cheolkon Jung",
+        "Jun Sun",
+        "Fengqiao Wang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01276-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01276-z.pdf"
+    },
+    {
+      "id": "Zhang_Gated_Fusion_Network_for_Degraded_Image_Super_Resolution_IJCV_2020_paper",
+      "title": "Gated Fusion Network for Degraded Image Super Resolution",
+      "authors": [
+        "Xinyi Zhang",
+        "Hang Dong",
+        "Zhe Hu",
+        "Wei-Sheng Lai",
+        "Fei Wang",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01285-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01285-y.pdf"
+    },
+    {
+      "id": "Berman_Discriminative_Training_of_Conditional_Random_Fields_with_Pr_IJCV_2020_paper",
+      "title": "Discriminative Training of Conditional Random Fields with Probably Submodular Constraints",
+      "authors": [
+        "Maxim Berman",
+        "Matthew B. Blaschko"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01277-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01277-y.pdf"
+    },
+    {
+      "id": "Wang_Weakly_Supervised_Semantic_Segmentation_by_Iterative_Affinit_IJCV_2020_paper",
+      "title": "Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning",
+      "authors": [
+        "Xiang Wang",
+        "Sifei Liu",
+        "Huimin Ma",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01293-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01293-3.pdf"
+    },
+    {
+      "id": "Li_Visual_Social_Relationship_Recognition_IJCV_2020_paper",
+      "title": "Visual Social Relationship Recognition",
+      "authors": [
+        "Junnan Li",
+        "Yongkang Wong",
+        "Qi Zhao",
+        "Mohan S. Kankanhalli"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01295-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01295-1.pdf"
+    },
+    {
+      "id": "Wu_RGB_IR_Person_Re_identification_by_Cross_Modality_Similarity_IJCV_2020_paper",
+      "title": "RGB-IR Person Re-identification by Cross-Modality Similarity Preservation",
+      "authors": [
+        "Ancong Wu",
+        "Wei-Shi Zheng",
+        "Shaogang Gong",
+        "Jianhuang Lai"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01290-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01290-1.pdf"
+    },
+    {
+      "id": "Liu_Bottom_Up_Scene_Text_Detection_with_Markov_Clustering_Networ_IJCV_2020_paper",
+      "title": "Bottom-Up Scene Text Detection with Markov Clustering Networks",
+      "authors": [
+        "Zichuan Liu",
+        "Guosheng Lin",
+        "Wang Ling Goh"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01298-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01298-y.pdf"
+    },
+    {
+      "id": "Zhang_Multi_task_Generative_Adversarial_Network_for_Detecting_Smal_IJCV_2020_paper",
+      "title": "Multi-task Generative Adversarial Network for Detecting Small Objects in the Wild",
+      "authors": [
+        "Yongqiang Zhang",
+        "Yancheng Bai",
+        "Mingli Ding",
+        "Bernard Ghanem"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01301-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01301-6.pdf"
+    },
+    {
+      "id": "Shen_Exploiting_Semantics_for_Face_Image_Deblurring_IJCV_2020_paper",
+      "title": "Exploiting Semantics for Face Image Deblurring",
+      "authors": [
+        "Ziyi Shen",
+        "Wei-Sheng Lai",
+        "Tingfa Xu",
+        "Jan Kautz",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01288-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01288-9.pdf"
+    },
+    {
+      "id": "Bellavia_Is_There_Anything_New_to_Say_About_SIFT_Matching__IJCV_2020_paper",
+      "title": "Is There Anything New to Say About SIFT Matching?",
+      "authors": [
+        "Fabio Bellavia",
+        "Carlo Colombo"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01297-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01297-z.pdf"
+    },
+    {
+      "id": "Ulyanov_Deep_Image_Prior_IJCV_2020_paper",
+      "title": "Deep Image Prior",
+      "authors": [
+        "Dmitry Ulyanov",
+        "Andrea Vedaldi",
+        "Victor S. Lempitsky"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01303-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01303-4.pdf"
+    },
+    {
+      "id": "Santo_Light_Structure_from_Pin_Motion_Geometric_Point_Light_Source_IJCV_2020_paper",
+      "title": "Light Structure from Pin Motion: Geometric Point Light Source Calibration",
+      "authors": [
+        "Hiroaki Santo",
+        "Michael Waechter",
+        "Wen-Yan Lin",
+        "Yusuke Sugano",
+        "Yasuyuki Matsushita"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01312-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01312-3.pdf"
+    },
+    {
+      "id": "Wu_MAP_Inference_Via_2_Sphere_Linear_Program_Reformulation_IJCV_2020_paper",
+      "title": "MAP Inference Via ℓ 2-Sphere Linear Program Reformulation",
+      "authors": [
+        "Baoyuan Wu",
+        "Li Shen",
+        "Tong Zhang",
+        "Bernard Ghanem"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01313-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01313-2.pdf"
+    },
+    {
+      "id": "Lan_Semi_online_Multi_people_Tracking_by_Re_identification_IJCV_2020_paper",
+      "title": "Semi-online Multi-people Tracking by Re-identification",
+      "authors": [
+        "Long Lan",
+        "Xinchao Wang",
+        "Gang Hua",
+        "Thomas S. Huang",
+        "Dacheng Tao"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01314-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01314-1.pdf"
+    },
+    {
+      "id": "Kuznetsova_The_Open_Images_Dataset_V4_IJCV_2020_paper",
+      "title": "The Open Images Dataset V4",
+      "authors": [
+        "Alina Kuznetsova",
+        "Hassan Rom",
+        "Neil Alldrin",
+        "Jasper R. R. Uijlings",
+        "Ivan Krasin",
+        "Jordi Pont-Tuset",
+        "Shahab Kamali",
+        "Stefan Popov",
+        "Matteo Malloci",
+        "Alexander Kolesnikov",
+        "Tom Duerig",
+        "Vittorio Ferrari"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01316-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01316-z.pdf"
+    },
+    {
+      "id": "Chen_Enhanced_Balanced_Min_Cut_IJCV_2020_paper",
+      "title": "Enhanced Balanced Min Cut",
+      "authors": [
+        "Xiaojun Chen",
+        "Weijun Hong",
+        "Feiping Nie",
+        "Joshua Zhexue Huang",
+        "Li Shen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01320-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01320-3.pdf"
+    },
+    {
+      "id": "Liu_Efficient_Visual_Recognition_IJCV_2020_paper",
+      "title": "Efficient Visual Recognition",
+      "authors": [
+        "Li Liu",
+        "Matti Pietikäinen",
+        "Jie Qin",
+        "Wanli Ouyang",
+        "Luc Van Gool"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01351-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01351-w.pdf"
+    },
+    {
+      "id": "Zheng_A_Survey_of_Deep_Facial_Attribute_Analysis_IJCV_2020_paper",
+      "title": "A Survey of Deep Facial Attribute Analysis",
+      "authors": [
+        "Xin Zheng",
+        "Yanqing Guo",
+        "Huaibo Huang",
+        "Yi Li",
+        "Ran He"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01308-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01308-z.pdf"
+    },
+    {
+      "id": "Wang_Hardware_Centric_AutoML_for_Mixed_Precision_Quantization_IJCV_2020_paper",
+      "title": "Hardware-Centric AutoML for Mixed-Precision Quantization",
+      "authors": [
+        "Kuan Wang",
+        "Zhijian Liu",
+        "Yujun Lin",
+        "Ji Lin",
+        "Song Han"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01339-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01339-6.pdf"
+    },
+    {
+      "id": "Tabernik_Spatially_Adaptive_Filter_Units_for_Compact_and_Efficient_De_IJCV_2020_paper",
+      "title": "Spatially-Adaptive Filter Units for Compact and Efficient Deep Neural Networks",
+      "authors": [
+        "Domen Tabernik",
+        "Matej Kristan",
+        "Ales Leonardis"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01282-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01282-1.pdf"
+    },
+    {
+      "id": "Singh_HetConv_Beyond_Homogeneous_Convolution_Kernels_for_Deep_CNNs_IJCV_2020_paper",
+      "title": "HetConv: Beyond Homogeneous Convolution Kernels for Deep CNNs",
+      "authors": [
+        "Pravendra Singh",
+        "Vinay Kumar Verma",
+        "Piyush Rai",
+        "Vinay P. Namboodiri"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01264-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01264-3.pdf"
+    },
+    {
+      "id": "Wu_Learning_an_Evolutionary_Embedding_via_Massive_Knowledge_Dis_IJCV_2020_paper",
+      "title": "Learning an Evolutionary Embedding via Massive Knowledge Distillation",
+      "authors": [
+        "Xiang Wu",
+        "Ran He",
+        "Yibo Hu",
+        "Zhenan Sun"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01286-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01286-x.pdf"
+    },
+    {
+      "id": "Shao_SSN_Learning_Sparse_Switchable_Normalization_via_SparsestMax_IJCV_2020_paper",
+      "title": "SSN: Learning Sparse Switchable Normalization via SparsestMax",
+      "authors": [
+        "Wenqi Shao",
+        "Jingyu Li",
+        "Jiamin Ren",
+        "Ruimao Zhang",
+        "Xiaogang Wang",
+        "Ping Luo"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01269-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01269-y.pdf"
+    },
+    {
+      "id": "Feng_Rectified_Wing_Loss_for_Efficient_and_Robust_Facial_Landmark_IJCV_2020_paper",
+      "title": "Rectified Wing Loss for Efficient and Robust Facial Landmark Localisation with Convolutional Neural Networks",
+      "authors": [
+        "Zhenhua Feng",
+        "Josef Kittler",
+        "Muhammad Awais",
+        "Xiao-Jun Wu"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01275-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01275-0.pdf"
+    },
+    {
+      "id": "Zhan_Multi_task_Compositional_Network_for_Visual_Relationship_Det_IJCV_2020_paper",
+      "title": "Multi-task Compositional Network for Visual Relationship Detection",
+      "authors": [
+        "Yibing Zhan",
+        "Jun Yu",
+        "Ting Yu",
+        "Dacheng Tao"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01353-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01353-8.pdf"
+    },
+    {
+      "id": "Li_Disentangled_Representation_Learning_of_Makeup_Portraits_in__IJCV_2020_paper",
+      "title": "Disentangled Representation Learning of Makeup Portraits in the Wild",
+      "authors": [
+        "Yi Li",
+        "Huaibo Huang",
+        "Jie Cao",
+        "Ran He",
+        "Tieniu Tan"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01267-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01267-0.pdf"
+    },
+    {
+      "id": "Zhao_Fine_Grained_Multi_human_Parsing_IJCV_2020_paper",
+      "title": "Fine-Grained Multi-human Parsing",
+      "authors": [
+        "Jian Zhao",
+        "Jianshu Li",
+        "Hengzhu Liu",
+        "Shuicheng Yan",
+        "Jiashi Feng"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01181-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01181-5.pdf"
+    },
+    {
+      "id": "Li_A_General_Framework_for_Deep_Supervised_Discrete_Hashing_IJCV_2020_paper",
+      "title": "A General Framework for Deep Supervised Discrete Hashing",
+      "authors": [
+        "Qi Li",
+        "Zhenan Sun",
+        "Ran He",
+        "Tieniu Tan"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01327-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01327-w.pdf"
+    },
+    {
+      "id": "Liu_Learning_Multifunctional_Binary_Codes_for_Personalized_Image_IJCV_2020_paper",
+      "title": "Learning Multifunctional Binary Codes for Personalized Image Retrieval",
+      "authors": [
+        "Haomiao Liu",
+        "Ruiping Wang",
+        "Shiguang Shan",
+        "Xilin Chen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01315-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01315-0.pdf"
+    },
+    {
+      "id": "Song_Unified_Binary_Generative_Adversarial_Network_for_Image_Retr_IJCV_2020_paper",
+      "title": "Unified Binary Generative Adversarial Network for Image Retrieval and Compression",
+      "authors": [
+        "Jingkuan Song",
+        "Tao He",
+        "Lianli Gao",
+        "Xing Xu",
+        "Alan Hanjalic",
+        "Heng Tao Shen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01305-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01305-2.pdf"
+    },
+    {
+      "id": "Li_Weakly_supervised_Semantic_Guided_Hashing_for_Social_Image_R_IJCV_2020_paper",
+      "title": "Weakly-supervised Semantic Guided Hashing for Social Image Retrieval",
+      "authors": [
+        "Zechao Li",
+        "Jinhui Tang",
+        "Liyan Zhang",
+        "Jian Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01331-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01331-0.pdf"
+    },
+    {
+      "id": "Lin_Hadamard_Matrix_Guided_Online_Hashing_IJCV_2020_paper",
+      "title": "Hadamard Matrix Guided Online Hashing",
+      "authors": [
+        "Mingbao Lin",
+        "Rongrong Ji",
+        "Hong Liu",
+        "Xiaoshuai Sun",
+        "Shen Chen",
+        "Qi Tian"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01332-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01332-z.pdf"
+    },
+    {
+      "id": "Shi_Anchor_Based_Self_Ensembling_for_Semi_Supervised_Deep_Pairwi_IJCV_2020_paper",
+      "title": "Anchor-Based Self-Ensembling for Semi-Supervised Deep Pairwise Hashing",
+      "authors": [
+        "Xiaoshuang Shi",
+        "Zhenhua Guo",
+        "Fuyong Xing",
+        "Yun Liang",
+        "Lin Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01299-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01299-x.pdf"
+    },
+    {
+      "id": "Yu_Product_Quantization_Network_for_Fast_Visual_Search_IJCV_2020_paper",
+      "title": "Product Quantization Network for Fast Visual Search",
+      "authors": [
+        "Tan Yu",
+        "Jingjing Meng",
+        "Chen Fang",
+        "Hailin Jin",
+        "Junsong Yuan"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01326-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01326-x.pdf"
+    },
+    {
+      "id": "Zhang_Tensorized_Multi_view_Subspace_Representation_Learning_IJCV_2020_paper",
+      "title": "Tensorized Multi-view Subspace Representation Learning",
+      "authors": [
+        "Changqing Zhang",
+        "Huazhu Fu",
+        "Jing Wang",
+        "Wen Li",
+        "Xiaochun Cao",
+        "Qinghua Hu"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01307-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01307-0.pdf"
+    },
+    {
+      "id": "Zhu_Guest_Editorial_Generative_Adversarial_Networks_for_Computer_IJCV_2020_paper",
+      "title": "Guest Editorial: Generative Adversarial Networks for Computer Vision",
+      "authors": [
+        "Jun-Yan Zhu",
+        "Hongsheng Li",
+        "Eli Shechtman",
+        "Ming-Yu Liu",
+        "Jan Kautz",
+        "Antonio Torralba"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01380-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01380-5.pdf"
+    },
+    {
+      "id": "Wang_Discriminative_Region_Proposal_Adversarial_Network_for_High__IJCV_2020_paper",
+      "title": "Discriminative Region Proposal Adversarial Network for High-Quality Image-to-Image Translation",
+      "authors": [
+        "Chao Wang",
+        "Wenjie Niu",
+        "Yufeng Jiang",
+        "Haiyong Zheng",
+        "Zhibin Yu",
+        "Zhaorui Gu",
+        "Bing Zheng"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01273-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01273-2.pdf"
+    },
+    {
+      "id": "Wu_Handwritten_Mathematical_Expression_Recognition_via_Paired_A_IJCV_2020_paper",
+      "title": "Handwritten Mathematical Expression Recognition via Paired Adversarial Learning",
+      "authors": [
+        "Jin-Wen Wu",
+        "Fei Yin",
+        "Yan-Ming Zhang",
+        "Xu-Yao Zhang",
+        "Cheng-Lin Liu"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01291-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01291-5.pdf"
+    },
+    {
+      "id": "Lee_DRIT_Diverse_Image_to_Image_Translation_via_Disentangled_Rep_IJCV_2020_paper",
+      "title": "DRIT++: Diverse Image-to-Image Translation via Disentangled Representations",
+      "authors": [
+        "Hsin-Ying Lee",
+        "Hung-Yu Tseng",
+        "Qi Mao",
+        "Jia-Bin Huang",
+        "Yu-Ding Lu",
+        "Maneesh Singh",
+        "Ming-Hsuan Yang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-019-01284-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-019-01284-z.pdf"
+    },
+    {
+      "id": "Zhao_Layout2image_Image_Generation_from_Layout_IJCV_2020_paper",
+      "title": "Layout2image: Image Generation from Layout",
+      "authors": [
+        "Bo Zhao",
+        "Weidong Yin",
+        "Lili Meng",
+        "Leonid Sigal"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01300-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01300-7.pdf"
+    },
+    {
+      "id": "Bang_Discriminator_Feature_Based_Inference_by_Recycling_the_Discr_IJCV_2020_paper",
+      "title": "Discriminator Feature-Based Inference by Recycling the Discriminator of GANs",
+      "authors": [
+        "Duhyeon Bang",
+        "Seoungyoon Kang",
+        "Hyunjung Shim"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01311-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01311-4.pdf"
+    },
+    {
+      "id": "Anirudh_MimicGAN_Robust_Projection_onto_Image_Manifolds_with_Corrupt_IJCV_2020_paper",
+      "title": "MimicGAN: Robust Projection onto Image Manifolds with Corruption Mimicking",
+      "authors": [
+        "Rushil Anirudh",
+        "Jayaraman J. Thiagarajan",
+        "Bhavya Kailkhura",
+        "Peer-Timo Bremer"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01310-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01310-5.pdf"
+    },
+    {
+      "id": "Rajeswar_Pix2Shape_Towards_Unsupervised_Learning_of_3D_Scenes_from_Im_IJCV_2020_paper",
+      "title": "Pix2Shape: Towards Unsupervised Learning of 3D Scenes from Images Using a View-Based Representation",
+      "authors": [
+        "Sai Rajeswar",
+        "Fahim Mannan",
+        "Florian Golemo",
+        "Jérôme Parent-Lévesque",
+        "David Vázquez",
+        "Derek Nowrouzezahrai",
+        "Aaron C. Courville"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01322-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01322-1.pdf"
+    },
+    {
+      "id": "Nie_Adversarial_Confidence_Learning_for_Medical_Image_Segmentati_IJCV_2020_paper",
+      "title": "Adversarial Confidence Learning for Medical Image Segmentation and Synthesis",
+      "authors": [
+        "Dong Nie",
+        "Dinggang Shen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01321-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01321-2.pdf"
+    },
+    {
+      "id": "Zhao_Towards_Image_to_Video_Translation_A_Structure_Aware_Approac_IJCV_2020_paper",
+      "title": "Towards Image-to-Video Translation: A Structure-Aware Approach via Multi-stage Generative Adversarial Networks",
+      "authors": [
+        "Long Zhao",
+        "Xi Peng",
+        "Yu Tian",
+        "Mubbasir Kapadia",
+        "Dimitris N. Metaxas"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01328-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01328-9.pdf"
+    },
+    {
+      "id": "Moschoglou_3DFaceGAN_Adversarial_Nets_for_3D_Face_Representation_Genera_IJCV_2020_paper",
+      "title": "3DFaceGAN: Adversarial Nets for 3D Face Representation, Generation, and Translation",
+      "authors": [
+        "Stylianos Moschoglou",
+        "Stylianos Ploumpis",
+        "Mihalis A. Nicolaou",
+        "Athanasios Papaioannou",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01329-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01329-8.pdf"
+    },
+    {
+      "id": "Sheng_High_Quality_Video_Generation_from_Static_Structural_Annotat_IJCV_2020_paper",
+      "title": "High-Quality Video Generation from Static Structural Annotations",
+      "authors": [
+        "Lu Sheng",
+        "Junting Pan",
+        "Jiaming Guo",
+        "Jing Shao",
+        "Chen Change Loy"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01334-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01334-x.pdf"
+    },
+    {
+      "id": "Azadi_Compositional_GAN_Learning_Image_Conditional_Binary_Composit_IJCV_2020_paper",
+      "title": "Compositional GAN: Learning Image-Conditional Binary Composition",
+      "authors": [
+        "Samaneh Azadi",
+        "Deepak Pathak",
+        "Sayna Ebrahimi",
+        "Trevor Darrell"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01336-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01336-9.pdf"
+    },
+    {
+      "id": "Saito_Train_Sparsely_Generate_Densely_Memory_Efficient_Unsupervise_IJCV_2020_paper",
+      "title": "Train Sparsely, Generate Densely: Memory-Efficient Unsupervised Training of High-Resolution Temporal GAN",
+      "authors": [
+        "Masaki Saito",
+        "Shunta Saito",
+        "Masanori Koyama",
+        "Sosuke Kobayashi"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01333-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01333-y.pdf"
+    },
+    {
+      "id": "Li_Multimodal_Image_Synthesis_with_Conditional_Implicit_Maximum_IJCV_2020_paper",
+      "title": "Multimodal Image Synthesis with Conditional Implicit Maximum Likelihood Estimation",
+      "authors": [
+        "Ke Li",
+        "Shichong Peng",
+        "Tianhao Zhang",
+        "Jitendra Malik"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01325-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01325-y.pdf"
+    },
+    {
+      "id": "Ververas_SliderGAN_Synthesizing_Expressive_Face_Images_by_Sliding_3D__IJCV_2020_paper",
+      "title": "SliderGAN: Synthesizing Expressive Face Images by Sliding 3D Blendshape Parameters",
+      "authors": [
+        "Evangelos Ververas",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01338-7",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01338-7.pdf"
+    },
+    {
+      "id": "Gadelha_Inferring_3D_Shapes_from_Image_Collections_Using_Adversarial_IJCV_2020_paper",
+      "title": "Inferring 3D Shapes from Image Collections Using Adversarial Networks",
+      "authors": [
+        "Matheus Gadelha",
+        "Aartika Rai",
+        "Subhransu Maji",
+        "Rui Wang"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01335-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01335-w.pdf"
+    },
+    {
+      "id": "Chrysos_RoCGAN_Robust_Conditional_GAN_IJCV_2020_paper",
+      "title": "RoCGAN: Robust Conditional GAN",
+      "authors": [
+        "Grigorios G. Chrysos",
+        "Jean Kossaifi",
+        "Stefanos Zafeiriou"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01348-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01348-5.pdf"
+    },
+    {
+      "id": "Dutta_Semantically_Tied_Paired_Cycle_Consistency_for_Any_Shot_Sket_IJCV_2020_paper",
+      "title": "Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-Based Image Retrieval",
+      "authors": [
+        "Anjan Dutta",
+        "Zeynep Akata"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01350-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01350-x.pdf"
+    },
+    {
+      "id": "Yu_Densifying_Supervision_for_Fine_Grained_Visual_Comparisons_IJCV_2020_paper",
+      "title": "Densifying Supervision for Fine-Grained Visual Comparisons",
+      "authors": [
+        "Aron Yu",
+        "Kristen Grauman"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01344-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01344-9.pdf"
+    },
+    {
+      "id": "Abbasnejad_GADE_A_Generative_Adversarial_Approach_to_Density_Estimation_IJCV_2020_paper",
+      "title": "GADE: A Generative Adversarial Approach to Density Estimation and its Applications",
+      "authors": [
+        "M. Ehsan Abbasnejad",
+        "Javen Shi",
+        "Anton van den Hengel",
+        "Lingqiao Liu"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01360-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01360-9.pdf"
+    },
+    {
+      "id": "Geng_Towards_Photo_Realistic_Facial_Expression_Manipulation_IJCV_2020_paper",
+      "title": "Towards Photo-Realistic Facial Expression Manipulation",
+      "authors": [
+        "Zhenglin Geng",
+        "Chen Cao",
+        "Sergey Tulyakov"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01361-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01361-8.pdf"
+    },
+    {
+      "id": "Li_CR_Net_A_Deep_Classification_Regression_Network_for_Multimod_IJCV_2020_paper",
+      "title": "CR-Net: A Deep Classification-Regression Network for Multimodal Apparent Personality Analysis",
+      "authors": [
+        "Yunan Li",
+        "Jun Wan",
+        "Qiguang Miao",
+        "Sergio Escalera",
+        "Huijuan Fang",
+        "Huizhou Chen",
+        "Xiangda Qi",
+        "Guodong Guo"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01309-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01309-y.pdf"
+    },
+    {
+      "id": "Martyushev_Necessary_and_Sufficient_Polynomial_Constraints_on_Compatibl_IJCV_2020_paper",
+      "title": "Necessary and Sufficient Polynomial Constraints on Compatible Triplets of Essential Matrices",
+      "authors": [
+        "Evgeniy V. Martyushev"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01330-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01330-1.pdf"
+    },
+    {
+      "id": "Debavelaere_Learning_the_Clustering_of_Longitudinal_Shape_Data_Sets_into_IJCV_2020_paper",
+      "title": "Learning the Clustering of Longitudinal Shape Data Sets into a Mixture of Independent or Branching Trajectories",
+      "authors": [
+        "Vianney Debavelaere",
+        "Stanley Durrleman",
+        "Stéphanie Allassonnière"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01337-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01337-8.pdf"
+    },
+    {
+      "id": "Li_Transferrable_Feature_and_Projection_Learning_with_Class_Hie_IJCV_2020_paper",
+      "title": "Transferrable Feature and Projection Learning with Class Hierarchy for Zero-Shot Learning",
+      "authors": [
+        "Aoxue Li",
+        "Zhiwu Lu",
+        "Jiechao Guan",
+        "Tao Xiang",
+        "Liwei Wang",
+        "Ji-Rong Wen"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01342-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01342-x.pdf"
+    },
+    {
+      "id": "Martins_Gradient_Shape_Model_IJCV_2020_paper",
+      "title": "Gradient Shape Model",
+      "authors": [
+        "Pedro Martins",
+        "João F. Henriques",
+        "Jorge Batista"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01341-y",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01341-y.pdf"
+    },
+    {
+      "id": "Wang_Mix_and_Match_Networks_Cross_Modal_Alignment_for_Zero_Pair_I_IJCV_2020_paper",
+      "title": "Mix and Match Networks: Cross-Modal Alignment for Zero-Pair Image-to-Image Translation",
+      "authors": [
+        "Yaxing Wang",
+        "Luis Herranz",
+        "Joost van de Weijer"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01340-z",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01340-z.pdf"
+    },
+    {
+      "id": "Bne_Learning_the_spatiotemporal_variability_in_longitudinal_shap_IJCV_2020_paper",
+      "title": "Learning the spatiotemporal variability in longitudinal shape data sets",
+      "authors": [
+        "Alexandre Bône",
+        "Olivier Colliot",
+        "Stanley Durrleman"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01343-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01343-w.pdf"
+    },
+    {
+      "id": "Kang_Incorporating_Side_Information_by_Adaptive_Convolution_IJCV_2020_paper",
+      "title": "Incorporating Side Information by Adaptive Convolution",
+      "authors": [
+        "Di Kang",
+        "Debarun Dhar",
+        "Antoni B. Chan"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01345-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01345-8.pdf"
+    },
+    {
+      "id": "Xie_Pix2Vox_Multi_scale_Context_aware_3D_Object_Reconstruction_f_IJCV_2020_paper",
+      "title": "Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images",
+      "authors": [
+        "Haozhe Xie",
+        "Hongxun Yao",
+        "Shengping Zhang",
+        "Shangchen Zhou",
+        "Wenxiu Sun"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01347-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01347-6.pdf"
+    },
+    {
+      "id": "Li_Long_Short_Temporal_Spatial_Clues_Excited_Network_for_Robust_IJCV_2020_paper",
+      "title": "Long-Short Temporal-Spatial Clues Excited Network for Robust Person Re-identification",
+      "authors": [
+        "Shuai Li",
+        "Wenfeng Song",
+        "Zheng Fang",
+        "Jiaying Shi",
+        "Aimin Hao",
+        "Qinping Zhao",
+        "Hong Qin"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01349-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01349-4.pdf"
+    },
+    {
+      "id": "Chai_Rooted_Spanning_Superpixels_IJCV_2020_paper",
+      "title": "Rooted Spanning Superpixels",
+      "authors": [
+        "Dengfeng Chai"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01352-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01352-9.pdf"
+    },
+    {
+      "id": "Rahman_Zero_Shot_Object_Detection_Joint_Recognition_and_Localizatio_IJCV_2020_paper",
+      "title": "Zero-Shot Object Detection: Joint Recognition and Localization of Novel Concepts",
+      "authors": [
+        "Shafin Rahman",
+        "Salman H. Khan",
+        "Fatih Porikli"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01355-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01355-6.pdf"
+    },
+    {
+      "id": "Cevikalp_Video_Based_Face_Recognition_by_Using_Discriminatively_Learn_IJCV_2020_paper",
+      "title": "Video Based Face Recognition by Using Discriminatively Learned Convex Models",
+      "authors": [
+        "Hakan Cevikalp",
+        "Golara Ghorban Dordinejad"
+      ],
+      "year": "2020",
+      "venue": "ijcv",
+      "url": "https://doi.org/10.1007/s11263-020-01356-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-020-01356-5.pdf"
+    }
+  ]
+}

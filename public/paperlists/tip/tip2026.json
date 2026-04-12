@@ -1,0 +1,3815 @@
+{
+  "papers": [
+    {
+      "id": "Xiao_Enhanced_Geometry_and_Semantics_for_Camera_Based_3D_Semantic_TIP_2026_paper",
+      "title": "Enhanced Geometry and Semantics for Camera-Based 3D Semantic Scene Completion",
+      "authors": [
+        "Haihong Xiao",
+        "Wenxiong Kang",
+        "Yulan Guo",
+        "Hao Liu",
+        "Ying He"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3635475",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3635475"
+    },
+    {
+      "id": "Sun_Embracing_the_Power_of_Known_Class_Bias_in_Open_Set_Recognit_TIP_2026_paper",
+      "title": "Embracing the Power of Known Class Bias in Open Set Recognition From a Reconstruction Perspective",
+      "authors": [
+        "Heyang Sun",
+        "Chuanxing Geng",
+        "Songcan Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3644791",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3644791"
+    },
+    {
+      "id": "Hu_LNet_Lightweight_Network_for_Driver_Attention_Estimation_via_TIP_2026_paper",
+      "title": "LNet: Lightweight Network for Driver Attention Estimation via Scene and Gaze Consistency",
+      "authors": [
+        "Daosong Hu",
+        "Xi Li",
+        "Mingyue Cui",
+        "Kai Huang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646893",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646893"
+    },
+    {
+      "id": "Yu_Task_Driven_Underwater_Image_Enhancement_via_Hierarchical_Se_TIP_2026_paper",
+      "title": "Task-Driven Underwater Image Enhancement via Hierarchical Semantic Refinement",
+      "authors": [
+        "Meng Yu",
+        "Liquan Shen",
+        "Yihan Yu",
+        "Yu Zhang",
+        "Rui Le"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3647323",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3647323"
+    },
+    {
+      "id": "Fu_Token_Calibration_for_Transformer_Based_Domain_Adaptation_TIP_2026_paper",
+      "title": "Token Calibration for Transformer-Based Domain Adaptation",
+      "authors": [
+        "Xiaowei Fu",
+        "Shiyu Ye",
+        "Chenxu Zhang",
+        "Fuxiang Huang",
+        "Xin Xu",
+        "Lei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3647367",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3647367"
+    },
+    {
+      "id": "Xu_Coupled_Diffusion_Posterior_Sampling_for_Unsupervised_Hypers_TIP_2026_paper",
+      "title": "Coupled Diffusion Posterior Sampling for Unsupervised Hyperspectral and Multispectral Images Fusion",
+      "authors": [
+        "Yang Xu",
+        "Jian Zhu",
+        "Danfeng Hong",
+        "Zhihui Wei",
+        "Zebin Wu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3647207",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3647207"
+    },
+    {
+      "id": "Jing_Reflectance_Prediction_Based_Knowledge_Distillation_for_Robu_TIP_2026_paper",
+      "title": "Reflectance Prediction-Based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds",
+      "authors": [
+        "Hao Jing",
+        "Anhong Wang",
+        "Yifan Zhang",
+        "Donghan Bu",
+        "Junhui Hou"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648203",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648203"
+    },
+    {
+      "id": "Naing_AGAFNet_Adaptive_Gated_Attention_Fusion_Network_for_Accurate_TIP_2026_paper",
+      "title": "AGAFNet: Adaptive Gated Attention Fusion Network for Accurate Nuclei Segmentation and Classification in Histology Images",
+      "authors": [
+        "Nyi Nyi Naing",
+        "Huazhen Chen",
+        "Qing Cai",
+        "Lili Xia",
+        "Zhongke Gao",
+        "Jianpeng An"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646471",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646471"
+    },
+    {
+      "id": "Ding_FocusPatch_AD_Few_Shot_Multi_Class_Anomaly_Detection_With_Un_TIP_2026_paper",
+      "title": "FocusPatch AD: Few-Shot Multi-Class Anomaly Detection With Unified Keywords Patch Prompts",
+      "authors": [
+        "Xicheng Ding",
+        "Xiaofan Li",
+        "Mingang Chen",
+        "Jingyu Gong",
+        "Yuan Xie"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646861",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646861"
+    },
+    {
+      "id": "Li_Multi_Stage_Group_Interaction_and_Cross_Domain_Fusion_Networ_TIP_2026_paper",
+      "title": "Multi-Stage Group Interaction and Cross-Domain Fusion Network for Real-Time Smoke Segmentation",
+      "authors": [
+        "Kang Li",
+        "Feiniu Yuan",
+        "Chunmei Wang",
+        "Chunli Meng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646455",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646455"
+    },
+    {
+      "id": "Xu_Unlocking_Cross_Domain_Synergies_for_Domain_Adaptive_Semanti_TIP_2026_paper",
+      "title": "Unlocking Cross-Domain Synergies for Domain Adaptive Semantic Segmentation",
+      "authors": [
+        "Qin Xu",
+        "Qihang Wu",
+        "Bo Jiang",
+        "Jiahui Wang",
+        "Yuan Chen",
+        "Jinhui Tang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3645599",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3645599"
+    },
+    {
+      "id": "Li_Few_Shot_Fine_Grained_Classification_With_Foreground_Aware_K_TIP_2026_paper",
+      "title": "Few-Shot Fine-Grained Classification With Foreground-Aware Kernelized Feature Reconstruction Network",
+      "authors": [
+        "Yangfan Li",
+        "Wei Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646940",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646940"
+    },
+    {
+      "id": "Wang_Cross_Modality_Feature_Aggregation_for_Cross_Domain_Point_Cl_TIP_2026_paper",
+      "title": "Cross-Modality Feature Aggregation for Cross-Domain Point Cloud Representation Learning",
+      "authors": [
+        "Guoqing Wang",
+        "Chao Ma",
+        "Xiaokang Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646890",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646890"
+    },
+    {
+      "id": "Yan_M3D_A_Benchmark_Dataset_and_Model_for_Microscopic_3D_Shape_R_TIP_2026_paper",
+      "title": "M3D: A Benchmark Dataset and Model for Microscopic 3D Shape Reconstruction",
+      "authors": [
+        "Tao Yan",
+        "Yingying Wang",
+        "Yuhua Qian",
+        "Jiangfeng Zhang",
+        "Feijiang Li",
+        "Peng Wu",
+        "Lu Chen",
+        "Jieru Jia",
+        "Xiaoying Guo"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646889",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646889"
+    },
+    {
+      "id": "Yu_FRFSL_Feature_Reconstruction_Based_Cross_Domain_Few_Shot_Lea_TIP_2026_paper",
+      "title": "FRFSL: Feature Reconstruction-Based Cross-Domain Few-Shot Learning for Coastal Wetland Hyperspectral Image Classification",
+      "authors": [
+        "Qixing Yu",
+        "Zhongwei Li",
+        "Ziqi Xin",
+        "Fangming Guo",
+        "Guangbo Ren",
+        "Jianbu Wang",
+        "Zhenggang Bi"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646073",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646073"
+    },
+    {
+      "id": "Guo_Toward_Unified_Co_Speech_Gesture_Generation_via_Hierarchical_TIP_2026_paper",
+      "title": "Toward Unified Co-Speech Gesture Generation via Hierarchical Implicit Periodicity Learning",
+      "authors": [
+        "Xin Guo",
+        "Yifan Zhao",
+        "Jia Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3645572",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3645572"
+    },
+    {
+      "id": "Zhang_Micro_Expression_Analysis_Based_on_Self_Adaptive_Pseudo_Labe_TIP_2026_paper",
+      "title": "Micro-Expression Analysis Based on Self-Adaptive Pseudo-Labeling and Residual Connected Channel Attention Mechanisms",
+      "authors": [
+        "Jinxiu Zhang",
+        "Weidong Min",
+        "Jiahao Li",
+        "Qing Han"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3642527",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3642527"
+    },
+    {
+      "id": "Yue_SGNet_Style_Guided_Network_With_Temporal_Compensation_for_Un_TIP_2026_paper",
+      "title": "SGNet: Style-Guided Network With Temporal Compensation for Unpaired Low-Light Colonoscopy Video Enhancement",
+      "authors": [
+        "Guanghui Yue",
+        "Lixin Zhang",
+        "Wanqing Liu",
+        "Jingfeng Du",
+        "Tianwei Zhou",
+        "Hanhe Lin",
+        "Qiuping Jiang",
+        "Wenqi Ren"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3644172",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3644172"
+    },
+    {
+      "id": "Zheng_TSFormer_Efficient_Ultra_High_Definition_Image_Restoration_v_TIP_2026_paper",
+      "title": "TSFormer: Efficient Ultra-High-Definition Image Restoration via Trusted Min-p",
+      "authors": [
+        "Zhuoran Zheng",
+        "Pu Wang",
+        "Liubing Hu",
+        "Xin Su"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3645583",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3645583"
+    },
+    {
+      "id": "Ruan_Implicit_Neural_Compression_of_Point_Clouds_TIP_2026_paper",
+      "title": "Implicit Neural Compression of Point Clouds",
+      "authors": [
+        "Hongning Ruan",
+        "Yulin Shao",
+        "Qianqian Yang",
+        "Liang Zhao",
+        "Zhaoyang Zhang",
+        "Dusit Niyato"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648141",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648141"
+    },
+    {
+      "id": "Liu_InfoARD_Enhancing_Adversarial_Robustness_Distillation_With_A_TIP_2026_paper",
+      "title": "InfoARD: Enhancing Adversarial Robustness Distillation With Attack-Strength Adaptation and Mutual-Information Maximization",
+      "authors": [
+        "Ruihan Liu",
+        "Jieyi Cai",
+        "Yishu Liu",
+        "Sudong Cai",
+        "Bingzhi Chen",
+        "Yulan Guo",
+        "Mohammed Bennamoun"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3637689",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3637689"
+    },
+    {
+      "id": "Yu_High_Precision_Camera_Distortion_Correction_A_Decoupled_Appr_TIP_2026_paper",
+      "title": "High-Precision Camera Distortion Correction: A Decoupled Approach With Rational Functions",
+      "authors": [
+        "Jiachuan Yu",
+        "Han Sun",
+        "Yuankai Zhou",
+        "Xiaowei Jiang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3641052",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3641052"
+    },
+    {
+      "id": "Tian_A_Cosine_Network_for_Image_Super_Resolution_TIP_2026_paper",
+      "title": "A Cosine Network for Image Super-Resolution",
+      "authors": [
+        "Chunwei Tian",
+        "Chengyuan Zhang",
+        "Bob Zhang",
+        "Zhiwu Li",
+        "C. L. Philip Chen",
+        "David Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3645630",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3645630"
+    },
+    {
+      "id": "Li_FourierSR_A_Fourier_Token_Based_Plugin_for_Efficient_Image_S_TIP_2026_paper",
+      "title": "FourierSR: A Fourier Token-Based Plugin for Efficient Image Super-Resolution",
+      "authors": [
+        "Wenjie Li",
+        "Heng Guo",
+        "Yuefeng Hou",
+        "Zhanyu Ma"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648872",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648872"
+    },
+    {
+      "id": "Li_Toward_Generative_Understanding_Incremental_Few_Shot_Semanti_TIP_2026_paper",
+      "title": "Toward Generative Understanding: Incremental Few-Shot Semantic Segmentation With Diffusion Models",
+      "authors": [
+        "Qun Li",
+        "Lu Huang",
+        "Fu Xiao",
+        "Na Zhao",
+        "Bir Bhanu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652357",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652357"
+    },
+    {
+      "id": "Li_Harnessing_Group_Oriented_Consistency_Constraints_for_Semi_S_TIP_2026_paper",
+      "title": "Harnessing Group-Oriented Consistency Constraints for Semi-Supervised Semantic Segmentation in CdZnTe Semiconductors",
+      "authors": [
+        "Peihao Li",
+        "Yan Fang",
+        "Man Liu",
+        "Huihui Bai",
+        "Anhong Wang",
+        "Yunchao Wei",
+        "Yao Zhao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3646474",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3646474"
+    },
+    {
+      "id": "Zhang_Hippocampal_Memory_Like_Separation_Completion_Collaborative__TIP_2026_paper",
+      "title": "Hippocampal Memory-Like Separation-Completion Collaborative Network for Unbiased Scene Graph Generation",
+      "authors": [
+        "Ruonan Zhang",
+        "Gaoyun An",
+        "Yiqing Hao",
+        "Dapeng Oliver Wu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650668",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650668"
+    },
+    {
+      "id": "Wang_EinsPT_Efficient_Instance_Aware_Pre_Training_of_Vision_Found_TIP_2026_paper",
+      "title": "EinsPT: Efficient Instance-Aware Pre-Training of Vision Foundation Models",
+      "authors": [
+        "Zhaozhi Wang",
+        "Yunjie Tian",
+        "Lingxi Xie",
+        "Yaowei Wang",
+        "Qixiang Ye"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652371",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652371"
+    },
+    {
+      "id": "Liu_Self_Supervised_Unfolding_Network_With_Shared_Reflectance_Le_TIP_2026_paper",
+      "title": "Self-Supervised Unfolding Network With Shared Reflectance Learning for Low-Light Image Enhancement",
+      "authors": [
+        "Jia Liu",
+        "Yu Luo",
+        "Guanghui Yue",
+        "Jie Ling",
+        "Liang Liao",
+        "Chia-Wen Lin",
+        "Guangtao Zhai",
+        "Wei Zhou"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652021",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652021"
+    },
+    {
+      "id": "Fang_Selecting_and_Pruning_A_Differentiable_Causal_Sequentialized_TIP_2026_paper",
+      "title": "Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning",
+      "authors": [
+        "Xiang Fang",
+        "Shihua Zhang",
+        "Hao Zhang",
+        "Xiaoguang Mei",
+        "Huabing Zhou",
+        "Jiayi Ma"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3653189",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3653189"
+    },
+    {
+      "id": "Li_Diagnosing_and_Improving_Vector_Quantization_Based_Blind_Ima_TIP_2026_paper",
+      "title": "Diagnosing and Improving Vector-Quantization-Based Blind Image Restoration",
+      "authors": [
+        "Hongyu Li",
+        "Tianyi Xu",
+        "Zengyou Wang",
+        "Xiantong Zhen",
+        "Ran Gu",
+        "David Zhang",
+        "Jun Xu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651985",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651985"
+    },
+    {
+      "id": "Li_Vision_Enhancing_LLMs_Empowering_Multimodal_Knowledge_Storag_TIP_2026_paper",
+      "title": "Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs",
+      "authors": [
+        "Yunxin Li",
+        "Zhenyu Liu",
+        "Baotian Hu",
+        "Wei Wang",
+        "Yuxin Ding",
+        "Xiaochun Cao",
+        "Min Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3649356",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3649356"
+    },
+    {
+      "id": "Jiang_Progressive_Feature_Encoding_With_Background_Perturbation_Le_TIP_2026_paper",
+      "title": "Progressive Feature Encoding With Background Perturbation Learning for Ultra-Fine-Grained Visual Categorization",
+      "authors": [
+        "Xin Jiang",
+        "Ziye Fang",
+        "Fei Shen",
+        "Junyao Gao",
+        "Zechao Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651956",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651956"
+    },
+    {
+      "id": "Zhang_Multi_Stage_Knowledge_Integration_of_Vision_Language_Models__TIP_2026_paper",
+      "title": "Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning",
+      "authors": [
+        "Hongsheng Zhang",
+        "Zhong Ji",
+        "Jingren Liu",
+        "Yanwei Pang",
+        "Jungong Han"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652014",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652014"
+    },
+    {
+      "id": "Yang_A_Variational_Multi_Scale_Model_for_Multi_Exposure_Image_Fus_TIP_2026_paper",
+      "title": "A Variational Multi-Scale Model for Multi-Exposure Image Fusion",
+      "authors": [
+        "Yuming Yang",
+        "Wei Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650052",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650052"
+    },
+    {
+      "id": "Fu_IAP_Improving_Continual_Learning_of_Vision_Language_Models_v_TIP_2026_paper",
+      "title": "IAP: Improving Continual Learning of Vision-Language Models via Instance-Aware Prompting",
+      "authors": [
+        "Hao Fu",
+        "Hanbin Zhao",
+        "Jiahua Dong",
+        "Henghui Ding",
+        "Chao Zhang",
+        "Hui Qian"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650045",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650045"
+    },
+    {
+      "id": "Zhou_TSCCD_Temporal_Self_Construction_Cross_Domain_Learning_for_U_TIP_2026_paper",
+      "title": "TSCCD: Temporal Self-Construction Cross-Domain Learning for Unsupervised Hyperspectral Change Detection",
+      "authors": [
+        "Tianyuan Zhou",
+        "Fulin Luo",
+        "Chuan Fu",
+        "Tan Guo",
+        "Bo Du",
+        "Xinbo Gao",
+        "Liangpei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650387",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650387"
+    },
+    {
+      "id": "Fang_SigMa_Semantic_Similarity_Guided_Semi_Dense_Feature_Matching_TIP_2026_paper",
+      "title": "SigMa: Semantic Similarity-Guided Semi-Dense Feature Matching",
+      "authors": [
+        "Xiang Fang",
+        "Zizhuo Li",
+        "Jiayi Ma"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654367",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654367"
+    },
+    {
+      "id": "Wu_Imbalanced_Multiclassification_Challenges_in_Whole_Slide_Ima_TIP_2026_paper",
+      "title": "Imbalanced Multiclassification Challenges in Whole Slide Image: Cross-Patient Pseudo Bags Generation and Curriculum Contrastive Learning With Dynamic Rebalancing",
+      "authors": [
+        "Yonghuang Wu",
+        "Xuan Xie",
+        "Chengqian Zhao",
+        "Pengfei Song",
+        "Feiyu Yin",
+        "Guoqing Wu",
+        "Jinhua Yu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654402",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654402"
+    },
+    {
+      "id": "Zhang_Reliable_Pseudo_Supervision_for_Unsupervised_Domain_Adaptive_TIP_2026_paper",
+      "title": "Reliable Pseudo-Supervision for Unsupervised Domain Adaptive Person Search",
+      "authors": [
+        "Qixian Zhang",
+        "Duoqian Miao",
+        "Qi Zhang",
+        "Xuan Tan",
+        "Hongyun Zhang",
+        "Cairong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654373",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654373"
+    },
+    {
+      "id": "Ji_Interpretable_Few_Shot_Image_Classification_via_Prototypical_TIP_2026_paper",
+      "title": "Interpretable Few-Shot Image Classification via Prototypical Concept-Guided Mixture of LoRA Experts",
+      "authors": [
+        "Zhong Ji",
+        "Rongshuai Wei",
+        "Jingren Liu",
+        "Yanwei Pang",
+        "Jungong Han"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654473",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654473"
+    },
+    {
+      "id": "Lee_Particle_Diffusion_Matching_Random_Walk_Correspondence_Searc_TIP_2026_paper",
+      "title": "Particle Diffusion Matching: Random Walk Correspondence Search for the Alignment of Standard and Ultra-Widefield Fundus Images",
+      "authors": [
+        "Kanggeon Lee",
+        "Soochahn Lee",
+        "Kyoung Mu Lee"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3653198",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3653198"
+    },
+    {
+      "id": "Dang_Fast_Track_Anything_With_Sparse_Spatio_Temporal_Propagation__TIP_2026_paper",
+      "title": "Fast Track Anything With Sparse Spatio-Temporal Propagation for Unified Video Segmentation",
+      "authors": [
+        "Jisheng Dang",
+        "Huicheng Zheng",
+        "Zhixuan Chen",
+        "Zhang Li",
+        "Yulan Guo",
+        "Tat-Seng Chua"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3649365",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3649365"
+    },
+    {
+      "id": "Yang_SAMURAI_Motion_Aware_Memory_for_Training_Free_Visual_Object__TIP_2026_paper",
+      "title": "SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking With SAM 2",
+      "authors": [
+        "Cheng-Yeng Yang",
+        "Hsiang-Wei Huang",
+        "Wenhao Chai",
+        "Zhongyu Jiang",
+        "Jenq-Neng Hwang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651835",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651835"
+    },
+    {
+      "id": "Wang_P_CLIP_Progressive_Discrepancy_Learning_for_One_Shot_Text_to_TIP_2026_paper",
+      "title": "P-CLIP: Progressive Discrepancy Learning for One-Shot Text-to-Image Person Re-Identification",
+      "authors": [
+        "Chengji Wang",
+        "Ming Dong",
+        "Mang Ye",
+        "Hao Sun",
+        "Xingpeng Jiang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648582",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648582"
+    },
+    {
+      "id": "Niu_Information_Maximized_Soft_Variable_Discretization_for_Self__TIP_2026_paper",
+      "title": "Information-Maximized Soft Variable Discretization for Self-Supervised Image Representation Learning",
+      "authors": [
+        "Chuang Niu",
+        "Wenjun Xia",
+        "Hongming Shan",
+        "Ge Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648138",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648138"
+    },
+    {
+      "id": "Shi_Masked_Self_Attention_Fusion_Network_for_Joint_Classificatio_TIP_2026_paper",
+      "title": "Masked Self-Attention Fusion Network for Joint Classification of Hyperspectral and LiDAR Data",
+      "authors": [
+        "Lulu Shi",
+        "Chunchao Li",
+        "Zhengchao Zeng",
+        "Puhong Duan",
+        "Behnood Rasti",
+        "Antonio Plaza"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648926",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648926"
+    },
+    {
+      "id": "Wang_Hi_RWKV_Hierarchical_RWKV_Modeling_for_Hyperspectral_Image_C_TIP_2026_paper",
+      "title": "Hi-RWKV: Hierarchical RWKV Modeling for Hyperspectral Image Classification",
+      "authors": [
+        "Yunbiao Wang",
+        "Dongbo Yu",
+        "Ye Tao",
+        "Hengyu Niu",
+        "Daifeng Xiao",
+        "Lupeng Liu",
+        "Jun Xiao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648554",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648554"
+    },
+    {
+      "id": "Tian_Dual_Domain_Attribute_Learning_Framework_With_Asynchronous_A_TIP_2026_paper",
+      "title": "Dual Domain-Attribute Learning Framework With Asynchronous Adapters for Continual Test-Time Adaptation",
+      "authors": [
+        "Yuntong Tian",
+        "Kang Li",
+        "Tianyang He",
+        "Liang Wan",
+        "Pheng-Ann Heng",
+        "Wei Feng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648882",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648882"
+    },
+    {
+      "id": "Liu_RAR_Retrieving_and_Ranking_Augmented_MLLMs_for_Visual_Recogn_TIP_2026_paper",
+      "title": "RAR: Retrieving and Ranking Augmented MLLMs for Visual Recognition",
+      "authors": [
+        "Ziyu Liu",
+        "Zeyi Sun",
+        "Yuhang Zang",
+        "Wei Li",
+        "Pan Zhang",
+        "Xiaoyi Dong",
+        "Yuanjun Xiong",
+        "Dahua Lin",
+        "Jiaqi Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3644175",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3644175"
+    },
+    {
+      "id": "Jiang_MCFL_Multimodal_Collaborative_Fusion_Learning_for_Hashimoto__TIP_2026_paper",
+      "title": "MCFL: Multimodal Collaborative Fusion Learning for Hashimoto's Thyroiditis Recognition",
+      "authors": [
+        "Wenchao Jiang",
+        "Guanjie Zhou",
+        "Honghua Bai",
+        "Ji He",
+        "Chao Huang",
+        "Feng Han",
+        "Wei Song",
+        "Song Guo"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3649346",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3649346"
+    },
+    {
+      "id": "Xiang_Learning_Decoupled_Features_With_Perceptual_Distillation_for_TIP_2026_paper",
+      "title": "Learning Decoupled Features With Perceptual Distillation for Blind Image Quality Assessment",
+      "authors": [
+        "Jianjun Xiang",
+        "Yuanjie Dang",
+        "Peng Chen",
+        "Ronghua Liang",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648584",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648584"
+    },
+    {
+      "id": "Yang_Prototype_Based_Meta_Prompt_Tuning_Toward_Rehearsal_Free_Few_TIP_2026_paper",
+      "title": "Prototype-Based Meta-Prompt Tuning: Toward Rehearsal-Free Few-Shot Class-Incremental Learning for Multimodal Remote Sensing Image",
+      "authors": [
+        "Yuanbo Yang",
+        "Jiahui Qu",
+        "Wenqian Dong",
+        "Ling Huang",
+        "Yunsong Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650395",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650395"
+    },
+    {
+      "id": "Fan_DCD_UIE_Decoupled_Chromatic_Diffusion_Model_for_Underwater_I_TIP_2026_paper",
+      "title": "DCD-UIE: Decoupled Chromatic Diffusion Model for Underwater Image Enhancement",
+      "authors": [
+        "Guodong Fan",
+        "Yu Zhou",
+        "Jingchun Zhou",
+        "Yakun Ju",
+        "Guang-Yong Chen",
+        "Jinjiang Li",
+        "Alex ChiChung Kot"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648875",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648875"
+    },
+    {
+      "id": "Li_CoFaCo_Controllable_Generative_Talking_Face_Video_Coding_TIP_2026_paper",
+      "title": "CoFaCo: Controllable Generative Talking Face Video Coding",
+      "authors": [
+        "Xiaona Li",
+        "Xihua Sheng",
+        "Meng Wang",
+        "Fu-Zhao Ou",
+        "Bolin Chen",
+        "Shiqi Wang",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648562",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648562"
+    },
+    {
+      "id": "Peng_FCS_edNET_Exploring_Magnetic_Particle_Imaging_Deblurring_Wit_TIP_2026_paper",
+      "title": "FCS-edNET: Exploring Magnetic Particle Imaging Deblurring With Neural Network",
+      "authors": [
+        "Xiting Peng",
+        "Yandi Zhang",
+        "Xiaoyu Zhang",
+        "Junyi Wang",
+        "Shi Bai",
+        "Yubo Cao",
+        "Hongye Chen",
+        "Tianshu Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648497",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648497"
+    },
+    {
+      "id": "Zhou_Turbidity_Similarity_Decoupling_Feature_Consistent_Mutual_Le_TIP_2026_paper",
+      "title": "Turbidity-Similarity Decoupling: Feature-Consistent Mutual Learning for Underwater Salient Object Detection",
+      "authors": [
+        "Wujie Zhou",
+        "Beibei Tang",
+        "Runmin Cong",
+        "Qiuping Jiang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648880",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648880"
+    },
+    {
+      "id": "Chen_Learnable_Object_Queries_for_Few_Shot_Semantic_Segmentation_TIP_2026_paper",
+      "title": "Learnable Object Queries for Few-Shot Semantic Segmentation",
+      "authors": [
+        "Yadang Chen",
+        "Wenbo Chen",
+        "Yuhui Zheng",
+        "Zhi-Xin Yang",
+        "Enhua Wu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650372",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650372"
+    },
+    {
+      "id": "Leghettas_Image_Representation_Induced_Subspaces_for_Practical_Classif_TIP_2026_paper",
+      "title": "Image Representation Induced Subspaces for Practical Classification Robustness",
+      "authors": [
+        "Mohamed-Hicham Leghettas",
+        "Markus Püschel"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650023",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650023"
+    },
+    {
+      "id": "Chen_Subjective_Objective_Emotion_Correlated_Generation_Network_f_TIP_2026_paper",
+      "title": "Subjective-Objective Emotion-Correlated Generation Network for Subjective Video Captioning",
+      "authors": [
+        "Weidong Chen",
+        "Cheng Ye",
+        "Peipei Song",
+        "Lei Zhang",
+        "Yongdong Zhang",
+        "Zhendong Mao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3649363",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3649363"
+    },
+    {
+      "id": "Wang_Robust_Self_Supervised_Monocular_Depth_Estimation_for_Endosc_TIP_2026_paper",
+      "title": "Robust Self-Supervised Monocular Depth Estimation for Endoscopic Soft Tissue Deformation Scenes With Biomechanical Constraints",
+      "authors": [
+        "Enpeng Wang",
+        "Jiangchang Xu",
+        "Yueang Liu",
+        "Puxun Tu",
+        "Junfeng Wang",
+        "Xiaoyi Jiang",
+        "Xiaojun Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3650051",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3650051"
+    },
+    {
+      "id": "Sun_Completing_Missing_Entities_Exploring_Consistency_Reasoning__TIP_2026_paper",
+      "title": "Completing Missing Entities: Exploring Consistency Reasoning for Remote Sensing Object Detection",
+      "authors": [
+        "Peng Sun",
+        "Yongbin Zheng",
+        "Wanying Xu",
+        "Jian Li",
+        "Jiansong Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648164",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648164"
+    },
+    {
+      "id": "Yang_COSOS_1k_A_Benchmark_Dataset_and_Occlusion_Aware_Uncertainty_TIP_2026_paper",
+      "title": "COSOS-1k: A Benchmark Dataset and Occlusion-Aware Uncertainty Learning for Multi-View Video Object Detection",
+      "authors": [
+        "Wenjie Yang",
+        "Yueying Kao",
+        "Tong Liu",
+        "Yuanlong Yu",
+        "Kaiqi Huang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651950",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651950"
+    },
+    {
+      "id": "Guo_Automated_Orthognathic_Surgery_Planning_Based_on_Shape_Aware_TIP_2026_paper",
+      "title": "Automated Orthognathic Surgery Planning Based on Shape-Aware Morphology Prediction and Anatomy-Constrained Registration",
+      "authors": [
+        "Yan Guo",
+        "Chenyao Li",
+        "Haitao Li",
+        "Weiwen Ge",
+        "Bolun Zeng",
+        "Jiaxuan Liu",
+        "Tianhao Wan",
+        "Shanyong Zhang",
+        "Xiaojun Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651981",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651981"
+    },
+    {
+      "id": "Giannitrapani_BELE_Blur_Equivalent_Linearized_Estimator_TIP_2026_paper",
+      "title": "BELE: Blur Equivalent Linearized Estimator",
+      "authors": [
+        "Paolo Giannitrapani",
+        "Elio D. Di Claudio",
+        "Giovanni Jacovitti"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651959",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651959"
+    },
+    {
+      "id": "Gong_Token_Level_Prompt_Mixture_With_Parameter_Free_Routing_for_F_TIP_2026_paper",
+      "title": "Token-Level Prompt Mixture With Parameter-Free Routing for Federated Domain Generalization",
+      "authors": [
+        "Shuai Gong",
+        "Chaoran Cui",
+        "Xiaolin Dong",
+        "Xiushan Nie",
+        "Lei Zhu",
+        "Xiaojun Chang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652431",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652431"
+    },
+    {
+      "id": "Bi_Revisiting_Fine_Grained_Image_Analysis_by_Semantic_Part_Alig_TIP_2026_paper",
+      "title": "Revisiting Fine-Grained Image Analysis by Semantic-Part Alignment",
+      "authors": [
+        "Qi Bi",
+        "Jingjun Yi",
+        "Haolan Zhan",
+        "Wei Ji",
+        "Gui-Song Xia"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3649364",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3649364"
+    },
+    {
+      "id": "Gao_COME_A_Collaborative_Optimization_Framework_With_Low_Rank_Mo_TIP_2026_paper",
+      "title": "COME: A Collaborative Optimization Framework With Low-Rank MoE for Indoor 3D Object Detection",
+      "authors": [
+        "Hongbo Gao",
+        "Zimeng Tong",
+        "Fuyuan Qiu",
+        "Tao Xie",
+        "Ruifeng Li",
+        "Lijun Zhao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648200",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648200"
+    },
+    {
+      "id": "Zhao_UGAE_Unified_Geometry_and_Attribute_Enhancement_for_G_PCC_Co_TIP_2026_paper",
+      "title": "UGAE: Unified Geometry and Attribute Enhancement for G-PCC Compressed Point Clouds",
+      "authors": [
+        "Pan Zhao",
+        "Hui Yuan",
+        "Chongzhen Tian",
+        "Tian Guo",
+        "Raouf Hamzaoui",
+        "Zhigeng Pan"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654348",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654348"
+    },
+    {
+      "id": "Wang_Knowledge_Prompted_Trustworthy_Disentangled_Learning_for_Thy_TIP_2026_paper",
+      "title": "Knowledge-Prompted Trustworthy Disentangled Learning for Thyroid Ultrasound Segmentation With Limited Annotations",
+      "authors": [
+        "Wenxu Wang",
+        "Weizhen Wang",
+        "Qianjin Feng",
+        "Yu Zhang",
+        "Zhenyuan Ning"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654413",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654413"
+    },
+    {
+      "id": "Kaewkorn_Topology_Guided_Semantic_Face_Center_Estimation_for_Rotation_TIP_2026_paper",
+      "title": "Topology-Guided Semantic Face Center Estimation for Rotation-Invariant Face Detection",
+      "authors": [
+        "Hathai Kaewkorn",
+        "Lifang Zhou",
+        "Weisheng Li",
+        "Chengjiang Long"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654422",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654422"
+    },
+    {
+      "id": "Shen_Causally_Aware_Unsupervised_Feature_Selection_Learning_TIP_2026_paper",
+      "title": "Causally-Aware Unsupervised Feature Selection Learning",
+      "authors": [
+        "Zongxin Shen",
+        "Yanyong Huang",
+        "Dongjie Wang",
+        "Minbo Ma",
+        "Fengmao Lv",
+        "Tianrui Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654354",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654354"
+    },
+    {
+      "id": "Cai_U_RWKV_Accurate_and_Efficient_Volumetric_Medical_Image_Segme_TIP_2026_paper",
+      "title": "U-RWKV: Accurate and Efficient Volumetric Medical Image Segmentation via RWKV",
+      "authors": [
+        "Hongyu Cai",
+        "Yifan Wang",
+        "Liu Wang",
+        "Jian Zhao",
+        "Zhejun Kuang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654389",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654389"
+    },
+    {
+      "id": "Chen_RAM_VQA_Restoration_Assisted_Multi_Modality_Video_Quality_As_TIP_2026_paper",
+      "title": "RAM-VQA: Restoration Assisted Multi-Modality Video Quality Assessment",
+      "authors": [
+        "Pengfei Chen",
+        "Jiebin Yan",
+        "Rajiv Soundararajan",
+        "Giuseppe Valenzise",
+        "Li Cai",
+        "Leida Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3655117",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3655117"
+    },
+    {
+      "id": "Ma_Deep_G_PCC_Geometry_Preprocessing_via_Joint_Optimization_Wit_TIP_2026_paper",
+      "title": "Deep G-PCC Geometry Preprocessing via Joint Optimization With a Differentiable Codec Surrogate for Enhanced Compression Efficiency",
+      "authors": [
+        "Wanhao Ma",
+        "Wei Zhang",
+        "Shuai Wan",
+        "Fuzheng Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3655187",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3655187"
+    },
+    {
+      "id": "Liu_Post_Processing_Geometry_Enhancement_for_G_PCC_Compressed_Li_TIP_2026_paper",
+      "title": "Post-Processing Geometry Enhancement for G-PCC Compressed LiDAR via Cylindrical Densification",
+      "authors": [
+        "Wang Liu",
+        "Zhuangzi Li",
+        "Ge Li",
+        "Siwei Ma",
+        "Sam Kwong",
+        "Wei Gao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3653212",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3653212"
+    },
+    {
+      "id": "Qian_Individual_and_Common_Attack_Enhancing_Transferability_in_VL_TIP_2026_paper",
+      "title": "Individual and Common Attack: Enhancing Transferability in VLP Models Through Modal Feature Exploitation",
+      "authors": [
+        "Yaguan Qian",
+        "Yaxin Kong",
+        "Qiqi Bao",
+        "Zhaoquan Gu",
+        "Bin Wang",
+        "Shouling Ji",
+        "Jianping Zhang",
+        "Zhen Lei"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651982",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651982"
+    },
+    {
+      "id": "Peng_HR_SemNet_A_High_Resolution_Network_for_Enhanced_Small_Objec_TIP_2026_paper",
+      "title": "HR-SemNet: A High-Resolution Network for Enhanced Small Object Detection With Local Contextual Semantics",
+      "authors": [
+        "Can Peng",
+        "Manxin Chao",
+        "Ruoyu Li",
+        "Zaiqing Chen",
+        "Lijun Yun",
+        "Yuelong Xia"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654770",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654770"
+    },
+    {
+      "id": "Liu_LaCon_Late_Constraint_Controllable_Visual_Generation_TIP_2026_paper",
+      "title": "LaCon: Late-Constraint Controllable Visual Generation",
+      "authors": [
+        "Chang Liu",
+        "Rui Li",
+        "Kaidong Zhang",
+        "Yunwei Lan",
+        "Xin Luo",
+        "Dong Liu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654412",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654412"
+    },
+    {
+      "id": "Yuan_Unc_SOD_An_Uncertainty_Learning_Framework_for_Small_Object_D_TIP_2026_paper",
+      "title": "Unc-SOD: An Uncertainty Learning Framework for Small Object Detection",
+      "authors": [
+        "Xiang Yuan",
+        "Gong Cheng",
+        "Jiacheng Cheng",
+        "Ruixiang Yao",
+        "Junwei Han"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654892",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654892"
+    },
+    {
+      "id": "Guo_Boosting_Segment_Anything_Model_to_Generalize_Visually_Non_S_TIP_2026_paper",
+      "title": "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios",
+      "authors": [
+        "Guangqian Guo",
+        "Pengfei Chen",
+        "Yong Guo",
+        "Huafeng Chen",
+        "Boqiang Zhang",
+        "Shan Gao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651951",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651951"
+    },
+    {
+      "id": "Xie_DVG_Diffusion_Dual_View_Guided_Diffusion_Model_for_CT_Recons_TIP_2026_paper",
+      "title": "DVG-Diffusion: Dual-View-Guided Diffusion Model for CT Reconstruction From X-Rays",
+      "authors": [
+        "Xing Xie",
+        "Jiawei Liu",
+        "Huijie Fan",
+        "Zhi Han",
+        "Yandong Tang",
+        "Liangqiong Qu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3655171",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3655171"
+    },
+    {
+      "id": "Wang_3D_SLARM_Practical_Lossless_Volumetric_Image_Compression_via_TIP_2026_paper",
+      "title": "3D-SLARM: Practical Lossless Volumetric Image Compression via a 3D-Scanning Lightweight Autoregressive Model",
+      "authors": [
+        "Kai Wang",
+        "Yuanchao Bai",
+        "Daxin Li",
+        "Deming Zhai",
+        "Junjun Jiang",
+        "Xianming Liu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3648557",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3648557"
+    },
+    {
+      "id": "Qin_Dual_Domain_Optimization_Algorithm_for_CBCT_Ring_Artifact_Co_TIP_2026_paper",
+      "title": "Dual Domain Optimization Algorithm for CBCT Ring Artifact Correction",
+      "authors": [
+        "Yanwei Qin",
+        "Xiaohui Su",
+        "Xin Lu",
+        "Baodi Yu",
+        "Yunsong Zhao",
+        "Fanyong Meng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652008",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652008"
+    },
+    {
+      "id": "Duan_Domain_Adaptive_Mamba_for_Cross_Scene_Hyperspectral_Image_Cl_TIP_2026_paper",
+      "title": "Domain-Adaptive Mamba for Cross-Scene Hyperspectral Image Classification",
+      "authors": [
+        "Puhong Duan",
+        "Shiyu Jin",
+        "Xiaotian Lu",
+        "Lianhui Liang",
+        "Xudong Kang",
+        "Antonio Plaza"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657209",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657209"
+    },
+    {
+      "id": "Dang_Video_Decoupling_Networks_for_Accurate_Efficient_Generalizab_TIP_2026_paper",
+      "title": "Video Decoupling Networks for Accurate, Efficient, Generalizable, and Robust Video Object Segmentation",
+      "authors": [
+        "Jisheng Dang",
+        "Huicheng Zheng",
+        "Yulan Guo",
+        "Jianhuang Lai",
+        "Bin Hu",
+        "Tat-Seng Chua"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3649360",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3649360"
+    },
+    {
+      "id": "Yang_Principal_Component_Maximization_A_Novel_Method_for_SAR_Imag_TIP_2026_paper",
+      "title": "Principal Component Maximization: A Novel Method for SAR Image Recovery From Raw Data Without System Parameters",
+      "authors": [
+        "Huizhang Yang",
+        "Liyuan Chen",
+        "Shao-Shan Zuo",
+        "Zhong Liu",
+        "Jian Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657165",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657165"
+    },
+    {
+      "id": "Wang_Equivariant_High_Resolution_Hyperspectral_Imaging_via_Mosaic_TIP_2026_paper",
+      "title": "Equivariant High-Resolution Hyperspectral Imaging via Mosaiced and PAN Image Fusion",
+      "authors": [
+        "Nan Wang",
+        "Anjing Guo",
+        "Renwei Dian",
+        "Shutao Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657219",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657219"
+    },
+    {
+      "id": "Qiu_BP_NeRF_End_to_End_Neural_Radiance_Fields_for_Sparse_Images__TIP_2026_paper",
+      "title": "BP-NeRF: End-to-End Neural Radiance Fields for Sparse Images Without Camera Pose in Complex Scenes",
+      "authors": [
+        "Yaru Qiu",
+        "Guoxia Wu",
+        "Yuanyuan Sun"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657188",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657188"
+    },
+    {
+      "id": "Huang_Domain_Aware_Adversarial_Domain_Augmentation_Network_for_Hyp_TIP_2026_paper",
+      "title": "Domain-Aware Adversarial Domain Augmentation Network for Hyperspectral Image Classification",
+      "authors": [
+        "Yi Huang",
+        "Jiangtao Peng",
+        "Weiwei Sun",
+        "Na Chen",
+        "Zhijing Ye",
+        "Qian Du"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657203",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657203"
+    },
+    {
+      "id": "Yu_StealthMark_Harmless_and_Stealthy_Ownership_Verification_for_TIP_2026_paper",
+      "title": "StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors",
+      "authors": [
+        "Qinkai Yu",
+        "Chong Zhang",
+        "Gaojie Jin",
+        "Tianjin Huang",
+        "Wei Zhou",
+        "Wenhui Li",
+        "Xiaobo Jin",
+        "Bo Huang",
+        "Yitian Zhao",
+        "Guang Yang",
+        "Gregory Yoke Hong Lip",
+        "Yalin Zheng",
+        "Aline Villavicencio",
+        "Yanda Meng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3655563",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3655563"
+    },
+    {
+      "id": "Zhang_Deep_Learning_Based_Joint_Geometry_and_Attribute_Up_Sampling_TIP_2026_paper",
+      "title": "Deep Learning-Based Joint Geometry and Attribute Up-Sampling for Large-Scale Colored Point Clouds",
+      "authors": [
+        "Yun Zhang",
+        "Feifan Chen",
+        "Na Li",
+        "Zhiwei Guo",
+        "Xu Wang",
+        "Fen Miao",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657214",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657214"
+    },
+    {
+      "id": "Wang_Rethinking_Multi_Focus_Image_Fusion_An_Input_Space_Optimizat_TIP_2026_paper",
+      "title": "Rethinking Multi-Focus Image Fusion: An Input Space Optimization View",
+      "authors": [
+        "Zeyu Wang",
+        "Shuang Yu",
+        "Haoran Duan",
+        "Shidong Wang",
+        "Yang Long",
+        "Ling Shao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3654370",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3654370"
+    },
+    {
+      "id": "Ma_A_Few_Shot_Class_Incremental_Learning_Method_Using_Graph_Neu_TIP_2026_paper",
+      "title": "A Few-Shot Class Incremental Learning Method Using Graph Neural Networks",
+      "authors": [
+        "Yuqian Ma",
+        "Youfa Liu",
+        "Bo Du"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657170",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657170"
+    },
+    {
+      "id": "Weng_Exploring_Frequencies_via_Feature_Mixing_and_Meta_Learning_f_TIP_2026_paper",
+      "title": "Exploring Frequencies via Feature Mixing and Meta-Learning for Improving Adversarial Transferability",
+      "authors": [
+        "Juanjuan Weng",
+        "Zhiming Luo",
+        "Shaozi Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657166",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657166"
+    },
+    {
+      "id": "Guo_SACMark_Spatial_Angle_Consistency_Watermarking_Network_for_L_TIP_2026_paper",
+      "title": "SACMark: Spatial-Angle Consistency Watermarking Network for Light Field Image Copyright Protection",
+      "authors": [
+        "Junfeng Guo",
+        "Hui Wang",
+        "Shouxin Liu",
+        "Yushu Zhang",
+        "Zhongyun Hua",
+        "Seok-Tae Kim",
+        "Xiaowei Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657635",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657635"
+    },
+    {
+      "id": "Zhang_Domain_Complementary_Prior_With_Fine_Grained_Feedback_for_Sc_TIP_2026_paper",
+      "title": "Domain-Complementary Prior With Fine-Grained Feedback for Scene Text Image Super-Resolution",
+      "authors": [
+        "Shen Zhang",
+        "Yang Li",
+        "Pengwen Dai",
+        "Xiaozhou Zhou",
+        "Guotao Xie"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657246",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657246"
+    },
+    {
+      "id": "Su_AttriPrompt_Class_Attribute_Aware_Prompt_Tuning_for_Vision_L_TIP_2026_paper",
+      "title": "AttriPrompt: Class Attribute-Aware Prompt Tuning for Vision-Language Model",
+      "authors": [
+        "Yuling Su",
+        "Xueliang Liu",
+        "Zhen Huang",
+        "Yunwei Zhao",
+        "Richang Hong",
+        "Meng Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657216",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657216"
+    },
+    {
+      "id": "Wang_Broadcast_Gated_Attention_With_Identity_Adaptive_Integration_TIP_2026_paper",
+      "title": "Broadcast-Gated Attention With Identity Adaptive Integration for Efficient Image Super-Resolution",
+      "authors": [
+        "Qian Wang",
+        "Yanyu Mao",
+        "Ruilong Guo",
+        "Mengyang Wang",
+        "Jing Wei",
+        "Han Pan"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657640",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657640"
+    },
+    {
+      "id": "Li_Bidirectional_Cross_Modal_Collaborative_Alignment_via_Semant_TIP_2026_paper",
+      "title": "Bidirectional Cross-Modal Collaborative Alignment via Semantic-Guided Visual Embeddings for Partially Relevant Video Retrieval",
+      "authors": [
+        "Huafeng Li",
+        "Jialong Zhao",
+        "Yafei Zhang",
+        "Jie Wen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3658218",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3658218"
+    },
+    {
+      "id": "Zhong_AvatarMakeup_Realistic_Makeup_Transfer_for_3D_Animatable_Hea_TIP_2026_paper",
+      "title": "AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars",
+      "authors": [
+        "Yiming Zhong",
+        "Xiaolin Zhang",
+        "Ligang Liu",
+        "Yao Zhao",
+        "Yunchao Wei"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657896",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657896"
+    },
+    {
+      "id": "Liu_IHDCP_Single_Image_Dehazing_Using_Inverted_Haze_Density_Corr_TIP_2026_paper",
+      "title": "IHDCP: Single Image Dehazing Using Inverted Haze Density Correction Prior",
+      "authors": [
+        "Yun Liu",
+        "Tao Li",
+        "Chunping Tan",
+        "Wenqi Ren",
+        "Cosmin Ancuti",
+        "Weisi Lin"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657636",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657636"
+    },
+    {
+      "id": "Tian_Frequency_Decomposed_Interaction_Network_for_Stereo_Image_Re_TIP_2026_paper",
+      "title": "Frequency-Decomposed Interaction Network for Stereo Image Restoration",
+      "authors": [
+        "Xianmin Tian",
+        "Jin Xie",
+        "Ronghua Xu",
+        "Jing Nie",
+        "Jiale Cao",
+        "Yanwei Pang",
+        "Xuelong Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3658219",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3658219"
+    },
+    {
+      "id": "Qu_MambaFedCD_Spatial_Spectral_Temporal_Collaborative_Mamba_Bas_TIP_2026_paper",
+      "title": "MambaFedCD: Spatial-Spectral-Temporal Collaborative Mamba-Based Active Federated Hyperspectral Change Detection",
+      "authors": [
+        "Jiahui Qu",
+        "Jingyu Zhao",
+        "Wenqian Dong",
+        "Lijian Zhang",
+        "Yunsong Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3658212",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3658212"
+    },
+    {
+      "id": "Keles_Pad_Neurons_for_Efficient_Neural_Models_TIP_2026_paper",
+      "title": "Padé Neurons for Efficient Neural Models",
+      "authors": [
+        "Onur Keles",
+        "A. Murat Tekalp"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3653202",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3653202"
+    },
+    {
+      "id": "Xu_Attack_Augmented_Mixing_Contrastive_Skeletal_Representation__TIP_2026_paper",
+      "title": "Attack-Augmented Mixing-Contrastive Skeletal Representation Learning",
+      "authors": [
+        "Binqian Xu",
+        "Xiangbo Shu",
+        "Jiachao Zhang",
+        "Rui Yan",
+        "Guo-Sen Xie"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659331",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659331"
+    },
+    {
+      "id": "Wen_Incorporating_Uncertainty_Guided_and_Top_k_Codebook_Matching_TIP_2026_paper",
+      "title": "Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution",
+      "authors": [
+        "Weilei Wen",
+        "Tianyi Zhang",
+        "Qianqian Zhao",
+        "Zhaohui Zheng",
+        "Chunle Guo",
+        "Xiuli Shao",
+        "Chongyi Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3653547",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3653547"
+    },
+    {
+      "id": "Li_Accurate_Industrial_Anomaly_Detection_and_Localization_Using_TIP_2026_paper",
+      "title": "Accurate Industrial Anomaly Detection and Localization Using Weakly-Supervised Residual Transformers",
+      "authors": [
+        "Hanxi Li",
+        "Jingqi Wu",
+        "Deyin Liu",
+        "Lin Yuanbo Wu",
+        "Hao Chen",
+        "Chunhua Shen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659337",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659337"
+    },
+    {
+      "id": "Zhang_Improving_Unsupervised_Ultrasonic_Image_Anomaly_Detection_vi_TIP_2026_paper",
+      "title": "Improving Unsupervised Ultrasonic Image Anomaly Detection via Frequency-Spatial Feature Filtering and Gaussian Mixture Modeling",
+      "authors": [
+        "Wenjing Zhang",
+        "Ke Lu",
+        "Jinbao Wang",
+        "Hao Liang",
+        "Can Gao",
+        "Jian Xue"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659292",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659292"
+    },
+    {
+      "id": "Jin_MDA_MAA_A_Collaborative_Augmentation_Approach_for_Generalizi_TIP_2026_paper",
+      "title": "MDA-MAA: A Collaborative Augmentation Approach for Generalizing Cross-Domain Retrieval",
+      "authors": [
+        "Ming Jin",
+        "Richang Hong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3658223",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3658223"
+    },
+    {
+      "id": "Park_Complementary_Mixture_of_Experts_and_Complementary_Cross_Att_TIP_2026_paper",
+      "title": "Complementary Mixture-of-Experts and Complementary Cross-Attention for Single Image Reflection Separation in the Wild",
+      "authors": [
+        "Jonghyuk Park",
+        "Jae-Young Sim"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659334",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659334"
+    },
+    {
+      "id": "Zhao_High_Confident_Block_Diagonal_Analysis_for_Multi_View_Palmpr_TIP_2026_paper",
+      "title": "High-Confident Block Diagonal Analysis for Multi-View Palmprint Recognition in Unrestrained Environment",
+      "authors": [
+        "Shuping Zhao",
+        "Lunke Fei",
+        "Tingting Chai",
+        "Jie Wen",
+        "Bob Zhang",
+        "Jinrong Cui"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659325",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659325"
+    },
+    {
+      "id": "Zeng_SuperCL_Superpixel_Guided_Contrastive_Learning_for_Medical_I_TIP_2026_paper",
+      "title": "SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-Training",
+      "authors": [
+        "Shuang Zeng",
+        "Lei Zhu",
+        "Xinliang Zhang",
+        "Hangzhou He",
+        "Yanye Lu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657233",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657233"
+    },
+    {
+      "id": "SnchezBeeckman_Combining_Pre_and_Post_Demosaicking_Noise_Removal_for_RAW_Vi_TIP_2026_paper",
+      "title": "Combining Pre- and Post-Demosaicking Noise Removal for RAW Video",
+      "authors": [
+        "Marco Sánchez-Beeckman",
+        "Antonio Buades",
+        "Nicola Brandonisio",
+        "Bilel Kanoun"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3527886",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3527886"
+    },
+    {
+      "id": "Li_Exploring_Vision_Based_Active_3D_Object_Detection_by_Informa_TIP_2026_paper",
+      "title": "Exploring Vision-Based Active 3D Object Detection by Informativeness Characterization",
+      "authors": [
+        "Ruixiang Li",
+        "Yiming Wu",
+        "Yehao Lu",
+        "Xuewei Li",
+        "Xian Wang",
+        "Xiubo Liang",
+        "Xi Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3613927",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3613927"
+    },
+    {
+      "id": "Liu_ReconX_Reconstruct_Any_Scene_From_Sparse_Views_With_Video_Di_TIP_2026_paper",
+      "title": "ReconX: Reconstruct Any Scene From Sparse Views With Video Diffusion Model",
+      "authors": [
+        "Fangfu Liu",
+        "Wenqiang Sun",
+        "Hanyang Wang",
+        "Yikai Wang",
+        "Haowen Sun",
+        "Junliang Ye",
+        "Jun Zhang",
+        "Yueqi Duan"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666733",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666733"
+    },
+    {
+      "id": "Liu_Zero_Pose_Prior_NeRF_Recursive_Radiance_Field_Reconstruction_TIP_2026_paper",
+      "title": "Zero-Pose-Prior NeRF: Recursive Radiance Field Reconstruction From Unposed and Unordered Images",
+      "authors": [
+        "Xinxin Liu",
+        "Qi Zhang",
+        "Xue Wang",
+        "Guoqing Zhou",
+        "Qing Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666734",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666734"
+    },
+    {
+      "id": "Chen_Video_Frame_Interpolation_via_Appearance_Based_Intermediate__TIP_2026_paper",
+      "title": "Video Frame Interpolation via Appearance-Based Intermediate Flow Estimation",
+      "authors": [
+        "Keyi Chen",
+        "Jingwei Xin",
+        "Nannan Wang",
+        "Jie Li",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666772",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666772"
+    },
+    {
+      "id": "Xiao_Robust_Source_Free_Domain_Adaptation_From_Non_Robust_Source__TIP_2026_paper",
+      "title": "Robust Source-Free Domain Adaptation From Non-Robust Source Models",
+      "authors": [
+        "Yao Xiao",
+        "Pengxu Wei",
+        "Guangrun Wang",
+        "Cong Liu",
+        "Liang Lin"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661392",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661392"
+    },
+    {
+      "id": "Xue_A_Unified_Framework_for_Backdoor_Trigger_Segmentation_TIP_2026_paper",
+      "title": "A Unified Framework for Backdoor Trigger Segmentation",
+      "authors": [
+        "Dizhan Xue",
+        "Shengsheng Qian",
+        "Changsheng Xu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666796",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666796"
+    },
+    {
+      "id": "Bai_Blind_Inversion_Using_Latent_Diffusion_Priors_TIP_2026_paper",
+      "title": "Blind Inversion Using Latent Diffusion Priors",
+      "authors": [
+        "Weimin Bai",
+        "Siyi Chen",
+        "Wenzheng Chen",
+        "He Sun"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3651963",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3651963"
+    },
+    {
+      "id": "Yang_Anatomy_Aware_MR_Imaging_Only_Radiotherapy_TIP_2026_paper",
+      "title": "Anatomy-Aware MR-Imaging-Only Radiotherapy",
+      "authors": [
+        "Hao Yang",
+        "Yue Sun",
+        "Hui Xie",
+        "Lina Zhao",
+        "Chi Kin Lam",
+        "Qiang Zhao",
+        "Xiangyu Xiong",
+        "Kunyan Cai",
+        "Behdad Dashtbozorg",
+        "Chenggang Yan",
+        "Tao Tan"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3658010",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3658010"
+    },
+    {
+      "id": "Xu_DrivingEditor_4D_Composite_Gaussian_Splatting_for_Reconstruc_TIP_2026_paper",
+      "title": "DrivingEditor: 4D Composite Gaussian Splatting for Reconstruction and Edition of Dynamic Autonomous Driving Scenes",
+      "authors": [
+        "Wang Xu",
+        "Yeqiang Qian",
+        "Yun-Fu Liu",
+        "Lei Tuo",
+        "Huiyong Chen",
+        "Ming Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659733",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659733"
+    },
+    {
+      "id": "Wu_Double_Nonconvex_Tensor_Robust_Kernel_Principal_Component_An_TIP_2026_paper",
+      "title": "Double Nonconvex Tensor Robust Kernel Principal Component Analysis and Its Visual Applications",
+      "authors": [
+        "Liang Wu",
+        "Jianjun Wang",
+        "Wei-Shi Zheng",
+        "Guangming Shi"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659302",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659302"
+    },
+    {
+      "id": "Jiang_PH_Mamba_Enhancing_Mamba_With_Position_Encoding_and_Harmoniz_TIP_2026_paper",
+      "title": "PH-Mamba: Enhancing Mamba With Position Encoding and Harmonized Attention for Image Deraining and Beyond",
+      "authors": [
+        "Kui Jiang",
+        "Junjun Jiang",
+        "Xianming Liu",
+        "Hongxun Yao",
+        "Chia-Wen Lin"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3638153",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3638153"
+    },
+    {
+      "id": "Chen_Foundation_Model_Empowered_Real_Time_Video_Conference_With_S_TIP_2026_paper",
+      "title": "Foundation Model Empowered Real-Time Video Conference With Semantic Communications",
+      "authors": [
+        "Mingkai Chen",
+        "Wenbo Ma",
+        "Mujian Zeng",
+        "Xiaoming He",
+        "Jian Xiong",
+        "Lei Wang",
+        "Anwer Al-Dulaimi",
+        "Shahid Mumtaz"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659719",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659719"
+    },
+    {
+      "id": "Qin_Disentangle_to_Fuse_Toward_Content_Preservation_and_Cross_Mo_TIP_2026_paper",
+      "title": "Disentangle to Fuse: Toward Content Preservation and Cross-Modality Consistency for Multi-Modality Image Fusion",
+      "authors": [
+        "Xinran Qin",
+        "Yuning Cui",
+        "Shangquan Sun",
+        "Ruoyu Chen",
+        "Wenqi Ren",
+        "Alois Knoll",
+        "Xiaochun Cao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657183",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657183"
+    },
+    {
+      "id": "Yang_Multi_Resolution_Alignment_for_Voxel_Sparsity_in_Camera_Base_TIP_2026_paper",
+      "title": "Multi-Resolution Alignment for Voxel Sparsity in Camera-Based 3D Semantic Scene Completion",
+      "authors": [
+        "Zhiwen Yang",
+        "Yuxin Peng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3660576",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3660576"
+    },
+    {
+      "id": "Liu_Learning_Retinex_Prior_for_Compressive_Hyperspectral_Image_R_TIP_2026_paper",
+      "title": "Learning Retinex Prior for Compressive Hyperspectral Image Reconstruction",
+      "authors": [
+        "Mengzu Liu",
+        "Junwei Xu",
+        "Weisheng Dong",
+        "Le Dong",
+        "Guangming Shi"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659746",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659746"
+    },
+    {
+      "id": "Wang_GIDDM_Generating_Labels_With_Diffusion_Model_to_Promote_Cros_TIP_2026_paper",
+      "title": "GIDDM: Generating Labels With Diffusion Model to Promote Cross-Domain Open-Set Image Recognition",
+      "authors": [
+        "Haoyu Wang",
+        "Yuhu Cheng",
+        "Wei Zhang",
+        "Xiaomin Liu",
+        "Xuesong Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3599929",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3599929"
+    },
+    {
+      "id": "Cai_Unrolling_Plug_and_Play_Gradient_Graph_Laplacian_Regularizer_TIP_2026_paper",
+      "title": "Unrolling Plug-and-Play Gradient Graph Laplacian Regularizer for Image Restoration",
+      "authors": [
+        "Jianghe Cai",
+        "Gene Cheung",
+        "Fei Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3562425",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3562425"
+    },
+    {
+      "id": "Shen_Cost_Efficient_Open_Vocabulary_3D_Scene_Understanding_Based__TIP_2026_paper",
+      "title": "Cost-Efficient Open Vocabulary 3D Scene Understanding Based on Semantic Probability",
+      "authors": [
+        "Lingfeng Shen",
+        "Xiaoyao Wei",
+        "Gang Pan",
+        "Qian Zheng",
+        "Yanlong Cao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3607643",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3607643"
+    },
+    {
+      "id": "Chen_Dissecting_RGB_D_Learning_for_Improved_Multi_Modal_Fusion_TIP_2026_paper",
+      "title": "Dissecting RGB-D Learning for Improved Multi-Modal Fusion",
+      "authors": [
+        "Hao Chen",
+        "Haoran Zhou",
+        "Yunshu Zhang",
+        "Zheng Lin",
+        "Yongjian Deng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3657171",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3657171"
+    },
+    {
+      "id": "Wang_Deep_LoRA_Unfolding_Networks_for_Image_Restoration_TIP_2026_paper",
+      "title": "Deep LoRA-Unfolding Networks for Image Restoration",
+      "authors": [
+        "Xiangming Wang",
+        "Haijin Zeng",
+        "Benteng Sun",
+        "Jiezhang Cao",
+        "Kai Zhang",
+        "Qiangqiang Shen",
+        "Yongyong Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661406",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661406"
+    },
+    {
+      "id": "Tang_Adaptive_Fine_Grained_Fusion_Network_for_Multimodal_UAV_Obje_TIP_2026_paper",
+      "title": "Adaptive Fine-Grained Fusion Network for Multimodal UAV Object Detection",
+      "authors": [
+        "Zhanyan Tang",
+        "Zhihao Wu",
+        "Mu Li",
+        "Jie Wen",
+        "Bob Zhang",
+        "Yong Xu",
+        "Jianqiang Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661868",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661868"
+    },
+    {
+      "id": "Xu_Distortion_Aware_Depth_Self_Updating_for_Self_Supervised_Fis_TIP_2026_paper",
+      "title": "Distortion-Aware Depth Self-Updating for Self-Supervised Fisheye Monocular Depth Estimation",
+      "authors": [
+        "Yihang Xu",
+        "Qiulei Dong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661813",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661813"
+    },
+    {
+      "id": "Zhang_CAS_ViT_Convolutional_Additive_Self_Attention_Vision_Transfo_TIP_2026_paper",
+      "title": "CAS-ViT: Convolutional Additive Self-Attention Vision Transformers for Efficient Mobile Applications",
+      "authors": [
+        "Tianfang Zhang",
+        "Lei Li",
+        "Yang Zhou",
+        "Wentao Liu",
+        "Chen Qian",
+        "Jenq-Neng Hwang",
+        "Xiangyang Ji"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3655121",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3655121"
+    },
+    {
+      "id": "Hu_Boosting_HDR_Image_Reconstruction_via_Semantic_Knowledge_Tra_TIP_2026_paper",
+      "title": "Boosting HDR Image Reconstruction via Semantic Knowledge Transfer",
+      "authors": [
+        "Tao Hu",
+        "Longyao Wu",
+        "Wei Dong",
+        "Peng Wu",
+        "Jinqiu Sun",
+        "Xiaogang Xu",
+        "Qingsen Yan",
+        "Yanning Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652360",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652360"
+    },
+    {
+      "id": "Fang_Content_Adaptive_Unfolding_Wavelet_Transformer_for_Hyperspec_TIP_2026_paper",
+      "title": "Content-Adaptive Unfolding Wavelet Transformer for Hyperspectral Image Super-Resolution",
+      "authors": [
+        "Yuan Fang",
+        "Yipeng Liu",
+        "Zhen Long",
+        "Chong-Yung Chi",
+        "Ce Zhu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3636789",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3636789"
+    },
+    {
+      "id": "Dai_ThinkMatter_Panoramic_Aware_Instructional_Semantics_for_Mono_TIP_2026_paper",
+      "title": "ThinkMatter: Panoramic-Aware Instructional Semantics for Monocular Vision-and-Language Navigation",
+      "authors": [
+        "Guangzhao Dai",
+        "Shuo Wang",
+        "Hao Zhao",
+        "Bin Zhu",
+        "Qianru Sun",
+        "Xiangbo Shu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652003",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652003"
+    },
+    {
+      "id": "Wu_CGMNet_A_Center_Pixel_and_Gated_Mechanism_Based_Attention_Ne_TIP_2026_paper",
+      "title": "CGMNet: A Center-Pixel and Gated Mechanism-Based Attention Network for Hyperspectral Change Detection",
+      "authors": [
+        "Lanxin Wu",
+        "Jiangtao Peng",
+        "Bing Yang",
+        "Weiwei Sun",
+        "Mingzhu Huang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661851",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661851"
+    },
+    {
+      "id": "Xu_Procedure_Aware_Hierarchical_Alignment_for_Open_Surgery_Vide_TIP_2026_paper",
+      "title": "Procedure-Aware Hierarchical Alignment for Open Surgery Video-Language Pretraining",
+      "authors": [
+        "Boqiang Xu",
+        "Jinlin Wu",
+        "Jian Liang",
+        "Zhenan Sun",
+        "Hongbin Liu",
+        "Jiebo Luo",
+        "Zhen Lei"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659752",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659752"
+    },
+    {
+      "id": "Wu_FreeStyle_Toward_Style_Inclusive_Sketch_Based_Person_Retriev_TIP_2026_paper",
+      "title": "FreeStyle: Toward Style-Inclusive Sketch-Based Person Retrieval",
+      "authors": [
+        "Xinyi Wu",
+        "Cuiqun Chen",
+        "Hui Zeng",
+        "Zhiping Cai",
+        "Mang Ye"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3660575",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3660575"
+    },
+    {
+      "id": "Wang_ASDTracker_Adaptively_Sparse_Detection_With_Attention_Guided_TIP_2026_paper",
+      "title": "ASDTracker: Adaptively Sparse Detection With Attention-Guided Refinement for Efficient Multi-Object Tracking",
+      "authors": [
+        "Yueying Wang",
+        "Chenyang Yan",
+        "Cairong Zhao",
+        "Wei-Dong Zhang",
+        "Dan Zeng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3662594",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3662594"
+    },
+    {
+      "id": "Cui_CWPS_Efficient_Channel_Wise_Parameter_Sharing_for_Knowledge__TIP_2026_paper",
+      "title": "CWPS: Efficient Channel-Wise Parameter Sharing for Knowledge Transfer",
+      "authors": [
+        "Mingxuan Cui",
+        "Tao Wu",
+        "Xuewei Li",
+        "Cunzheng Wang",
+        "Gaoang Wang",
+        "Chenyi Zhuang",
+        "Jinjie Gu",
+        "Xiubo Liang",
+        "Xi Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3620681",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3620681"
+    },
+    {
+      "id": "Zhang_Perceive_IR_Learning_to_Perceive_Degradation_Better_for_All__TIP_2026_paper",
+      "title": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration",
+      "authors": [
+        "Xu Zhang",
+        "Jiaqi Ma",
+        "Guoli Wang",
+        "Qian Zhang",
+        "Huan Zhang",
+        "Lefei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3566300",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3566300"
+    },
+    {
+      "id": "Yang_PestScope_Exclusion_Aware_Large_Multimodal_Model_for_Fine_Gr_TIP_2026_paper",
+      "title": "PestScope: Exclusion-Aware Large Multimodal Model for Fine-Grained Agricultural Pest Segmentation",
+      "authors": [
+        "Yang Yang",
+        "Huibin Luo",
+        "Haotian Wang",
+        "Jingchi Jiang",
+        "Jie Liu",
+        "Jian Wei",
+        "Ming Fang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661417",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661417"
+    },
+    {
+      "id": "Wei_Monocular_Multi_Object_3D_Visual_Language_Tracking_TIP_2026_paper",
+      "title": "Monocular Multi-Object 3D Visual Language Tracking",
+      "authors": [
+        "Hongkai Wei",
+        "Rong Wang",
+        "Haixiang Hu",
+        "Shijie Sun",
+        "Xiangyu Song",
+        "Mingtao Feng",
+        "Keyu Guo",
+        "Yongle Huang",
+        "Hua Cui",
+        "Naveed Akhtar"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661407",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661407"
+    },
+    {
+      "id": "Lan_C_WOE_Clustering_for_Out_of_Distribution_Detection_Learning__TIP_2026_paper",
+      "title": "C-WOE: Clustering for Out-of-Distribution Detection Learning With Wild Outlier Exposure",
+      "authors": [
+        "Long Lan",
+        "Zhaohui Hu",
+        "He Li",
+        "Tongliang Liu",
+        "Xinwang Liu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3662593",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3662593"
+    },
+    {
+      "id": "Wang_Hybrid_Granularity_Distribution_Estimation_for_Few_Shot_Lear_TIP_2026_paper",
+      "title": "Hybrid Granularity Distribution Estimation for Few-Shot Learning: Statistics Transfer From Categories and Instances",
+      "authors": [
+        "Shuo Wang",
+        "Tianyu Qi",
+        "Xingyu Zhu",
+        "Yanbin Hao",
+        "Beier Zhu",
+        "Hanwang Zhang",
+        "Meng Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661814",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661814"
+    },
+    {
+      "id": "Wang_A_Complex_Valued_SAR_Foundation_Model_Based_on_Physically_In_TIP_2026_paper",
+      "title": "A Complex-Valued SAR Foundation Model Based on Physically Inspired Representation Learning",
+      "authors": [
+        "Mengyu Wang",
+        "Hanbo Bi",
+        "Yingchao Feng",
+        "Linlin Xin",
+        "Shuo Gong",
+        "Tianqi Wang",
+        "Zhiyuan Yan",
+        "Peijin Wang",
+        "Wenhui Diao",
+        "Xian Sun"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3652417",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3652417"
+    },
+    {
+      "id": "Shabtay_Positional_Encoding_Image_Prior_TIP_2026_paper",
+      "title": "Positional Encoding Image Prior",
+      "authors": [
+        "Nimrod Shabtay",
+        "Eli Schwartz",
+        "Raja Giryes"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3653206",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3653206"
+    },
+    {
+      "id": "Lu_TranIU_Net_Indicative_Electrical_Tomography_Imaging_Based_on_TIP_2026_paper",
+      "title": "TranIU-Net: Indicative Electrical Tomography Imaging Based on Implicit Unrolling Transformer",
+      "authors": [
+        "Binchun Lu",
+        "Lidan Fu",
+        "Juntao Ren",
+        "Yixuan Pan",
+        "Yonggui Dong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663886",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663886"
+    },
+    {
+      "id": "Chen_DiffEraser_Generalized_Text_Erasure_Based_on_Latent_Diffusio_TIP_2026_paper",
+      "title": "DiffEraser: Generalized Text Erasure Based on Latent Diffusion Prior",
+      "authors": [
+        "Zhihao Chen",
+        "Yongqi Chen",
+        "Changsheng Chen",
+        "Shunquan Tan",
+        "Jiwu Huang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659329",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659329"
+    },
+    {
+      "id": "Li_High_Fidelity_Seismic_Super_Resolution_Using_Prior_Informed__TIP_2026_paper",
+      "title": "High-Fidelity Seismic Super-Resolution Using Prior-Informed Deep Learning With 3D Awareness",
+      "authors": [
+        "Jintao Li",
+        "Xinming Wu",
+        "Xianwen Zhang",
+        "Xin Du",
+        "Xiaoming Sun",
+        "Bao Deng",
+        "Guangyu Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663926",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663926"
+    },
+    {
+      "id": "Ren_MTRAG_Multi_Target_Referring_and_Grounding_via_Hybrid_Semant_TIP_2026_paper",
+      "title": "MTRAG: Multi-Target Referring and Grounding via Hybrid Semantic-Spatial Integration",
+      "authors": [
+        "Yili Ren",
+        "Jinyang Du",
+        "Xi Liu",
+        "Qianxiao Su",
+        "Yue Deng",
+        "Hongjue Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663039",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663039"
+    },
+    {
+      "id": "Xing_Temporal_Visual_Semantics_Induced_Human_Motion_Understanding_TIP_2026_paper",
+      "title": "Temporal Visual Semantics-Induced Human Motion Understanding With Large Language Models",
+      "authors": [
+        "Zheng Xing",
+        "Weibing Zhao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663857",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663857"
+    },
+    {
+      "id": "Zhou_Scale_Invariant_Feature_Matching_Network_for_V_D_T_Few_Shot__TIP_2026_paper",
+      "title": "Scale-Invariant Feature Matching Network for V-D-T Few-Shot Semantic Segmentation",
+      "authors": [
+        "Xiaofei Zhou",
+        "Jia Lin",
+        "Dongmei Chen",
+        "Deyang Liu",
+        "Jiyong Zhang",
+        "Runmin Cong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663882",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663882"
+    },
+    {
+      "id": "Saha_HoloQA_Full_Reference_Video_Quality_Assessor_of_Rendered_Hum_TIP_2026_paper",
+      "title": "HoloQA: Full Reference Video Quality Assessor of Rendered Human Avatars in Virtual Reality",
+      "authors": [
+        "Avinab Saha",
+        "Yu-Chih Chen",
+        "Christian Häne",
+        "Jean-Charles Bazin",
+        "Ioannis Katsavounidis",
+        "Alexandre Chapiro",
+        "Alan C. Bovik"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663930",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663930"
+    },
+    {
+      "id": "Pei_A_Greedy_Strategy_for_Graph_Cut_TIP_2026_paper",
+      "title": "A Greedy Strategy for Graph Cut",
+      "authors": [
+        "Shenfei Pei",
+        "Huijuan Dong",
+        "Nianci Guan",
+        "Zhongqi Lin",
+        "Feiping Nie",
+        "Xudong Jiang",
+        "Zengwei Zheng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661874",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661874"
+    },
+    {
+      "id": "Zhang_Robust_2_5D_Feature_Matching_in_Light_Fields_via_a_Learnable_TIP_2026_paper",
+      "title": "Robust 2.5D Feature Matching in Light Fields via a Learnable Parameterized Depth-Degraded Projection",
+      "authors": [
+        "Meng Zhang",
+        "Haiyan Jin",
+        "Zhaolin Xiao",
+        "Jinglei Shi",
+        "Xiaoran Jiang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3662579",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3662579"
+    },
+    {
+      "id": "Ma_SMTrack_State_Aware_Mamba_for_Efficient_Temporal_Modeling_in_TIP_2026_paper",
+      "title": "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking",
+      "authors": [
+        "Yinchao Ma",
+        "Dengqing Yang",
+        "Zhangyu He",
+        "Wenfei Yang",
+        "Tianzhu Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3661393",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3661393"
+    },
+    {
+      "id": "Huang_Latent_Fingerprint_Quality_Assessment_for_Criminal_Investiga_TIP_2026_paper",
+      "title": "Latent Fingerprint Quality Assessment for Criminal Investigations: A Benchmark Dataset and Method",
+      "authors": [
+        "Chao Huang",
+        "Jingxuan Zhang",
+        "Ye Zhang",
+        "Hao Wu",
+        "Peibei Cao",
+        "Zhihua Wang",
+        "Yang Yu",
+        "Xiaochun Cao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663898",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663898"
+    },
+    {
+      "id": "Liu_Unsupervised_Domain_Adaptive_Object_Detection_via_Semantic_C_TIP_2026_paper",
+      "title": "Unsupervised Domain Adaptive Object Detection via Semantic Consistency and Compactness Learning",
+      "authors": [
+        "Yajing Liu",
+        "Zhen Zhang",
+        "Yiming Su",
+        "Chunhui Hao",
+        "Xiyao Liu",
+        "Jiandong Tian"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663935",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663935"
+    },
+    {
+      "id": "Wang_Harnessing_Multi_Modal_Large_Language_Models_for_Measuring_a_TIP_2026_paper",
+      "title": "Harnessing Multi-Modal Large Language Models for Measuring and Interpreting Color Differences",
+      "authors": [
+        "Zhihua Wang",
+        "Yu Long",
+        "Qiuping Jiang",
+        "Chao Huang",
+        "Xiaochun Cao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2024.3522802",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2024.3522802"
+    },
+    {
+      "id": "Zhu_Interactive_Spatial_Frequency_Fusion_Mamba_for_Multi_Modal_I_TIP_2026_paper",
+      "title": "Interactive Spatial-Frequency Fusion Mamba for Multi-Modal Image Fusion",
+      "authors": [
+        "Yixin Zhu",
+        "Long Lv",
+        "Pingping Zhang",
+        "Xuehu Liu",
+        "Tongdan Tang",
+        "Feng Tian",
+        "Weibing Sun",
+        "Huchuan Lu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3662596",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3662596"
+    },
+    {
+      "id": "Deng_IMPRESS_Incomplete_Human_Motion_Prediction_via_Motion_Recove_TIP_2026_paper",
+      "title": "IMPRESS: Incomplete Human Motion Prediction via Motion Recovery and Structural-Semantic Fusion",
+      "authors": [
+        "Hao Deng",
+        "Jinkai Li",
+        "Jinxing Li",
+        "Jie Wen",
+        "Yong Xu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3662597",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3662597"
+    },
+    {
+      "id": "Awad_A_Multi_Level_Self_Distillation_Based_Unified_Tracker_for_Ef_TIP_2026_paper",
+      "title": "A Multi-Level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking",
+      "authors": [
+        "Mohamed Awad",
+        "Ahmed S. Elliethy",
+        "M. Omair Ahmad",
+        "M. N. S. Swamy"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666737",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666737"
+    },
+    {
+      "id": "Yang_Nonlinear_Transformed_Low_Rank_Quaternion_Tensor_Total_Varia_TIP_2026_paper",
+      "title": "Nonlinear Transformed Low-Rank Quaternion Tensor Total Variation for Multidimensional Color Image Completion",
+      "authors": [
+        "Liqiao Yang",
+        "Yexun Hu",
+        "Tai-Xiang Jiang",
+        "Yimin Wei",
+        "Guisong Liu",
+        "Michael K. Ng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666728",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666728"
+    },
+    {
+      "id": "Ye_JDPNet_A_Network_Based_on_Joint_Degradation_Processing_for_U_TIP_2026_paper",
+      "title": "JDPNet: A Network Based on Joint Degradation Processing for Underwater Image Enhancement",
+      "authors": [
+        "Tao Ye",
+        "Hongbin Ren",
+        "Chongbing Zhang",
+        "Haoran Chen",
+        "Xiaosong Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3641833",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3641833"
+    },
+    {
+      "id": "Li_Collaborated_With_Hallucination_Enhancing_Egocentric_Grounde_TIP_2026_paper",
+      "title": "Collaborated With Hallucination: Enhancing Egocentric Grounded Question Answering via Error Demonstrations",
+      "authors": [
+        "Shenshen Li",
+        "Xing Xu",
+        "Fumin Shen",
+        "Zhe Sun",
+        "Andrzej Cichocki",
+        "Heng Tao Shen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666732",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666732"
+    },
+    {
+      "id": "Jiang_DeepGSR_Deep_Group_Based_Sparse_Representation_Network_for_S_TIP_2026_paper",
+      "title": "DeepGSR: Deep Group-Based Sparse Representation Network for Solving Image Inverse Problems",
+      "authors": [
+        "Ke Jiang",
+        "Xinya Ji",
+        "Baoshun Shi"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3662583",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3662583"
+    },
+    {
+      "id": "Panda_Partially_Supervised_Compositional_Zero_Shot_Learning_by_Cla_TIP_2026_paper",
+      "title": "Partially Supervised Compositional Zero-Shot Learning by Class-Balanced Distribution Alignment",
+      "authors": [
+        "Aditya Panda",
+        "Dipti Prasad Mukherjee"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3664762",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3664762"
+    },
+    {
+      "id": "Cong_DiffLLFace_Learning_Alternate_Illumination_Diffusion_Adaptat_TIP_2026_paper",
+      "title": "DiffLLFace: Learning Alternate Illumination-Diffusion Adaptation for Low-Light Face Super-Resolution and Beyond",
+      "authors": [
+        "Runmin Cong",
+        "Kaisheng Pang",
+        "Feng Li",
+        "Hua Li",
+        "Huihui Bai",
+        "Sam Kwong",
+        "Wei Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671638",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671638"
+    },
+    {
+      "id": "Feng_Long_Tailed_and_Inter_Class_Homogeneity_Matters_in_Multi_Cla_TIP_2026_paper",
+      "title": "Long-Tailed and Inter-Class Homogeneity Matters in Multi-Class Weakly Supervised Tissue Segmentation of Histopathology Images",
+      "authors": [
+        "Siyang Feng",
+        "Xipeng Pan",
+        "Huadeng Wang",
+        "Zhenbing Liu",
+        "Weidong Zhang",
+        "Rushi Lan"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671622",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671622"
+    },
+    {
+      "id": "Liu_Exploring_Hierarchical_Cross_Modal_Correlation_Consistency_f_TIP_2026_paper",
+      "title": "Exploring Hierarchical Cross-Modal Correlation Consistency for Partial Mismatching",
+      "authors": [
+        "Xiaoqing Liu",
+        "Zhiwen Yu",
+        "Jun Yu",
+        "Huanqiang Zeng",
+        "Zhuoyao Wang",
+        "C. L. Philip Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666793",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666793"
+    },
+    {
+      "id": "Deng_ROOT_Region_Word_Alignment_With_Partial_Optimal_Transport_fo_TIP_2026_paper",
+      "title": "ROOT: Region-Word Alignment With Partial Optimal Transport for Open-Vocabulary Object Detection",
+      "authors": [
+        "Jinhong Deng",
+        "Yinjie Lei",
+        "Wen Li",
+        "Lixin Duan"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2025.3627395",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2025.3627395"
+    },
+    {
+      "id": "Li_LearnMat_Semantic_Aware_Self_Supervision_Fine_Grained_Visual_TIP_2026_paper",
+      "title": "LearnMat: Semantic-Aware Self-Supervision Fine-Grained Visual Recognition",
+      "authors": [
+        "ShuaiHeng Li",
+        "Qing Cai",
+        "Fan Zhang",
+        "Yangyang Shu",
+        "Guanbin Li",
+        "Junyu Dong",
+        "Lingqiao Liu",
+        "David Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671661",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671661"
+    },
+    {
+      "id": "Li_SCSV_Spatial_Temporal_Consistent_Dynamic_3D_Scene_Generation_TIP_2026_paper",
+      "title": "SCSV: Spatial-Temporal Consistent Dynamic 3D Scene Generation From Sparse Views",
+      "authors": [
+        "Junfeng Li",
+        "Junjie He",
+        "Wenjie Liu",
+        "Tianyu Huang",
+        "Shunbo Zhou",
+        "Jun Ma",
+        "Hesheng Wang",
+        "Haoang Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671692",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671692"
+    },
+    {
+      "id": "Fang_Learning_Prompt_Adapters_for_Forgetting_Free_Continual_Image_TIP_2026_paper",
+      "title": "Learning Prompt Adapters for Forgetting-Free Continual Image Super-Resolution",
+      "authors": [
+        "Chaowei Fang",
+        "Bolin Fu",
+        "De Cheng",
+        "Chengpei Tang",
+        "Guanbin Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671688",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671688"
+    },
+    {
+      "id": "Chen_External_Guidance_Incomplete_Cross_Modal_Hashing_TIP_2026_paper",
+      "title": "External Guidance Incomplete Cross-Modal Hashing",
+      "authors": [
+        "Jiali Chen",
+        "Ruitao Pu",
+        "Dezhong Peng",
+        "Xiaomin Song",
+        "Yingke Chen",
+        "Yuan Sun"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671612",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671612"
+    },
+    {
+      "id": "Zhang_Fourier_KAN_Feature_Distribution_Decomposition_and_Recombina_TIP_2026_paper",
+      "title": "Fourier-KAN: Feature Distribution Decomposition and Recombination for Unknown-Domain Object Detection",
+      "authors": [
+        "Zihao Zhang",
+        "Yang Li",
+        "Aming Wu",
+        "Yahong Han"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671583",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671583"
+    },
+    {
+      "id": "Huang_Detection_Drives_an_End_to_End_Fusion_of_Infrared_and_Visibl_TIP_2026_paper",
+      "title": "Detection Drives an End-to-End Fusion of Infrared and Visible Images Based on Diffusion Models",
+      "authors": [
+        "Kexin Huang",
+        "Zhiyuan Zhang",
+        "Chaohua Shi",
+        "Lan Luo",
+        "Junpeng Shi",
+        "Yongxiang Liu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671618",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671618"
+    },
+    {
+      "id": "Liu_Semi_Negative_Contrastive_Subclass_Discriminative_Network_fo_TIP_2026_paper",
+      "title": "Semi-Negative Contrastive Subclass Discriminative Network for Compositional Zero-Shot Learning",
+      "authors": [
+        "Yang Liu",
+        "Xinshuo Wang",
+        "Xinbo Gao",
+        "Jungong Han",
+        "Ling Shao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671655",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671655"
+    },
+    {
+      "id": "Xue_Enhancing_Underwater_Images_via_Resonant_Fusion_TIP_2026_paper",
+      "title": "Enhancing Underwater Images via Resonant Fusion",
+      "authors": [
+        "Xinwei Xue",
+        "Zimeng Xu",
+        "Kaixin Wang",
+        "Jincheng Yuan",
+        "Jingchun Zhou",
+        "Chengpei Xu",
+        "Xiaoke Shang",
+        "Long Ma",
+        "Weimin Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671611",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671611"
+    },
+    {
+      "id": "Cai_An_End_to_End_Optimized_Lensless_System_for_Privacy_Preservi_TIP_2026_paper",
+      "title": "An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification",
+      "authors": [
+        "Xin Cai",
+        "Hailong Zhang",
+        "Chenchen Wang",
+        "Wentao Liu",
+        "Jinwei Gu",
+        "Tianfan Xue"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671651",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671651"
+    },
+    {
+      "id": "Hu_Ghost_Free_HDR_Imaging_via_Latent_Low_Frequency_Priors_and_D_TIP_2026_paper",
+      "title": "Ghost-Free HDR Imaging via Latent Low-Frequency Priors and Deformable Attention Alignment",
+      "authors": [
+        "Tao Hu",
+        "Qingsen Yan",
+        "Jian Jin",
+        "Wei Dong",
+        "Peng Wu",
+        "Yuankai Qi",
+        "Weisi Lin",
+        "Yanning Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671656",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671656"
+    },
+    {
+      "id": "He_Continual_Instruction_Tuning_for_Large_Multimodal_Models_TIP_2026_paper",
+      "title": "Continual Instruction Tuning for Large Multimodal Models",
+      "authors": [
+        "Jinghan He",
+        "Haiyun Guo",
+        "Kuan Zhu",
+        "Ming Tang",
+        "Jinqiao Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671616",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671616"
+    },
+    {
+      "id": "Wang_ActPrompt_In_Domain_Feature_Adaptation_via_Action_Cues_for_V_TIP_2026_paper",
+      "title": "ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding",
+      "authors": [
+        "Yubin Wang",
+        "Xinyang Jiang",
+        "De Cheng",
+        "Dongsheng Li",
+        "Cairong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671609",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671609"
+    },
+    {
+      "id": "Li_Spatio_Temporal_Hypergraph_Attention_Networks_for_Brain_Dise_TIP_2026_paper",
+      "title": "Spatio-Temporal Hypergraph Attention Networks for Brain Disease Analysis",
+      "authors": [
+        "Chaojun Li",
+        "Peiliang Gong",
+        "Shengrong Li",
+        "Chunwei Tian",
+        "Yinbo Yu",
+        "Ran Wang",
+        "Daoqiang Zhang",
+        "Qi Zhu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671657",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671657"
+    },
+    {
+      "id": "Jiang_Global_Modeling_Matters_A_Fast_Lightweight_and_Effective_Bas_TIP_2026_paper",
+      "title": "Global Modeling Matters: A Fast, Lightweight, and Effective Baseline for Efficient Image Restoration",
+      "authors": [
+        "Xingyu Jiang",
+        "Ning Gao",
+        "Hongkun Dou",
+        "Xiuhui Zhang",
+        "Xiaoqing Zhong",
+        "Yue Deng",
+        "Hongjue Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671691",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671691"
+    },
+    {
+      "id": "Shenoy_Recovering_Pulse_Waves_From_Video_Using_Deep_Unrolling_and_D_TIP_2026_paper",
+      "title": "Recovering Pulse Waves From Video Using Deep Unrolling and Deep Equilibrium Models",
+      "authors": [
+        "Vineet R. Shenoy",
+        "Suhas Lohit",
+        "Hassan Mansour",
+        "Rama Chellappa",
+        "Tim K. Marks"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671653",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671653"
+    },
+    {
+      "id": "Zhou_Few_Shot_Strip_Steel_Surface_Defect_Segmentation_via_Pre_Tra_TIP_2026_paper",
+      "title": "Few-Shot Strip Steel Surface Defect Segmentation via Pre-Trained Variational Auto-Encoder-Based Latent Gaussian Process Regression",
+      "authors": [
+        "Xiaofei Zhou",
+        "Xuan Wang",
+        "Gongyang Li",
+        "Deyang Liu",
+        "Qingshan She",
+        "Xiaobin Xu",
+        "Runmin Cong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671617",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671617"
+    },
+    {
+      "id": "Luo_Non_Convex_Transfer_Subspace_Learning_via_Embedded_Distribut_TIP_2026_paper",
+      "title": "Non-Convex Transfer Subspace Learning via Embedded Distribution Alignment",
+      "authors": [
+        "Tingjin Luo",
+        "Yueying Liu",
+        "Xinyue Zhang",
+        "Chenping Hou"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671598",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671598"
+    },
+    {
+      "id": "Jzquel_Unified_Anomaly_Detection_via_Multi_Scale_Contrasted_Memory_TIP_2026_paper",
+      "title": "Unified Anomaly Detection via Multi-Scale Contrasted Memory",
+      "authors": [
+        "Loïc Jézéquel",
+        "Jean Beaudet",
+        "Aymeric Histace",
+        "Ngoc-Son Vu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3663923",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3663923"
+    },
+    {
+      "id": "Liu_CRISP_Contrastive_Residual_Injection_and_Semantic_Prompting__TIP_2026_paper",
+      "title": "CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation",
+      "authors": [
+        "Baichen Liu",
+        "Qi Lyu",
+        "Xudong Wang",
+        "Jiahua Dong",
+        "Lianqing Liu",
+        "Zhi Han"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671625",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671625"
+    },
+    {
+      "id": "Yang_Overcoming_Dual_Incremental_Challenges_in_Continual_Person_S_TIP_2026_paper",
+      "title": "Overcoming Dual Incremental Challenges in Continual Person Search via Adapter and Prototype",
+      "authors": [
+        "Xi Yang",
+        "Hexun Zhou",
+        "De Cheng",
+        "Nannan Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671581",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671581"
+    },
+    {
+      "id": "Ma_Adapting_Domain_Aware_Knowledge_to_Vision_Language_Model_for_TIP_2026_paper",
+      "title": "Adapting Domain-Aware Knowledge to Vision-Language Model for Zero-Shot Anomaly Detection",
+      "authors": [
+        "Zeqi Ma",
+        "Xiaozhao Fang",
+        "Yue Huang",
+        "Jie Wen",
+        "Guoxu Zhou",
+        "Shengli Xie"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671665",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671665"
+    },
+    {
+      "id": "Lin_Downstream_Task_Inspired_Underwater_Image_Enhancement_A_Perc_TIP_2026_paper",
+      "title": "Downstream Task-Inspired Underwater Image Enhancement: A Perception-Aware Study From Dataset Construction to Network Design",
+      "authors": [
+        "Bosen Lin",
+        "Feng Gao",
+        "Yanwei Yu",
+        "Junyu Dong",
+        "Qian Du"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671595",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671595"
+    },
+    {
+      "id": "Li_UD_Gaussian_Uncertainty_Driven_Gaussian_Modeling_for_Occlude_TIP_2026_paper",
+      "title": "UD-Gaussian: Uncertainty-Driven Gaussian Modeling for Occluded Person Re-Identification",
+      "authors": [
+        "Yanping Li",
+        "Yizhang Liu",
+        "Hongyun Zhang",
+        "Cairong Zhao",
+        "Zhihua Wei",
+        "Duoqian Miao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3672380",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3672380"
+    },
+    {
+      "id": "Huang_Cross360_360_Monocular_Depth_Estimation_via_Cross_Projection_TIP_2026_paper",
+      "title": "Cross360: 360° Monocular Depth Estimation via Cross Projections Across Scales",
+      "authors": [
+        "Kun Huang",
+        "Fang-Lue Zhang",
+        "Neil Dodgson"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3659033",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3659033"
+    },
+    {
+      "id": "Qi_Active_Dataset_Distillation_via_Dual_Space_Informative_Match_TIP_2026_paper",
+      "title": "Active Dataset Distillation via Dual-Space Informative Matching",
+      "authors": [
+        "Ding Qi",
+        "Jian Li",
+        "Shuguang Dou",
+        "Junyao Gao",
+        "Yabiao Wang",
+        "Bo Zhao",
+        "Cairong Zhao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666748",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666748"
+    },
+    {
+      "id": "He_One_Step_Diffusion_Based_Super_Resolution_With_Time_Aware_Di_TIP_2026_paper",
+      "title": "One Step Diffusion-Based Super-Resolution With Time-Aware Distillation",
+      "authors": [
+        "Xiao He",
+        "Huaao Tang",
+        "Zhijun Tu",
+        "Junchao Zhang",
+        "Kun Cheng",
+        "Hanting Chen",
+        "Yong Guo",
+        "Mingrui Zhu",
+        "Jie Hu",
+        "Nannan Wang",
+        "Xinbo Gao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3672376",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3672376"
+    },
+    {
+      "id": "Ling_Identity_Compensated_Style_Distillation_for_Visible_Infrared_TIP_2026_paper",
+      "title": "Identity-Compensated Style Distillation for Visible-Infrared Person Re-Identification",
+      "authors": [
+        "Yongguo Ling",
+        "Zihao Hu",
+        "Nan Pu",
+        "Zhun Zhong",
+        "Xudong Jiang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3672369",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3672369"
+    },
+    {
+      "id": "Cai_SeMv_3D_Toward_Concurrency_of_Semantic_and_Multi_View_Consis_TIP_2026_paper",
+      "title": "SeMv-3D: Toward Concurrency of Semantic and Multi-View Consistency in General Text-to-3D Generation",
+      "authors": [
+        "Xiao Cai",
+        "Pengpeng Zeng",
+        "Lianli Gao",
+        "Sitong Su",
+        "Heng Tao Shen",
+        "Jingkuan Song"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671597",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671597"
+    },
+    {
+      "id": "Yuan_Discriminative_Generative_Positive_and_Unlabeled_Learning_TIP_2026_paper",
+      "title": "Discriminative-Generative Positive and Unlabeled Learning",
+      "authors": [
+        "Botai Yuan",
+        "Chen Gong",
+        "Dacheng Tao",
+        "Jie Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3672381",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3672381"
+    },
+    {
+      "id": "He_LTOFusion_A_Learning_to_Optimize_Framework_With_Flow_Matchin_TIP_2026_paper",
+      "title": "LTOFusion: A Learning-to-Optimize Framework With Flow Matching for Unsupervised Image Fusion",
+      "authors": [
+        "Dan He",
+        "Lijian Yang",
+        "Guofen Wang",
+        "Yuping Huang",
+        "Yucheng Shu",
+        "Weisheng Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671658",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671658"
+    },
+    {
+      "id": "Wei_Multi_Objective_Once_for_All_Neural_Architecture_Search_for__TIP_2026_paper",
+      "title": "Multi-Objective Once-for-All Neural Architecture Search for Medical Image Segmentation",
+      "authors": [
+        "Jiahong Wei",
+        "Bing Xue",
+        "Mengjie Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671022",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671022"
+    },
+    {
+      "id": "Lei_DACESR_Degradation_Aware_Conditional_Embedding_for_Real_Worl_TIP_2026_paper",
+      "title": "DACESR: Degradation-Aware Conditional Embedding for Real-World Image Super-Resolution",
+      "authors": [
+        "Xiaoyan Lei",
+        "Wenlong Zhang",
+        "Biao Luo",
+        "Hui Liang",
+        "Weifeng Cao",
+        "Qiuting Lin"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671639",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671639"
+    },
+    {
+      "id": "Yang_Heterogeneous_Federated_Dynamic_Graph_HyperNetwork_for_Image_TIP_2026_paper",
+      "title": "Heterogeneous Federated Dynamic Graph HyperNetwork for Image Classification",
+      "authors": [
+        "Liu Yang",
+        "Kegen Chen",
+        "Qilong Wang",
+        "Zhengyi Xu",
+        "Shiqiao Gu",
+        "Qinghua Hu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3672375",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3672375"
+    },
+    {
+      "id": "Yang_Prompt_Driven_Knowledge_Distillation_for_Remote_Sensing_Obje_TIP_2026_paper",
+      "title": "Prompt-Driven Knowledge Distillation for Remote Sensing Object Detection",
+      "authors": [
+        "Xi Yang",
+        "Hui Zhang",
+        "Sheng Zhang",
+        "Nannan Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671649",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671649"
+    },
+    {
+      "id": "Li_NRSeg_Noise_Resilient_Learning_for_BEV_Semantic_Segmentation_TIP_2026_paper",
+      "title": "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models",
+      "authors": [
+        "Siyu Li",
+        "Fei Teng",
+        "Yihong Cao",
+        "Kailun Yang",
+        "Zhiyong Li",
+        "Yaonan Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671686",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671686"
+    },
+    {
+      "id": "Pan_MCIB_Multi_Modal_Complementary_Information_Bottleneck_for_Hy_TIP_2026_paper",
+      "title": "MCIB: Multi-Modal Complementary Information Bottleneck for Hyperspectral and LiDAR Classification",
+      "authors": [
+        "Xiao Pan",
+        "Hao Zhu",
+        "Bo Yang",
+        "Changzhe Jiao",
+        "Jie Feng",
+        "Jinjian Wu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673954",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673954"
+    },
+    {
+      "id": "Lin_Underdetermined_Blind_Source_Separation_via_Weighted_Simplex_TIP_2026_paper",
+      "title": "Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior",
+      "authors": [
+        "Chia-Hsiang Lin",
+        "Si-Sheng Young"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673957",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673957"
+    },
+    {
+      "id": "Tu_SPAgent_Adaptive_Task_Decomposition_and_Model_Selection_for__TIP_2026_paper",
+      "title": "SPAgent: Adaptive Task Decomposition and Model Selection for General Video Generation and Editing",
+      "authors": [
+        "Rong-Cheng Tu",
+        "Wenhao Sun",
+        "Zhao Jin",
+        "Jingyi Liao",
+        "Jiaxing Huang",
+        "Dacheng Tao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673949",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673949"
+    },
+    {
+      "id": "Guo_DCL_Dynamic_Causal_Learning_for_Cross_Modality_Cardiac_Image_TIP_2026_paper",
+      "title": "DCL: Dynamic Causal Learning for Cross-Modality Cardiac Image Segmentation",
+      "authors": [
+        "Saidi Guo",
+        "Xinlong Liu",
+        "Qixin Lin",
+        "Weijie Cai",
+        "Guohua Zhao",
+        "Mingyi Wu",
+        "Qiujie Lv",
+        "Laurence T. Yang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673293",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673293"
+    },
+    {
+      "id": "Wei_View_Adaptive_Multi_Granularity_Anchor_Learning_for_Multi_Vi_TIP_2026_paper",
+      "title": "View-Adaptive Multi-Granularity Anchor Learning for Multi-View Clustering",
+      "authors": [
+        "Xiaohui Wei",
+        "Yuting Chen",
+        "Feiping Nie",
+        "Haibo Liu",
+        "Qiya Song",
+        "Lin Xiao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3674007",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3674007"
+    },
+    {
+      "id": "Wei_IAMAgent_Toward_an_Interactive_and_Adaptive_Multi_Agent_Syst_TIP_2026_paper",
+      "title": "IAMAgent: Toward an Interactive and Adaptive Multi-Agent System for Image Restoration",
+      "authors": [
+        "Yanyan Wei",
+        "Yilin Zhang",
+        "Huan Zheng",
+        "Jiahuan Ren",
+        "Xiaogang Xu",
+        "Zenglin Shi",
+        "Zhao Zhang",
+        "Meng Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671594",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671594"
+    },
+    {
+      "id": "Ding_Causality_Based_Modality_and_Platform_Invariant_Representati_TIP_2026_paper",
+      "title": "Causality-Based Modality- and Platform-Invariant Representation Learning for Dynamic RGBT Tracking and a Benchmark",
+      "authors": [
+        "Zhaodong Ding",
+        "Chenglong Li",
+        "Shengqing Miao",
+        "Jin Tang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3674367",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3674367"
+    },
+    {
+      "id": "Feng_Second_Order_Robust_Iterative_Pose_Optimization_for_Fine_Gra_TIP_2026_paper",
+      "title": "Second-Order Robust Iterative Pose Optimization for Fine-Grained Cross-View Localization",
+      "authors": [
+        "Mingtao Feng",
+        "Xin Li",
+        "Jianqiao Luo",
+        "Weisheng Dong",
+        "Yaonan Wang",
+        "Ajmal Mian"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673969",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673969"
+    },
+    {
+      "id": "Wu_Dark_EvGS_Event_Camera_as_an_Eye_for_Radiance_Field_in_the_D_TIP_2026_paper",
+      "title": "Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark",
+      "authors": [
+        "Jingqian Wu",
+        "Peiqi Duan",
+        "Zongqiang Wang",
+        "Changwei Wang",
+        "Boxin Shi",
+        "Edmund Y. Lam"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3674360",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3674360"
+    },
+    {
+      "id": "Xu_Diff_MEF_Cross_Modal_Diffusion_Framework_With_Text_Prompts_a_TIP_2026_paper",
+      "title": "Diff-MEF: Cross-Modal Diffusion Framework With Text Prompts and Semantic Perception for Multi-Exposure Image Fusion",
+      "authors": [
+        "Han Xu",
+        "Yunfei Huang",
+        "Linfeng Tang",
+        "Jiayi Ma",
+        "Guangcan Liu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3674682",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3674682"
+    },
+    {
+      "id": "Wang_Symmetric_Image_Text_Tuning_With_Entropy_Guided_Fusion_for_O_TIP_2026_paper",
+      "title": "Symmetric Image-Text Tuning With Entropy-Guided Fusion for Online Continual Learning in Non-Stationary Visual Streams",
+      "authors": [
+        "Leyuan Wang",
+        "Liuyu Xiang",
+        "Yujie Wei",
+        "Yiwei Ru",
+        "Yunlong Wang",
+        "Zhaofeng He"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671694",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671694"
+    },
+    {
+      "id": "Jing_DAMind_Zero_Shot_Visual_Cross_Domain_Alignment_and_Represent_TIP_2026_paper",
+      "title": "DAMind: Zero-Shot Visual Cross-Domain Alignment and Representation for EEG Decoding",
+      "authors": [
+        "Haodong Jing",
+        "Yongqiang Ma",
+        "Panqi Yang",
+        "Haoyu Li",
+        "Shuai Huang",
+        "Badong Chen",
+        "Nanning Zheng"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3666730",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3666730"
+    },
+    {
+      "id": "Zeng_Decoupling_Target_Semantics_via_Text_Anchored_Visual_Contras_TIP_2026_paper",
+      "title": "Decoupling Target Semantics via Text-Anchored Visual Contrast for Semi-Supervised Medical Image Segmentation",
+      "authors": [
+        "Qingjie Zeng",
+        "Huan Luo",
+        "Xinke Ma",
+        "Zilin Lu",
+        "Yang Hu",
+        "Mengkang Lu",
+        "Yanning Zhang",
+        "Yong Xia"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3674365",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3674365"
+    },
+    {
+      "id": "Dong_Taking_Astray_Domain_Back_Home_for_Single_Source_Domain_Gene_TIP_2026_paper",
+      "title": "Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval",
+      "authors": [
+        "Guan-Nan Dong",
+        "Yumeng Yang",
+        "Zijie Wang",
+        "Aichun Zhu",
+        "Hao Wang",
+        "Yuanfei Dai",
+        "Tian Wang",
+        "Hichem Snoussi"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3671582",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3671582"
+    },
+    {
+      "id": "Yin_DepMatch_Boosting_Semi_Supervised_Semantic_Segmentation_by_E_TIP_2026_paper",
+      "title": "DepMatch: Boosting Semi-Supervised Semantic Segmentation by Exploring Depth Difference Knowledge",
+      "authors": [
+        "Jianjian Yin",
+        "Xiruo Jiang",
+        "Tao Chen",
+        "Gensheng Pei",
+        "Yazhou Yao",
+        "Fumin Shen",
+        "Heng Tao Shen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3675487",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3675487"
+    },
+    {
+      "id": "Ruan_Toward_a_Completely_Blind_Attacker_for_No_Reference_Image_Qu_TIP_2026_paper",
+      "title": "Toward a Completely Blind Attacker for No-Reference Image Quality Assessment Models",
+      "authors": [
+        "Xinyu Ruan",
+        "Hangwei Chen",
+        "Chao Huang",
+        "Wenqi Ren",
+        "Qiuping Jiang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673961",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673961"
+    },
+    {
+      "id": "Wang_Expose_Camouflage_in_the_Water_Underwater_Camouflaged_Instan_TIP_2026_paper",
+      "title": "Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset",
+      "authors": [
+        "Chuhong Wang",
+        "Hua Li",
+        "Chongyi Li",
+        "Huazhong Liu",
+        "Xiongxin Tang",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3675502",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3675502"
+    },
+    {
+      "id": "Shi_Pseudo_Text_Guided_Robust_Learning_for_Noisy_Correspondence__TIP_2026_paper",
+      "title": "Pseudo-Text Guided Robust Learning for Noisy Correspondence in Cross-Modal Retrieval",
+      "authors": [
+        "Dan Shi",
+        "Zechao Li",
+        "Lei Zhu",
+        "Jinhui Tang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3675497",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3675497"
+    },
+    {
+      "id": "Zhang_HFP_SAM_Hierarchical_Frequency_Prompted_SAM_for_Efficient_Ma_TIP_2026_paper",
+      "title": "HFP-SAM: Hierarchical Frequency Prompted SAM for Efficient Marine Animal Segmentation",
+      "authors": [
+        "Pingping Zhang",
+        "Tianyu Yan",
+        "Yuhao Wang",
+        "Yang Liu",
+        "Tongdan Tang",
+        "Yili Ma",
+        "Long Lv",
+        "Feng Tian",
+        "Weibing Sun",
+        "Huchuan Lu"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3674678",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3674678"
+    },
+    {
+      "id": "Hu_MotionPrior_Exploring_Efficient_Learning_of_Motion_Concepts__TIP_2026_paper",
+      "title": "MotionPrior: Exploring Efficient Learning of Motion Concepts for Few-Shot Video Generation",
+      "authors": [
+        "Yaosi Hu",
+        "Chang Wen Chen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3672374",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3672374"
+    },
+    {
+      "id": "Yang_POSITION_Open_World_3D_Scene_CAD_Recomposition_TIP_2026_paper",
+      "title": "POSITION: Open World 3D Scene CAD Recomposition",
+      "authors": [
+        "Rongkun Yang",
+        "Hongda Liu",
+        "Yijun Chen",
+        "Sheng Ao",
+        "Yongjian Zhang",
+        "Longguang Wang",
+        "Kaiwen Xue",
+        "Shunbo Zhou",
+        "Yulan Guo"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3676289",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3676289"
+    },
+    {
+      "id": "Zhong_High_Fidelity_and_Lip_Synced_Talking_Face_Synthesis_via_Land_TIP_2026_paper",
+      "title": "High-Fidelity and Lip-Synced Talking Face Synthesis via Landmark-Based Diffusion Model",
+      "authors": [
+        "Weizhi Zhong",
+        "Junfan Lin",
+        "Peixin Chen",
+        "Feng Gao",
+        "Liang Lin",
+        "Guanbin Li"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3676251",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3676251"
+    },
+    {
+      "id": "Xing_Less_Is_More_Infrared_and_Visible_Images_Fusion_via_Semantic_TIP_2026_paper",
+      "title": "Less Is More: Infrared and Visible Images Fusion via Semantic-Guided Mixture of Multi-Feature Experts",
+      "authors": [
+        "Yinghui Xing",
+        "Zhilong Niu",
+        "Shuo Yang",
+        "Shizhou Zhang",
+        "Yanning Zhang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3675500",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3675500"
+    },
+    {
+      "id": "Gao_Toward_Generalizable_Forgery_Detection_and_Reasoning_TIP_2026_paper",
+      "title": "Toward Generalizable Forgery Detection and Reasoning",
+      "authors": [
+        "Yueying Gao",
+        "Dongliang Chang",
+        "Bingyao Yu",
+        "Haotian Qin",
+        "Muxi Diao",
+        "Lei Chen",
+        "Kongming Liang",
+        "Zhanyu Ma"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673967",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673967"
+    },
+    {
+      "id": "Su_Com_PCQA_No_Reference_Point_Cloud_Quality_Assessment_via_Com_TIP_2026_paper",
+      "title": "Com-PCQA: No-Reference Point Cloud Quality Assessment via Complex-Valued Feature Learning",
+      "authors": [
+        "Jingxuan Su",
+        "Ge Li",
+        "Shunzhou Wang",
+        "Honglei Su",
+        "Weisi Lin",
+        "Wei Gao"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3676290",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3676290"
+    },
+    {
+      "id": "John_Extending_the_Field_of_View_in_Modulation_Based_X_Ray_Phase__TIP_2026_paper",
+      "title": "Extending the Field of View in Modulation-Based X-Ray Phase Microtomography",
+      "authors": [
+        "Dominik John",
+        "Junan Chen",
+        "Christoph Gaßner",
+        "Sara Savatovic",
+        "Lisa Marie Petzold",
+        "Sami Wirtensohn",
+        "Mirko Riedel",
+        "Jörg U. Hammel",
+        "Julian Moosmann",
+        "Felix Beckmann",
+        "Matthias Wieczorek",
+        "Julia Herzen"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3676631",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3676631"
+    },
+    {
+      "id": "Wang_All_in_One_Image_Restoration_via_Causal_Deconfounding_Wavele_TIP_2026_paper",
+      "title": "All-in-One Image Restoration via Causal-Deconfounding Wavelet-Disentangled Prompt Network",
+      "authors": [
+        "Bingnan Wang",
+        "Bin Qin",
+        "Jiangmeng Li",
+        "Fanjiang Xu",
+        "Fuchun Sun",
+        "Hui Xiong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3675478",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3675478"
+    },
+    {
+      "id": "Li_Spatial_Temporal_Scene_Graph_Generation_for_Open_Vocabulary__TIP_2026_paper",
+      "title": "Spatial-Temporal Scene Graph Generation for Open-Vocabulary Multiple Object Tracking",
+      "authors": [
+        "Guangyao Li",
+        "Siping Zhuang",
+        "Yajun Jian",
+        "Yan Yan",
+        "Hanzi Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3676899",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3676899"
+    },
+    {
+      "id": "Zhang_Rate_Reconfigurable_Deep_Point_Cloud_Compression_With_Percep_TIP_2026_paper",
+      "title": "Rate-Reconfigurable Deep Point Cloud Compression With Perceptual Bit Allocation Optimization",
+      "authors": [
+        "Yun Zhang",
+        "Lewen Fan",
+        "Zixi Guo",
+        "Xu Wang",
+        "Xiaoxia Huang",
+        "Sam Kwong"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3676604",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3676604"
+    },
+    {
+      "id": "Shen_Unfolding_High_Order_Correlations_for_Interpretable_Multi_Co_TIP_2026_paper",
+      "title": "Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution",
+      "authors": [
+        "Qiangqiang Shen",
+        "Xuanqi Zhang",
+        "Peilin Chen",
+        "Zhiwei Zhong",
+        "Howard Leung",
+        "Shiqi Wang"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3673935",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3673935"
+    },
+    {
+      "id": "Yuan_Multi_Granularity_Facial_Emotional_Representation_With_Unlab_TIP_2026_paper",
+      "title": "Multi-Granularity Facial Emotional Representation With Unlabeled Data and Textual Supervision",
+      "authors": [
+        "Kaishen Yuan",
+        "Zitong Yu",
+        "Xin Liu",
+        "Bohao Xing",
+        "Yuting Zhang",
+        "Weicheng Xie",
+        "Linlin Shen",
+        "Björn W. Schuller"
+      ],
+      "year": "2026",
+      "venue": "tip",
+      "url": "https://doi.org/10.1109/TIP.2026.3675883",
+      "pdfUrl": "https://doi.org/10.1109/TIP.2026.3675883"
+    }
+  ]
+}
